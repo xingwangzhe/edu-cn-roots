@@ -1,0 +1,32 @@
+{
+  "root_domain": "wxic.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuxi Institute of Commerce",
+  "org_cn": null,
+  "domain_name": "WXIC.EDU.CN",
+  "network_name": "WXIC-CN",
+  "admin_contact": "Minfeng Chen (MC24-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.wxic.edu.cn",
+      "ip": "58.193.112.1"
+    },
+    {
+      "host": "dns2.wxic.edu.cn",
+      "ip": "58.193.112.2"
+    },
+    {
+      "host": "dns3.wxic.edu.cn",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "dns4.wxic.edu.cn",
+      "ip": "202.112.23.101"
+    }
+  ],
+  "address": [
+    "wuxi, JS 214153",
+    "China"
+  ],
+  "raw_note": null
+}

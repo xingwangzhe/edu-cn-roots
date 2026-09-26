@@ -1,0 +1,24 @@
+{
+  "root_domain": "mnnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Minnan Normal University",
+  "org_cn": null,
+  "domain_name": "MNNU.EDU.CN",
+  "network_name": "FJZS-CN",
+  "admin_contact": "Jinbao Ma (JM1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.mnnu.edu.cn",
+      "ip": "211.80.176.12"
+    },
+    {
+      "host": "dns2.mnnu.edu.cn",
+      "ip": "211.80.176.13"
+    }
+  ],
+  "address": [
+    "Zhangzhou, FJ 363000",
+    "China"
+  ],
+  "raw_note": null
+}

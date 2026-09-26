@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinjiang Vocational University",
+  "org_cn": null,
+  "domain_name": "XJVU.EDU.CN",
+  "network_name": "XJVU-CN",
+  "admin_contact": "WenYan Nie (WN7-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Urumqi, XJ 830000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Normal University",
+  "org_cn": null,
+  "domain_name": "SDNU.EDU.CN",
+  "network_name": "SDNU-CN",
+  "admin_contact": "Zhaozhong Yuan (ZY79-CER)",
+  "nameservers": [
+    {
+      "host": "SHIHUN.SDNU.EDU.CN",
+      "ip": "210.44.8.17"
+    },
+    {
+      "host": "SHICONG.SDNU.EDU.CN",
+      "ip": "210.44.8.18"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250014",
+    "China"
+  ],
+  "raw_note": null
+}

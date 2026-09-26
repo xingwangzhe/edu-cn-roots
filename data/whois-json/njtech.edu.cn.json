@@ -1,0 +1,28 @@
+{
+  "root_domain": "njtech.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Tech University",
+  "org_cn": null,
+  "domain_name": "NJTECH.EDU.CN",
+  "network_name": "NJUCT-CN",
+  "admin_contact": "Ting Li (TL19-CER)",
+  "nameservers": [
+    {
+      "host": "dns.njtech.edu.cn",
+      "ip": "202.119.248.64"
+    },
+    {
+      "host": "dns2.njtech.edu.cn",
+      "ip": "58.213.118.132"
+    },
+    {
+      "host": "dns3.njtech.edu.cn",
+      "ip": "202.119.248.65"
+    }
+  ],
+  "address": [
+    "Nan, JS 210009",
+    "China"
+  ],
+  "raw_note": null
+}

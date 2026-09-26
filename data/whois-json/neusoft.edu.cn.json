@@ -1,0 +1,24 @@
+{
+  "root_domain": "neusoft.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian Neusoft University of information",
+  "org_cn": null,
+  "domain_name": "NEUSOFT.EDU.CN",
+  "network_name": "NEUSOFT-CN",
+  "admin_contact": "Zou Xiang (ZX13-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.neusoft.edu.cn",
+      "ip": "219.216.128.5"
+    },
+    {
+      "host": "dns2.neusoft.edu.cn",
+      "ip": "219.216.128.6"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116023",
+    "China"
+  ],
+  "raw_note": null
+}

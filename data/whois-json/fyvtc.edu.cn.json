@@ -1,0 +1,24 @@
+{
+  "root_domain": "fyvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Fuyang Vocational And Technial College",
+  "org_cn": null,
+  "domain_name": "FYVTC.EDU.CN",
+  "network_name": "FYVTC-CN",
+  "admin_contact": "HongFei Gu (HG2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fyvtc.edu.cn",
+      "ip": "42.247.3.106"
+    },
+    {
+      "host": "dns2.fyvtc.edu.cn",
+      "ip": "42.247.3.107"
+    }
+  ],
+  "address": [
+    "阜阳, AH 236031",
+    "China"
+  ],
+  "raw_note": null
+}

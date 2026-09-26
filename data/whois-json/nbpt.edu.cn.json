@@ -1,0 +1,24 @@
+{
+  "root_domain": "nbpt.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningbo Polytechnic",
+  "org_cn": null,
+  "domain_name": "NBPT.EDU.CN",
+  "network_name": "NBZY-CN",
+  "admin_contact": "Zhe He (ZH78-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nbpt.edu.cn",
+      "ip": "121.192.32.100"
+    },
+    {
+      "host": "dns2.nbpt.edu.cn",
+      "ip": "61.164.87.184"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315800",
+    "China"
+  ],
+  "raw_note": null
+}

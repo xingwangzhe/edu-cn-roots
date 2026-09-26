@@ -1,0 +1,28 @@
+{
+  "root_domain": "hzpt.edu.cn",
+  "type": "full_record",
+  "org_en": "Hangzhou Radio and TV University",
+  "org_cn": null,
+  "domain_name": "HZPT.EDU.CN",
+  "network_name": "HZRTV-CN",
+  "admin_contact": "Zhenzhong Zhao (ZZ116-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HZRTVU.EDU.CN",
+      "ip": "210.32.48.1"
+    },
+    {
+      "host": "SDNS.HZRTVU.EDU.CN",
+      "ip": "115.231.102.20"
+    },
+    {
+      "host": "mdns.hzrtvu.edu.cn",
+      "ip": "39.174.86.20"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310012",
+    "China"
+  ],
+  "raw_note": null
+}

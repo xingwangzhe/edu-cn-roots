@@ -1,0 +1,28 @@
+{
+  "root_domain": "nustti.edu.cn",
+  "type": "full_record",
+  "org_en": "TaiZhou Institute of Sci&Tech.,NUST.",
+  "org_cn": null,
+  "domain_name": "NUSTTI.EDU.CN",
+  "network_name": "TZST-CN",
+  "admin_contact": "Liangchu Jiu (LJ19-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NUSTTI.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.NUSTTI.EDU.CN",
+      "ip": "202.112.23.101"
+    },
+    {
+      "host": "DNS3.NUSTTI.EDU.CN",
+      "ip": "2001:Da8:1000::1"
+    }
+  ],
+  "address": [
+    "TaiZhou, JS 225300",
+    "China"
+  ],
+  "raw_note": null
+}

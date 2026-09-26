@@ -1,0 +1,24 @@
+{
+  "root_domain": "niit.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Vocational University of Industry Technology",
+  "org_cn": null,
+  "domain_name": "NIIT.EDU.CN",
+  "network_name": "NJCMEE-CN",
+  "admin_contact": "Changwu Liao (CL78-AP)",
+  "nameservers": [
+    {
+      "host": "JDXX.NIIT.EDU.CN",
+      "ip": "210.28.96.10"
+    },
+    {
+      "host": "JDXY.NIIT.EDU.CN",
+      "ip": "210.28.96.11"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210016",
+    "China"
+  ],
+  "raw_note": null
+}

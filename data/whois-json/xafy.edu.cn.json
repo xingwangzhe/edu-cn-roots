@@ -1,0 +1,24 @@
+{
+  "root_domain": "xafy.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Fanyi University",
+  "org_cn": null,
+  "domain_name": "XAFY.EDU.CN",
+  "network_name": "XAFYU-CN",
+  "admin_contact": "HanZhang Ma (HM10-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xafy.edu.cn",
+      "ip": "59.75.8.200"
+    },
+    {
+      "host": "dns1.xafy.edu.cn",
+      "ip": "61.185.224.139"
+    }
+  ],
+  "address": [
+    "Xian, SN 710105",
+    "China"
+  ],
+  "raw_note": null
+}

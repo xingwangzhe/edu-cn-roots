@@ -1,0 +1,24 @@
+{
+  "root_domain": "shzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shihezi University",
+  "org_cn": null,
+  "domain_name": "SHZU.EDU.CN",
+  "network_name": "XJSHZU-CN",
+  "admin_contact": "Shuping Zhou (SZ36-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.shzu.edu.cn",
+      "ip": "202.201.160.8"
+    },
+    {
+      "host": "dns2.shzu.edu.cn",
+      "ip": "202.201.160.88"
+    }
+  ],
+  "address": [
+    "ShiHeZi, XJ 832003",
+    "China"
+  ],
+  "raw_note": null
+}

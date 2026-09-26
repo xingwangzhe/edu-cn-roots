@@ -1,0 +1,32 @@
+{
+  "root_domain": "zcmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Chinese Medical University",
+  "org_cn": null,
+  "domain_name": "ZCMU.EDU.CN",
+  "network_name": "ZJCTCM-CN",
+  "admin_contact": "Wensheng Li (WL38-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zcmu.edu.cn",
+      "ip": "210.32.16.253"
+    },
+    {
+      "host": "dns2.zcmu.edu.cn",
+      "ip": "218.75.108.206"
+    },
+    {
+      "host": "dns3.zcmu.edu.cn",
+      "ip": "61.175.195.126"
+    },
+    {
+      "host": "dns4.zcmu.edu.cn",
+      "ip": "61.175.198.190"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310053",
+    "China"
+  ],
+  "raw_note": null
+}

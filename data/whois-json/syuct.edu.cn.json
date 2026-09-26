@@ -1,0 +1,28 @@
+{
+  "root_domain": "syuct.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang University of Chemical Technology",
+  "org_cn": null,
+  "domain_name": "SYUCT.EDU.CN",
+  "network_name": "SYICT-CN",
+  "admin_contact": "Liangang Cao (LC43-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.syuct.edu.cn",
+      "ip": "202.199.112.5"
+    },
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110142",
+    "China"
+  ],
+  "raw_note": null
+}

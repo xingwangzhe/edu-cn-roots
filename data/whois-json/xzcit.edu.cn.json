@@ -1,0 +1,28 @@
+{
+  "root_domain": "xzcit.edu.cn",
+  "type": "full_record",
+  "org_en": "XuZhou College Industrial Technology",
+  "org_cn": null,
+  "domain_name": "XZCIT.EDU.CN",
+  "network_name": "XZCIT-CN",
+  "admin_contact": "Wanxiang Jin (WJ5-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xzcit.edu.cn",
+      "ip": "58.192.240.5"
+    },
+    {
+      "host": "dns2.xzcit.edu.cn",
+      "ip": "2001:250:5022::7"
+    },
+    {
+      "host": "dns3.xzcit.edu.cn",
+      "ip": "218.3.172.114"
+    }
+  ],
+  "address": [
+    "XuZhou, JS 221006",
+    "China"
+  ],
+  "raw_note": null
+}

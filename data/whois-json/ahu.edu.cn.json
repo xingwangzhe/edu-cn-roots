@@ -1,0 +1,28 @@
+{
+  "root_domain": "ahu.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui University",
+  "org_cn": null,
+  "domain_name": "AHU.EDU.CN",
+  "network_name": "AHU-CN",
+  "admin_contact": "Shifeng Lou (SL7-CN)",
+  "nameservers": [
+    {
+      "host": "MARS.AHU.EDU.CN",
+      "ip": "210.45.208.1"
+    },
+    {
+      "host": "MERCURY1.AHU.EDU.CN",
+      "ip": "210.45.208.2"
+    },
+    {
+      "host": "MERCURY2.AHU.EDU.CN",
+      "ip": "36.7.131.10"
+    }
+  ],
+  "address": [
+    "Hefei, AH 220039",
+    "China"
+  ],
+  "raw_note": null
+}

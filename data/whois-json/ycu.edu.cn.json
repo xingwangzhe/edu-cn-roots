@@ -1,0 +1,24 @@
+{
+  "root_domain": "ycu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yuncheng University",
+  "org_cn": null,
+  "domain_name": "YCU.EDU.CN",
+  "network_name": "YCATC-CN",
+  "admin_contact": "Zhaoxia Meng (ZM6-CER)",
+  "nameservers": [
+    {
+      "host": "dns.ycu.edu.cn",
+      "ip": "202.207.232.3"
+    },
+    {
+      "host": "dns1.ycu.edu.cn",
+      "ip": "202.207.232.5"
+    }
+  ],
+  "address": [
+    "Yuncheng, SX 044000",
+    "China"
+  ],
+  "raw_note": null
+}

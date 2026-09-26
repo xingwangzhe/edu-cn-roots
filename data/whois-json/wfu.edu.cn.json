@@ -1,0 +1,24 @@
+{
+  "root_domain": "wfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Weifang University",
+  "org_cn": null,
+  "domain_name": "WFU.EDU.CN",
+  "network_name": "WFU-CN",
+  "admin_contact": "Zhisheng Liu (ZL9-AP)",
+  "nameservers": [
+    {
+      "host": "kite.wfu.edu.cn",
+      "ip": "210.44.64.66"
+    },
+    {
+      "host": "KITE1.WFU.EDU.CN",
+      "ip": "210.44.64.67"
+    }
+  ],
+  "address": [
+    "Weifang, SD 261041",
+    "China"
+  ],
+  "raw_note": null
+}

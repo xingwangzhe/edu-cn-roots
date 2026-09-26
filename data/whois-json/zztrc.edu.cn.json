@@ -1,0 +1,24 @@
+{
+  "root_domain": "zztrc.edu.cn",
+  "type": "full_record",
+  "org_en": "ZhengZhou TouRism College",
+  "org_cn": null,
+  "domain_name": "ZZTRC.EDU.CN",
+  "network_name": "ZZTRC-CN",
+  "admin_contact": "Qin Zhang (QZ31-CER)",
+  "nameservers": [
+    {
+      "host": "dns.ZZTRC.edu.cn",
+      "ip": "122.206.80.8"
+    },
+    {
+      "host": "dns2.ZZTRC.edu.cn",
+      "ip": "218.28.179.227"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450009",
+    "China"
+  ],
+  "raw_note": null
+}

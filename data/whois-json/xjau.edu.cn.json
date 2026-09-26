@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjau.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinjiang Agriculture University",
+  "org_cn": null,
+  "domain_name": "XJAU.EDU.CN",
+  "network_name": "XJAU-CN",
+  "admin_contact": "Xinmin Da (XD19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xjau.edu.cn",
+      "ip": "202.201.224.1"
+    },
+    {
+      "host": "dns2.xjau.edu.cn",
+      "ip": "202.201.224.2"
+    }
+  ],
+  "address": [
+    "Urmqi, XJ 830052",
+    "China"
+  ],
+  "raw_note": null
+}

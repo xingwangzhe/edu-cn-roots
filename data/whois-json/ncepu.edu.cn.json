@@ -1,0 +1,28 @@
+{
+  "root_domain": "ncepu.edu.cn",
+  "type": "full_record",
+  "org_en": "North China Electric Power University",
+  "org_cn": null,
+  "domain_name": "NCEPU.EDU.CN",
+  "network_name": "NCEPUBJ-CN",
+  "admin_contact": "XuFei Zhu (XZ136-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.NCEPU.EDU.CN",
+      "ip": "202.204.65.244"
+    },
+    {
+      "host": "NS2.NCEPU.EDU.CN",
+      "ip": "47.114.179.12"
+    },
+    {
+      "host": "NS6.NCEPU.EDU.CN",
+      "ip": "8.134.138.15"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102206",
+    "China"
+  ],
+  "raw_note": null
+}

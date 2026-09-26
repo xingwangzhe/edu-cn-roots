@@ -1,0 +1,24 @@
+{
+  "root_domain": "sziit.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenzhen University of Information Technology",
+  "org_cn": null,
+  "domain_name": "SZIIT.EDU.CN",
+  "network_name": "SZIIT-CN",
+  "admin_contact": "Xiaohua Sun (XS14-CER)",
+  "nameservers": [
+    {
+      "host": "sunshine.sz.edu.cn",
+      "ip": "218.192.240.2"
+    },
+    {
+      "host": "moonlight.sz.edu.cn",
+      "ip": "218.192.240.3"
+    }
+  ],
+  "address": [
+    "ShenZhen, GD 518029",
+    "China"
+  ],
+  "raw_note": null
+}

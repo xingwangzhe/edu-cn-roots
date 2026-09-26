@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjie.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinjiang Institute of Engineering",
+  "org_cn": null,
+  "domain_name": "XJIE.EDU.CN",
+  "network_name": "XJGYGZ-CN",
+  "admin_contact": "Haiying Hu (HH91-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Urumqi, XJ 830023",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sxpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi Police College",
+  "org_cn": null,
+  "domain_name": "SXPC.EDU.CN",
+  "network_name": "SXPU-CN",
+  "admin_contact": "Min Cao (MC18-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.sxpc.edu.cn",
+      "ip": "222.31.20.200"
+    },
+    {
+      "host": "ns2.sxpc.edu.cn",
+      "ip": "222.31.20.201"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030021",
+    "China"
+  ],
+  "raw_note": null
+}

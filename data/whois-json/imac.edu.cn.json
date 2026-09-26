@@ -1,0 +1,24 @@
+{
+  "root_domain": "imac.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia Art College",
+  "org_cn": null,
+  "domain_name": "IMAC.EDU.CN",
+  "network_name": "IMAC-CN",
+  "admin_contact": "Jiandong Yao (JY15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.IMAC.EDU.CN",
+      "ip": "211.82.136.6"
+    },
+    {
+      "host": "DNS1.IMAC.EDU.CN",
+      "ip": "211.82.136.7"
+    }
+  ],
+  "address": [
+    "Huhhot, NM 010010",
+    "China"
+  ],
+  "raw_note": null
+}

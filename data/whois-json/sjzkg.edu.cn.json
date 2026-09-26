@@ -1,0 +1,24 @@
+{
+  "root_domain": "sjzkg.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhengding Advanced Normal College of Hebei",
+  "org_cn": null,
+  "domain_name": "SJZKG.EDU.CN",
+  "network_name": "SKGY-CN",
+  "admin_contact": "Hongguang Li (HL80-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sjzkg.edu.cn",
+      "ip": "121.193.221.2"
+    },
+    {
+      "host": "dns2.sjzkg.edu.cn",
+      "ip": "121.193.221.3"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050800",
+    "China"
+  ],
+  "raw_note": null
+}

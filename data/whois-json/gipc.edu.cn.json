@@ -1,0 +1,24 @@
+{
+  "root_domain": "gipc.edu.cn",
+  "type": "full_record",
+  "org_en": "Gansu Vocational University of Industry Technology",
+  "org_cn": null,
+  "domain_name": "GIPC.EDU.CN",
+  "network_name": "GSIPC-CN",
+  "admin_contact": "Hongcai Lu (HL131-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.gipc.edu.cn",
+      "ip": "42.247.40.60"
+    },
+    {
+      "host": "ns2.gipc.edu.cn",
+      "ip": "42.247.40.62"
+    }
+  ],
+  "address": [
+    "Tianshui, GS 737100",
+    "China"
+  ],
+  "raw_note": null
+}

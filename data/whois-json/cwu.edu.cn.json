@@ -1,0 +1,24 @@
+{
+  "root_domain": "cwu.edu.cn",
+  "type": "full_record",
+  "org_en": "China Women's University",
+  "org_cn": null,
+  "domain_name": "CWU.EDU.CN",
+  "network_name": "CWC-CN",
+  "admin_contact": "Chenguang Yao (CY36-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cwu.edu.cn",
+      "ip": "219.242.28.136"
+    },
+    {
+      "host": "dns1.cwu.edu.cn",
+      "ip": "114.247.92.136"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100101",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "siso.edu.cn",
+  "type": "full_record",
+  "org_en": "Suzhou Industrial Park Institute Of Services Outsourcing",
+  "org_cn": null,
+  "domain_name": "SISO.EDU.CN",
+  "network_name": "SISO-CN",
+  "admin_contact": "Huang Shu (HS16-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.siso.edu.cn",
+      "ip": "42.247.18.2"
+    },
+    {
+      "host": "dns2.siso.edu.cn",
+      "ip": "42.247.18.3"
+    }
+  ],
+  "address": [
+    "Suzhou, JS 215123",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "xxmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinxiang Medical College",
+  "org_cn": null,
+  "domain_name": "XXMU.EDU.CN",
+  "network_name": "XXMC-CN",
+  "admin_contact": "Ting Pang (TP3-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.XXMU.EDU.CN",
+      "ip": "202.196.208.18"
+    },
+    {
+      "host": "DNS2.XXMU.EDU.CN",
+      "ip": "202.196.223.68"
+    },
+    {
+      "host": "DNS3.XXMU.EDU.CN",
+      "ip": "218.29.60.94"
+    }
+  ],
+  "address": [
+    "Xinxiang, HA 453003",
+    "China"
+  ],
+  "raw_note": null
+}

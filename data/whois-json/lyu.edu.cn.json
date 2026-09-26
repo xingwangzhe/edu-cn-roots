@@ -1,0 +1,24 @@
+{
+  "root_domain": "lyu.edu.cn",
+  "type": "full_record",
+  "org_en": "Linyi University",
+  "org_cn": null,
+  "domain_name": "LYU.EDU.CN",
+  "network_name": "LYTU-CN",
+  "admin_contact": "XiaoFei Rong (XR10-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.lyu.edu.cn",
+      "ip": "211.64.240.11"
+    },
+    {
+      "host": "DNS2.lyu.edu.cn",
+      "ip": "211.64.240.188"
+    }
+  ],
+  "address": [
+    "Linyi, SD 276005",
+    "China"
+  ],
+  "raw_note": null
+}

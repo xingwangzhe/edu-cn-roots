@@ -1,0 +1,24 @@
+{
+  "root_domain": "xhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xihua University",
+  "org_cn": null,
+  "domain_name": "XHU.EDU.CN",
+  "network_name": "SCIT-CN",
+  "admin_contact": "Mingbin Lei (ML6-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.xhu.edu.cn",
+      "ip": "202.115.144.33"
+    },
+    {
+      "host": "ns2.xhu.edu.cn",
+      "ip": "111.9.36.2"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610039",
+    "China"
+  ],
+  "raw_note": null
+}

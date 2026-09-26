@@ -1,0 +1,24 @@
+{
+  "root_domain": "cipuc.edu.cn",
+  "type": "full_record",
+  "org_en": "Criminal Investigation Police University of China",
+  "org_cn": null,
+  "domain_name": "CIPUC.EDU.CN",
+  "network_name": "CCPC-CN",
+  "admin_contact": "Qiang Fan (QF10-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.CIPUC.EDU.CN",
+      "ip": "210.47.128.4"
+    },
+    {
+      "host": "NS2.CIPUC.EDU.CN",
+      "ip": "210.47.128.5"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110854",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "shu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai University",
+  "org_cn": null,
+  "domain_name": "SHU.EDU.CN",
+  "network_name": "SHU-CN",
+  "admin_contact": "WeiMin Ni (WN11-CER)",
+  "nameservers": [
+    {
+      "host": "dns.shu.edu.cn",
+      "ip": "202.120.127.220"
+    },
+    {
+      "host": "dns2.shu.edu.cn",
+      "ip": "202.120.127.219"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200072",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "hhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hohai University",
+  "org_cn": null,
+  "domain_name": "HHU.EDU.CN",
+  "network_name": "HHU-CN",
+  "admin_contact": "Weijian Zhang (WZ102-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hhu.edu.cn",
+      "ip": "202.119.112.34"
+    },
+    {
+      "host": "dns2.hhu.edu.cn",
+      "ip": "221.226.114.99"
+    },
+    {
+      "host": "dns3.hhu.edu.cn",
+      "ip": "122.96.73.192"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210024",
+    "China"
+  ],
+  "raw_note": null
+}

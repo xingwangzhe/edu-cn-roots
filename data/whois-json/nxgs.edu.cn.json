@@ -1,0 +1,24 @@
+{
+  "root_domain": "nxgs.edu.cn",
+  "type": "full_record",
+  "org_en": "NINGXIA POLYTECHNIC UNIVERSITY OF BUSINESS AND TECHNOLOGY",
+  "org_cn": null,
+  "domain_name": "NXGS.EDU.CN",
+  "network_name": "NXJM-CN",
+  "admin_contact": "Hongdi Zhang (HZ50-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nxgs.edu.cn",
+      "ip": "59.76.191.36"
+    },
+    {
+      "host": "dns1.nxgs.edu.cn",
+      "ip": "119.60.11.214"
+    }
+  ],
+  "address": [
+    "Yinchuan, NX 750021",
+    "China"
+  ],
+  "raw_note": null
+}

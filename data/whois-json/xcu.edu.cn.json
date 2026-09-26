@@ -1,0 +1,24 @@
+{
+  "root_domain": "xcu.edu.cn",
+  "type": "full_record",
+  "org_en": "XuChang University",
+  "org_cn": null,
+  "domain_name": "XCU.EDU.CN",
+  "network_name": "XCTC-CN",
+  "admin_contact": "Ling Zhang (LZ53-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xcu.edu.cn",
+      "ip": "211.67.191.6"
+    },
+    {
+      "host": "dns2.xcu.edu.cn",
+      "ip": "211.67.191.16"
+    }
+  ],
+  "address": [
+    "XuChang, HA 461000",
+    "China"
+  ],
+  "raw_note": null
+}

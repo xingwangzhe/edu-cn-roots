@@ -1,0 +1,36 @@
+{
+  "root_domain": "fjrtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "The Open University of Fujian",
+  "org_cn": null,
+  "domain_name": "FJRTVU.EDU.CN",
+  "network_name": "FJRTVU-CN",
+  "admin_contact": "Zhenxiang Zhang (ZZ97-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.FJRTVU.EDU.CN",
+      "ip": "211.80.224.1"
+    },
+    {
+      "host": "DNS2.FJRTVU.EDU.CN",
+      "ip": "211.80.224.2"
+    },
+    {
+      "host": "DNS3.FJRTVU.EDU.CN",
+      "ip": "218.66.49.65"
+    },
+    {
+      "host": "DNS4.FJRTVU.EDU.CN",
+      "ip": "218.66.49.67"
+    },
+    {
+      "host": "DNS5.FJRTVU.EDU.CN",
+      "ip": "218.104.228.29"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350003",
+    "China"
+  ],
+  "raw_note": null
+}

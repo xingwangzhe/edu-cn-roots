@@ -1,0 +1,28 @@
+{
+  "root_domain": "yvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Yueyang Vocational AND Technical College",
+  "org_cn": null,
+  "domain_name": "YVTC.EDU.CN",
+  "network_name": "YYHVTC-CN",
+  "admin_contact": "Bin Wu (BW35-CER)",
+  "nameservers": [
+    {
+      "host": "dns.yvtc.edu.cn",
+      "ip": "59.71.106.8"
+    },
+    {
+      "host": "dns2.yvtc.edu.cn",
+      "ip": "59.71.106.18"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Yueyang, HN 414000",
+    "China"
+  ],
+  "raw_note": null
+}

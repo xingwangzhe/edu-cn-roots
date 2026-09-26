@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou Jiaotong University",
+  "org_cn": null,
+  "domain_name": "LZJTU.EDU.CN",
+  "network_name": "LZRI-CN",
+  "admin_contact": "Fahong Hu (FH8-CER)",
+  "nameservers": [
+    {
+      "host": "dns.lzjtu.edu.cn",
+      "ip": "202.201.18.68"
+    },
+    {
+      "host": "dns1.lzjtu.edu.cn",
+      "ip": "180.95.224.2"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730070",
+    "China"
+  ],
+  "raw_note": null
+}

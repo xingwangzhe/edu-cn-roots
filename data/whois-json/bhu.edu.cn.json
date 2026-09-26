@@ -1,0 +1,24 @@
+{
+  "root_domain": "bhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Bohai University",
+  "org_cn": null,
+  "domain_name": "BHU.EDU.CN",
+  "network_name": "JZNU-CN",
+  "admin_contact": "Hongzhi Huang (HH42-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.BHU.EDU.CN",
+      "ip": "210.47.176.1"
+    },
+    {
+      "host": "DNS2.BHU.EDU.CN",
+      "ip": "210.47.178.1"
+    }
+  ],
+  "address": [
+    "Jinzhou, LN 121003",
+    "China"
+  ],
+  "raw_note": null
+}

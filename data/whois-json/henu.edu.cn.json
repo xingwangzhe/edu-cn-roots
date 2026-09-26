@@ -1,0 +1,24 @@
+{
+  "root_domain": "henu.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan Univeristy",
+  "org_cn": null,
+  "domain_name": "HENU.EDU.CN",
+  "network_name": "HENU-CN",
+  "admin_contact": "Xiaoming Jia (XJ34-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HENU.EDU.CN",
+      "ip": "202.196.96.131"
+    },
+    {
+      "host": "DNS2.HENU.EDU.CN",
+      "ip": "218.196.207.15"
+    }
+  ],
+  "address": [
+    "Kaifeng, HA 475001",
+    "China"
+  ],
+  "raw_note": null
+}

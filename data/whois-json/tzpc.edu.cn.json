@@ -1,0 +1,24 @@
+{
+  "root_domain": "tzpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Taizhou Polytechnic College",
+  "org_cn": null,
+  "domain_name": "TZPC.EDU.CN",
+  "network_name": "TZPC-CN",
+  "admin_contact": "An Liu (AL8-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tzpc.edu.cn",
+      "ip": "211.65.176.1"
+    },
+    {
+      "host": "dns2.tzpc.edu.cn",
+      "ip": "211.65.176.2"
+    }
+  ],
+  "address": [
+    "Taizhou, JS 225300",
+    "China"
+  ],
+  "raw_note": null
+}

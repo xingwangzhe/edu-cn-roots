@@ -1,0 +1,24 @@
+{
+  "root_domain": "whit.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhu Institute of Technology",
+  "org_cn": null,
+  "domain_name": "WHIT.EDU.CN",
+  "network_name": "WUHUIT-CN",
+  "admin_contact": "Jun Wang (JW98-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.whit.edu.cn",
+      "ip": "42.247.22.193"
+    },
+    {
+      "host": "dns2.whit.edu.cn",
+      "ip": "42.247.22.194"
+    }
+  ],
+  "address": [
+    "Wuhu, AH 241006",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "chtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Chaohu University",
+  "org_cn": null,
+  "domain_name": "CHTC.EDU.CN",
+  "network_name": "CHTC-CN",
+  "admin_contact": "WenQiang Huo (WH63-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.CHTC.EDU.CN",
+      "ip": "210.45.92.11"
+    },
+    {
+      "host": "DNS2.CHTC.EDU.CN",
+      "ip": "210.45.92.12"
+    }
+  ],
+  "address": [
+    "Chaohu, AH 238024",
+    "China"
+  ],
+  "raw_note": null
+}

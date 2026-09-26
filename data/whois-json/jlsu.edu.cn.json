@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlsu.edu.cn",
+  "type": "full_record",
+  "org_en": "JiLin Sport University",
+  "org_cn": null,
+  "domain_name": "JLSU.EDU.CN",
+  "network_name": "IDCVIP-CN",
+  "admin_contact": "Hongwei Jiang (HJ21-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.JLSU.EDU.CN",
+      "ip": "42.247.9.106"
+    },
+    {
+      "host": "NS.JLSU.EDU.CN",
+      "ip": "222.161.229.149"
+    }
+  ],
+  "address": [
+    "ChangChun, JL 130022",
+    "China"
+  ],
+  "raw_note": null
+}

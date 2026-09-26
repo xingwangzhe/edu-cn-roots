@@ -1,0 +1,24 @@
+{
+  "root_domain": "lntu.edu.cn",
+  "type": "full_record",
+  "org_en": "Liaoning Techenical University",
+  "org_cn": null,
+  "domain_name": "LNTU.EDU.CN",
+  "network_name": "LNUET-CN",
+  "admin_contact": "Zijian Yuan (ZY2-CER)",
+  "nameservers": [
+    {
+      "host": "ULTRA1.LNTU.EDU.CN",
+      "ip": "202.199.224.1"
+    },
+    {
+      "host": "ULTRA2.LNTU.EDU.CN",
+      "ip": "211.140.243.113"
+    }
+  ],
+  "address": [
+    "Fuxin, LN 123000",
+    "China"
+  ],
+  "raw_note": null
+}

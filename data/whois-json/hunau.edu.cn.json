@@ -1,0 +1,24 @@
+{
+  "root_domain": "hunau.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunau Agricultural University",
+  "org_cn": null,
+  "domain_name": "HUNAU.EDU.CN",
+  "network_name": "HUNAU-CN",
+  "admin_contact": "Jin Wang (JW130-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HUNAU.EDU.CN",
+      "ip": "210.43.224.1"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410128",
+    "China"
+  ],
+  "raw_note": null
+}

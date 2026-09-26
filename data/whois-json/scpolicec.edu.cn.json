@@ -1,0 +1,24 @@
+{
+  "root_domain": "scpolicec.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Police College",
+  "org_cn": null,
+  "domain_name": "SCPOLICEC.EDU.CN",
+  "network_name": "SCPOLICEC-CN",
+  "admin_contact": "YuSong Liu (YL252-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.scpolicec.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.scpolicec.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "LuZhou, SC 646000",
+    "China"
+  ],
+  "raw_note": null
+}

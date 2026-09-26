@@ -1,0 +1,24 @@
+{
+  "root_domain": "culr.edu.cn",
+  "type": "full_record",
+  "org_en": "China University of Labor Relations",
+  "org_cn": null,
+  "domain_name": "CULR.EDU.CN",
+  "network_name": "CLC-CN",
+  "admin_contact": "Yuancui Cai (YC50-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.culr.edu.cn",
+      "ip": "202.204.16.1"
+    },
+    {
+      "host": "dns2.culr.edu.cn",
+      "ip": "123.124.233.14"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100048",
+    "China"
+  ],
+  "raw_note": null
+}

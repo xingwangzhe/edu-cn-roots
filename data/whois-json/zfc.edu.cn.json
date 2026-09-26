@@ -1,0 +1,32 @@
+{
+  "root_domain": "zfc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Financial Professional College",
+  "org_cn": null,
+  "domain_name": "ZFC.EDU.CN",
+  "network_name": "ZFC-CN",
+  "admin_contact": "Zhulin Lu (ZL97-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zfc.edu.cn",
+      "ip": "121.192.4.8"
+    },
+    {
+      "host": "dns2.zfc.edu.cn",
+      "ip": "61.164.56.195"
+    },
+    {
+      "host": "dns3.zfc.edu.cn",
+      "ip": "218.108.81.184"
+    },
+    {
+      "host": "dns4.zfc.edu.cn",
+      "ip": "221.12.20.55"
+    }
+  ],
+  "address": [
+    "hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

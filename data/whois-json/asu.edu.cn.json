@@ -1,0 +1,24 @@
+{
+  "root_domain": "asu.edu.cn",
+  "type": "full_record",
+  "org_en": "Anshun University",
+  "org_cn": null,
+  "domain_name": "ASU.EDU.CN",
+  "network_name": "ASXY-CN",
+  "admin_contact": "XiaoFeng Zou (XZ61-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.ASU.EDU.CN",
+      "ip": "222.198.248.1"
+    },
+    {
+      "host": "DNS2.ASU.EDU.CN",
+      "ip": "222.198.248.2"
+    }
+  ],
+  "address": [
+    "Anshun, GZ 561000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "njvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Neijiang Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "NJVTC.EDU.CN",
+  "network_name": "NJVTC-CN",
+  "admin_contact": "Guang Rao (GR4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.njvtc.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.njvtc.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "NeiJiang, SC 641100",
+    "China"
+  ],
+  "raw_note": null
+}

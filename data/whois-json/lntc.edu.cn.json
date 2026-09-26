@@ -1,0 +1,24 @@
+{
+  "root_domain": "lntc.edu.cn",
+  "type": "full_record",
+  "org_en": "Longnan Normal University",
+  "org_cn": null,
+  "domain_name": "LNTC.EDU.CN",
+  "network_name": "LNSZ-CN",
+  "admin_contact": "XiaoRui An (XA2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lntc.edu.cn",
+      "ip": "222.23.16.6"
+    },
+    {
+      "host": "dns2.lntc.edu.cn",
+      "ip": "222.23.30.6"
+    }
+  ],
+  "address": [
+    "Chengxian, GS 742500",
+    "China"
+  ],
+  "raw_note": null
+}

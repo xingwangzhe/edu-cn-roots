@@ -1,0 +1,24 @@
+{
+  "root_domain": "ynnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yunnan Normal University",
+  "org_cn": null,
+  "domain_name": "YNNU.EDU.CN",
+  "network_name": "YNNU-CN",
+  "admin_contact": "Jianbing Chen (JC24-CER)",
+  "nameservers": [
+    {
+      "host": "pridns.ynnu.edu.cn",
+      "ip": "202.203.224.33"
+    },
+    {
+      "host": "secdns.ynnu.edu.cn",
+      "ip": "202.203.224.34"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650500",
+    "China"
+  ],
+  "raw_note": null
+}

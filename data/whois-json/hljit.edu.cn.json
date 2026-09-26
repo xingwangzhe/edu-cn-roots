@@ -1,0 +1,24 @@
+{
+  "root_domain": "hljit.edu.cn",
+  "type": "full_record",
+  "org_en": "Heilongjiang Institute of Technology",
+  "org_cn": null,
+  "domain_name": "HLJIT.EDU.CN",
+  "network_name": "HLJIT-CN",
+  "admin_contact": "LaiBin Liu (LL88-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Haerbin, HL 150050",
+    "China"
+  ],
+  "raw_note": null
+}

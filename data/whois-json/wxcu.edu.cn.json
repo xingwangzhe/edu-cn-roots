@@ -1,0 +1,24 @@
+{
+  "root_domain": "wxcu.edu.cn",
+  "type": "full_record",
+  "org_en": "WuXi City College Of Vocational Technology",
+  "org_cn": null,
+  "domain_name": "WXCU.EDU.CN",
+  "network_name": "WXCCVTII-CN",
+  "admin_contact": "Shifeng Huang (SH19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.wxcu.edu.cn",
+      "ip": "101.76.40.1"
+    },
+    {
+      "host": "dns2.wxcu.edu.cn",
+      "ip": "101.76.40.2"
+    }
+  ],
+  "address": [
+    "WuXi, JS 214063",
+    "China"
+  ],
+  "raw_note": null
+}

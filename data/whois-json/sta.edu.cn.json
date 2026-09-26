@@ -1,0 +1,24 @@
+{
+  "root_domain": "sta.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Theater Academy",
+  "org_cn": null,
+  "domain_name": "STA.EDU.CN",
+  "network_name": "STA-CN",
+  "admin_contact": "Mingcheng Yang (MY30-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sta.edu.cn",
+      "ip": "219.228.176.76"
+    },
+    {
+      "host": "dns2.sta.edu.cn",
+      "ip": "101.230.104.18"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200040",
+    "China"
+  ],
+  "raw_note": null
+}

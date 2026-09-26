@@ -1,0 +1,20 @@
+{
+  "root_domain": "hist.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan Institute of Science and Technology",
+  "org_cn": null,
+  "domain_name": "HIST.EDU.CN",
+  "network_name": "HENVTTC-CN",
+  "admin_contact": "Shugang Li (SL63-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hist.edu.cn",
+      "ip": "210.43.32.8"
+    }
+  ],
+  "address": [
+    "Xinxiang, HA 453003",
+    "China"
+  ],
+  "raw_note": null
+}

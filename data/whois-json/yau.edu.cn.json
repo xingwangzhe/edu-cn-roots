@@ -1,0 +1,24 @@
+{
+  "root_domain": "yau.edu.cn",
+  "type": "full_record",
+  "org_en": "yan'an University",
+  "org_cn": null,
+  "domain_name": "YAU.EDU.CN",
+  "network_name": "YANDA-CN",
+  "admin_contact": "Xie Huang (XH46-CER)",
+  "nameservers": [
+    {
+      "host": "cloud1.yau.edu.cn",
+      "ip": "219.244.0.66"
+    },
+    {
+      "host": "cloud2.yau.edu.cn",
+      "ip": "219.244.0.19"
+    }
+  ],
+  "address": [
+    "yan'an, SN 716000",
+    "China"
+  ],
+  "raw_note": null
+}

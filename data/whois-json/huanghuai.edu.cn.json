@@ -1,0 +1,24 @@
+{
+  "root_domain": "huanghuai.edu.cn",
+  "type": "full_record",
+  "org_en": "Huanghuai University",
+  "org_cn": null,
+  "domain_name": "HUANGHUAI.EDU.CN",
+  "network_name": "ZMDTC-CN",
+  "admin_contact": "Hongsheng Li (HL75-CER)",
+  "nameservers": [
+    {
+      "host": "dns.huanghuai.edu.cn",
+      "ip": "211.67.177.65"
+    },
+    {
+      "host": "dns2.huanghuai.edu.cn",
+      "ip": "211.67.177.66"
+    }
+  ],
+  "address": [
+    "zhumadian, HA 463000",
+    "China"
+  ],
+  "raw_note": null
+}

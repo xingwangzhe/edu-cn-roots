@@ -1,0 +1,32 @@
+{
+  "root_domain": "nuit.edu.cn",
+  "type": "full_record",
+  "org_en": "Neusoft Institute Guangdong",
+  "org_cn": null,
+  "domain_name": "NUIT.EDU.CN",
+  "network_name": "NITG-CN",
+  "admin_contact": "Jianwen Liu (JL196-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.nuit.edu.cn",
+      "ip": "110.64.206.3"
+    },
+    {
+      "host": "ns2.nuit.edu.cn",
+      "ip": "110.64.206.4"
+    },
+    {
+      "host": "ns3.nuit.edu.cn",
+      "ip": "202.104.17.195"
+    },
+    {
+      "host": "ns4.nuit.edu.cn",
+      "ip": "202.104.17.196"
+    }
+  ],
+  "address": [
+    "Foshan, GD 528225",
+    "China"
+  ],
+  "raw_note": null
+}

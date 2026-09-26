@@ -1,0 +1,24 @@
+{
+  "root_domain": "nnutc.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Normal University Taizhou College",
+  "org_cn": null,
+  "domain_name": "NNUTC.EDU.CN",
+  "network_name": "NJNUTZ-CN",
+  "admin_contact": "Liang Qiu (LQ9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nnutc.edu.cn",
+      "ip": "58.192.96.1"
+    },
+    {
+      "host": "dns2.nnutc.edu.cn",
+      "ip": "58.192.96.2"
+    }
+  ],
+  "address": [
+    "TaiZhou, JS 225300",
+    "China"
+  ],
+  "raw_note": null
+}

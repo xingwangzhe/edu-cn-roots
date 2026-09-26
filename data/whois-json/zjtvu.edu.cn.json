@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Open University",
+  "org_cn": null,
+  "domain_name": "ZJTVU.EDU.CN",
+  "network_name": "ZJDD-CN",
+  "admin_contact": "Yixiang Zhang (YZ147-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ZJTVU.EDU.CN",
+      "ip": "210.33.116.8"
+    },
+    {
+      "host": "SDNS.ZJTVU.EDU.CN",
+      "ip": "218.75.74.41"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310012",
+    "China"
+  ],
+  "raw_note": null
+}

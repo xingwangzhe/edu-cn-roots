@@ -1,0 +1,28 @@
+{
+  "root_domain": "wahvc.edu.cn",
+  "type": "full_record",
+  "org_en": "West Anhui Health Vocational College",
+  "org_cn": null,
+  "domain_name": "WAHVC.EDU.CN",
+  "network_name": "WAHVC-CN",
+  "admin_contact": "Xianjie Sun (XS28-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.wahvc.edu.cn",
+      "ip": "42.247.29.97"
+    },
+    {
+      "host": "ns2.wahvc.edu.cn",
+      "ip": "61.190.218.166"
+    },
+    {
+      "host": "ns3.wahvc.edu.cn",
+      "ip": "210.45.226.226"
+    }
+  ],
+  "address": [
+    "LuAn, AH 237000",
+    "China"
+  ],
+  "raw_note": null
+}

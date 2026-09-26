@@ -1,0 +1,36 @@
+{
+  "root_domain": "zjiet.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Economic & Trade Polytechnic",
+  "org_cn": null,
+  "domain_name": "ZJIET.EDU.CN",
+  "network_name": "ZETP-CN",
+  "admin_contact": "Xu Ruan (XR4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjiet.edu.cn",
+      "ip": "210.33.152.6"
+    },
+    {
+      "host": "dns2.zjiet.edu.cn",
+      "ip": "122.224.163.174"
+    },
+    {
+      "host": "dns3.zjiet.edu.cn",
+      "ip": "115.233.214.188"
+    },
+    {
+      "host": "dns4.zjiet.edu.cn",
+      "ip": "39.174.87.186"
+    },
+    {
+      "host": "dns5.zjiet.edu.cn",
+      "ip": "124.160.26.2"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

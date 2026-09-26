@@ -1,0 +1,36 @@
+{
+  "root_domain": "buct.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Chemical Technology",
+  "org_cn": null,
+  "domain_name": "BUCT.EDU.CN",
+  "network_name": "BUCT-CN",
+  "admin_contact": "Zheng Li (ZL144-CER)",
+  "nameservers": [
+    {
+      "host": "ns.buct.edu.cn",
+      "ip": "202.4.130.100"
+    },
+    {
+      "host": "ns2.buct.edu.cn",
+      "ip": "202.4.130.101"
+    },
+    {
+      "host": "ns3.buct.edu.cn",
+      "ip": "222.199.255.100"
+    },
+    {
+      "host": "ns4.buct.edu.cn",
+      "ip": "222.199.255.101"
+    },
+    {
+      "host": "ns5.buct.edu.cn",
+      "ip": "106.39.154.254"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100029",
+    "China"
+  ],
+  "raw_note": null
+}

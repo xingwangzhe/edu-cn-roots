@@ -1,0 +1,24 @@
+{
+  "root_domain": "neepu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeast Electric Power University",
+  "org_cn": null,
+  "domain_name": "NEEPU.EDU.CN",
+  "network_name": "NEIEP-CN",
+  "admin_contact": "Li Ming (LM16-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.neepu.edu.cn",
+      "ip": "202.198.8.10"
+    },
+    {
+      "host": "dns2.neepu.edu.cn",
+      "ip": "202.198.8.5"
+    }
+  ],
+  "address": [
+    "Jilin, JL 132012",
+    "China"
+  ],
+  "raw_note": null
+}

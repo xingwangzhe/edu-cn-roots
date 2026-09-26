@@ -1,0 +1,24 @@
+{
+  "root_domain": "sjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "ShangHai Jiao Tong University",
+  "org_cn": null,
+  "domain_name": "SJTU.EDU.CN",
+  "network_name": "SJTU-CN",
+  "admin_contact": "Yizong Gu (YG13-CER)",
+  "nameservers": [
+    {
+      "host": "apple.sjtu.edu.cn",
+      "ip": "202.112.26.43"
+    },
+    {
+      "host": "dns.sjtu.edu.cn",
+      "ip": "202.120.2.90"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200030",
+    "China"
+  ],
+  "raw_note": null
+}

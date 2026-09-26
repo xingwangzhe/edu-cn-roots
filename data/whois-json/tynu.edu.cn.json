@@ -1,0 +1,24 @@
+{
+  "root_domain": "tynu.edu.cn",
+  "type": "full_record",
+  "org_en": "Taiyuan Normal University",
+  "org_cn": null,
+  "domain_name": "TYNU.EDU.CN",
+  "network_name": "TYNU-CN",
+  "admin_contact": "Jingbao Dong (JD4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tynu.edu.cn",
+      "ip": "222.31.0.1"
+    },
+    {
+      "host": "dns2.tynu.edu.cn",
+      "ip": "222.31.0.2"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030012",
+    "China"
+  ],
+  "raw_note": null
+}

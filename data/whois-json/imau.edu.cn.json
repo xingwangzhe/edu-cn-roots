@@ -1,0 +1,24 @@
+{
+  "root_domain": "imau.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia Agricultural University",
+  "org_cn": null,
+  "domain_name": "IMAU.EDU.CN",
+  "network_name": "IMAU-CN",
+  "admin_contact": "Ma Hailei (MH2-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.IMAU.EDU.CN",
+      "ip": "202.207.48.3"
+    },
+    {
+      "host": "NS.IMAU.EDU.CN",
+      "ip": "202.207.48.4"
+    }
+  ],
+  "address": [
+    "Huhhot, NM 010018",
+    "China"
+  ],
+  "raw_note": null
+}

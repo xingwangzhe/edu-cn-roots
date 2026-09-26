@@ -1,0 +1,24 @@
+{
+  "root_domain": "xzyz.edu.cn",
+  "type": "full_record",
+  "org_en": "XuZhou Kindergarten Teachers College",
+  "org_cn": null,
+  "domain_name": "XZYZ.EDU.CN",
+  "network_name": "XZYS-CN",
+  "admin_contact": "Zhu Yun (ZY60-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xzyz.edu.cn",
+      "ip": "42.247.0.96"
+    },
+    {
+      "host": "dns2.xzyz.edu.cn",
+      "ip": "42.247.0.97"
+    }
+  ],
+  "address": [
+    "XuZhou, JS 221004",
+    "China"
+  ],
+  "raw_note": null
+}

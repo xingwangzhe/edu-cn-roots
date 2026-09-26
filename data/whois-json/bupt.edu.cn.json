@@ -1,0 +1,24 @@
+{
+  "root_domain": "bupt.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Posts and Telecommunications",
+  "org_cn": null,
+  "domain_name": "BUPT.EDU.CN",
+  "network_name": "BUPT-CN",
+  "admin_contact": "Zhenhua Wang (ZW64-CER)",
+  "nameservers": [
+    {
+      "host": "ns.buptnet.edu.cn",
+      "ip": "202.112.10.37"
+    },
+    {
+      "host": "gus.buptnet.edu.cn",
+      "ip": "202.112.10.36"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100876",
+    "China"
+  ],
+  "raw_note": null
+}

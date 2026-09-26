@@ -1,0 +1,24 @@
+{
+  "root_domain": "bjfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Forestry University",
+  "org_cn": null,
+  "domain_name": "BJFU.EDU.CN",
+  "network_name": "BJFU-CN",
+  "admin_contact": "Jianjun Li (JL7-CN)",
+  "nameservers": [
+    {
+      "host": "beilin.bjfu.edu.cn",
+      "ip": "202.204.112.66"
+    },
+    {
+      "host": "ss2.bjfu.edu.cn",
+      "ip": "202.204.112.67"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

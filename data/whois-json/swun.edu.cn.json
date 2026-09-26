@@ -1,0 +1,24 @@
+{
+  "root_domain": "swun.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest Minzu University",
+  "org_cn": null,
+  "domain_name": "SWUN.EDU.CN",
+  "network_name": "SWUN-CN",
+  "admin_contact": "Xiaoyu Xu (XX37-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SWUN.EDU.CN",
+      "ip": "211.83.241.168"
+    },
+    {
+      "host": "DNS2.SWUN.EDU.CN",
+      "ip": "211.83.241.173"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610041",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "gdou.edu.cn",
+  "type": "full_record",
+  "org_en": "GuangDong Ocean University",
+  "org_cn": null,
+  "domain_name": "GDOU.EDU.CN",
+  "network_name": "ZJOU-CN",
+  "admin_contact": "Guangya Zhang (GZ48-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gdou.edu.cn",
+      "ip": "210.38.128.34"
+    },
+    {
+      "host": "dns2.gdou.edu.cn",
+      "ip": "210.38.137.34"
+    }
+  ],
+  "address": [
+    "Zhanjiang, GD 524088",
+    "China"
+  ],
+  "raw_note": null
+}

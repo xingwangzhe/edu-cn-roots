@@ -1,0 +1,24 @@
+{
+  "root_domain": "hnuu.edu.cn",
+  "type": "full_record",
+  "org_en": "HuaiNan United University",
+  "org_cn": null,
+  "domain_name": "HNUU.EDU.CN",
+  "network_name": "HNUU-CN",
+  "admin_contact": "Shunliang Hu (SH21-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hnuu.edu.cn",
+      "ip": "121.251.0.1"
+    },
+    {
+      "host": "dns2.hnuu.edu.cn",
+      "ip": "121.251.0.2"
+    }
+  ],
+  "address": [
+    "HuaiNan, AH 232001",
+    "China"
+  ],
+  "raw_note": null
+}

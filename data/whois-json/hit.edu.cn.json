@@ -1,0 +1,28 @@
+{
+  "root_domain": "hit.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Institute of Technology, Harbin",
+  "org_cn": null,
+  "domain_name": "HIT.EDU.CN",
+  "network_name": "HIT-CN",
+  "admin_contact": "Zhong-xiang Jiang (ZJ1-CN)",
+  "nameservers": [
+    {
+      "host": "hit02.hit.edu.cn",
+      "ip": "202.118.224.101"
+    },
+    {
+      "host": "hit01.hit.edu.cn",
+      "ip": "202.118.224.100"
+    },
+    {
+      "host": "hit1.hit.edu.cn",
+      "ip": "61.167.60.101"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150000",
+    "China"
+  ],
+  "raw_note": null
+}

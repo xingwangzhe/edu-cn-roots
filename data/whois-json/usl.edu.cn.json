@@ -1,0 +1,24 @@
+{
+  "root_domain": "usl.edu.cn",
+  "type": "full_record",
+  "org_en": "Silicon Lake Vocational & Technical College",
+  "org_cn": null,
+  "domain_name": "USL.EDU.CN",
+  "network_name": "SLVC-CN",
+  "admin_contact": "Xianzhao Yang (XY36-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.usl.edu.cn",
+      "ip": "58.192.208.50"
+    },
+    {
+      "host": "dns2.usl.edu.cn",
+      "ip": "58.192.208.51"
+    }
+  ],
+  "address": [
+    "kunshan, JS 215332",
+    "China"
+  ],
+  "raw_note": null
+}

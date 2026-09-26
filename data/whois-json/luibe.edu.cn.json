@@ -1,0 +1,20 @@
+{
+  "root_domain": "luibe.edu.cn",
+  "type": "full_record",
+  "org_en": "Liaoning University of International Business and Economics",
+  "org_cn": null,
+  "domain_name": "LUIBE.EDU.CN",
+  "network_name": "ULET-CN",
+  "admin_contact": "Sheng Wang (SW53-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.luibe.edu.cn",
+      "ip": "219.216.224.2"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116052",
+    "China"
+  ],
+  "raw_note": null
+}

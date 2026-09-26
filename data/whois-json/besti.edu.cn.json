@@ -1,0 +1,24 @@
+{
+  "root_domain": "besti.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Electronic Science and Technology Institute",
+  "org_cn": null,
+  "domain_name": "BESTI.EDU.CN",
+  "network_name": "BESTI-CN",
+  "admin_contact": "Yongguang Gong (YG54-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.BESTI.EDU.CN",
+      "ip": "202.205.232.1"
+    },
+    {
+      "host": "NS2.BESTI.EDU.CN",
+      "ip": "123.121.157.7"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100070",
+    "China"
+  ],
+  "raw_note": null
+}

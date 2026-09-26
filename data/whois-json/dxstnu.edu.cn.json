@@ -1,0 +1,24 @@
+{
+  "root_domain": "dxstnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dianxi Science and Technology Normal University",
+  "org_cn": null,
+  "domain_name": "DXSTNU.EDU.CN",
+  "network_name": "LCTC-CN",
+  "admin_contact": "Dongqing Hou (DH24-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.DXSTNU.EDU.CN",
+      "ip": "121.49.153.5"
+    },
+    {
+      "host": "DNS2.DXSTNU.EDU.CN",
+      "ip": "121.49.153.6"
+    }
+  ],
+  "address": [
+    "Lincang, YN 677000",
+    "China"
+  ],
+  "raw_note": null
+}

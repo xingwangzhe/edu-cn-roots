@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebut.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei University of Technology",
+  "org_cn": null,
+  "domain_name": "HEBUT.EDU.CN",
+  "network_name": "HEBUT-CN",
+  "admin_contact": "Cunliang Nin (CN1-CER)",
+  "nameservers": [
+    {
+      "host": "ns.hebut.edu.cn",
+      "ip": "202.113.112.55"
+    },
+    {
+      "host": "ns2.hebut.edu.cn",
+      "ip": "202.113.112.45"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300130",
+    "China"
+  ],
+  "raw_note": null
+}

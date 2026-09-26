@@ -1,0 +1,32 @@
+{
+  "root_domain": "xpu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Polytechnic University",
+  "org_cn": null,
+  "domain_name": "XPU.EDU.CN",
+  "network_name": "NWTSTIB-CN",
+  "admin_contact": "YuAo Cao (YC2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xpu.edu.cn",
+      "ip": "202.200.200.1"
+    },
+    {
+      "host": "dns2.xpu.edu.cn",
+      "ip": "202.200.201.1"
+    },
+    {
+      "host": "dns3.xpu.edu.cn",
+      "ip": "202.200.200.111"
+    },
+    {
+      "host": "dns4.xpu.edu.cn",
+      "ip": "202.200.201.111"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710048",
+    "China"
+  ],
+  "raw_note": null
+}

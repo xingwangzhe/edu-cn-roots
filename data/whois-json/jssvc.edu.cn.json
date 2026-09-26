@@ -1,0 +1,28 @@
+{
+  "root_domain": "jssvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Suzhou Polytechnic University (Suzhou Open University)",
+  "org_cn": null,
+  "domain_name": "JSSVC.EDU.CN",
+  "network_name": "SZVU-CN",
+  "admin_contact": "JingBo Yang (JY77-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.jssvc.edu.cn",
+      "ip": "219.219.168.18"
+    },
+    {
+      "host": "dns2.jssvc.edu.cn",
+      "ip": "219.219.168.28"
+    },
+    {
+      "host": "dns3.jssvc.edu.cn",
+      "ip": "61.132.123.79"
+    }
+  ],
+  "address": [
+    "Suzhou, JS 215104",
+    "China"
+  ],
+  "raw_note": null
+}

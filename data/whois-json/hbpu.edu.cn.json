@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbpu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Polytechnical University",
+  "org_cn": null,
+  "domain_name": "HBPU.EDU.CN",
+  "network_name": "HSIT-CN",
+  "admin_contact": "Fan Zhang (FZ15-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbpu.edu.cn",
+      "ip": "59.68.84.8"
+    },
+    {
+      "host": "dns2.hbpu.edu.cn",
+      "ip": "59.68.84.18"
+    }
+  ],
+  "address": [
+    "HuangShi, HB 435003",
+    "China"
+  ],
+  "raw_note": null
+}

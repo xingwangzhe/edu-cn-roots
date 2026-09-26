@@ -1,0 +1,24 @@
+{
+  "root_domain": "ncwu.edu.cn",
+  "type": "full_record",
+  "org_en": "North China University of Water Resources and Electric Power",
+  "org_cn": null,
+  "domain_name": "NCWU.EDU.CN",
+  "network_name": "NCWU-CN",
+  "admin_contact": "Xianxin Meng (XM10-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450045",
+    "China"
+  ],
+  "raw_note": null
+}

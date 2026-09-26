@@ -1,0 +1,24 @@
+{
+  "root_domain": "ahau.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Agricultural University",
+  "org_cn": null,
+  "domain_name": "AHAU.EDU.CN",
+  "network_name": "AHAU-CN",
+  "admin_contact": "Kai Liu (KL20-CER)",
+  "nameservers": [
+    {
+      "host": "ABC.AHAU.EDU.CN",
+      "ip": "210.45.176.5"
+    },
+    {
+      "host": "EFG.AHAU.EDU.CN",
+      "ip": "210.45.176.15"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230036",
+    "China"
+  ],
+  "raw_note": null
+}

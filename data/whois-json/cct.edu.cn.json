@@ -1,0 +1,24 @@
+{
+  "root_domain": "cct.edu.cn",
+  "type": "full_record",
+  "org_en": "Caofeidian College Of Technology",
+  "org_cn": null,
+  "domain_name": "CCT.EDU.CN",
+  "network_name": "CCT-CN",
+  "admin_contact": "Di Wang (DW27-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Tangshan, HE 063200",
+    "China"
+  ],
+  "raw_note": null
+}

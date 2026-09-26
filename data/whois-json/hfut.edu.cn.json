@@ -1,0 +1,24 @@
+{
+  "root_domain": "hfut.edu.cn",
+  "type": "full_record",
+  "org_en": "Hefei University Of Technology",
+  "org_cn": null,
+  "domain_name": "HFUT.EDU.CN",
+  "network_name": "HFUT-CN",
+  "admin_contact": "Jian Zhou (JZ49-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hfut.edu.cn",
+      "ip": "210.45.240.99"
+    },
+    {
+      "host": "dns1.hfut.edu.cn",
+      "ip": "210.45.240.1"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230009",
+    "China"
+  ],
+  "raw_note": null
+}

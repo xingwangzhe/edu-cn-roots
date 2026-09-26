@@ -1,0 +1,28 @@
+{
+  "root_domain": "hnjd.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan Mechanical and Electrical Vocational College",
+  "org_cn": null,
+  "domain_name": "HNJD.EDU.CN",
+  "network_name": "HNJD-CN",
+  "admin_contact": "Kunjie Wang (KW11-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hnjd.edu.cn",
+      "ip": "122.206.91.135"
+    },
+    {
+      "host": "dns2.hnjd.edu.cn",
+      "ip": "61.163.103.59"
+    },
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    }
+  ],
+  "address": [
+    "ZhengZhou, HA 450002",
+    "China"
+  ],
+  "raw_note": null
+}

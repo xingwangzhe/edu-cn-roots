@@ -1,0 +1,24 @@
+{
+  "root_domain": "qjnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qujing Normal University",
+  "org_cn": null,
+  "domain_name": "QJNU.EDU.CN",
+  "network_name": "YNQJNC-CN",
+  "admin_contact": "Biao Zhang (BZ22-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.QJNU.EDU.CN",
+      "ip": "210.40.224.1"
+    },
+    {
+      "host": "DNS2.QJNU.EDU.CN",
+      "ip": "210.40.224.2"
+    }
+  ],
+  "address": [
+    "Qujing, YN 655000",
+    "China"
+  ],
+  "raw_note": null
+}

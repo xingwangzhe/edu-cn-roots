@@ -1,0 +1,24 @@
+{
+  "root_domain": "qhnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qinghai Normal Unriversity",
+  "org_cn": null,
+  "domain_name": "QHNU.EDU.CN",
+  "network_name": "QHNU-CN",
+  "admin_contact": "Ke Ma (KM3-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.QHNU.EDU.CN",
+      "ip": "210.27.144.13"
+    },
+    {
+      "host": "DNS2.QHNU.EDU.CN",
+      "ip": "210.27.144.133"
+    }
+  ],
+  "address": [
+    "Xining, QH 810008",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "hbucvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Urban Construction Vocational and Technology College",
+  "org_cn": null,
+  "domain_name": "HBUCVC.EDU.CN",
+  "network_name": "UCVC-CN",
+  "admin_contact": "Xiaobing Zhuang (XZ95-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbucvc.edu.cn",
+      "ip": "125.220.166.166"
+    },
+    {
+      "host": "dns2.hbucvc.edu.cn",
+      "ip": "59.175.220.2"
+    },
+    {
+      "host": "dns3.hbucvc.edu.cn",
+      "ip": "58.48.79.110"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430205",
+    "China"
+  ],
+  "raw_note": null
+}

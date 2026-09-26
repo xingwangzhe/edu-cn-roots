@@ -1,0 +1,20 @@
+{
+  "root_domain": "jyc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jieyang Vocational Technical College",
+  "org_cn": null,
+  "domain_name": "JYC.EDU.CN",
+  "network_name": "JYC-CN",
+  "admin_contact": "Shaoming Liu (SL25-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    }
+  ],
+  "address": [
+    "Jieyang, GD 522000",
+    "China"
+  ],
+  "raw_note": null
+}

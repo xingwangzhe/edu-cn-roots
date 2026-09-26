@@ -1,0 +1,24 @@
+{
+  "root_domain": "caa.edu.cn",
+  "type": "full_record",
+  "org_en": "China Acaemy Of Art",
+  "org_cn": null,
+  "domain_name": "CAA.EDU.CN",
+  "network_name": "CAA-CN",
+  "admin_contact": "Xing Zhao (XZ43-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.caa.edu.cn",
+      "ip": "210.33.124.7"
+    },
+    {
+      "host": "dns2.caa.edu.cn",
+      "ip": "210.33.124.9"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310002",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "bjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Jiaotong University",
+  "org_cn": null,
+  "domain_name": "BJTU.EDU.CN",
+  "network_name": "NJTU-CN",
+  "admin_contact": "Wei Bu (WB4-CER)",
+  "nameservers": [
+    {
+      "host": "MARS.NJTU.EDU.CN",
+      "ip": "202.112.144.30"
+    },
+    {
+      "host": "JUPITER.NJTU.EDU.CN",
+      "ip": "202.112.144.65"
+    },
+    {
+      "host": "VENUS.BJTU.EDU.CN",
+      "ip": "218.249.29.200"
+    }
+  ],
+  "address": [
+    "BeiJing, BJ 100044",
+    "China"
+  ],
+  "raw_note": null
+}

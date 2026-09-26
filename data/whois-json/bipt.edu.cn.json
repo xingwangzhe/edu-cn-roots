@@ -1,0 +1,24 @@
+{
+  "root_domain": "bipt.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Institute Of Petro-chemical Technology",
+  "org_cn": null,
+  "domain_name": "BIPT.EDU.CN",
+  "network_name": "BIPT-CN",
+  "admin_contact": "Yan Su (YS9-CER)",
+  "nameservers": [
+    {
+      "host": "PDNS.BIPT.EDU.CN",
+      "ip": "210.31.32.8"
+    },
+    {
+      "host": "DNS.BIPT.EDU.CN",
+      "ip": "117.112.63.8"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102600",
+    "China"
+  ],
+  "raw_note": null
+}

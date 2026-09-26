@@ -1,0 +1,24 @@
+{
+  "root_domain": "bdu.edu.cn",
+  "type": "full_record",
+  "org_en": "Baoding University",
+  "org_cn": null,
+  "domain_name": "BDU.EDU.CN",
+  "network_name": "BDTC-CN",
+  "admin_contact": "Huaiyu Wang (HW78-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.BDU.EDU.CN",
+      "ip": "211.81.145.1"
+    },
+    {
+      "host": "DNS1.BDU.EDU.CN",
+      "ip": "211.81.145.5"
+    }
+  ],
+  "address": [
+    "Baoding, HE 071000",
+    "China"
+  ],
+  "raw_note": null
+}

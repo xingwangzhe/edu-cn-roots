@@ -1,0 +1,36 @@
+{
+  "root_domain": "fudan.edu.cn",
+  "type": "full_record",
+  "org_en": "Fudan University",
+  "org_cn": null,
+  "domain_name": "FUDAN.EDU.CN",
+  "network_name": "FDU-CN",
+  "admin_contact": "Xiang Wang (XW110-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.fudan.edu.cn",
+      "ip": "202.120.224.34"
+    },
+    {
+      "host": "ns2.fudan.edu.cn",
+      "ip": "202.120.224.35"
+    },
+    {
+      "host": "ns3.fudan.edu.cn",
+      "ip": "61.129.42.24"
+    },
+    {
+      "host": "ns4.fudan.edu.cn",
+      "ip": "114.94.0.126"
+    },
+    {
+      "host": "ns.fudan.sh.cn",
+      "ip": "61.129.42.6"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200433",
+    "China"
+  ],
+  "raw_note": null
+}

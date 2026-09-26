@@ -1,0 +1,20 @@
+{
+  "root_domain": "jyu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiaying University",
+  "org_cn": null,
+  "domain_name": "JYU.EDU.CN",
+  "network_name": "JYU-CN",
+  "admin_contact": "Zhongwen Ye (ZY13-AP)",
+  "nameservers": [
+    {
+      "host": "PROXY.JYU.EDU.CN",
+      "ip": "210.38.160.3"
+    }
+  ],
+  "address": [
+    "Meizhou, GD 514015",
+    "China"
+  ],
+  "raw_note": null
+}

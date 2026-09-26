@@ -1,0 +1,28 @@
+{
+  "root_domain": "cug.edu.cn",
+  "type": "full_record",
+  "org_en": "China University of Geosciences",
+  "org_cn": null,
+  "domain_name": "CUG.EDU.CN",
+  "network_name": "CUG-CN",
+  "admin_contact": "Guobin Lu (GL2-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cug.edu.cn",
+      "ip": "202.114.200.254"
+    },
+    {
+      "host": "fossil.cug.edu.cn",
+      "ip": "202.114.200.253"
+    },
+    {
+      "host": "dns1.cug.edu.cn",
+      "ip": "202.114.200.252"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430074",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ccmu.edu.cn",
+  "type": "full_record",
+  "org_en": "China Capital Medical University",
+  "org_cn": null,
+  "domain_name": "CCMU.EDU.CN",
+  "network_name": "CPUMS-CN",
+  "admin_contact": "Jianfeng Xiao (JX11-CER)",
+  "nameservers": [
+    {
+      "host": "medcore.ccmu.edu.cn",
+      "ip": "202.204.176.1"
+    },
+    {
+      "host": "medzone1.ccmu.edu.cn",
+      "ip": "202.204.179.53"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100054",
+    "China"
+  ],
+  "raw_note": null
+}

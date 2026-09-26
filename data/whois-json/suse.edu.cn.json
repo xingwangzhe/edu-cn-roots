@@ -1,0 +1,24 @@
+{
+  "root_domain": "suse.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan University Of Science & Engineering",
+  "org_cn": null,
+  "domain_name": "SUSE.EDU.CN",
+  "network_name": "SILCT-CN",
+  "admin_contact": "Haidong He (HH44-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.suse.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.suse.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Zigong, SC 643033",
+    "China"
+  ],
+  "raw_note": null
+}

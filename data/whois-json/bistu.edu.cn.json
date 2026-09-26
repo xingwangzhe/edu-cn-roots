@@ -1,0 +1,24 @@
+{
+  "root_domain": "bistu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Information Science & Technology University",
+  "org_cn": null,
+  "domain_name": "BISTU.EDU.CN",
+  "network_name": "BIM-CN",
+  "admin_contact": "Hanming Gong (HG16-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.bistu.edu.cn",
+      "ip": "211.82.96.1"
+    },
+    {
+      "host": "dns2.bistu.edu.cn",
+      "ip": "222.249.130.188"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100010",
+    "China"
+  ],
+  "raw_note": null
+}

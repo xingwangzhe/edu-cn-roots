@@ -1,0 +1,24 @@
+{
+  "root_domain": "lncmxl.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinlin College of Liaoning University of Traditional",
+  "org_cn": null,
+  "domain_name": "LNCMXL.EDU.CN",
+  "network_name": "LNCMXL-CN",
+  "admin_contact": "Liang Su (LS31-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110167",
+    "China"
+  ],
+  "raw_note": null
+}

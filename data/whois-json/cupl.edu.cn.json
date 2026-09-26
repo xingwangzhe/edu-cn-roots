@@ -1,0 +1,24 @@
+{
+  "root_domain": "cupl.edu.cn",
+  "type": "full_record",
+  "org_en": "China University Of Political Science And Law",
+  "org_cn": null,
+  "domain_name": "CUPL.EDU.CN",
+  "network_name": "CUPL-CN",
+  "admin_contact": "Xianglin Zhao (XZ12-CER)",
+  "nameservers": [
+    {
+      "host": "ZHENGFA2.CUPL.EDU.CN",
+      "ip": "202.205.64.9"
+    },
+    {
+      "host": "ZHENGFA4.CUPL.EDU.CN",
+      "ip": "202.205.64.99"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102249",
+    "China"
+  ],
+  "raw_note": null
+}

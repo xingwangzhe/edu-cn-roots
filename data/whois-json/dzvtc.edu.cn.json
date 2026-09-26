@@ -1,0 +1,28 @@
+{
+  "root_domain": "dzvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "DaZhou Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "DZVTC.EDU.CN",
+  "network_name": "DZVTC-CN",
+  "admin_contact": "Rong Ren (RR1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.dzvtc.edu.cn",
+      "ip": "221.182.61.100"
+    },
+    {
+      "host": "dns2.dzvtc.edu.cn",
+      "ip": "218.89.142.220"
+    },
+    {
+      "host": "dns3.dzvtc.edu.cn",
+      "ip": "202.115.255.106"
+    }
+  ],
+  "address": [
+    "DaZhou, SC 635001",
+    "China"
+  ],
+  "raw_note": null
+}

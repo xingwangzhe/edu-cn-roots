@@ -1,0 +1,28 @@
+{
+  "root_domain": "xtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xiangtan University",
+  "org_cn": null,
+  "domain_name": "XTU.EDU.CN",
+  "network_name": "XTU-CN",
+  "admin_contact": "Lingzhi Hu (LH25-CER)",
+  "nameservers": [
+    {
+      "host": "PDNS.XTU.EDU.CN",
+      "ip": "202.197.224.4"
+    },
+    {
+      "host": "SDNS.XTU.EDU.CN",
+      "ip": "202.197.224.5"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Xiangtan, HN 411105",
+    "China"
+  ],
+  "raw_note": null
+}

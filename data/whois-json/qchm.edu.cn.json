@@ -1,0 +1,24 @@
+{
+  "root_domain": "qchm.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao College Of Hotel Management",
+  "org_cn": null,
+  "domain_name": "QCHM.EDU.CN",
+  "network_name": "QDCHM-CN",
+  "admin_contact": "Dongmei Luo (DL13-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.qchm.edu.cn",
+      "ip": "222.195.160.1"
+    },
+    {
+      "host": "dns2.qchm.edu.cn",
+      "ip": "222.195.160.2"
+    }
+  ],
+  "address": [
+    "qingdao, SD 266100",
+    "China"
+  ],
+  "raw_note": null
+}

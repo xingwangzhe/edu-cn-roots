@@ -1,0 +1,28 @@
+{
+  "root_domain": "sus.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai University of Sport",
+  "org_cn": null,
+  "domain_name": "SUS.EDU.CN",
+  "network_name": "SIPE-CN",
+  "admin_contact": "Hailin Luo (HL9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sus.edu.cn",
+      "ip": "219.220.200.1"
+    },
+    {
+      "host": "dns2.sus.edu.cn",
+      "ip": "219.220.200.2"
+    },
+    {
+      "host": "dns3.sus.edu.cn",
+      "ip": "101.231.216.222"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200438",
+    "China"
+  ],
+  "raw_note": null
+}

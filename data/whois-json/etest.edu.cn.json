@@ -1,0 +1,24 @@
+{
+  "root_domain": "etest.edu.cn",
+  "type": "full_record",
+  "org_en": "National Education Examinations Authority",
+  "org_cn": null,
+  "domain_name": "ETEST.EDU.CN",
+  "network_name": "NEEA-CN",
+  "admin_contact": "Lei Shi (LS43-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.etest.edu.cn",
+      "ip": "121.194.8.121"
+    },
+    {
+      "host": "dns2.etest.edu.cn",
+      "ip": "121.194.8.122"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

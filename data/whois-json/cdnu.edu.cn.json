@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu Normal University",
+  "org_cn": null,
+  "domain_name": "CDNU.EDU.CN",
+  "network_name": "SCCE-CN",
+  "admin_contact": "Rentai Chen (RC9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cdnu.edu.cn",
+      "ip": "218.194.64.101"
+    },
+    {
+      "host": "dns2.cdnu.edu.cn",
+      "ip": "218.194.64.102"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610041",
+    "China"
+  ],
+  "raw_note": null
+}

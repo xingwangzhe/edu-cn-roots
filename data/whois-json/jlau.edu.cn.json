@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlau.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin Agriculture University",
+  "org_cn": null,
+  "domain_name": "JLAU.EDU.CN",
+  "network_name": "JLAU-CN",
+  "admin_contact": "Litai Hao (LH7-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.JLAU.EDU.CN",
+      "ip": "202.198.0.8"
+    },
+    {
+      "host": "DNS1.JLAU.EDU.CN",
+      "ip": "202.198.0.6"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130118",
+    "China"
+  ],
+  "raw_note": null
+}

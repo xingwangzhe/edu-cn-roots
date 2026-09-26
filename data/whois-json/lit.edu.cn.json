@@ -1,0 +1,24 @@
+{
+  "root_domain": "lit.edu.cn",
+  "type": "full_record",
+  "org_en": "Luoyang Institute of Science and Technology",
+  "org_cn": null,
+  "domain_name": "LIT.EDU.CN",
+  "network_name": "LYCT-CN",
+  "admin_contact": "Zi Li (ZL19-CER)",
+  "nameservers": [
+    {
+      "host": "dns.lit.edu.cn",
+      "ip": "202.196.192.9"
+    },
+    {
+      "host": "dns1.lit.edu.cn",
+      "ip": "202.196.192.18"
+    }
+  ],
+  "address": [
+    "Luoyang, HA 471023",
+    "China"
+  ],
+  "raw_note": null
+}

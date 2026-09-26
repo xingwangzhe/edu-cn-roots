@@ -1,0 +1,24 @@
+{
+  "root_domain": "cjgz.edu.cn",
+  "type": "full_record",
+  "org_en": "Changchun Finance College",
+  "org_cn": null,
+  "domain_name": "CJGZ.EDU.CN",
+  "network_name": "CJGZ-CN",
+  "admin_contact": "Shuyou Yin (SY19-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cjgz.edu.cn",
+      "ip": "219.217.67.99"
+    },
+    {
+      "host": "dns1.cjgz.edu.cn",
+      "ip": "222.168.23.205"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130022",
+    "China"
+  ],
+  "raw_note": null
+}

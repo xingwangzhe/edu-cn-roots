@@ -1,0 +1,24 @@
+{
+  "root_domain": "sqmc.edu.cn",
+  "type": "full_record",
+  "org_en": "North Henan Medical University",
+  "org_cn": null,
+  "domain_name": "SQMC.EDU.CN",
+  "network_name": "SQCNET-CN",
+  "admin_contact": "Xinfeng Lv (XL99-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.SQMC.EDU.CN",
+      "ip": "59.70.9.2"
+    },
+    {
+      "host": "DNS2.SQMC.EDU.CN",
+      "ip": "125.40.199.158"
+    }
+  ],
+  "address": [
+    "Xinxiang, HA 453003",
+    "China"
+  ],
+  "raw_note": null
+}

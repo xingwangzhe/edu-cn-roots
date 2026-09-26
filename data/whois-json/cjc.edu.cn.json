@@ -1,0 +1,24 @@
+{
+  "root_domain": "cjc.edu.cn",
+  "type": "full_record",
+  "org_en": "Changji College",
+  "org_cn": null,
+  "domain_name": "CJC.EDU.CN",
+  "network_name": "CJC-CN",
+  "admin_contact": "Qi Min (QM10-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cjc.edu.cn",
+      "ip": "219.247.64.101"
+    },
+    {
+      "host": "dns2.cjc.edu.cn",
+      "ip": "219.247.64.102"
+    }
+  ],
+  "address": [
+    "Changji, XJ 831100",
+    "China"
+  ],
+  "raw_note": null
+}

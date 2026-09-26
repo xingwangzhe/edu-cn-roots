@@ -1,0 +1,24 @@
+{
+  "root_domain": "lpssy.edu.cn",
+  "type": "full_record",
+  "org_en": "Liupanshui Normal College",
+  "org_cn": null,
+  "domain_name": "LPSSY.EDU.CN",
+  "network_name": "LPSSZ-CN",
+  "admin_contact": "Hongwei Zuo (HZ73-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lpssy.edu.cn",
+      "ip": "222.198.242.100"
+    },
+    {
+      "host": "dns2.lpssy.edu.cn",
+      "ip": "222.198.242.200"
+    }
+  ],
+  "address": [
+    "Liupanshui, GZ 553004",
+    "China"
+  ],
+  "raw_note": null
+}

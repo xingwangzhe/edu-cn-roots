@@ -1,0 +1,24 @@
+{
+  "root_domain": "gduf.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong University of Finance",
+  "org_cn": null,
+  "domain_name": "GDUF.EDU.CN",
+  "network_name": "GZCF-CN",
+  "admin_contact": "Guifang Xu (GX9-CER)",
+  "nameservers": [
+    {
+      "host": "dns.gduf.edu.cn",
+      "ip": "218.192.12.6"
+    },
+    {
+      "host": "oar.gduf.edu.cn",
+      "ip": "183.236.81.240"
+    }
+  ],
+  "address": [
+    "Guang, GD 510521",
+    "China"
+  ],
+  "raw_note": null
+}

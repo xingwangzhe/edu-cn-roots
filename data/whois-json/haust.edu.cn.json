@@ -1,0 +1,32 @@
+{
+  "root_domain": "haust.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan University of Science and technology",
+  "org_cn": null,
+  "domain_name": "HAUST.EDU.CN",
+  "network_name": "LYIT-CN",
+  "admin_contact": "Zhihui Fan (ZF26-CER)",
+  "nameservers": [
+    {
+      "host": "dns.haust.edu.cn",
+      "ip": "210.43.0.8"
+    },
+    {
+      "host": "dns1.haust.edu.cn",
+      "ip": "210.43.0.18"
+    },
+    {
+      "host": "dns2.haust.edu.cn",
+      "ip": "210.43.1.8"
+    },
+    {
+      "host": "dns3.haust.edu.cn",
+      "ip": "210.43.1.18"
+    }
+  ],
+  "address": [
+    "Luoyang, HA 471003",
+    "China"
+  ],
+  "raw_note": null
+}

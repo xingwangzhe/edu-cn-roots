@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebeinu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei North University",
+  "org_cn": null,
+  "domain_name": "HEBEINU.EDU.CN",
+  "network_name": "HEBZJKMC-CN",
+  "admin_contact": "Weiqiang Zhang (WZ9-CER)",
+  "nameservers": [
+    {
+      "host": "dnsserver.hebeinu.edu.cn",
+      "ip": "211.81.208.2"
+    },
+    {
+      "host": "dnsserverbak.hebeinu.edu.cn",
+      "ip": "211.81.208.12"
+    }
+  ],
+  "address": [
+    "ZhangJiaKou, HE 075000",
+    "China"
+  ],
+  "raw_note": null
+}

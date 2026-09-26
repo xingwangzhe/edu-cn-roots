@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjxu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jia Xing University",
+  "org_cn": null,
+  "domain_name": "ZJXU.EDU.CN",
+  "network_name": "ZJJXC-CN",
+  "admin_contact": "Jiankai Yang (JY89-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ZJXU.edu.cn",
+      "ip": "210.33.28.1"
+    },
+    {
+      "host": "DNS2.ZJXU.edu.cn",
+      "ip": "122.225.72.66"
+    }
+  ],
+  "address": [
+    "Jia, ZJ 314001",
+    "China"
+  ],
+  "raw_note": null
+}

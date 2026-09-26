@@ -1,0 +1,24 @@
+{
+  "root_domain": "eszy.edu.cn",
+  "type": "full_record",
+  "org_en": "Enshi Institute of Technology",
+  "org_cn": null,
+  "domain_name": "ESZY.EDU.CN",
+  "network_name": "ESZY-CN",
+  "admin_contact": "Shangchun Shu (SS17-CER)",
+  "nameservers": [
+    {
+      "host": "dns.eszy.edu.cn",
+      "ip": "218.199.8.8"
+    },
+    {
+      "host": "dns1.eszy.edu.cn",
+      "ip": "221.234.72.3"
+    }
+  ],
+  "address": [
+    "ENSHI, HB 445000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqjy.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Vocational College Of Transportation",
+  "org_cn": null,
+  "domain_name": "CQJY.EDU.CN",
+  "network_name": "CQJKY-CN",
+  "admin_contact": "Yang Zhi (YZ141-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 402247",
+    "China"
+  ],
+  "raw_note": null
+}

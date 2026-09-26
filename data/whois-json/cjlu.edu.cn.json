@@ -1,0 +1,24 @@
+{
+  "root_domain": "cjlu.edu.cn",
+  "type": "full_record",
+  "org_en": "CHINA JILIANG UNIVERSITY",
+  "org_cn": null,
+  "domain_name": "CJLU.EDU.CN",
+  "network_name": "CIM-CN",
+  "admin_contact": "Haiming Li (HL141-CER)",
+  "nameservers": [
+    {
+      "host": "ns.cjlu.edu.cn",
+      "ip": "210.33.40.1"
+    },
+    {
+      "host": "nst.cjlu.edu.cn",
+      "ip": "202.107.226.173"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "uvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Urumqi Vocational University",
+  "org_cn": null,
+  "domain_name": "UVU.EDU.CN",
+  "network_name": "UVC-CN",
+  "admin_contact": "Xinhong Tang (XT4-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.UVU.EDU.CN",
+      "ip": "210.26.144.1"
+    },
+    {
+      "host": "DNS.XJU.EDU.CN",
+      "ip": "202.201.252.1"
+    }
+  ],
+  "address": [
+    "Urumqi, XJ 830002",
+    "China"
+  ],
+  "raw_note": null
+}

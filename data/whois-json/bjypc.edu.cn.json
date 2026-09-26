@@ -1,0 +1,24 @@
+{
+  "root_domain": "bjypc.edu.cn",
+  "type": "full_record",
+  "org_en": "BeiJing Youth Politics College",
+  "org_cn": null,
+  "domain_name": "BJYPC.EDU.CN",
+  "network_name": "BJYPC-CN",
+  "admin_contact": "Gang Shi (GS26-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.bjypc.edu.cn",
+      "ip": "202.204.245.5"
+    },
+    {
+      "host": "dns2.bjypc.edu.cn",
+      "ip": "202.204.246.5"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100102",
+    "China"
+  ],
+  "raw_note": null
+}

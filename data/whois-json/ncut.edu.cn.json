@@ -1,0 +1,28 @@
+{
+  "root_domain": "ncut.edu.cn",
+  "type": "full_record",
+  "org_en": "North China University Of Technology",
+  "org_cn": null,
+  "domain_name": "NCUT.EDU.CN",
+  "network_name": "NCUT-CN",
+  "admin_contact": "Shilai Ma (SM10-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.NCUT.EDU.CN",
+      "ip": "202.204.24.35"
+    },
+    {
+      "host": "NS.NCUT.EDU.CN",
+      "ip": "106.39.0.143"
+    },
+    {
+      "host": "NS2.NCUT.EDU.CN",
+      "ip": "39.106.203.196"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100144",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ynau.edu.cn",
+  "type": "full_record",
+  "org_en": "Yunnan Agricuture University",
+  "org_cn": null,
+  "domain_name": "YNAU.EDU.CN",
+  "network_name": "YNAU-CN",
+  "admin_contact": "Wang Zhengcheng (WZ2-CN)",
+  "nameservers": [
+    {
+      "host": "pridns.ynau.edu.cn",
+      "ip": "202.203.176.33"
+    },
+    {
+      "host": "secdns.ynau.edu.cn",
+      "ip": "202.203.176.34"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650000",
+    "China"
+  ],
+  "raw_note": null
+}

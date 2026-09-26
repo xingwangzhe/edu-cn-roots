@@ -1,0 +1,24 @@
+{
+  "root_domain": "hncst.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan College of Software Technology",
+  "org_cn": null,
+  "domain_name": "HNCST.EDU.CN",
+  "network_name": "HNSPI-CN",
+  "admin_contact": "Jianghao Huang (JH56-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hncst.edu.cn",
+      "ip": "222.17.240.2"
+    },
+    {
+      "host": "dns2.hncst.edu.cn",
+      "ip": "222.17.240.3"
+    }
+  ],
+  "address": [
+    "Qionghai, HI 571400",
+    "China"
+  ],
+  "raw_note": null
+}

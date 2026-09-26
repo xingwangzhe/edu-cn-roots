@@ -1,0 +1,24 @@
+{
+  "root_domain": "tsinghua6.edu.cn",
+  "type": "full_record",
+  "org_en": "Tsinghua University",
+  "org_cn": null,
+  "domain_name": "TSINGHUA6.EDU.CN",
+  "network_name": "TSINGHUA-CN",
+  "admin_contact": "Shuang Zhu (SZ1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.edu.cn",
+      "ip": "202.38.109.35"
+    },
+    {
+      "host": "dns.tsinghua.edu.cn",
+      "ip": "166.111.8.30"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

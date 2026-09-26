@@ -1,0 +1,20 @@
+{
+  "root_domain": "gzhtcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangzhou University Of Traditional Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "GZHTCM.EDU.CN",
+  "network_name": "GUANGZUTCM-CN",
+  "admin_contact": "Dexiang Huang (DH15-CER)",
+  "nameservers": [
+    {
+      "host": "gzzy420.gzhtcm.edu.cn",
+      "ip": "210.38.96.1"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510407",
+    "China"
+  ],
+  "raw_note": null
+}

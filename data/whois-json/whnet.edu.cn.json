@@ -1,0 +1,24 @@
+{
+  "root_domain": "whnet.edu.cn",
+  "type": "full_record",
+  "org_en": "CERNET Central China Regional Center",
+  "org_cn": null,
+  "domain_name": "WHNET.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Zhitang Li (ZL13-CER)",
+  "nameservers": [
+    {
+      "host": "dns.whnet.edu.cn",
+      "ip": "202.112.20.131"
+    },
+    {
+      "host": "sea.whnet.edu.cn",
+      "ip": "202.114.0.131"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430074",
+    "China"
+  ],
+  "raw_note": null
+}

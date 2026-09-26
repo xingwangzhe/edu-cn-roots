@@ -1,0 +1,24 @@
+{
+  "root_domain": "hzau.edu.cn",
+  "type": "full_record",
+  "org_en": "Huazhong Agriculture University",
+  "org_cn": null,
+  "domain_name": "HZAU.EDU.CN",
+  "network_name": "HZAU-CN",
+  "admin_contact": "Youliang Yuan (YY86-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HZAU.EDU.CN",
+      "ip": "211.69.143.1"
+    },
+    {
+      "host": "DNS1.HZAU.EDU.CN",
+      "ip": "211.69.143.2"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430070",
+    "China"
+  ],
+  "raw_note": null
+}

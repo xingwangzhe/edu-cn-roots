@@ -1,0 +1,20 @@
+{
+  "root_domain": "gzhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangzhou University",
+  "org_cn": null,
+  "domain_name": "GZHU.EDU.CN",
+  "network_name": "GUANGZU-CN",
+  "admin_contact": "Yan Gu (YG47-CER)",
+  "nameservers": [
+    {
+      "host": "newdns.gzhu.edu.cn",
+      "ip": "222.201.54.123"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510006",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ztbu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhengzhou Technology and Business University",
+  "org_cn": null,
+  "domain_name": "ZTBU.EDU.CN",
+  "network_name": "WANFANG-CN",
+  "admin_contact": "Juzheng Zhu (JZ108-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.ZTBU.EDU.CN",
+      "ip": "115.158.122.2"
+    },
+    {
+      "host": "DNS2.ZTBU.EDU.CN",
+      "ip": "218.28.29.20"
+    }
+  ],
+  "address": [
+    "zhengzhou, HA 451400",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "sqzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Shang Qiu Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "SQZY.EDU.CN",
+  "network_name": "SQZY-CN",
+  "admin_contact": "Zhenwei Chen (ZC25-CER)",
+  "nameservers": [
+    {
+      "host": "dns.sqzy.edu.cn",
+      "ip": "125.219.144.8"
+    },
+    {
+      "host": "dns2.sqzy.edu.cn",
+      "ip": "125.219.144.18"
+    },
+    {
+      "host": "dns3.sqzy.edu.cn",
+      "ip": "61.158.169.125"
+    }
+  ],
+  "address": [
+    "Shang, HA 476000",
+    "China"
+  ],
+  "raw_note": null
+}

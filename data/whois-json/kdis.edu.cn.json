@@ -1,0 +1,20 @@
+{
+  "root_domain": "kdis.edu.cn",
+  "type": "full_record",
+  "org_en": "Computer Center, Peking University",
+  "org_cn": null,
+  "domain_name": "KDIS.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Ma Hao (MH10-CER)",
+  "nameservers": [
+    {
+      "host": "ns.pku.edu.cn",
+      "ip": "162.105.129.130"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100871",
+    "China"
+  ],
+  "raw_note": null
+}

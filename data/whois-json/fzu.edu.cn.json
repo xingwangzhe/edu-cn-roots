@@ -1,0 +1,24 @@
+{
+  "root_domain": "fzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Fuzhou University",
+  "org_cn": null,
+  "domain_name": "FZU.EDU.CN",
+  "network_name": "FZU-CN",
+  "admin_contact": "Zhiqiang Yue (ZY80-CER)",
+  "nameservers": [
+    {
+      "host": "func.fzu.edu.cn",
+      "ip": "210.34.48.34"
+    },
+    {
+      "host": "dns2.fzu.edu.cn",
+      "ip": "210.34.48.48"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350002",
+    "China"
+  ],
+  "raw_note": null
+}

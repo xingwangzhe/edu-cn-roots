@@ -1,0 +1,24 @@
+{
+  "root_domain": "szmsubit.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenzhen MSU-BIT University",
+  "org_cn": null,
+  "domain_name": "SZMSUBIT.EDU.CN",
+  "network_name": "SZMSU-CN",
+  "admin_contact": "Fang Fang (FF6-CER)",
+  "nameservers": [
+    {
+      "host": "sunshine.sz.edu.cn",
+      "ip": "218.192.240.2"
+    },
+    {
+      "host": "moonlight.sz.edu.cn",
+      "ip": "218.192.240.3"
+    }
+  ],
+  "address": [
+    "Shenzhen, GD 518172",
+    "China"
+  ],
+  "raw_note": null
+}

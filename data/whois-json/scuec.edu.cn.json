@@ -1,0 +1,24 @@
+{
+  "root_domain": "scuec.edu.cn",
+  "type": "full_record",
+  "org_en": "South-central University For Ethnic Communities",
+  "org_cn": null,
+  "domain_name": "SCUEC.EDU.CN",
+  "network_name": "CSUN-CN",
+  "admin_contact": "Liang Wen (LW61-CER)",
+  "nameservers": [
+    {
+      "host": "dns.scuec.edu.cn",
+      "ip": "210.42.159.4"
+    },
+    {
+      "host": "dns2.scuec.edu.cn",
+      "ip": "210.42.159.2"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430074",
+    "China"
+  ],
+  "raw_note": null
+}

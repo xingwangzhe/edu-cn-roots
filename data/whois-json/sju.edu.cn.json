@@ -1,0 +1,24 @@
+{
+  "root_domain": "sju.edu.cn",
+  "type": "full_record",
+  "org_en": "Sanjiang University",
+  "org_cn": null,
+  "domain_name": "SJU.EDU.CN",
+  "network_name": "SJU-CN",
+  "admin_contact": "Liming Cao (LC14-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sju.edu.cn",
+      "ip": "222.193.191.250"
+    },
+    {
+      "host": "dns2.sju.edu.cn",
+      "ip": "222.193.191.251"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210012",
+    "China"
+  ],
+  "raw_note": null
+}

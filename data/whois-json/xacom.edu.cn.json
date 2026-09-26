@@ -1,0 +1,32 @@
+{
+  "root_domain": "xacom.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Conservatory Of Music",
+  "org_cn": null,
+  "domain_name": "XACOM.EDU.CN",
+  "network_name": "XACM-CN",
+  "admin_contact": "Zhang Qian (ZQ2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xacom.edu.cn",
+      "ip": "59.75.56.82"
+    },
+    {
+      "host": "dns2.xacom.edu.cn",
+      "ip": "59.75.56.83"
+    },
+    {
+      "host": "dns3.xacom.edu.cn",
+      "ip": "218.195.0.17"
+    },
+    {
+      "host": "dns4.xacom.edu.cn",
+      "ip": "218.195.0.18"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710061",
+    "China"
+  ],
+  "raw_note": null
+}

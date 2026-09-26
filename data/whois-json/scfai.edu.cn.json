@@ -1,0 +1,32 @@
+{
+  "root_domain": "scfai.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Fine Arts Institute",
+  "org_cn": null,
+  "domain_name": "SCFAI.EDU.CN",
+  "network_name": "SCFAI-CN",
+  "admin_contact": "Xiong Wei (XW95-CER)",
+  "nameservers": [
+    {
+      "host": "scfai-dns1.SCFAI.EDU.CN",
+      "ip": "210.41.63.33"
+    },
+    {
+      "host": "scfai-dns2.SCFAI.EDU.CN",
+      "ip": "210.41.63.34"
+    },
+    {
+      "host": "scfai-dns3.SCFAI.EDU.CN",
+      "ip": "183.69.156.213"
+    },
+    {
+      "host": "scfai-dns4.SCFAI.EDU.CN",
+      "ip": "183.69.156.214"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400053",
+    "China"
+  ],
+  "raw_note": null
+}

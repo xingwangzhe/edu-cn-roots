@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjbc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Business College",
+  "org_cn": null,
+  "domain_name": "ZJBC.EDU.CN",
+  "network_name": "ZJVCC-CN",
+  "admin_contact": "RunJun Ye (RY9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjbc.edu.cn",
+      "ip": "211.80.156.250"
+    },
+    {
+      "host": "dns2.zjbc.edu.cn",
+      "ip": "60.191.8.130"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310053",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "sust.edu.cn",
+  "type": "full_record",
+  "org_en": "?Shaanxi University of Science & ?Technology",
+  "org_cn": null,
+  "domain_name": "SUST.EDU.CN",
+  "network_name": "SNUST-CN",
+  "admin_contact": "Hongyan Wang (HW54-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sust.edu.cn",
+      "ip": "222.24.93.101"
+    },
+    {
+      "host": "dns2.sust.edu.cn",
+      "ip": "123.138.15.68"
+    },
+    {
+      "host": "dns3.sust.edu.cn",
+      "ip": "124.114.203.165"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710021",
+    "China"
+  ],
+  "raw_note": null
+}

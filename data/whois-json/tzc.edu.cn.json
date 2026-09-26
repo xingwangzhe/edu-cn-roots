@@ -1,0 +1,24 @@
+{
+  "root_domain": "tzc.edu.cn",
+  "type": "full_record",
+  "org_en": "Taizhou University",
+  "org_cn": null,
+  "domain_name": "TZC.EDU.CN",
+  "network_name": "TZC-CN",
+  "admin_contact": "Pingshui Chen (PC13-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TZC.EDU.CN",
+      "ip": "210.32.80.6"
+    },
+    {
+      "host": "NS2.TZC.EDU.CN",
+      "ip": "210.33.176.6"
+    }
+  ],
+  "address": [
+    "Linhai, ZJ 317000",
+    "China"
+  ],
+  "raw_note": null
+}

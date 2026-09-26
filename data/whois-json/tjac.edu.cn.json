@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjac.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Agricultural College",
+  "org_cn": null,
+  "domain_name": "TJAC.EDU.CN",
+  "network_name": "TJAC-CN",
+  "admin_contact": "Runzhao Jin (RJ1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tjac.edu.cn",
+      "ip": "211.68.250.11"
+    },
+    {
+      "host": "dns2.tjac.edu.cn",
+      "ip": "211.68.250.14"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300384",
+    "China"
+  ],
+  "raw_note": null
+}

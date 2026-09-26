@@ -1,0 +1,32 @@
+{
+  "root_domain": "pfc.edu.cn",
+  "type": "full_record",
+  "org_en": "Peking university Founder Technology College",
+  "org_cn": null,
+  "domain_name": "PFC.EDU.CN",
+  "network_name": "PUFTC-CN",
+  "admin_contact": "Chaoyu Zhang (CZ69-CER)",
+  "nameservers": [
+    {
+      "host": "dns.online.edu.cn",
+      "ip": "202.205.0.1"
+    },
+    {
+      "host": "dns2.online.edu.cn",
+      "ip": "202.205.0.2"
+    },
+    {
+      "host": "dns3.online.edu.cn",
+      "ip": "59.64.113.17"
+    },
+    {
+      "host": "dns4.online.edu.cn",
+      "ip": "58.205.215.4"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 065001",
+    "China"
+  ],
+  "raw_note": null
+}

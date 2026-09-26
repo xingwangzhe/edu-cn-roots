@@ -1,0 +1,24 @@
+{
+  "root_domain": "esu.edu.cn",
+  "type": "full_record",
+  "org_en": "East Sea University",
+  "org_cn": null,
+  "domain_name": "ESU.EDU.CN",
+  "network_name": "ESU-CN",
+  "admin_contact": "Yongchun Zhang (YZ2-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ESU.EDU.CN",
+      "ip": "210.35.112.1"
+    },
+    {
+      "host": "OAR.ESU.EDU.CN",
+      "ip": "210.35.115.1"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200241",
+    "China"
+  ],
+  "raw_note": null
+}

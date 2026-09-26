@@ -1,0 +1,28 @@
+{
+  "root_domain": "imun.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia Minzu University",
+  "org_cn": null,
+  "domain_name": "IMUN.EDU.CN",
+  "network_name": "IMUN-CN",
+  "admin_contact": "Aruohan Aruohan (AA3-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.imun.edu.cn",
+      "ip": "219.225.128.6"
+    },
+    {
+      "host": "dns2.imun.edu.cn",
+      "ip": "219.225.128.6"
+    },
+    {
+      "host": "dns3.imun.edu.cn",
+      "ip": "111.56.52.231"
+    }
+  ],
+  "address": [
+    "Tongliao, NM 028042",
+    "China"
+  ],
+  "raw_note": null
+}

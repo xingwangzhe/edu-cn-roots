@@ -1,0 +1,28 @@
+{
+  "root_domain": "ccmusic.edu.cn",
+  "type": "full_record",
+  "org_en": "China Conservatory",
+  "org_cn": null,
+  "domain_name": "CCMUSIC.EDU.CN",
+  "network_name": "CCM-CN",
+  "admin_contact": "Wendong Wang (WW57-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ccmusic.edu.cn",
+      "ip": "219.242.224.100"
+    },
+    {
+      "host": "dns2.ccmusic.edu.cn",
+      "ip": "123.119.70.69"
+    },
+    {
+      "host": "dns4.ccmusic.edu.cn",
+      "ip": "36.110.9.56"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100101",
+    "China"
+  ],
+  "raw_note": null
+}

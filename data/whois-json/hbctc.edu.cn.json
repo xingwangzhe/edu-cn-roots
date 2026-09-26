@@ -1,0 +1,28 @@
+{
+  "root_domain": "hbctc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Communications Technology College",
+  "org_cn": null,
+  "domain_name": "HBCTC.EDU.CN",
+  "network_name": "HBCS-CN",
+  "admin_contact": "Xiaobing Gong (XG3-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hbctc.edu.cn",
+      "ip": "210.42.88.8"
+    },
+    {
+      "host": "dns2.hbctc.edu.cn",
+      "ip": "61.183.207.10"
+    },
+    {
+      "host": "dns3.hbctc.edu.cn",
+      "ip": "111.4.119.27"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430073",
+    "China"
+  ],
+  "raw_note": null
+}

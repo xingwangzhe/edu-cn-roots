@@ -1,0 +1,24 @@
+{
+  "root_domain": "wzbc.edu.cn",
+  "type": "full_record",
+  "org_en": "Wenzhou Business College",
+  "org_cn": null,
+  "domain_name": "WZBC.EDU.CN",
+  "network_name": "WZBC-CN",
+  "admin_contact": "Zuoquan Zhang (ZZ78-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Wenzhou, ZJ 325035",
+    "China"
+  ],
+  "raw_note": null
+}

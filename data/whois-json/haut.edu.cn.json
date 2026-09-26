@@ -1,0 +1,28 @@
+{
+  "root_domain": "haut.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan University Of Technology",
+  "org_cn": null,
+  "domain_name": "HAUT.EDU.CN",
+  "network_name": "ZZGC-CN",
+  "admin_contact": "Rixing Xie (RX1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HAUT.EDU.CN",
+      "ip": "202.196.16.3"
+    },
+    {
+      "host": "DNS1.HAUT.EDU.CN",
+      "ip": "202.196.16.1"
+    },
+    {
+      "host": "DNS2.HAUT.EDU.CN",
+      "ip": "123.15.36.150"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450052",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu University",
+  "org_cn": null,
+  "domain_name": "CDU.EDU.CN",
+  "network_name": "CDU-CN",
+  "admin_contact": "Yuan He (YH21-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.cdu.edu.cn",
+      "ip": "202.115.80.130"
+    },
+    {
+      "host": "ns2.cdu.edu.cn",
+      "ip": "202.115.80.131"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610106",
+    "China"
+  ],
+  "raw_note": null
+}

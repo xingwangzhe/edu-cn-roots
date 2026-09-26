@@ -1,0 +1,24 @@
+{
+  "root_domain": "ustsd.edu.cn",
+  "type": "full_record",
+  "org_en": "Shangdong University Of Science & Technology(jinan)",
+  "org_cn": null,
+  "domain_name": "USTSD.EDU.CN",
+  "network_name": "SDUSTJN-CN",
+  "admin_contact": "Weiping Yang (WY7-CER)",
+  "nameservers": [
+    {
+      "host": "SDA.USTSD.EDU.CN",
+      "ip": "211.64.0.1"
+    },
+    {
+      "host": "SDB.USTSD.EDU.CN",
+      "ip": "211.64.0.2"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250031",
+    "China"
+  ],
+  "raw_note": null
+}

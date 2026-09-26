@@ -1,0 +1,28 @@
+{
+  "root_domain": "hnzj.edu.cn",
+  "type": "full_record",
+  "org_en": "HENAN Polytechnic",
+  "org_cn": null,
+  "domain_name": "HNZJ.EDU.CN",
+  "network_name": "HNZJ-CN",
+  "admin_contact": "Shouwei Lu (SL83-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hnzj.edu.cn",
+      "ip": "61.163.71.111"
+    },
+    {
+      "host": "ns2.hnzj.edu.cn",
+      "ip": "222.22.96.6"
+    },
+    {
+      "host": "ns3.hnzj.edu.cn",
+      "ip": "1.192.169.106"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450046",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdwu.edu.cn",
+  "type": "full_record",
+  "org_en": "ShanDong Women University",
+  "org_cn": null,
+  "domain_name": "SDWU.EDU.CN",
+  "network_name": "CWCSD-CN",
+  "admin_contact": "Xinhua Li (XL137-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sdwu.edu.cn",
+      "ip": "222.207.246.158"
+    },
+    {
+      "host": "dns2.sdwu.edu.cn",
+      "ip": "222.207.246.168"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250300",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "szjm.edu.cn",
+  "type": "full_record",
+  "org_en": "Suzhou Institute of Trade & Commerce",
+  "org_cn": null,
+  "domain_name": "SZJM.EDU.CN",
+  "network_name": "SITC-CN",
+  "admin_contact": "Jianhua Zhu (JZ50-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.szjm.edu.cn",
+      "ip": "222.192.144.21"
+    },
+    {
+      "host": "dns2.szjm.edu.cn",
+      "ip": "222.192.144.22"
+    }
+  ],
+  "address": [
+    "suzhou, JS 215021",
+    "China"
+  ],
+  "raw_note": null
+}

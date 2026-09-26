@@ -1,0 +1,24 @@
+{
+  "root_domain": "zsc.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Electronic Science and Technology of China",
+  "org_cn": null,
+  "domain_name": "ZSC.EDU.CN",
+  "network_name": "ZSC-CN",
+  "admin_contact": "Shibing Pan (SP2-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.zsc.edu.cn",
+      "ip": "210.38.224.68"
+    },
+    {
+      "host": "ns2.zsc.edu.cn",
+      "ip": "210.38.224.69"
+    }
+  ],
+  "address": [
+    "Zhongshan, GD 528402",
+    "China"
+  ],
+  "raw_note": null
+}

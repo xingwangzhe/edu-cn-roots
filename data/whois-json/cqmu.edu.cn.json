@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chong Qing Medical University",
+  "org_cn": null,
+  "domain_name": "CQMU.EDU.CN",
+  "network_name": "CQUMS-CN",
+  "admin_contact": "Fei Xu (FX15-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cqmu.edu.cn",
+      "ip": "202.202.136.118"
+    },
+    {
+      "host": "dns2.cqmu.edu.cn",
+      "ip": "183.64.83.68"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400016",
+    "China"
+  ],
+  "raw_note": null
+}

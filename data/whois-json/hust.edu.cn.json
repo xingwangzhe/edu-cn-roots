@@ -1,0 +1,24 @@
+{
+  "root_domain": "hust.edu.cn",
+  "type": "full_record",
+  "org_en": "Huazhong University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "HUST.EDU.CN",
+  "network_name": "HUST-CN",
+  "admin_contact": "Zhitang Li (ZL13-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hust.edu.cn",
+      "ip": "202.114.0.120"
+    },
+    {
+      "host": "dns2.hust.edu.cn",
+      "ip": "59.172.234.181"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430074",
+    "China"
+  ],
+  "raw_note": null
+}

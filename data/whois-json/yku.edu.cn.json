@@ -1,0 +1,24 @@
+{
+  "root_domain": "yku.edu.cn",
+  "type": "full_record",
+  "org_en": "Yingkou University of Technology",
+  "org_cn": null,
+  "domain_name": "YKU.EDU.CN",
+  "network_name": "YKUC-CN",
+  "admin_contact": "Gao Zhen (GZ38-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.yku.edu.cn",
+      "ip": "118.202.127.2"
+    },
+    {
+      "host": "ns2.yku.edu.cn",
+      "ip": "118.202.127.1"
+    }
+  ],
+  "address": [
+    "Yingkou, LN 115014",
+    "China"
+  ],
+  "raw_note": null
+}

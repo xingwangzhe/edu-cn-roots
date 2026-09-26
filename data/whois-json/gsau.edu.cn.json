@@ -1,0 +1,32 @@
+{
+  "root_domain": "gsau.edu.cn",
+  "type": "full_record",
+  "org_en": "Gansu Agricultural University",
+  "org_cn": null,
+  "domain_name": "GSAU.EDU.CN",
+  "network_name": "GSAU-CN",
+  "admin_contact": "Kang Lijun (KL15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.GSAU.EDU.CN",
+      "ip": "202.201.64.1"
+    },
+    {
+      "host": "DNS2.GSAU.EDU.CN",
+      "ip": "202.201.64.2"
+    },
+    {
+      "host": "DNS3.GSAU.EDU.CN",
+      "ip": "2001:DA8:C006:1::1"
+    },
+    {
+      "host": "DNS4.GSAU.EDU.CN",
+      "ip": "2001:DA8:C006:1::2"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730070",
+    "China"
+  ],
+  "raw_note": null
+}

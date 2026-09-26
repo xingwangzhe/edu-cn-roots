@@ -1,0 +1,36 @@
+{
+  "root_domain": "jmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jimei University",
+  "org_cn": null,
+  "domain_name": "JMU.EDU.CN",
+  "network_name": "JMU-CN",
+  "admin_contact": "Binqi Li (BL3-CN)",
+  "nameservers": [
+    {
+      "host": "dns.jmu.edu.cn",
+      "ip": "210.34.128.33"
+    },
+    {
+      "host": "dns2.jmu.edu.cn",
+      "ip": "210.34.128.32"
+    },
+    {
+      "host": "dnsct.jmu.edu.cn",
+      "ip": "222.76.205.140"
+    },
+    {
+      "host": "dnsct2.jmu.edu.cn",
+      "ip": "222.76.205.141"
+    },
+    {
+      "host": "dnsun.jmu.edu.cn",
+      "ip": "58.23.13.251"
+    }
+  ],
+  "address": [
+    "Xiamen, FJ 361021",
+    "China"
+  ],
+  "raw_note": null
+}

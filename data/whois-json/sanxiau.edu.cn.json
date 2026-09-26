@@ -1,0 +1,24 @@
+{
+  "root_domain": "sanxiau.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Sanxia University Of Science And Technology",
+  "org_cn": null,
+  "domain_name": "SANXIAU.EDU.CN",
+  "network_name": "CTGC-CN",
+  "admin_contact": "Yizhi Zhang (YZ88-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SANXIAU.EDU.CN",
+      "ip": "202.202.160.2"
+    },
+    {
+      "host": "DNS2.SANXIAU.EDU.CN",
+      "ip": "202.202.160.6"
+    }
+  ],
+  "address": [
+    "Wanzhou, CQ 404000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,20 @@
+{
+  "root_domain": "ahsa.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui School Of Administration",
+  "org_cn": null,
+  "domain_name": "AHSA.EDU.CN",
+  "network_name": "AEMI-CN",
+  "admin_contact": "Weiliang Zhou (WZ22-CER)",
+  "nameservers": [
+    {
+      "host": "dns.ahsa.edu.cn",
+      "ip": "211.86.160.4"
+    }
+  ],
+  "address": [
+    "HeFei, AH 230059",
+    "China"
+  ],
+  "raw_note": null
+}

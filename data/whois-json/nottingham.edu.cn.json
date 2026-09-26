@@ -1,0 +1,28 @@
+{
+  "root_domain": "nottingham.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Nottingham-Ningbo, China",
+  "org_cn": null,
+  "domain_name": "NOTTINGHAM.EDU.CN",
+  "network_name": "NDHU-CN",
+  "admin_contact": "Hua Wei (HW40-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nottingham.edu.cn",
+      "ip": "121.192.0.11"
+    },
+    {
+      "host": "dns2.nottingham.edu.cn",
+      "ip": "220.191.168.9"
+    },
+    {
+      "host": "dns3.nottingham.edu.cn",
+      "ip": "140.205.228.53"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315100",
+    "China"
+  ],
+  "raw_note": null
+}

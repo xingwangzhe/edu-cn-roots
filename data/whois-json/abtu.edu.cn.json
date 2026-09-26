@@ -1,0 +1,24 @@
+{
+  "root_domain": "abtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Aba Teachers University",
+  "org_cn": null,
+  "domain_name": "ABTU.EDU.CN",
+  "network_name": "ABTC-CN",
+  "admin_contact": "Rui Li (RL16-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.abtu.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.abtu.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Wenchuan, SC 623002",
+    "China"
+  ],
+  "raw_note": null
+}

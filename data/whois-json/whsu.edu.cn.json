@@ -1,0 +1,24 @@
+{
+  "root_domain": "whsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Sports University",
+  "org_cn": null,
+  "domain_name": "WHSU.EDU.CN",
+  "network_name": "WHIPE-CN",
+  "admin_contact": "Xidong Huang (XH50-CER)",
+  "nameservers": [
+    {
+      "host": "dns.whsu.edu.cn",
+      "ip": "218.197.64.8"
+    },
+    {
+      "host": "dns2.whsu.edu.cn",
+      "ip": "218.197.64.18"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430079",
+    "China"
+  ],
+  "raw_note": null
+}

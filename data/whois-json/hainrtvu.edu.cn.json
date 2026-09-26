@@ -1,0 +1,24 @@
+{
+  "root_domain": "hainrtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan Open University",
+  "org_cn": null,
+  "domain_name": "HAINRTVU.EDU.CN",
+  "network_name": "HIDD-CN",
+  "admin_contact": "Bin Lin (BL4-CER)",
+  "nameservers": [
+    {
+      "host": "COCOWIND.HAINRTVU.EDU.CN",
+      "ip": "210.37.120.33"
+    },
+    {
+      "host": "COCOILAND.HAINRTVU.EDU.CN",
+      "ip": "210.37.120.34"
+    }
+  ],
+  "address": [
+    "Haikou, HI 570105",
+    "China"
+  ],
+  "raw_note": null
+}

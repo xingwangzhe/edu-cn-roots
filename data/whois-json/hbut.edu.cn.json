@@ -1,0 +1,32 @@
+{
+  "root_domain": "hbut.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei University of Technology",
+  "org_cn": null,
+  "domain_name": "HBUT.EDU.CN",
+  "network_name": "HUBPU-CN",
+  "admin_contact": "Zheng Huang (ZH2-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbut.edu.cn",
+      "ip": "125.220.197.10"
+    },
+    {
+      "host": "dns1.hbut.edu.cn",
+      "ip": "125.220.197.11"
+    },
+    {
+      "host": "dns10.hbut.edu.cn",
+      "ip": "202.114.176.10"
+    },
+    {
+      "host": "ltdns.hbut.edu.cn",
+      "ip": "202.114.176.11"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430068",
+    "China"
+  ],
+  "raw_note": null
+}

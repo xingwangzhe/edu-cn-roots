@@ -1,0 +1,24 @@
+{
+  "root_domain": "fafu.edu.cn",
+  "type": "full_record",
+  "org_en": "Fujian Agriculture and Forestry University",
+  "org_cn": null,
+  "domain_name": "FAFU.EDU.CN",
+  "network_name": "FJAU-CN",
+  "admin_contact": "Jianmin Lin (JL98-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fafu.edu.cn",
+      "ip": "210.34.80.1"
+    },
+    {
+      "host": "dns2.fafu.edu.cn",
+      "ip": "210.34.80.2"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350002",
+    "China"
+  ],
+  "raw_note": null
+}

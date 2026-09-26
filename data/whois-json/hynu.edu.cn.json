@@ -1,0 +1,28 @@
+{
+  "root_domain": "hynu.edu.cn",
+  "type": "full_record",
+  "org_en": "HengYang Normal University",
+  "org_cn": null,
+  "domain_name": "HYNU.EDU.CN",
+  "network_name": "HYNU-CN",
+  "admin_contact": "Jun Yin (JY20-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hynu.edu.cn",
+      "ip": "211.69.105.8"
+    },
+    {
+      "host": "dns3.hynu.edu.cn",
+      "ip": "211.69.105.9"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Heng, HN 421008",
+    "China"
+  ],
+  "raw_note": null
+}

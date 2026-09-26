@@ -1,0 +1,24 @@
+{
+  "root_domain": "njit.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Institute Of Eengineering",
+  "org_cn": null,
+  "domain_name": "NJIT.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Jianfei Kan (JK3-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NJIT.EDU.CN",
+      "ip": "202.119.160.11"
+    },
+    {
+      "host": "DNS2.NJIT.EDU.CN",
+      "ip": "202.119.160.12"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210013",
+    "China"
+  ],
+  "raw_note": null
+}

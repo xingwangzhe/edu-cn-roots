@@ -1,0 +1,24 @@
+{
+  "root_domain": "helc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei College Of Politics And Law Cadres",
+  "org_cn": null,
+  "domain_name": "HELC.EDU.CN",
+  "network_name": "HEBCPLC-CN",
+  "admin_contact": "Zhenqi Guo (ZG20-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050061",
+    "China"
+  ],
+  "raw_note": null
+}

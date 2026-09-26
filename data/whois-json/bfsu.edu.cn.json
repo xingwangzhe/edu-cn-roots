@@ -1,0 +1,24 @@
+{
+  "root_domain": "bfsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Foreign Studies University",
+  "org_cn": null,
+  "domain_name": "BFSU.EDU.CN",
+  "network_name": "BFSU-CN",
+  "admin_contact": "Mu Ji (MJ1-CER)",
+  "nameservers": [
+    {
+      "host": "BFSUWEB.BFSU.EDU.CN",
+      "ip": "202.204.128.12"
+    },
+    {
+      "host": "BFSUINS.BFSU.EDU.CN",
+      "ip": "202.204.128.13"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100081",
+    "China"
+  ],
+  "raw_note": null
+}

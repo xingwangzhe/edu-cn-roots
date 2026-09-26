@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Huanghe JiaoTong University",
+  "org_cn": null,
+  "domain_name": "ZJTU.EDU.CN",
+  "network_name": "ZZJTU-CN",
+  "admin_contact": "Changben Chao (CC3-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Jiaozuo, HA 450062",
+    "China"
+  ],
+  "raw_note": null
+}

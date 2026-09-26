@@ -1,0 +1,24 @@
+{
+  "root_domain": "tzvcst.edu.cn",
+  "type": "full_record",
+  "org_en": "Taizhou Vocational College Of Science and Technology",
+  "org_cn": null,
+  "domain_name": "TZVCST.EDU.CN",
+  "network_name": "TZVCST-CN",
+  "admin_contact": "Liqun Miao (LM24-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tzvcst.edu.cn",
+      "ip": "121.192.2.88"
+    },
+    {
+      "host": "dns2.tzvcst.edu.cn",
+      "ip": "122.226.145.42"
+    }
+  ],
+  "address": [
+    "Taizhou, ZJ 318020",
+    "China"
+  ],
+  "raw_note": null
+}

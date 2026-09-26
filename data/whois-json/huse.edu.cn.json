@@ -1,0 +1,28 @@
+{
+  "root_domain": "huse.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan University of Science & Engineering",
+  "org_cn": null,
+  "domain_name": "HUSE.EDU.CN",
+  "network_name": "HUSE-CN",
+  "admin_contact": "Hongxing Ou (HO1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.huse.edu.cn",
+      "ip": "59.71.48.8"
+    },
+    {
+      "host": "dns2.huse.edu.cn",
+      "ip": "59.71.48.16"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Yongzhou, HN 425006",
+    "China"
+  ],
+  "raw_note": null
+}

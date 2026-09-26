@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzit.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou Institute of Technology",
+  "org_cn": null,
+  "domain_name": "LZIT.EDU.CN",
+  "network_name": "LZPTC-CN",
+  "admin_contact": "Hui He (HH28-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.lzit.edu.cn",
+      "ip": "210.26.16.25"
+    },
+    {
+      "host": "ns2.lzit.edu.cn",
+      "ip": "210.26.16.26"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730050",
+    "China"
+  ],
+  "raw_note": null
+}

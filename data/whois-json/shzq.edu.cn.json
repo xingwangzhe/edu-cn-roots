@@ -1,0 +1,24 @@
+{
+  "root_domain": "shzq.edu.cn",
+  "type": "full_record",
+  "org_en": "中侨职业技术学院",
+  "org_cn": null,
+  "domain_name": "SHZQ.EDU.CN",
+  "network_name": "SHZQ-CN",
+  "admin_contact": "Peng Wei (PW9-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 2001319",
+    "China"
+  ],
+  "raw_note": null
+}

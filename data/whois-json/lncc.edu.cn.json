@@ -1,0 +1,28 @@
+{
+  "root_domain": "lncc.edu.cn",
+  "type": "full_record",
+  "org_en": "Liaoning Province College of Communications",
+  "org_cn": null,
+  "domain_name": "LNCC.EDU.CN",
+  "network_name": "LNCC-CN",
+  "admin_contact": "Wei Cao (WC39-CER)",
+  "nameservers": [
+    {
+      "host": "NS.LNCC.EDU.CN",
+      "ip": "202.199.184.1"
+    },
+    {
+      "host": "NS2.LNCC.EDU.CN",
+      "ip": "219.216.8.1"
+    },
+    {
+      "host": "NS3.LNCC.EDU.CN",
+      "ip": "59.46.66.46"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110122",
+    "China"
+  ],
+  "raw_note": null
+}

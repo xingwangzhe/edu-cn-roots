@@ -1,0 +1,24 @@
+{
+  "root_domain": "sz.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenzhen Education Information Technology Center",
+  "org_cn": null,
+  "domain_name": "SZ.EDU.CN",
+  "network_name": "SZERNET-CN",
+  "admin_contact": "Liang Feng (LF14-CER)",
+  "nameservers": [
+    {
+      "host": "sunshine.sz.edu.cn",
+      "ip": "218.192.240.2"
+    },
+    {
+      "host": "moonlight.sz.edu.cn",
+      "ip": "218.192.240.3"
+    }
+  ],
+  "address": [
+    "Shenzhen, GD 518000",
+    "China"
+  ],
+  "raw_note": null
+}

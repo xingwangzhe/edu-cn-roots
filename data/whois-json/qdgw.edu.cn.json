@@ -1,0 +1,24 @@
+{
+  "root_domain": "qdgw.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao Harbor Vocational & Technical College",
+  "org_cn": null,
+  "domain_name": "QDGW.EDU.CN",
+  "network_name": "QDGW-CN",
+  "admin_contact": "Haizhen Song (HS11-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.qdgw.edu.cn",
+      "ip": "222.206.220.98"
+    },
+    {
+      "host": "dns2.qdgw.edu.cn",
+      "ip": "222.206.220.99"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266404",
+    "China"
+  ],
+  "raw_note": null
+}

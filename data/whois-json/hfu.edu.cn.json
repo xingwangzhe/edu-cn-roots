@@ -1,0 +1,20 @@
+{
+  "root_domain": "hfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Heilongjiang University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "HFU.EDU.CN",
+  "network_name": "HDQCC-CN",
+  "admin_contact": "Haitao Geng (HG24-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hfu.edu.cn",
+      "ip": "118.203.200.13"
+    }
+  ],
+  "address": [
+    "HARBin, HL 150001",
+    "China"
+  ],
+  "raw_note": null
+}

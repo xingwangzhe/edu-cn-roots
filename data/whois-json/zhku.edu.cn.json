@@ -1,0 +1,24 @@
+{
+  "root_domain": "zhku.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhongkai University of Agriculture and Engineering",
+  "org_cn": null,
+  "domain_name": "ZHKU.EDU.CN",
+  "network_name": "ZKAIT-CN",
+  "admin_contact": "Yi Lu (YL29-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510225",
+    "China"
+  ],
+  "raw_note": null
+}

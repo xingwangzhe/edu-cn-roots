@@ -1,0 +1,28 @@
+{
+  "root_domain": "hainmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan Medical University",
+  "org_cn": null,
+  "domain_name": "HAINMC.EDU.CN",
+  "network_name": "HAINMC-CN",
+  "admin_contact": "Huang Binwen (HB7-CER)",
+  "nameservers": [
+    {
+      "host": "WWW.HAINMC.EDU.CN",
+      "ip": "210.37.79.1"
+    },
+    {
+      "host": "WWW2.HAINMC.EDU.CN",
+      "ip": "210.37.79.2"
+    },
+    {
+      "host": "INF.HAINMC.EDU.CN",
+      "ip": "210.37.79.3"
+    }
+  ],
+  "address": [
+    "Haikou, HI 571199",
+    "China"
+  ],
+  "raw_note": null
+}

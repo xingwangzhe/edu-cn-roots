@@ -1,0 +1,24 @@
+{
+  "root_domain": "jxufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangxi University Of Finance And Economics",
+  "org_cn": null,
+  "domain_name": "JXUFE.EDU.CN",
+  "network_name": "JXUFE-CN",
+  "admin_contact": "Sian Wu (SW18-AP)",
+  "nameservers": [
+    {
+      "host": "DNS.JXUFE.EDU.CN",
+      "ip": "210.35.207.8"
+    },
+    {
+      "host": "MAIL.JXUFE.EDU.CN",
+      "ip": "210.35.207.9"
+    }
+  ],
+  "address": [
+    "Nanchang, JX 330013",
+    "China"
+  ],
+  "raw_note": null
+}

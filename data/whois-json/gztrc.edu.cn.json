@@ -1,0 +1,24 @@
+{
+  "root_domain": "gztrc.edu.cn",
+  "type": "full_record",
+  "org_en": "Tongren College",
+  "org_cn": null,
+  "domain_name": "GZTRC.EDU.CN",
+  "network_name": "GZTRC-CN",
+  "admin_contact": "Yifeng Jia (YJ24-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "tongren, GZ 554300",
+    "China"
+  ],
+  "raw_note": null
+}

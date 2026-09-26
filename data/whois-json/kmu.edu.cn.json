@@ -1,0 +1,24 @@
+{
+  "root_domain": "kmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Kunming University",
+  "org_cn": null,
+  "domain_name": "KMU.EDU.CN",
+  "network_name": "KMU-CN",
+  "admin_contact": "Zhenbi Liang (ZL109-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.KMU.EDU.CN",
+      "ip": "202.203.0.202"
+    },
+    {
+      "host": "DNS2.KMU.EDU.CN",
+      "ip": "202.203.6.202"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650214",
+    "China"
+  ],
+  "raw_note": null
+}

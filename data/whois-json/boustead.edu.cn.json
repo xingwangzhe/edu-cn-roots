@@ -1,0 +1,32 @@
+{
+  "root_domain": "boustead.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University of Commerce Boustead College",
+  "org_cn": null,
+  "domain_name": "BOUSTEAD.EDU.CN",
+  "network_name": "BOUSTEAD-CN",
+  "admin_contact": "Liu Dongpeng (LD6-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.boustead.edu.cn",
+      "ip": "219.243.24.10"
+    },
+    {
+      "host": "dns2.boustead.edu.cn",
+      "ip": "219.243.24.11"
+    },
+    {
+      "host": "yundns1.boustead.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "yundns2.boustead.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300084",
+    "China"
+  ],
+  "raw_note": null
+}

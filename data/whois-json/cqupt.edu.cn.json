@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqupt.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing University of Posts and Telecommunications",
+  "org_cn": null,
+  "domain_name": "CQUPT.EDU.CN",
+  "network_name": "CQUPT-CN",
+  "admin_contact": "Chang Su (CS14-CER)",
+  "nameservers": [
+    {
+      "host": "cqupts1.cqupt.edu.cn",
+      "ip": "202.202.32.33"
+    },
+    {
+      "host": "cqupts2.cqupt.edu.cn",
+      "ip": "202.202.32.34"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400065",
+    "China"
+  ],
+  "raw_note": null
+}

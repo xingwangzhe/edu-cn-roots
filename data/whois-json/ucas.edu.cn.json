@@ -1,0 +1,24 @@
+{
+  "root_domain": "ucas.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Chinese Academy of Sciences",
+  "org_cn": null,
+  "domain_name": "UCAS.EDU.CN",
+  "network_name": "UCAS-CN",
+  "admin_contact": "Jianxiong Shi (JS32-CER)",
+  "nameservers": [
+    {
+      "host": "gsns.ucas.edu.cn",
+      "ip": "210.77.16.1"
+    },
+    {
+      "host": "dns.ucas.edu.cn",
+      "ip": "121.195.186.1"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100101",
+    "China"
+  ],
+  "raw_note": null
+}

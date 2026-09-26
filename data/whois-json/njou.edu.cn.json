@@ -1,0 +1,24 @@
+{
+  "root_domain": "njou.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Open University",
+  "org_cn": null,
+  "domain_name": "NJOU.EDU.CN",
+  "network_name": "NJRTVU-CN",
+  "admin_contact": "Zhou Dong (ZD12-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.njou.edu.cn",
+      "ip": "210.29.112.88"
+    },
+    {
+      "host": "dns2.njou.edu.cn",
+      "ip": "210.29.112.89"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210002",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "nefu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeast Forestry University",
+  "org_cn": null,
+  "domain_name": "NEFU.EDU.CN",
+  "network_name": "NEFU-CN",
+  "admin_contact": "Yang Liu (YL216-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.nefu.edu.cn",
+      "ip": "202.118.223.1"
+    },
+    {
+      "host": "ns2.nefu.edu.cn",
+      "ip": "202.118.223.2"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150040",
+    "China"
+  ],
+  "raw_note": null
+}

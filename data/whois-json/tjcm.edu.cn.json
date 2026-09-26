@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Conservatory Of Music",
+  "org_cn": null,
+  "domain_name": "TJCM.EDU.CN",
+  "network_name": "TJCM-CN",
+  "admin_contact": "Rong Wang (RW1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.TJCM.EDU.CN",
+      "ip": "211.68.192.11"
+    },
+    {
+      "host": "DNS2.TJCM.EDU.CN",
+      "ip": "211.68.192.31"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300171",
+    "China"
+  ],
+  "raw_note": null
+}

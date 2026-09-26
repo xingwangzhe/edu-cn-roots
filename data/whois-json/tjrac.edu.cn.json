@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjrac.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University RenAi College",
+  "org_cn": null,
+  "domain_name": "TJRAC.EDU.CN",
+  "network_name": "TJRAU-CN",
+  "admin_contact": "Lei Wang (LW65-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tjrac.edu.cn",
+      "ip": "59.67.168.254"
+    },
+    {
+      "host": "dns2.tjrac.edu.cn",
+      "ip": "59.67.168.253"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 301636",
+    "China"
+  ],
+  "raw_note": null
+}

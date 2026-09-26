@@ -1,0 +1,28 @@
+{
+  "root_domain": "swufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest University of Finance & Economics",
+  "org_cn": null,
+  "domain_name": "SWUFE.EDU.CN",
+  "network_name": "SWUFE-CN",
+  "admin_contact": "Kanwen Zhou (KZ1-CN)",
+  "nameservers": [
+    {
+      "host": "pridns.swufe.edu.cn",
+      "ip": "202.115.112.33"
+    },
+    {
+      "host": "secdns.swufe.edu.cn",
+      "ip": "202.115.112.34"
+    },
+    {
+      "host": "dns.swufe.edu.cn",
+      "ip": "221.237.161.220"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610074",
+    "China"
+  ],
+  "raw_note": null
+}

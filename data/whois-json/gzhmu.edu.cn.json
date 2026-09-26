@@ -1,0 +1,24 @@
+{
+  "root_domain": "gzhmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guang Zhou Medical University",
+  "org_cn": null,
+  "domain_name": "GZHMU.EDU.CN",
+  "network_name": "GUANGZMC-CN",
+  "admin_contact": "Gang Wang (GW2-CER)",
+  "nameservers": [
+    {
+      "host": "DN.GZHMU.EDU.CN",
+      "ip": "210.38.56.3"
+    },
+    {
+      "host": "DN6.GZHMU.EDU.CN",
+      "ip": "2001:250:3045:4999::3"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510182",
+    "China"
+  ],
+  "raw_note": null
+}

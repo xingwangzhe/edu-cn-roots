@@ -1,0 +1,24 @@
+{
+  "root_domain": "ivt.edu.cn",
+  "type": "full_record",
+  "org_en": "Suzhou Industrial Park Institute of Vocational Technology",
+  "org_cn": null,
+  "domain_name": "IVT.EDU.CN",
+  "network_name": "SIPIVT-CN",
+  "admin_contact": "Yongqing Huang (YH27-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ivt.edu.cn",
+      "ip": "219.219.12.2"
+    },
+    {
+      "host": "dns2.ivt.edu.cn",
+      "ip": "219.219.13.2"
+    }
+  ],
+  "address": [
+    "Suzhou, JS 215021",
+    "China"
+  ],
+  "raw_note": null
+}

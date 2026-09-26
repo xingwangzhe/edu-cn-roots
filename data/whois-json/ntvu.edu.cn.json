@@ -1,0 +1,24 @@
+{
+  "root_domain": "ntvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nantong Vocational University",
+  "org_cn": null,
+  "domain_name": "NTVU.EDU.CN",
+  "network_name": "NTVC-CN",
+  "admin_contact": "Zongyuan Bian (ZB1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NTVU.EDU.CN",
+      "ip": "202.195.40.61"
+    },
+    {
+      "host": "DNS2.NTVU.EDU.CN",
+      "ip": "202.195.40.62"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226007",
+    "China"
+  ],
+  "raw_note": null
+}

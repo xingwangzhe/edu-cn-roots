@@ -1,0 +1,24 @@
+{
+  "root_domain": "hifa.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Institute of Fine Arts",
+  "org_cn": null,
+  "domain_name": "HIFA.EDU.CN",
+  "network_name": "HIFAA-CN",
+  "admin_contact": "Huang Bin (HB4-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hifa.edu.cn",
+      "ip": "115.156.33.131"
+    },
+    {
+      "host": "dns2.hifa.edu.cn",
+      "ip": "59.175.200.86"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430060",
+    "China"
+  ],
+  "raw_note": null
+}

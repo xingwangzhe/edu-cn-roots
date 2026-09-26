@@ -1,0 +1,32 @@
+{
+  "root_domain": "qhwszy.edu.cn",
+  "type": "full_record",
+  "org_en": "Qinghai Professional Technical Health College",
+  "org_cn": null,
+  "domain_name": "QHWSZY.EDU.CN",
+  "network_name": "QHWSZY-CN",
+  "admin_contact": "Juan Han (JH30-CER)",
+  "nameservers": [
+    {
+      "host": "dns.qhwszy.edu.cn",
+      "ip": "59.75.192.246"
+    },
+    {
+      "host": "dns1.qhwszy.edu.cn",
+      "ip": "59.75.192.245"
+    },
+    {
+      "host": "dns2.qhwszy.edu.cn",
+      "ip": "59.75.198.246"
+    },
+    {
+      "host": "dns3.qhwszy.edu.cn",
+      "ip": "59.75.198.245"
+    }
+  ],
+  "address": [
+    "xinning, QH 810000",
+    "China"
+  ],
+  "raw_note": null
+}

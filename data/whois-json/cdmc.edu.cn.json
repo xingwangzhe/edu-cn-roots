@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengde Medical College",
+  "org_cn": null,
+  "domain_name": "CDMC.EDU.CN",
+  "network_name": "CDYXY-CN",
+  "admin_contact": "Wang Xiaochun (WX10-CER)",
+  "nameservers": [
+    {
+      "host": "DNSM.CDMC.EDU.CN",
+      "ip": "211.81.224.1"
+    },
+    {
+      "host": "DNSS.CDMC.EDU.CN",
+      "ip": "211.81.224.2"
+    }
+  ],
+  "address": [
+    "Chengde, HE 067000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,32 @@
+{
+  "root_domain": "gdut.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong University of Technology",
+  "org_cn": null,
+  "domain_name": "GDUT.EDU.CN",
+  "network_name": "GDUT-CN",
+  "admin_contact": "Guang Feng (GF1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.gdut.edu.cn",
+      "ip": "202.116.128.1"
+    },
+    {
+      "host": "dns1.gdut.edu.cn",
+      "ip": "202.116.128.2"
+    },
+    {
+      "host": "dns2.gdut.edu.cn",
+      "ip": "222.200.115.251"
+    },
+    {
+      "host": "dns3.gdut.edu.cn",
+      "ip": "222.200.115.252"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510006",
+    "China"
+  ],
+  "raw_note": null
+}

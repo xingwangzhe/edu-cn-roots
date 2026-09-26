@@ -1,0 +1,24 @@
+{
+  "root_domain": "jxue.edu.cn",
+  "type": "full_record",
+  "org_en": "JiangXi University Of Engineering",
+  "org_cn": null,
+  "domain_name": "JXUE.EDU.CN",
+  "network_name": "YKXY-CN",
+  "admin_contact": "Zihu Wang (ZW94-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Xinyu, JX 338029",
+    "China"
+  ],
+  "raw_note": null
+}

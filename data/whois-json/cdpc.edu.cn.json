@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Petroleum University Of Technology",
+  "org_cn": null,
+  "domain_name": "CDPC.EDU.CN",
+  "network_name": "CDPC-CN",
+  "admin_contact": "Yitong Zheng (YZ16-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Chengde, HE 067000",
+    "China"
+  ],
+  "raw_note": null
+}

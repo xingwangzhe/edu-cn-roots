@@ -1,0 +1,24 @@
+{
+  "root_domain": "njust.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing University of Science and Techology",
+  "org_cn": null,
+  "domain_name": "NJUST.EDU.CN",
+  "network_name": "NJUST-CN",
+  "admin_contact": "Huanyan Qian (HQ11-CER)",
+  "nameservers": [
+    {
+      "host": "NJUST0.NJUST.EDU.CN",
+      "ip": "202.119.80.10"
+    },
+    {
+      "host": "NC.NJUST.EDU.CN",
+      "ip": "202.119.80.11"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210094",
+    "China"
+  ],
+  "raw_note": null
+}

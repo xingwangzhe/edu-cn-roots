@@ -1,0 +1,24 @@
+{
+  "root_domain": "avcmt.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Vocational College of Metallurgy and Technology",
+  "org_cn": null,
+  "domain_name": "AVCMT.EDU.CN",
+  "network_name": "AVCMT-CN",
+  "admin_contact": "Yin Wang (YW120-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.AVCMT.EDU.CN",
+      "ip": "42.247.30.93"
+    },
+    {
+      "host": "NS2.AVCMT.EDU.CN",
+      "ip": "42.247.30.94"
+    }
+  ],
+  "address": [
+    "Ma'anshan, AH 243011",
+    "China"
+  ],
+  "raw_note": null
+}

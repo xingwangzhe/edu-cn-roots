@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Normal University",
+  "org_cn": null,
+  "domain_name": "HBNU.EDU.CN",
+  "network_name": "HBNU-CN",
+  "admin_contact": "Xingben Yang (XY88-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbnu.edu.cn",
+      "ip": "218.197.16.6"
+    },
+    {
+      "host": "dns2.hbnu.edu.cn",
+      "ip": "119.100.56.129"
+    }
+  ],
+  "address": [
+    "Huangshi, HB 435002",
+    "China"
+  ],
+  "raw_note": null
+}

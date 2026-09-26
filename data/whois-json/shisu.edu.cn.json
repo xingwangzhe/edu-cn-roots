@@ -1,0 +1,24 @@
+{
+  "root_domain": "shisu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai International Studies University",
+  "org_cn": null,
+  "domain_name": "SHISU.EDU.CN",
+  "network_name": "SHISU-CN",
+  "admin_contact": "Xia Qing (QX2-CN)",
+  "nameservers": [
+    {
+      "host": "dns.shisu.edu.cn",
+      "ip": "218.193.160.11"
+    },
+    {
+      "host": "dns2.shisu.edu.cn",
+      "ip": "202.121.96.11"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200083",
+    "China"
+  ],
+  "raw_note": null
+}

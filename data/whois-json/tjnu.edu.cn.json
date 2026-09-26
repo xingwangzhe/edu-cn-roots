@@ -1,0 +1,28 @@
+{
+  "root_domain": "tjnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Normal University",
+  "org_cn": null,
+  "domain_name": "TJNU.EDU.CN",
+  "network_name": "TJNU-CN",
+  "admin_contact": "Xinmiao Zhang (XZ134-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJNU.EDU.CN",
+      "ip": "202.113.96.10"
+    },
+    {
+      "host": "DNS1.TJNU.EDU.CN",
+      "ip": "202.113.96.1"
+    },
+    {
+      "host": "DNS2.TJNU.EDU.CN",
+      "ip": "202.113.96.3"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300074",
+    "China"
+  ],
+  "raw_note": null
+}

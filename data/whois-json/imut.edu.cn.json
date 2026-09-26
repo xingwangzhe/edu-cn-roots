@@ -1,0 +1,24 @@
+{
+  "root_domain": "imut.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia University of Technology",
+  "org_cn": null,
+  "domain_name": "IMUT.EDU.CN",
+  "network_name": "IMPU-CN",
+  "admin_contact": "Ya Su (YS22-CER)",
+  "nameservers": [
+    {
+      "host": "ns0.imut.edu.cn",
+      "ip": "202.207.16.1"
+    },
+    {
+      "host": "ns1.imut.edu.cn",
+      "ip": "202.207.16.2"
+    }
+  ],
+  "address": [
+    "Huhhot, NM 010062",
+    "China"
+  ],
+  "raw_note": null
+}

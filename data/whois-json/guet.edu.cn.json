@@ -1,0 +1,28 @@
+{
+  "root_domain": "guet.edu.cn",
+  "type": "full_record",
+  "org_en": "GuiLin University of Electronic Technology",
+  "org_cn": null,
+  "domain_name": "GUET.EDU.CN",
+  "network_name": "GLIET-CN",
+  "admin_contact": "Ning OuYang (NO2-CER)",
+  "nameservers": [
+    {
+      "host": "mango.guet.edu.cn",
+      "ip": "202.193.64.33"
+    },
+    {
+      "host": "dns.guet.edu.cn",
+      "ip": "202.193.64.39"
+    },
+    {
+      "host": "dns1.guet.edu.cn",
+      "ip": "202.103.243.112"
+    }
+  ],
+  "address": [
+    "GuiLin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sjpopc.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Judicial and Police Officers Professional College",
+  "org_cn": null,
+  "domain_name": "SJPOPC.EDU.CN",
+  "network_name": "SJPOPC-CN",
+  "admin_contact": "Chaojun Zhu (CZ41-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sjpopc.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.sjpopc.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Deyang, SC 618000",
+    "China"
+  ],
+  "raw_note": null
+}

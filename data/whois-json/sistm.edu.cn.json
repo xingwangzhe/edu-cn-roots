@@ -1,0 +1,24 @@
+{
+  "root_domain": "sistm.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Institute of Science & Technology Management",
+  "org_cn": null,
+  "domain_name": "SISTM.EDU.CN",
+  "network_name": "SHISTM-CN",
+  "admin_contact": "Jianhua Lu (JL131-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sistm.edu.cn",
+      "ip": "49.52.48.2"
+    },
+    {
+      "host": "dns2.sistm.edu.cn",
+      "ip": "49.52.48.6"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201800",
+    "China"
+  ],
+  "raw_note": null
+}

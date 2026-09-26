@@ -1,0 +1,28 @@
+{
+  "root_domain": "jci.edu.cn",
+  "type": "full_record",
+  "org_en": "Jingdezhen Ceramic Institute",
+  "org_cn": null,
+  "domain_name": "JCI.EDU.CN",
+  "network_name": "JDZCI-CN",
+  "admin_contact": "Le Ha (LH23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.jci.edu.cn",
+      "ip": "218.65.61.75"
+    },
+    {
+      "host": "dns2.jci.edu.cn",
+      "ip": "219.220.1.9"
+    },
+    {
+      "host": "dns3.jci.edu.cn",
+      "ip": "223.84.45.165"
+    }
+  ],
+  "address": [
+    "Jingdezhen, JX 333403",
+    "China"
+  ],
+  "raw_note": null
+}

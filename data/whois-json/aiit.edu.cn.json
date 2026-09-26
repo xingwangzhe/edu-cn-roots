@@ -1,0 +1,28 @@
+{
+  "root_domain": "aiit.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Institute of Information Technology",
+  "org_cn": null,
+  "domain_name": "AIIT.EDU.CN",
+  "network_name": "MEET-CN",
+  "admin_contact": "Pingyang Lu (PL17-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.AIIT.EDU.CN",
+      "ip": "42.247.5.188"
+    },
+    {
+      "host": "NS2.AIIT.EDU.CN",
+      "ip": "112.31.16.96"
+    },
+    {
+      "host": "NS3.AIIT.EDU.CN",
+      "ip": "210.45.226.226"
+    }
+  ],
+  "address": [
+    "Wuhu, AH 241000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Jiaotong University",
+  "org_cn": null,
+  "domain_name": "XJTU.EDU.CN",
+  "network_name": "XJTU-CN",
+  "admin_contact": "Yonggang Cheng (YC64-CER)",
+  "nameservers": [
+    {
+      "host": "dec3000.xjtu.edu.cn",
+      "ip": "202.117.0.20"
+    },
+    {
+      "host": "ns2.xjtu.edu.cn",
+      "ip": "202.117.0.21"
+    }
+  ],
+  "address": [
+    "Xi'An, SN 710049",
+    "China"
+  ],
+  "raw_note": null
+}

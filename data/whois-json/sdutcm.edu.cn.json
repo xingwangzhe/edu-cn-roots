@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdutcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong University Of Traditional Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "SDUTCM.EDU.CN",
+  "network_name": "SDUTCM-CN",
+  "admin_contact": "Changli Zhang (CZ72-CER)",
+  "nameservers": [
+    {
+      "host": "NETRA150.SDUTCM.EDU.CN",
+      "ip": "210.44.160.31"
+    },
+    {
+      "host": "DATEBASE.SDUTCM.EDU.CN",
+      "ip": "210.44.160.32"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250014",
+    "China"
+  ],
+  "raw_note": null
+}

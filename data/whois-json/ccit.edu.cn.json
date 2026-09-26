@@ -1,0 +1,24 @@
+{
+  "root_domain": "ccit.edu.cn",
+  "type": "full_record",
+  "org_en": "Changchun Institute Of Technology",
+  "org_cn": null,
+  "domain_name": "CCIT.EDU.CN",
+  "network_name": "CIT-CN",
+  "admin_contact": "Hongbo Li (HL87-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.CCIT.EDU.CN",
+      "ip": "210.47.32.18"
+    },
+    {
+      "host": "NS.CCIT.EDU.CN",
+      "ip": "210.47.32.28"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130012",
+    "China"
+  ],
+  "raw_note": null
+}

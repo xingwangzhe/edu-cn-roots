@@ -1,0 +1,24 @@
+{
+  "root_domain": "shiep.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Institute Of Electric Power",
+  "org_cn": null,
+  "domain_name": "SHIEP.EDU.CN",
+  "network_name": "SHIEP-CN",
+  "admin_contact": "Beiyue Tan (BT6-CER)",
+  "nameservers": [
+    {
+      "host": "LEGEND.SHIEP.EDU.CN",
+      "ip": "210.35.88.5"
+    },
+    {
+      "host": "MAINSERVER.SHIEP.EDU.CN",
+      "ip": "210.35.88.2"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200090",
+    "China"
+  ],
+  "raw_note": null
+}

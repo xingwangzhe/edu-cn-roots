@@ -1,0 +1,20 @@
+{
+  "root_domain": "lnit.edu.cn",
+  "type": "full_record",
+  "org_en": "LiaoNing University of Technology",
+  "org_cn": null,
+  "domain_name": "LNIT.EDU.CN",
+  "network_name": "LIAOGONG-CN",
+  "admin_contact": "Wenchong Cui (WC31-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.LNIT.EDU.CN",
+      "ip": "210.30.184.1"
+    }
+  ],
+  "address": [
+    "Jinzhou, LN 121001",
+    "China"
+  ],
+  "raw_note": null
+}

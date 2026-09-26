@@ -1,0 +1,28 @@
+{
+  "root_domain": "eeagd.edu.cn",
+  "type": "full_record",
+  "org_en": "The center for the Education Examinations Authority of",
+  "org_cn": null,
+  "domain_name": "EEAGD.EDU.CN",
+  "network_name": "GDGZB-CN",
+  "admin_contact": "Jingyun Li (JL142-CER)",
+  "nameservers": [
+    {
+      "host": "eeagd1.eeagd.edu.cn",
+      "ip": "202.116.236.33"
+    },
+    {
+      "host": "eeagd2.eeagd.edu.cn",
+      "ip": "183.62.28.4"
+    },
+    {
+      "host": "eeagd3.eeagd.edu.cn",
+      "ip": "202.116.236.34"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510631",
+    "China"
+  ],
+  "raw_note": null
+}

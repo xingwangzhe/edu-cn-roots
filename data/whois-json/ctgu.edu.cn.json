@@ -1,0 +1,28 @@
+{
+  "root_domain": "ctgu.edu.cn",
+  "type": "full_record",
+  "org_en": "Three Gorges University",
+  "org_cn": null,
+  "domain_name": "CTGU.EDU.CN",
+  "network_name": "UHEEYC-CN",
+  "admin_contact": "Junqing Liu (JL170-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.CTGU.EDU.CN",
+      "ip": "210.42.42.9"
+    },
+    {
+      "host": "DNS1.CTGU.EDU.CN",
+      "ip": "61.136.146.205"
+    },
+    {
+      "host": "DNS2.CTGU.EDU.CN",
+      "ip": "210.42.35.35"
+    }
+  ],
+  "address": [
+    "Yichang, HB 443002",
+    "China"
+  ],
+  "raw_note": null
+}

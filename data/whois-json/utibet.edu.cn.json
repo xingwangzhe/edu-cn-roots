@@ -1,0 +1,20 @@
+{
+  "root_domain": "utibet.edu.cn",
+  "type": "full_record",
+  "org_en": "University Of Tibet",
+  "org_cn": null,
+  "domain_name": "UTIBET.EDU.CN",
+  "network_name": "UTIBET-CN",
+  "admin_contact": "Nima Zhaxi (NZ1-CER)",
+  "nameservers": [
+    {
+      "host": "POST.UTIBET.EDU.CN",
+      "ip": "210.41.4.2"
+    }
+  ],
+  "address": [
+    "Lasa, XZ 850000",
+    "China"
+  ],
+  "raw_note": null
+}

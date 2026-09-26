@@ -1,0 +1,24 @@
+{
+  "root_domain": "hevttc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Normal University of Science & Technology",
+  "org_cn": null,
+  "domain_name": "HEVTTC.EDU.CN",
+  "network_name": "HVTTC-CN",
+  "admin_contact": "Xuezuo Zhao (XZ98-CER)",
+  "nameservers": [
+    {
+      "host": "dns.HEVTTC.EDU.CN",
+      "ip": "210.31.200.26"
+    },
+    {
+      "host": "dns1.HEVTTC.EDU.CN",
+      "ip": "210.31.200.25"
+    }
+  ],
+  "address": [
+    "Qinhuangdao, HE 066600",
+    "China"
+  ],
+  "raw_note": null
+}

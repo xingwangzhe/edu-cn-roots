@@ -1,0 +1,24 @@
+{
+  "root_domain": "nwsuaf.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwest Science&technology University Of Agriculture",
+  "org_cn": null,
+  "domain_name": "NWSUAF.EDU.CN",
+  "network_name": "NSTUAF-CN",
+  "admin_contact": "Li Li (LL48-CER)",
+  "nameservers": [
+    {
+      "host": "NCS1.NWSUAF.EDU.CN",
+      "ip": "210.27.80.2"
+    },
+    {
+      "host": "NCS2.NWSUAF.EDU.CN",
+      "ip": "61.150.47.1"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 712100",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ncc.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing City Vocational College",
+  "org_cn": null,
+  "domain_name": "NCC.EDU.CN",
+  "network_name": "NJRTVU-CN",
+  "admin_contact": "Zhou Dong (ZD12-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ncc.edu.cn",
+      "ip": "210.29.112.88"
+    },
+    {
+      "host": "dns2.ncc.edu.cn",
+      "ip": "210.29.112.89"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210002",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdpt.edu.cn",
+  "type": "full_record",
+  "org_en": "SHUNDE POLYTECHNIC UNIVERSITY",
+  "org_cn": null,
+  "domain_name": "SDPT.EDU.CN",
+  "network_name": "SDPT-CN",
+  "admin_contact": "Xuewen Zhu (XZ131-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "FoShan, GD 528333",
+    "China"
+  ],
+  "raw_note": null
+}

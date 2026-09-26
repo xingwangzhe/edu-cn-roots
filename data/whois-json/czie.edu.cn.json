@@ -1,0 +1,24 @@
+{
+  "root_domain": "czie.edu.cn",
+  "type": "full_record",
+  "org_en": "Changzhou Institute of Engineering Technology",
+  "org_cn": null,
+  "domain_name": "CZIE.EDU.CN",
+  "network_name": "CZIET-CN",
+  "admin_contact": "Fuxi Liu (FL15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.CZIE.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.CZIE.EDU.CN",
+      "ip": "202.112.23.101"
+    }
+  ],
+  "address": [
+    "Changzhou, JS 213164",
+    "China"
+  ],
+  "raw_note": null
+}

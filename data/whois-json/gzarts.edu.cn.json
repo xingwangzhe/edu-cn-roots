@@ -1,0 +1,24 @@
+{
+  "root_domain": "gzarts.edu.cn",
+  "type": "full_record",
+  "org_en": "The Guangzhou Academy of Fine Arts",
+  "org_cn": null,
+  "domain_name": "GZARTS.EDU.CN",
+  "network_name": "GZMY-CN",
+  "admin_contact": "Shiming Zhu (SZ17-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gzarts.edu.cn",
+      "ip": "219.222.13.3"
+    },
+    {
+      "host": "dns2.gzarts.edu.cn",
+      "ip": "183.63.185.144"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510261",
+    "China"
+  ],
+  "raw_note": null
+}

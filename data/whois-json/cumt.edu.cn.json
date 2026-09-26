@@ -1,0 +1,24 @@
+{
+  "root_domain": "cumt.edu.cn",
+  "type": "full_record",
+  "org_en": "China University Of Mining And Technology",
+  "org_cn": null,
+  "domain_name": "CUMT.EDU.CN",
+  "network_name": "CUMT-CN",
+  "admin_contact": "Yue Chen (YC48-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cumt.edu.cn",
+      "ip": "202.119.200.10"
+    },
+    {
+      "host": "JUPITER.CUMT.EDU.CN",
+      "ip": "202.119.199.67"
+    }
+  ],
+  "address": [
+    "Xuzhou, JS 221116",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ustl.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Science and Technology Liaoning",
+  "org_cn": null,
+  "domain_name": "USTL.EDU.CN",
+  "network_name": "ASIIST-CN",
+  "admin_contact": "Lin Zhang (LZ97-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ustl.edu.cn",
+      "ip": "221.203.22.35"
+    },
+    {
+      "host": "dns2.ustl.edu.cn",
+      "ip": "202.199.240.2"
+    }
+  ],
+  "address": [
+    "Anshan, LN 114051",
+    "China"
+  ],
+  "raw_note": null
+}

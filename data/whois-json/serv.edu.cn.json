@@ -1,0 +1,20 @@
+{
+  "root_domain": "serv.edu.cn",
+  "type": "full_record",
+  "org_en": "China Education and Research Network Center",
+  "org_cn": null,
+  "domain_name": "SERV.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Shuang Zhu (SZ1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.serv.edu.cn",
+      "ip": "211.68.127.1"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

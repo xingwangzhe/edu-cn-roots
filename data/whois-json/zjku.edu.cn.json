@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjku.edu.cn",
+  "type": "full_record",
+  "org_en": "ZhangJiaKou University",
+  "org_cn": null,
+  "domain_name": "ZJKU.EDU.CN",
+  "network_name": "ZJKJYXY-CN",
+  "admin_contact": "Hai Zhang (HZ49-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjku.edu.cn",
+      "ip": "59.67.192.55"
+    },
+    {
+      "host": "dns2.zjku.edu.cn",
+      "ip": "59.67.192.54"
+    }
+  ],
+  "address": [
+    "ZhangJiakou, HE 075000",
+    "China"
+  ],
+  "raw_note": null
+}

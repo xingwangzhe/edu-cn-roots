@@ -1,0 +1,24 @@
+{
+  "root_domain": "slxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Shangluo University",
+  "org_cn": null,
+  "domain_name": "SLXY.EDU.CN",
+  "network_name": "SLXY-CN",
+  "admin_contact": "Junchang Fu (JF2-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "ShangLuo, SN 726000",
+    "China"
+  ],
+  "raw_note": null
+}

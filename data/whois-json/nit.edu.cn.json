@@ -1,0 +1,24 @@
+{
+  "root_domain": "nit.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangxi University of Water Resources and Electric Power",
+  "org_cn": null,
+  "domain_name": "NIT.EDU.CN",
+  "network_name": "NCWRC-CN",
+  "admin_contact": "Ying Xiong (YX20-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nit.edu.cn",
+      "ip": "210.35.2.3"
+    },
+    {
+      "host": "dns2.nit.edu.cn",
+      "ip": "210.35.2.9"
+    }
+  ],
+  "address": [
+    "NanChang, JX 330099",
+    "China"
+  ],
+  "raw_note": null
+}

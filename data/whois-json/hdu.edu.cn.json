@@ -1,0 +1,24 @@
+{
+  "root_domain": "hdu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hangzhou Dianzi Unversity",
+  "org_cn": null,
+  "domain_name": "HDU.EDU.CN",
+  "network_name": "HZIEE-CN",
+  "admin_contact": "Nansong Chen (NC3-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hdu.edu.cn",
+      "ip": "210.32.32.1"
+    },
+    {
+      "host": "dns2.hdu.edu.cn",
+      "ip": "210.32.32.10"
+    }
+  ],
+  "address": [
+    "HangZhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "nwupl.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwest University of Political Science and Law",
+  "org_cn": null,
+  "domain_name": "NWUPL.EDU.CN",
+  "network_name": "NWIPL-CN",
+  "admin_contact": "Xuan Jia (XJ17-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.NWUPL.EDU.CN",
+      "ip": "202.200.168.100"
+    },
+    {
+      "host": "DNS1.NWUPL.EDU.CN",
+      "ip": "202.200.171.100"
+    },
+    {
+      "host": "DNS2.NWUPL.EDU.CN",
+      "ip": "202.200.172.100"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710122",
+    "China"
+  ],
+  "raw_note": null
+}

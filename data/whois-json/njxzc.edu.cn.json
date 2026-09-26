@@ -1,0 +1,24 @@
+{
+  "root_domain": "njxzc.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Xiaozhuang College",
+  "org_cn": null,
+  "domain_name": "NJXZC.EDU.CN",
+  "network_name": "NJNC-CN",
+  "admin_contact": "Guangyong Song (GS1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.njxzc.edu.cn",
+      "ip": "210.29.144.1"
+    },
+    {
+      "host": "dns2.njxzc.edu.cn",
+      "ip": "210.29.144.2"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210017",
+    "China"
+  ],
+  "raw_note": null
+}

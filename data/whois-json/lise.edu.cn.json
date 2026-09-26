@@ -1,0 +1,24 @@
+{
+  "root_domain": "lise.edu.cn",
+  "type": "full_record",
+  "org_en": "Liaoning Institute of Science and Engineering",
+  "org_cn": null,
+  "domain_name": "LISE.EDU.CN",
+  "network_name": "BHUWLXY-CN",
+  "admin_contact": "Yu Sun (YS46-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Jinzhou, LN 121000",
+    "China"
+  ],
+  "raw_note": null
+}

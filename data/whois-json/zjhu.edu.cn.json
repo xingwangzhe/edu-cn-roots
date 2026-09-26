@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Huzhou Normal University",
+  "org_cn": null,
+  "domain_name": "ZJHU.EDU.CN",
+  "network_name": "ZJHTC-CN",
+  "admin_contact": "Xiao Ma (XM13-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.ZJHU.EDU.CN",
+      "ip": "61.153.52.9"
+    },
+    {
+      "host": "ns2.ZJHU.EDU.CN",
+      "ip": "211.80.146.9"
+    }
+  ],
+  "address": [
+    "HuZhou, ZJ 313000",
+    "China"
+  ],
+  "raw_note": null
+}

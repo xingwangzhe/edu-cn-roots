@@ -1,0 +1,28 @@
+{
+  "root_domain": "csmu.edu.cn",
+  "type": "full_record",
+  "org_en": "ChangSha Medical University",
+  "org_cn": null,
+  "domain_name": "CSMU.EDU.CN",
+  "network_name": "CSYXY-CN",
+  "admin_contact": "Jun Ma (JM27-CER)",
+  "nameservers": [
+    {
+      "host": "dns.csmu.edu.cn",
+      "ip": "59.71.116.168"
+    },
+    {
+      "host": "dns2.csmu.edu.cn",
+      "ip": "59.71.116.118"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410219",
+    "China"
+  ],
+  "raw_note": null
+}

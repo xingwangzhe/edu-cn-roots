@@ -1,0 +1,32 @@
+{
+  "root_domain": "bucm.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "BUCM.EDU.CN",
+  "network_name": "BJUCMP-CN",
+  "admin_contact": "Xiaoxin Xu (XX40-CER)",
+  "nameservers": [
+    {
+      "host": "out.bucm.edu.cn",
+      "ip": "202.204.32.111"
+    },
+    {
+      "host": "bkdns.bucm.edu.cn",
+      "ip": "202.204.33.111"
+    },
+    {
+      "host": "ns1.bucm.edu.cn",
+      "ip": "123.117.56.1"
+    },
+    {
+      "host": "ns2.bucm.edu.cn",
+      "ip": "123.117.56.2"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100029",
+    "China"
+  ],
+  "raw_note": null
+}

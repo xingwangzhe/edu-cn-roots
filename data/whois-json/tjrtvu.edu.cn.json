@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjrtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Open University",
+  "org_cn": null,
+  "domain_name": "TJRTVU.EDU.CN",
+  "network_name": "TJRTVU-CN",
+  "admin_contact": "Yanhui Luo (YL180-CER)",
+  "nameservers": [
+    {
+      "host": "NS.TJOU.EDU.CN",
+      "ip": "202.113.144.10"
+    },
+    {
+      "host": "SERVER1.TJOU.EDU.CN",
+      "ip": "202.113.144.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300191",
+    "China"
+  ],
+  "raw_note": null
+}

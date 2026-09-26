@@ -1,0 +1,36 @@
+{
+  "root_domain": "fosu.edu.cn",
+  "type": "full_record",
+  "org_en": "Foshan University",
+  "org_cn": null,
+  "domain_name": "FOSU.EDU.CN",
+  "network_name": "FOSU-CN",
+  "admin_contact": "Jidao Zhang (JZ93-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fosu.edu.cn",
+      "ip": "202.192.168.33"
+    },
+    {
+      "host": "dns2.fosu.edu.cn",
+      "ip": "202.192.168.38"
+    },
+    {
+      "host": "dns3.fosu.edu.cn",
+      "ip": "61.142.209.152"
+    },
+    {
+      "host": "dns4.fosu.edu.cn",
+      "ip": "112.91.154.121"
+    },
+    {
+      "host": "dns5.fosu.edu.cn",
+      "ip": "120.196.181.233"
+    }
+  ],
+  "address": [
+    "Foshan, GD 528000",
+    "China"
+  ],
+  "raw_note": null
+}

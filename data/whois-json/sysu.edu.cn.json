@@ -1,0 +1,28 @@
+{
+  "root_domain": "sysu.edu.cn",
+  "type": "full_record",
+  "org_en": "Sun Yat-sen (Zhongshan) University",
+  "org_cn": null,
+  "domain_name": "SYSU.EDU.CN",
+  "network_name": "ZHONGSHAN-CN",
+  "admin_contact": "Haitao He (HH3-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.sysu.edu.cn",
+      "ip": "202.116.64.1"
+    },
+    {
+      "host": "ns2.sysu.edu.cn",
+      "ip": "202.116.64.2"
+    },
+    {
+      "host": "ns3.sysu.edu.cn",
+      "ip": "202.116.64.6"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510275",
+    "China"
+  ],
+  "raw_note": null
+}

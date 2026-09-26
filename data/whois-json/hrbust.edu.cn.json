@@ -1,0 +1,20 @@
+{
+  "root_domain": "hrbust.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "HRBUST.EDU.CN",
+  "network_name": "HRBUST-CN",
+  "admin_contact": "Zhiting Ji (ZJ2-CN)",
+  "nameservers": [
+    {
+      "host": "hkd.hrbust.edu.cn",
+      "ip": "202.118.192.2"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150080",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdut.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong University of Technology",
+  "org_cn": null,
+  "domain_name": "SDUT.EDU.CN",
+  "network_name": "SDUT-CN",
+  "admin_contact": "Yedong Sun (YS13-CER)",
+  "nameservers": [
+    {
+      "host": "ns.sdut.edu.cn",
+      "ip": "210.44.176.1"
+    },
+    {
+      "host": "ns2.sdut.edu.cn",
+      "ip": "210.44.176.2"
+    }
+  ],
+  "address": [
+    "Zibo, SD 255091",
+    "China"
+  ],
+  "raw_note": null
+}

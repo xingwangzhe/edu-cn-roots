@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin University",
+  "org_cn": null,
+  "domain_name": "JLU.EDU.CN",
+  "network_name": "JLU-CN",
+  "admin_contact": "Zongsheng Zhang (ZZ6-CN)",
+  "nameservers": [
+    {
+      "host": "DNS.JLU.EDU.CN",
+      "ip": "202.198.16.3"
+    },
+    {
+      "host": "dns2.jlu.edu.cn",
+      "ip": "202.198.16.5"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130023",
+    "China"
+  ],
+  "raw_note": null
+}

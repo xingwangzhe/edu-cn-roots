@@ -1,0 +1,24 @@
+{
+  "root_domain": "sjzpt.edu.cn",
+  "type": "full_record",
+  "org_en": "Shijiazhuang University Of Applied Technology",
+  "org_cn": null,
+  "domain_name": "SJZPT.EDU.CN",
+  "network_name": "SHJZHPT-CN",
+  "admin_contact": "Ning Shi (NS5-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sjzpt.edu.cn",
+      "ip": "202.206.80.33"
+    },
+    {
+      "host": "dns2.sjzpt.edu.cn",
+      "ip": "202.206.80.44"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050081",
+    "China"
+  ],
+  "raw_note": null
+}

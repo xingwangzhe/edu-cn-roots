@@ -1,0 +1,24 @@
+{
+  "root_domain": "dxatc.edu.cn",
+  "type": "full_record",
+  "org_en": "DingXi Teachers College",
+  "org_cn": null,
+  "domain_name": "DXATC.EDU.CN",
+  "network_name": "DXATC-CN",
+  "admin_contact": "Li Wang (LW59-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.gs.edu.cn",
+      "ip": "202.201.89.131"
+    },
+    {
+      "host": "ns2.gs.edu.cn",
+      "ip": "202.201.89.132"
+    }
+  ],
+  "address": [
+    "DingXi, GS 730000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "whut.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan University Of Technology",
+  "org_cn": null,
+  "domain_name": "WHUT.EDU.CN",
+  "network_name": "WHUT-CN",
+  "admin_contact": "Peng Xiao (PX1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.WHUT.EDU.CN",
+      "ip": "202.114.88.10"
+    },
+    {
+      "host": "DNS1.WHUT.EDU.CN",
+      "ip": "202.114.88.14"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430070",
+    "China"
+  ],
+  "raw_note": null
+}

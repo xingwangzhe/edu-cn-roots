@@ -1,0 +1,24 @@
+{
+  "root_domain": "synet.edu.cn",
+  "type": "full_record",
+  "org_en": "China Education and Research Network Backbone",
+  "org_cn": null,
+  "domain_name": "SYNET.EDU.CN",
+  "network_name": "CERBKB-CN",
+  "admin_contact": "Jingwei Xue (JX24-CER)",
+  "nameservers": [
+    {
+      "host": "jwcer.synet.edu.cn",
+      "ip": "202.112.29.82"
+    },
+    {
+      "host": "dns2.synet.edu.cn",
+      "ip": "202.112.31.197"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110006",
+    "China"
+  ],
+  "raw_note": null
+}

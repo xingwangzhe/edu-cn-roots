@@ -1,0 +1,28 @@
+{
+  "root_domain": "hzic.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Gongshang University",
+  "org_cn": null,
+  "domain_name": "HZIC.EDU.CN",
+  "network_name": "HZIC-CN",
+  "admin_contact": "Yinbao Shi (YS55-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.HZIC.EDU.CN",
+      "ip": "210.33.88.1"
+    },
+    {
+      "host": "DNS2.HZIC.EDU.CN",
+      "ip": "210.33.88.2"
+    },
+    {
+      "host": "DNS3.HZIC.EDU.CN",
+      "ip": "210.33.88.1"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310035",
+    "China"
+  ],
+  "raw_note": null
+}

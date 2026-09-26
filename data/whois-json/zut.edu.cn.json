@@ -1,0 +1,24 @@
+{
+  "root_domain": "zut.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhongyuan University of Technology",
+  "org_cn": null,
+  "domain_name": "ZUT.EDU.CN",
+  "network_name": "ZZTI-CN",
+  "admin_contact": "Qifeng Zhang (QZ4-CN)",
+  "nameservers": [
+    {
+      "host": "dns.ZUT.EDU.CN",
+      "ip": "202.196.32.1"
+    },
+    {
+      "host": "dns2.ZUT.EDU.CN",
+      "ip": "202.196.32.2"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450007",
+    "China"
+  ],
+  "raw_note": null
+}

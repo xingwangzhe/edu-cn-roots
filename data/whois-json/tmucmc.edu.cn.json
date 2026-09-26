@@ -1,0 +1,24 @@
+{
+  "root_domain": "tmucmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Medical University Clinical Medical College",
+  "org_cn": null,
+  "domain_name": "TMUCMC.EDU.CN",
+  "network_name": "TMUCMC-CN",
+  "admin_contact": "Xianyuan Wang (XW92-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TMUCMC.EDU.CN",
+      "ip": "42.247.19.1"
+    },
+    {
+      "host": "DNS1.TMUCMC.EDU.CN",
+      "ip": "42.247.19.5"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300270",
+    "China"
+  ],
+  "raw_note": null
+}

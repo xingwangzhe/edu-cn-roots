@@ -1,0 +1,28 @@
+{
+  "root_domain": "hbvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Vocational Technical College",
+  "org_cn": null,
+  "domain_name": "HBVTC.EDU.CN",
+  "network_name": "HBVTC-CN",
+  "admin_contact": "GuangHuan Tang (GT4-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hbvtc.edu.cn",
+      "ip": "125.220.124.8"
+    },
+    {
+      "host": "ns2.hbvtc.edu.cn",
+      "ip": "125.220.124.18"
+    },
+    {
+      "host": "ns3.hbvtc.edu.cn",
+      "ip": "125.220.124.28"
+    }
+  ],
+  "address": [
+    "XiaoGan, HB 432100",
+    "China"
+  ],
+  "raw_note": null
+}

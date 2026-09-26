@@ -1,0 +1,24 @@
+{
+  "root_domain": "shnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Normal University",
+  "org_cn": null,
+  "domain_name": "SHNU.EDU.CN",
+  "network_name": "SHTU-CN",
+  "admin_contact": "YiMing Gu (YG37-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.shnu.edu.cn",
+      "ip": "202.121.48.254"
+    },
+    {
+      "host": "dns2.shnu.edu.cn",
+      "ip": "114.94.54.178"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200234",
+    "China"
+  ],
+  "raw_note": null
+}

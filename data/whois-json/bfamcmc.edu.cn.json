@@ -1,0 +1,24 @@
+{
+  "root_domain": "bfamcmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao Film Academy",
+  "org_cn": null,
+  "domain_name": "BFAMCMC.EDU.CN",
+  "network_name": "BFAMCMC-CN",
+  "admin_contact": "Wei Fu (WF9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.BFAMCMC.EDU.CN",
+      "ip": "42.247.2.36"
+    },
+    {
+      "host": "dns2.BFAMCMC.EDU.CN",
+      "ip": "42.247.2.37"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266520",
+    "China"
+  ],
+  "raw_note": null
+}

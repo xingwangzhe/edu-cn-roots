@@ -1,0 +1,24 @@
+{
+  "root_domain": "bbc.edu.cn",
+  "type": "full_record",
+  "org_en": "Bengbu College",
+  "org_cn": null,
+  "domain_name": "BBC.EDU.CN",
+  "network_name": "BBC-CN",
+  "admin_contact": "Wanhe Li (WL58-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.bbc.edu.cn",
+      "ip": "222.207.12.1"
+    },
+    {
+      "host": "dns2.bbc.edu.cn",
+      "ip": "222.207.12.2"
+    }
+  ],
+  "address": [
+    "Bengbu, AH 233030",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,20 @@
+{
+  "root_domain": "czust.edu.cn",
+  "type": "full_record",
+  "org_en": "Changzhou Institute of Technology",
+  "org_cn": null,
+  "domain_name": "CZUST.EDU.CN",
+  "network_name": "CZIT-CN",
+  "admin_contact": "Wei Wang (WW42-CER)",
+  "nameservers": [
+    {
+      "host": "dns.czust.edu.cn",
+      "ip": "211.70.97.20"
+    }
+  ],
+  "address": [
+    "Changzhou, JS 213002",
+    "China"
+  ],
+  "raw_note": null
+}

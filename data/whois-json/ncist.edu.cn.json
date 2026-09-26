@@ -1,0 +1,24 @@
+{
+  "root_domain": "ncist.edu.cn",
+  "type": "full_record",
+  "org_en": "North China Institute of Science and Technology (China Coal Mine Safety Technology Training Center）",
+  "org_cn": null,
+  "domain_name": "NCIST.EDU.CN",
+  "network_name": "HBGZ-CN",
+  "admin_contact": "Haomiao Xu (HX37-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 065201",
+    "China"
+  ],
+  "raw_note": null
+}

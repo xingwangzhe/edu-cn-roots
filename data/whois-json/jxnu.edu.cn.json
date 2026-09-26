@@ -1,0 +1,24 @@
+{
+  "root_domain": "jxnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangxi Normal University",
+  "org_cn": null,
+  "domain_name": "JXNU.EDU.CN",
+  "network_name": "JXNU-CN",
+  "admin_contact": "Hongming Zhang (HZ54-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JXNU.EDU.CN",
+      "ip": "219.229.242.62"
+    },
+    {
+      "host": "DNS2.JXNU.EDU.CN",
+      "ip": "219.229.242.63"
+    }
+  ],
+  "address": [
+    "Nanchang, JX 330027",
+    "China"
+  ],
+  "raw_note": null
+}

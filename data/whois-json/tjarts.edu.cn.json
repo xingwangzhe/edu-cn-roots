@@ -1,0 +1,28 @@
+{
+  "root_domain": "tjarts.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Academy Of Fine Arts",
+  "org_cn": null,
+  "domain_name": "TJARTS.EDU.CN",
+  "network_name": "TJARTS-CN",
+  "admin_contact": "Peng Yu (PY7-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJARTS.EDU.CN",
+      "ip": "202.113.216.11"
+    },
+    {
+      "host": "WWW.TJARTS.EDU.CN",
+      "ip": "202.113.216.12"
+    },
+    {
+      "host": "BEIYONG.TJARTS.EDU.CN",
+      "ip": "202.113.216.10"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300141",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "gxsy.edu.cn",
+  "type": "full_record",
+  "org_en": "Shiyuan College of Nanning Normal University",
+  "org_cn": null,
+  "domain_name": "GXSY.EDU.CN",
+  "network_name": "GXSY-CN",
+  "admin_contact": "Tao Liu (TL30-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Nanning, GX 530226",
+    "China"
+  ],
+  "raw_note": null
+}

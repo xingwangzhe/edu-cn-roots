@@ -1,0 +1,20 @@
+{
+  "root_domain": "njitt.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Vocational Institute of Transport Technology",
+  "org_cn": null,
+  "domain_name": "NJITT.EDU.CN",
+  "network_name": "NJCTI-CN",
+  "admin_contact": "Xiaoyan Zhang (XZ62-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NJITT.EDU.CN",
+      "ip": "58.192.248.1"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 211188",
+    "China"
+  ],
+  "raw_note": null
+}

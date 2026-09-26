@@ -1,0 +1,28 @@
+{
+  "root_domain": "xnu.edu.cn",
+  "type": "full_record",
+  "org_en": "XiangNan University",
+  "org_cn": null,
+  "domain_name": "XNU.EDU.CN",
+  "network_name": "CHENZTC-CN",
+  "admin_contact": "Xiaoling Liu (XL154-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Chenzhou, HN 423000",
+    "China"
+  ],
+  "raw_note": null
+}

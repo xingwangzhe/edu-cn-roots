@@ -1,0 +1,28 @@
+{
+  "root_domain": "stu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shantou University",
+  "org_cn": null,
+  "domain_name": "STU.EDU.CN",
+  "network_name": "STU-CN",
+  "admin_contact": "Zhongduo Jiao (ZJ30-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.stu.edu.cn",
+      "ip": "202.192.159.2"
+    },
+    {
+      "host": "dns2.stu.edu.cn",
+      "ip": "202.192.144.3"
+    },
+    {
+      "host": "dns3.stu.edu.cn",
+      "ip": "202.192.144.20"
+    }
+  ],
+  "address": [
+    "Shantou, GD 515063",
+    "China"
+  ],
+  "raw_note": null
+}

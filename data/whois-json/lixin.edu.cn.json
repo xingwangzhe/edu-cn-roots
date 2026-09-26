@@ -1,0 +1,24 @@
+{
+  "root_domain": "lixin.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Lixin University of Commerce",
+  "org_cn": null,
+  "domain_name": "LIXIN.EDU.CN",
+  "network_name": "LXAI-CN",
+  "admin_contact": "Zhenhai Wang (ZW40-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lixin.edu.cn",
+      "ip": "210.35.100.18"
+    },
+    {
+      "host": "dns2.lixin.edu.cn",
+      "ip": "210.35.101.252"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200620",
+    "China"
+  ],
+  "raw_note": null
+}

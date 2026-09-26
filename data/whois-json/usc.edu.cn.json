@@ -1,0 +1,28 @@
+{
+  "root_domain": "usc.edu.cn",
+  "type": "full_record",
+  "org_en": "University of South China",
+  "org_cn": null,
+  "domain_name": "USC.EDU.CN",
+  "network_name": "ZNIT-CN",
+  "admin_contact": "Bing Liu (BL57-CER)",
+  "nameservers": [
+    {
+      "host": "dns.usc.edu.cn",
+      "ip": "210.43.112.31"
+    },
+    {
+      "host": "dns2.usc.edu.cn",
+      "ip": "210.43.112.32"
+    },
+    {
+      "host": "dns3.usc.edu.cn",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Hengyang, HN 421001",
+    "China"
+  ],
+  "raw_note": null
+}

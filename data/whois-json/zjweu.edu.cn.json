@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjweu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang University of Water Resources and Electrlc Power",
+  "org_cn": null,
+  "domain_name": "ZJWEU.EDU.CN",
+  "network_name": "ZJWCHC-CN",
+  "admin_contact": "Hong Quan (HX23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjweu.edu.cn",
+      "ip": "210.33.72.1"
+    },
+    {
+      "host": "dns2.zjweu.edu.cn",
+      "ip": "61.153.0.131"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

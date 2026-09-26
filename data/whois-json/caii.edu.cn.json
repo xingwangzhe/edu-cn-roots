@@ -1,0 +1,24 @@
+{
+  "root_domain": "caii.edu.cn",
+  "type": "full_record",
+  "org_en": "Changchun Technical University of Automobile",
+  "org_cn": null,
+  "domain_name": "CAII.EDU.CN",
+  "network_name": "CAII-CN",
+  "admin_contact": "Mu Xiaoyan (BZ3-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130011",
+    "China"
+  ],
+  "raw_note": null
+}

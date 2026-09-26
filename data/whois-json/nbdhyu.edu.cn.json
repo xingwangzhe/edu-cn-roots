@@ -1,0 +1,24 @@
+{
+  "root_domain": "nbdhyu.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningbo University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "NBDHYU.EDU.CN",
+  "network_name": "NBDHYVTC-CN",
+  "admin_contact": "Min Luo (ML19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nbdhyu.edu.cn",
+      "ip": "59.79.155.253"
+    },
+    {
+      "host": "dns2.nbdhyu.edu.cn",
+      "ip": "218.0.1.13"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315175",
+    "China"
+  ],
+  "raw_note": null
+}

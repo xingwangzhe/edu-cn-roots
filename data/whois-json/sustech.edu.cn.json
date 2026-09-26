@@ -1,0 +1,24 @@
+{
+  "root_domain": "sustech.edu.cn",
+  "type": "full_record",
+  "org_en": "Southern University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "SUSTECH.EDU.CN",
+  "network_name": "SUSTC-CN",
+  "admin_contact": "Jing Liu (JL176-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.sustech.edu.cn",
+      "ip": "110.65.147.31"
+    },
+    {
+      "host": "ns2.sustech.edu.cn",
+      "ip": "116.7.234.32"
+    }
+  ],
+  "address": [
+    "Shenzhen, GD 518055",
+    "China"
+  ],
+  "raw_note": null
+}

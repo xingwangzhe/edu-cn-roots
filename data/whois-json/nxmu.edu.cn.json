@@ -1,0 +1,24 @@
+{
+  "root_domain": "nxmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningxia Medical University",
+  "org_cn": null,
+  "domain_name": "NXMU.EDU.CN",
+  "network_name": "NXMC-CN",
+  "admin_contact": "Bian Liang (BL6-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NXMU.EDU.CN",
+      "ip": "202.201.152.3"
+    },
+    {
+      "host": "DNS2.NXMU.EDU.CN",
+      "ip": "119.60.6.210"
+    }
+  ],
+  "address": [
+    "Yingchuan, NX 750004",
+    "China"
+  ],
+  "raw_note": null
+}

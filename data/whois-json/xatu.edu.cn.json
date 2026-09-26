@@ -1,0 +1,28 @@
+{
+  "root_domain": "xatu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Technological University",
+  "org_cn": null,
+  "domain_name": "XATU.EDU.CN",
+  "network_name": "XAIT-CN",
+  "admin_contact": "Xiaolei Lu (XL89-CER)",
+  "nameservers": [
+    {
+      "host": "dns1-zhineng.xatu.edu.cn",
+      "ip": "222.25.77.1"
+    },
+    {
+      "host": "dns2-zhineng.xatu.edu.cn",
+      "ip": "222.25.1.2"
+    },
+    {
+      "host": "dns3-zhineng.xatu.edu.cn",
+      "ip": "123.138.216.226"
+    }
+  ],
+  "address": [
+    "xi'an, SN 710032",
+    "China"
+  ],
+  "raw_note": null
+}

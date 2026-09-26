@@ -1,0 +1,28 @@
+{
+  "root_domain": "hziee.edu.cn",
+  "type": "full_record",
+  "org_en": "Hangzhou Dianzi University Information Engineering School",
+  "org_cn": null,
+  "domain_name": "HZIEE.EDU.CN",
+  "network_name": "HDUIES-CN",
+  "admin_contact": "Zhihai Sun (ZS39-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.HZIEE.EDU.CN",
+      "ip": "42.247.42.162"
+    },
+    {
+      "host": "NS2.HZIEE.EDU.CN",
+      "ip": "42.247.42.163"
+    },
+    {
+      "host": "NS3.HZIEE.EDU.CN",
+      "ip": "210.32.123.123"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 311305",
+    "China"
+  ],
+  "raw_note": null
+}

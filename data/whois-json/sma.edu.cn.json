@@ -1,0 +1,24 @@
+{
+  "root_domain": "sma.edu.cn",
+  "type": "full_record",
+  "org_en": "上海海事职业技术学院",
+  "org_cn": null,
+  "domain_name": "SMA.EDU.CN",
+  "network_name": "SHMA-CN",
+  "admin_contact": "Zhuang Wang (ZW102-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sma.edu.cn",
+      "ip": "59.78.200.2"
+    },
+    {
+      "host": "dns2.sma.edu.cn",
+      "ip": "59.78.200.3"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200120",
+    "China"
+  ],
+  "raw_note": null
+}

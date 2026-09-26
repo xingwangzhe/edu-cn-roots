@@ -1,0 +1,32 @@
+{
+  "root_domain": "nwpu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwestern Polytechnical University",
+  "org_cn": null,
+  "domain_name": "NWPU.EDU.CN",
+  "network_name": "NWPU-CN",
+  "admin_contact": "Kang Wang (KW16-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NWPU.EDU.CN",
+      "ip": "202.117.80.3"
+    },
+    {
+      "host": "DNS.NWPU.EDU.CN",
+      "ip": "202.117.80.2"
+    },
+    {
+      "host": "DNS3.NWPU.EDU.CN",
+      "ip": "61.150.43.13"
+    },
+    {
+      "host": "DNS2.NWPU.EDU.CN",
+      "ip": "61.150.43.14"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710072",
+    "China"
+  ],
+  "raw_note": null
+}

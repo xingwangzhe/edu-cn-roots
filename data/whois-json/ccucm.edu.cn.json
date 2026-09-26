@@ -1,0 +1,24 @@
+{
+  "root_domain": "ccucm.edu.cn",
+  "type": "full_record",
+  "org_en": "Changchun University of Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "CCUCM.EDU.CN",
+  "network_name": "CCUTCM-CN",
+  "admin_contact": "Yuanjun Zou (YZ93-CER)",
+  "nameservers": [
+    {
+      "host": "dns.ccucm.edu.cn",
+      "ip": "125.223.200.11"
+    },
+    {
+      "host": "dns1.ccucm.edu.cn",
+      "ip": "125.223.201.11"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130117",
+    "China"
+  ],
+  "raw_note": null
+}

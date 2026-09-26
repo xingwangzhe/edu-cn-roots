@@ -1,0 +1,28 @@
+{
+  "root_domain": "nbu.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningbo University",
+  "org_cn": null,
+  "domain_name": "NBU.EDU.CN",
+  "network_name": "NBU-CN",
+  "admin_contact": "Guangxi Li (GL4-AP)",
+  "nameservers": [
+    {
+      "host": "dns1.NBU.EDU.CN",
+      "ip": "210.33.16.3"
+    },
+    {
+      "host": "dns2.NBU.EDU.CN",
+      "ip": "218.0.4.186"
+    },
+    {
+      "host": "dns3.NBU.EDU.CN",
+      "ip": "210.33.16.2"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315211",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjpu.edu.cn",
+  "type": "full_record",
+  "org_en": "TianJin Polytechnic University",
+  "org_cn": null,
+  "domain_name": "TJPU.EDU.CN",
+  "network_name": "TJITST-CN",
+  "admin_contact": "Jian Wu (JW19-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJPU.EDU.CN",
+      "ip": "211.68.112.10"
+    },
+    {
+      "host": "DEV.TJPU.EDU.CN",
+      "ip": "211.68.112.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300160",
+    "China"
+  ],
+  "raw_note": null
+}

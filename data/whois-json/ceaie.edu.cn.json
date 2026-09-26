@@ -1,0 +1,24 @@
+{
+  "root_domain": "ceaie.edu.cn",
+  "type": "full_record",
+  "org_en": "Chinese Education Association For International Exchange",
+  "org_cn": null,
+  "domain_name": "CEAIE.EDU.CN",
+  "network_name": "CERINFORES-CN",
+  "admin_contact": "Xiaoxia Li (XL6-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.service.edu.cn",
+      "ip": "202.205.109.1"
+    },
+    {
+      "host": "dns2.service.edu.cn",
+      "ip": "202.205.11.9"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100816",
+    "China"
+  ],
+  "raw_note": null
+}

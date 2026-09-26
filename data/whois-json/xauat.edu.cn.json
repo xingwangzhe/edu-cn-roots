@@ -1,0 +1,24 @@
+{
+  "root_domain": "xauat.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'An University Of Architecture & Techology",
+  "org_cn": null,
+  "domain_name": "XAUAT.EDU.CN",
+  "network_name": "XAUAT-CN",
+  "admin_contact": "Hao Dou (HD3-CER)",
+  "nameservers": [
+    {
+      "host": "cloud1.xauat.edu.cn",
+      "ip": "59.75.56.82"
+    },
+    {
+      "host": "cloud2.xauat.edu.cn",
+      "ip": "59.75.56.83"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710055",
+    "China"
+  ],
+  "raw_note": null
+}

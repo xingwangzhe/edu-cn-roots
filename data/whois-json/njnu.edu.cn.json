@@ -1,0 +1,24 @@
+{
+  "root_domain": "njnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Normal University",
+  "org_cn": null,
+  "domain_name": "NJNU.EDU.CN",
+  "network_name": "NJNU-CN",
+  "admin_contact": "Cheng Zhang (CZ2-CN)",
+  "nameservers": [
+    {
+      "host": "pine.njnu.edu.cn",
+      "ip": "202.119.104.10"
+    },
+    {
+      "host": "bamboo.njnu.edu.cn",
+      "ip": "202.119.104.12"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210097",
+    "China"
+  ],
+  "raw_note": null
+}

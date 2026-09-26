@@ -1,0 +1,24 @@
+{
+  "root_domain": "guit.edu.cn",
+  "type": "full_record",
+  "org_en": "Guilin Institute of Information Technology",
+  "org_cn": null,
+  "domain_name": "GUIT.EDU.CN",
+  "network_name": "IOITGUET-CN",
+  "admin_contact": "Fei Li (FL32-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.guit.edu.cn",
+      "ip": "42.247.31.193"
+    },
+    {
+      "host": "ns2.guit.edu.cn",
+      "ip": "42.247.35.13"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

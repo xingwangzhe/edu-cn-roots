@@ -1,0 +1,24 @@
+{
+  "root_domain": "jstvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Radio And Television University",
+  "org_cn": null,
+  "domain_name": "JSTVU.EDU.CN",
+  "network_name": "JSTVU-CN",
+  "admin_contact": "Xu Sun (XS4-CER)",
+  "nameservers": [
+    {
+      "host": "GATE.JSTVU.EDU.CN",
+      "ip": "210.28.216.1"
+    },
+    {
+      "host": "SGATE.JSTVU.EDU.CN",
+      "ip": "210.28.216.2"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210013",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "wtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Textile University",
+  "org_cn": null,
+  "domain_name": "WTU.EDU.CN",
+  "network_name": "WIST-CN",
+  "admin_contact": "Jian Chen (JC74-CER)",
+  "nameservers": [
+    {
+      "host": "dns.wtu.edu.cn",
+      "ip": "211.67.48.8"
+    },
+    {
+      "host": "dns2.wtu.edu.cn",
+      "ip": "211.67.48.18"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430073",
+    "China"
+  ],
+  "raw_note": null
+}

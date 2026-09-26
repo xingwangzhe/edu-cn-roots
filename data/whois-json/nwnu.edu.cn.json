@@ -1,0 +1,24 @@
+{
+  "root_domain": "nwnu.edu.cn",
+  "type": "full_record",
+  "org_en": "The Northwest Normal University",
+  "org_cn": null,
+  "domain_name": "NWNU.EDU.CN",
+  "network_name": "NWNU-CN",
+  "admin_contact": "Xiuchun Yuan (XY2-CER)",
+  "nameservers": [
+    {
+      "host": "pilot.nwnu.edu.cn",
+      "ip": "202.201.48.1"
+    },
+    {
+      "host": "tsg.nwnu.edu.cn",
+      "ip": "202.201.48.2"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730070",
+    "China"
+  ],
+  "raw_note": null
+}

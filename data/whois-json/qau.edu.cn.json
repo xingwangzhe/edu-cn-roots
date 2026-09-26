@@ -1,0 +1,24 @@
+{
+  "root_domain": "qau.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao Agricultural University",
+  "org_cn": null,
+  "domain_name": "QAU.EDU.CN",
+  "network_name": "LYAC-CN",
+  "admin_contact": "Pengmin Xu (PX1-AP)",
+  "nameservers": [
+    {
+      "host": "dns1.qau.edu.cn",
+      "ip": "210.44.48.88"
+    },
+    {
+      "host": "dns2.qau.edu.cn",
+      "ip": "210.44.48.66"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266109",
+    "China"
+  ],
+  "raw_note": null
+}

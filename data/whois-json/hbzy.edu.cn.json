@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebi College of Vocation and Technology",
+  "org_cn": null,
+  "domain_name": "HBZY.EDU.CN",
+  "network_name": "HEBI-CN",
+  "admin_contact": "Yuqing Li (YL60-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbzy.edu.cn",
+      "ip": "222.21.0.8"
+    },
+    {
+      "host": "dns2.hbzy.edu.cn",
+      "ip": "222.21.0.18"
+    }
+  ],
+  "address": [
+    "Hebi, HA 458030",
+    "China"
+  ],
+  "raw_note": null
+}

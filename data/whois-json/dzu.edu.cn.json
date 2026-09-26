@@ -1,0 +1,24 @@
+{
+  "root_domain": "dzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dezhou University",
+  "org_cn": null,
+  "domain_name": "DZU.EDU.CN",
+  "network_name": "DZC-CN",
+  "admin_contact": "Wenzhi Lu (WL15-CER)",
+  "nameservers": [
+    {
+      "host": "SUN.DZU.EDU.CN",
+      "ip": "211.64.32.1"
+    },
+    {
+      "host": "E450.DZU.EDU.CN",
+      "ip": "211.64.32.2"
+    }
+  ],
+  "address": [
+    "Dezhou, SD 253023",
+    "China"
+  ],
+  "raw_note": null
+}

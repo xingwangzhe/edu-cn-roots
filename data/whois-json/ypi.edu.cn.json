@@ -1,0 +1,24 @@
+{
+  "root_domain": "ypi.edu.cn",
+  "type": "full_record",
+  "org_en": "Yangzhou Polytechnic Institute",
+  "org_cn": null,
+  "domain_name": "YPI.EDU.CN",
+  "network_name": "YZCIT-CN",
+  "admin_contact": "Bin Zhang (BZ9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ypi.edu.cn",
+      "ip": "58.192.64.2"
+    },
+    {
+      "host": "dns2.ypi.edu.cn",
+      "ip": "58.192.64.254"
+    }
+  ],
+  "address": [
+    "Yangzhou, JS 225127",
+    "China"
+  ],
+  "raw_note": null
+}

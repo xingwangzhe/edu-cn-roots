@@ -1,0 +1,24 @@
+{
+  "root_domain": "cque.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Educational University",
+  "org_cn": null,
+  "domain_name": "CQUE.EDU.CN",
+  "network_name": "CQJYC-CN",
+  "admin_contact": "Fuguang Yao (FY26-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400065",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "henau.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan Agricultural University",
+  "org_cn": null,
+  "domain_name": "HENAU.EDU.CN",
+  "network_name": "HENAU-CN",
+  "admin_contact": "Lei Xi (LX2-CER)",
+  "nameservers": [
+    {
+      "host": "CPQPL1500.HENAU.EDU.CN",
+      "ip": "202.196.80.1"
+    },
+    {
+      "host": "SERVER.HENAU.EDU.CN",
+      "ip": "202.196.80.242"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450002",
+    "China"
+  ],
+  "raw_note": null
+}

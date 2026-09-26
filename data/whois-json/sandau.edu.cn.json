@@ -1,0 +1,28 @@
+{
+  "root_domain": "sandau.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanda Univercity",
+  "org_cn": null,
+  "domain_name": "SANDAU.EDU.CN",
+  "network_name": "SHANDU-CN",
+  "admin_contact": "Lin Ma (LM18-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.SANDAU.EDU.CN",
+      "ip": "202.121.168.1"
+    },
+    {
+      "host": "DNS1.SANDAU.EDU.CN",
+      "ip": "202.121.174.104"
+    },
+    {
+      "host": "DNS2.SANDAU.EDU.CN",
+      "ip": "180.168.212.158"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201206",
+    "China"
+  ],
+  "raw_note": null
+}

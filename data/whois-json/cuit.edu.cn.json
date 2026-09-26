@@ -1,0 +1,24 @@
+{
+  "root_domain": "cuit.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu University Of Information Technology",
+  "org_cn": null,
+  "domain_name": "CUIT.EDU.CN",
+  "network_name": "CDIM-CN",
+  "admin_contact": "Jin Zhang (JZ118-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.CUIT.EDU.CN",
+      "ip": "210.41.224.33"
+    },
+    {
+      "host": "SEC.CUIT.EDU.CN",
+      "ip": "210.41.224.161"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610041",
+    "China"
+  ],
+  "raw_note": null
+}

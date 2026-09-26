@@ -1,0 +1,28 @@
+{
+  "root_domain": "sues.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai University Of Engineering Science",
+  "org_cn": null,
+  "domain_name": "SUES.EDU.CN",
+  "network_name": "SHUES-CN",
+  "admin_contact": "Jianrong Gu (JG3-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.SUES.EDU.CN",
+      "ip": "202.121.127.200"
+    },
+    {
+      "host": "NS2.SUES.EDU.CN",
+      "ip": "202.121.112.100"
+    },
+    {
+      "host": "NS3.SUES.EDU.CN",
+      "ip": "58.32.222.88"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201620",
+    "China"
+  ],
+  "raw_note": null
+}

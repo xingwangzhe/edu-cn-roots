@@ -1,0 +1,24 @@
+{
+  "root_domain": "xxu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinxiang University",
+  "org_cn": null,
+  "domain_name": "XXU.EDU.CN",
+  "network_name": "XXTC-CN",
+  "admin_contact": "Xin Zhang (XZ88-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xxu.edu.cn",
+      "ip": "211.84.160.8"
+    },
+    {
+      "host": "dns2.xxu.edu.cn",
+      "ip": "211.84.160.18"
+    }
+  ],
+  "address": [
+    "Xinxiang, HA 453003",
+    "China"
+  ],
+  "raw_note": null
+}

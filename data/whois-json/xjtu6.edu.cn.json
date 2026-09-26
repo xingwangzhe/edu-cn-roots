@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjtu6.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Jiaotong University",
+  "org_cn": null,
+  "domain_name": "XJTU6.EDU.CN",
+  "network_name": "XJTU-CN",
+  "admin_contact": "GuoDong Li (GL42-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xjtu6.edu.cn",
+      "ip": "202.117.0.23"
+    },
+    {
+      "host": "dns2.xjtu6.edu.cn",
+      "ip": "2001:250:1001:0::23"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710049",
+    "China"
+  ],
+  "raw_note": null
+}

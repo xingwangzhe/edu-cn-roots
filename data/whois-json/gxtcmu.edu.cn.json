@@ -1,0 +1,20 @@
+{
+  "root_domain": "gxtcmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangxi Traditional Chinese Medicine University",
+  "org_cn": null,
+  "domain_name": "GXTCMU.EDU.CN",
+  "network_name": "GXCTCM-CN",
+  "admin_contact": "Jiaying Pan (JP1-CN)",
+  "nameservers": [
+    {
+      "host": "DS.GXTCMU.EDU.CN",
+      "ip": "210.36.99.7"
+    }
+  ],
+  "address": [
+    "Nanning, GX 530001",
+    "China"
+  ],
+  "raw_note": null
+}

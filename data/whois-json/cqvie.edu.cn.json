@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqvie.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Polytechnic University Of Engineering",
+  "org_cn": null,
+  "domain_name": "CQVIE.EDU.CN",
+  "network_name": "CQVIE-CN",
+  "admin_contact": "Huang Hua (HH39-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.CQVIE.EDU.CN",
+      "ip": "121.49.0.252"
+    },
+    {
+      "host": "DNS2.CQVIE.EDU.CN",
+      "ip": "121.49.0.253"
+    }
+  ],
+  "address": [
+    "Jiangjin, CQ 402260",
+    "China"
+  ],
+  "raw_note": null
+}

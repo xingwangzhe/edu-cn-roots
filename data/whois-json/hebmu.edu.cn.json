@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebmu.edu.cn",
+  "type": "full_record",
+  "org_en": "He Bei Medical University",
+  "org_cn": null,
+  "domain_name": "HEBMU.EDU.CN",
+  "network_name": "HEBMU-CN",
+  "admin_contact": "Lin Wei (LW1-CER)",
+  "nameservers": [
+    {
+      "host": "DS.HEBMU.EDU.CN",
+      "ip": "202.206.48.66"
+    },
+    {
+      "host": "MS.HEBMU.EDU.CN",
+      "ip": "120.211.175.5"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050017",
+    "China"
+  ],
+  "raw_note": null
+}

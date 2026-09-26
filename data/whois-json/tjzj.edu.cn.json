@@ -1,0 +1,20 @@
+{
+  "root_domain": "tjzj.edu.cn",
+  "type": "full_record",
+  "org_en": "Tongji Zhejiang College",
+  "org_cn": null,
+  "domain_name": "TJZJ.EDU.CN",
+  "network_name": "TJUZJC-CN",
+  "admin_contact": "Qinfei Gu (QG8-CER)",
+  "nameservers": [
+    {
+      "host": "dns2.tjzj.edu.cn",
+      "ip": "121.192.40.100"
+    }
+  ],
+  "address": [
+    "Jiaxing, ZJ 314000",
+    "China"
+  ],
+  "raw_note": null
+}

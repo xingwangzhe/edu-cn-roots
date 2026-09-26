@@ -1,0 +1,24 @@
+{
+  "root_domain": "tgc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Three Gorges Vocational And Technical College",
+  "org_cn": null,
+  "domain_name": "TGC.EDU.CN",
+  "network_name": "TGC-CN",
+  "admin_contact": "Shuzheng Huang (SH12-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tgc.edu.cn",
+      "ip": "125.221.10.18"
+    },
+    {
+      "host": "dns1.tgc.edu.cn",
+      "ip": "125.221.11.18"
+    }
+  ],
+  "address": [
+    "Yichang, HB 443000",
+    "China"
+  ],
+  "raw_note": null
+}

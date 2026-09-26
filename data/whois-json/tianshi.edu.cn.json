@@ -1,0 +1,24 @@
+{
+  "root_domain": "tianshi.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin TianShi University",
+  "org_cn": null,
+  "domain_name": "TIANSHI.EDU.CN",
+  "network_name": "TIANSHI-CN",
+  "admin_contact": "Jinhu Li (JL60-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 301700",
+    "China"
+  ],
+  "raw_note": null
+}

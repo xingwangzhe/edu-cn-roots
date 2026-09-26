@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjtie.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Technology Institute Of Economy",
+  "org_cn": null,
+  "domain_name": "ZJTIE.EDU.CN",
+  "network_name": "ZJTIE-CN",
+  "admin_contact": "Wei Cai (WC27-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjtie.edu.cn",
+      "ip": "211.80.157.250"
+    },
+    {
+      "host": "dns2.zjtie.edu.cn",
+      "ip": "60.191.1.50"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

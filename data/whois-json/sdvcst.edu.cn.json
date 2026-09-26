@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdvcst.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Vocational College of Science & Technology",
+  "org_cn": null,
+  "domain_name": "SDVCST.EDU.CN",
+  "network_name": "SDVCST-CN",
+  "admin_contact": "Hua Feng (HF17-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SDVCST.EDU.CN",
+      "ip": "222.207.204.200"
+    },
+    {
+      "host": "DNS2.SDVCST.EDU.CN",
+      "ip": "222.207.204.201"
+    }
+  ],
+  "address": [
+    "Weifang, SD 261031",
+    "China"
+  ],
+  "raw_note": null
+}

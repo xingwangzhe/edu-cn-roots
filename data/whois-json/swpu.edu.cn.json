@@ -1,0 +1,24 @@
+{
+  "root_domain": "swpu.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest Petroleum University",
+  "org_cn": null,
+  "domain_name": "SWPU.EDU.CN",
+  "network_name": "SWPI-CN",
+  "admin_contact": "Jing Guo (JG3-AP)",
+  "nameservers": [
+    {
+      "host": "dns.swpu.edu.cn",
+      "ip": "210.41.240.33"
+    },
+    {
+      "host": "dns2.swpu.edu.cn",
+      "ip": "210.41.240.34"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610500",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "hjnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hanjiang Normal University",
+  "org_cn": null,
+  "domain_name": "HJNU.EDU.CN",
+  "network_name": "YYTC-CN",
+  "admin_contact": "WANG Ji (WJ2-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hjnu.edu.cn",
+      "ip": "210.42.14.18"
+    },
+    {
+      "host": "sql.hjnu.edu.cn",
+      "ip": "61.184.78.18"
+    }
+  ],
+  "address": [
+    "Shiyan, HB 442000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebiace.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Institute Of Architecture And Civil Engineering",
+  "org_cn": null,
+  "domain_name": "HEBIACE.EDU.CN",
+  "network_name": "HEBIACE-CN",
+  "admin_contact": "Guo Lv (GL65-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HEBIACE.EDU.CN",
+      "ip": "211.68.160.3"
+    },
+    {
+      "host": "WEF.HEBIACE.EDU.CN",
+      "ip": "211.68.160.8"
+    }
+  ],
+  "address": [
+    "Zhangjiakou, HE 075024",
+    "China"
+  ],
+  "raw_note": null
+}

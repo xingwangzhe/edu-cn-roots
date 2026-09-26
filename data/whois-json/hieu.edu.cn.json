@@ -1,0 +1,24 @@
+{
+  "root_domain": "hieu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan International Economics University",
+  "org_cn": null,
+  "domain_name": "HIEU.EDU.CN",
+  "network_name": "HNIEU-CN",
+  "admin_contact": "Juzheng Zhu (JZ108-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hieu.edu.cn",
+      "ip": "125.221.244.100"
+    },
+    {
+      "host": "dns1.hieu.edu.cn",
+      "ip": "125.221.244.101"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410205",
+    "China"
+  ],
+  "raw_note": null
+}

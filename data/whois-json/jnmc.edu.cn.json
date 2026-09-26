@@ -1,0 +1,20 @@
+{
+  "root_domain": "jnmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jining Medical College",
+  "org_cn": null,
+  "domain_name": "JNMC.EDU.CN",
+  "network_name": "JNMC-CN",
+  "admin_contact": "Xiaozong Yue (XY15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JNMC.EDU.CN",
+      "ip": "210.44.16.2"
+    }
+  ],
+  "address": [
+    "Jining, SD 272013",
+    "China"
+  ],
+  "raw_note": null
+}

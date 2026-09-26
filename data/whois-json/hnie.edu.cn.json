@@ -1,0 +1,24 @@
+{
+  "root_domain": "hnie.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan Institute Of Engineering",
+  "org_cn": null,
+  "domain_name": "HNIE.EDU.CN",
+  "network_name": "XTIME-CN",
+  "admin_contact": "Yong Wang (YW124-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HNIE.EDU.CN",
+      "ip": "202.197.240.5"
+    },
+    {
+      "host": "NS2.HNIE.EDU.CN",
+      "ip": "202.197.240.2"
+    }
+  ],
+  "address": [
+    "Xiangtan, HN 411101",
+    "China"
+  ],
+  "raw_note": null
+}

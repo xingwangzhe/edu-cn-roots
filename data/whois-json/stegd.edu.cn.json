@@ -1,0 +1,28 @@
+{
+  "root_domain": "stegd.edu.cn",
+  "type": "full_record",
+  "org_en": "The Office for the Self-taught Education Examinations of",
+  "org_cn": null,
+  "domain_name": "STEGD.EDU.CN",
+  "network_name": "GDGZB-CN",
+  "admin_contact": "Jingyun Li (JL142-CER)",
+  "nameservers": [
+    {
+      "host": "stegd1.stegd.edu.cn",
+      "ip": "202.116.236.33"
+    },
+    {
+      "host": "stegd2.stegd.edu.cn",
+      "ip": "183.62.28.4"
+    },
+    {
+      "host": "stegd3.stegd.edu.cn",
+      "ip": "202.116.236.34"
+    }
+  ],
+  "address": [
+    "guangzhou, GD 510631",
+    "China"
+  ],
+  "raw_note": null
+}

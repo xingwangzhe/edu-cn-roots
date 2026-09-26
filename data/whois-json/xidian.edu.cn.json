@@ -1,0 +1,24 @@
+{
+  "root_domain": "xidian.edu.cn",
+  "type": "full_record",
+  "org_en": "Xidian University",
+  "org_cn": null,
+  "domain_name": "XIDIAN.EDU.CN",
+  "network_name": "XIDIAN-CN",
+  "admin_contact": "Lin Wu (LW76-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.XIDIAN.EDU.CN",
+      "ip": "202.117.112.3"
+    },
+    {
+      "host": "NS2.XIDIAN.EDU.CN",
+      "ip": "61.150.43.66"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710071",
+    "China"
+  ],
+  "raw_note": null
+}

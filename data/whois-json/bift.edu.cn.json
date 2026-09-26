@@ -1,0 +1,24 @@
+{
+  "root_domain": "bift.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Institute Of Fashion Technology",
+  "org_cn": null,
+  "domain_name": "BIFT.EDU.CN",
+  "network_name": "BICT-CN",
+  "admin_contact": "Yan Zhang (YZ186-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.BIFT.EDU.CN",
+      "ip": "211.71.96.66"
+    },
+    {
+      "host": "CLOTH.BIFT.EDU.CN",
+      "ip": "111.203.179.67"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100029",
+    "China"
+  ],
+  "raw_note": null
+}

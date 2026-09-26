@@ -1,0 +1,32 @@
+{
+  "root_domain": "hrbfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Finance University",
+  "org_cn": null,
+  "domain_name": "HRBFU.EDU.CN",
+  "network_name": "HRBJZ-CN",
+  "admin_contact": "Haitao Lu (HL88-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hrbfu.edu.cn",
+      "ip": "111.117.0.23"
+    },
+    {
+      "host": "dns2.hrbfu.edu.cn",
+      "ip": "221.208.0.123"
+    },
+    {
+      "host": "dns3.hrbfu.edu.cn",
+      "ip": "218.203.3.223"
+    },
+    {
+      "host": "dns4.hrbfu.edu.cn",
+      "ip": "112.102.195.123"
+    }
+  ],
+  "address": [
+    "haerbin, HL 150004",
+    "China"
+  ],
+  "raw_note": null
+}

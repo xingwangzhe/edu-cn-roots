@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "ShanDong JiaoTong University",
+  "org_cn": null,
+  "domain_name": "SDJTU.EDU.CN",
+  "network_name": "JCC-CN",
+  "admin_contact": "Luhua Sun (SH4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sdjtu.edu.cn",
+      "ip": "211.64.120.2"
+    },
+    {
+      "host": "dns2.sdjtu.edu.cn",
+      "ip": "211.64.120.3"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250023",
+    "China"
+  ],
+  "raw_note": null
+}

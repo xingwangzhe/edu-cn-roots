@@ -1,0 +1,24 @@
+{
+  "root_domain": "tust.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University of Science & Technology",
+  "org_cn": null,
+  "domain_name": "TUST.EDU.CN",
+  "network_name": "TUST-CN",
+  "admin_contact": "Jianzhong Guo (JG20-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tust.edu.cn",
+      "ip": "210.31.128.1"
+    },
+    {
+      "host": "dns2.tust.edu.cn",
+      "ip": "59.67.6.6"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300222",
+    "China"
+  ],
+  "raw_note": null
+}

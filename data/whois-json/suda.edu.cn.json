@@ -1,0 +1,28 @@
+{
+  "root_domain": "suda.edu.cn",
+  "type": "full_record",
+  "org_en": "Suzhou University",
+  "org_cn": null,
+  "domain_name": "SUDA.EDU.CN",
+  "network_name": "SUDA-CN",
+  "admin_contact": "Bin Xu (BX1-CN)",
+  "nameservers": [
+    {
+      "host": "nsad.suda.edu.cn",
+      "ip": "202.195.128.10"
+    },
+    {
+      "host": "liuyuan.suda.edu.cn",
+      "ip": "202.195.128.16"
+    },
+    {
+      "host": "dongyuan.suda.edu.cn",
+      "ip": "58.211.251.189"
+    }
+  ],
+  "address": [
+    "Suzhou, JS 215006",
+    "China"
+  ],
+  "raw_note": null
+}

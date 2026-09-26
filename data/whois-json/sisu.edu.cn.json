@@ -1,0 +1,24 @@
+{
+  "root_domain": "sisu.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan International Studies University",
+  "org_cn": null,
+  "domain_name": "SISU.EDU.CN",
+  "network_name": "SISU-CN",
+  "admin_contact": "Dingjun Wang (DW34-CER)",
+  "nameservers": [
+    {
+      "host": "PHOEBUS.SISU.EDU.CN",
+      "ip": "202.202.197.2"
+    },
+    {
+      "host": "FLORA.SISU.EDU.CN",
+      "ip": "202.202.197.223"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400031",
+    "China"
+  ],
+  "raw_note": null
+}

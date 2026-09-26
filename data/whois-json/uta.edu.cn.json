@@ -1,0 +1,24 @@
+{
+  "root_domain": "uta.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Technology Anhui",
+  "org_cn": null,
+  "domain_name": "UTA.EDU.CN",
+  "network_name": "AHVTC-CN",
+  "admin_contact": "Yuefei Xu (YX1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.uta.edu.cn",
+      "ip": "42.247.3.112"
+    },
+    {
+      "host": "dns2.uta.edu.cn",
+      "ip": "42.247.3.113"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230011",
+    "China"
+  ],
+  "raw_note": null
+}

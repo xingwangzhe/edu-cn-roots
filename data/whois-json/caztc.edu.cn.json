@@ -1,0 +1,24 @@
+{
+  "root_domain": "caztc.edu.cn",
+  "type": "full_record",
+  "org_en": "Cangzhou Normal University",
+  "org_cn": null,
+  "domain_name": "CAZTC.EDU.CN",
+  "network_name": "CAZTC-CN",
+  "admin_contact": "Jie Guo (JG25-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Cangzhou, HE 061001",
+    "China"
+  ],
+  "raw_note": null
+}

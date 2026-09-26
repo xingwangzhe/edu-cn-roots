@@ -1,0 +1,28 @@
+{
+  "root_domain": "shanghaitech.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Technology University",
+  "org_cn": null,
+  "domain_name": "SHANGHAITECH.EDU.CN",
+  "network_name": "SHTECH-CN",
+  "admin_contact": "Dewei Shi (DS15-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.shanghaitech.edu.cn",
+      "ip": "59.78.171.13"
+    },
+    {
+      "host": "dns2.shanghaitech.edu.cn",
+      "ip": "159.226.128.1"
+    },
+    {
+      "host": "dns3.shanghaitech.edu.cn",
+      "ip": "119.78.254.13"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200031",
+    "China"
+  ],
+  "raw_note": null
+}

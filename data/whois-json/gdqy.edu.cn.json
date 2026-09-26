@@ -1,0 +1,32 @@
+{
+  "root_domain": "gdqy.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong Industry Polytechnic University",
+  "org_cn": null,
+  "domain_name": "GDQY.EDU.CN",
+  "network_name": "GDQY-CN",
+  "admin_contact": "Min Hu (MH5-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.GDQY.EDU.CN",
+      "ip": "211.66.184.33"
+    },
+    {
+      "host": "dns2.GDQY.EDU.CN",
+      "ip": "211.66.184.35"
+    },
+    {
+      "host": "dns3.GDQY.EDU.CN",
+      "ip": "121.33.251.16"
+    },
+    {
+      "host": "dns4.GDQY.EDU.CN",
+      "ip": "121.33.251.17"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510300",
+    "China"
+  ],
+  "raw_note": null
+}

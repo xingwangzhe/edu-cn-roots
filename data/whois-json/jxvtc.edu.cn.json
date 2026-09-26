@@ -1,0 +1,24 @@
+{
+  "root_domain": "jxvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiaxing Vocational College",
+  "org_cn": null,
+  "domain_name": "JXVTC.EDU.CN",
+  "network_name": "JXVTC-CN",
+  "admin_contact": "jianshan Wu (JW72-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Jiaxing, ZJ 314001",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdjzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong JianZhu University",
+  "org_cn": null,
+  "domain_name": "SDJZU.EDU.CN",
+  "network_name": "SDACEI-CN",
+  "admin_contact": "Zhaowen Wang (ZW62-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sdjzu.edu.cn",
+      "ip": "202.194.86.140"
+    },
+    {
+      "host": "dns2.sdjzu.edu.cn",
+      "ip": "202.194.86.96"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250101",
+    "China"
+  ],
+  "raw_note": null
+}

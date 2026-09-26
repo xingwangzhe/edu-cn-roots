@@ -1,0 +1,20 @@
+{
+  "root_domain": "xaipe.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Insititute of Physical Education",
+  "org_cn": null,
+  "domain_name": "XAIPE.EDU.CN",
+  "network_name": "XAIPE-CN",
+  "admin_contact": "Yan MA (YM5-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xaipe.edu.cn",
+      "ip": "219.244.16.118"
+    }
+  ],
+  "address": [
+    "xi'an, SN 710068",
+    "China"
+  ],
+  "raw_note": null
+}

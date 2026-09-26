@@ -1,0 +1,24 @@
+{
+  "root_domain": "canvard.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Financial Technology university",
+  "org_cn": null,
+  "domain_name": "CANVARD.EDU.CN",
+  "network_name": "JHIBTBU-CN",
+  "admin_contact": "He Li (HL1-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 101118",
+    "China"
+  ],
+  "raw_note": null
+}

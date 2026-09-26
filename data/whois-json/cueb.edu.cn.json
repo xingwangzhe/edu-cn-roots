@@ -1,0 +1,28 @@
+{
+  "root_domain": "cueb.edu.cn",
+  "type": "full_record",
+  "org_en": "Capital University of Economics And Business",
+  "org_cn": null,
+  "domain_name": "CUEB.EDU.CN",
+  "network_name": "CUEB-CN",
+  "admin_contact": "Yizhi Shen (YS29-CER)",
+  "nameservers": [
+    {
+      "host": "CUEB-H1.CUEB.EDU.CN",
+      "ip": "219.224.70.201"
+    },
+    {
+      "host": "CUEB-H2.CUEB.EDU.CN",
+      "ip": "202.204.145.2"
+    },
+    {
+      "host": "NS.CUEB.EDU.CN",
+      "ip": "60.247.64.140"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100070",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "stdu.edu.cn",
+  "type": "full_record",
+  "org_en": "orgname:",
+  "org_cn": null,
+  "domain_name": "STDU.EDU.CN",
+  "network_name": "SJZRI-CN",
+  "admin_contact": "Shiqiang Yan (SY36-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.stdu.edu.cn",
+      "ip": "202.206.32.1"
+    },
+    {
+      "host": "ns2.stdu.edu.cn",
+      "ip": "121.28.69.67"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050043",
+    "China"
+  ],
+  "raw_note": null
+}

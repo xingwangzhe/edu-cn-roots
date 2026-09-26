@@ -1,0 +1,24 @@
+{
+  "root_domain": "upc.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Petroleum (East China) Qingdao Campus",
+  "org_cn": null,
+  "domain_name": "UPC.EDU.CN",
+  "network_name": "QDHDPU-CN",
+  "admin_contact": "Wenwen Song (WS25-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.upc.edu.cn",
+      "ip": "211.87.176.66"
+    },
+    {
+      "host": "dns2.upc.edu.cn",
+      "ip": "211.87.176.99"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 257000",
+    "China"
+  ],
+  "raw_note": null
+}

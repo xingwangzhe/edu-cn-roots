@@ -1,0 +1,28 @@
+{
+  "root_domain": "xjart.edu.cn",
+  "type": "full_record",
+  "org_en": "xinjiang arts institute",
+  "org_cn": null,
+  "domain_name": "XJART.EDU.CN",
+  "network_name": "XJART-CN",
+  "admin_contact": "Yufeng Guan (YG21-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xjart.edu.cn",
+      "ip": "218.195.180.2"
+    },
+    {
+      "host": "dns2.xjart.edu.cn",
+      "ip": "218.195.180.3"
+    },
+    {
+      "host": "art2f.xjart.edu.cn",
+      "ip": "218.195.180.3"
+    }
+  ],
+  "address": [
+    "Urumqi, XJ 830001",
+    "China"
+  ],
+  "raw_note": null
+}

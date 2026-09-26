@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu Qinggong Polytechnic University",
+  "org_cn": null,
+  "domain_name": "CDTC.EDU.CN",
+  "network_name": "SCCDTC-CN",
+  "admin_contact": "Zhengqi Wu (ZW24-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.CDTC.EDU.CN",
+      "ip": "211.83.88.241"
+    },
+    {
+      "host": "BAKDNS.CDTC.EDU.CN",
+      "ip": "222.209.223.54"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610023",
+    "China"
+  ],
+  "raw_note": null
+}

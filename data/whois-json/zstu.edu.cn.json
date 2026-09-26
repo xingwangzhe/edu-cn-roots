@@ -1,0 +1,24 @@
+{
+  "root_domain": "zstu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Sci-Tech University",
+  "org_cn": null,
+  "domain_name": "ZSTU.EDU.CN",
+  "network_name": "ZJSIT-CN",
+  "admin_contact": "GuoMing Jiang (GJ19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zstu.edu.cn",
+      "ip": "210.32.24.20"
+    },
+    {
+      "host": "dns2.zstu.edu.cn",
+      "ip": "210.32.24.21"
+    }
+  ],
+  "address": [
+    "HangZhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "gist.edu.cn",
+  "type": "full_record",
+  "org_en": "SuZhou Global Institute",
+  "org_cn": null,
+  "domain_name": "GIST.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Manqun Zhao (MZ19-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.GIST.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.GIST.EDU.CN",
+      "ip": "202.112.23.101"
+    }
+  ],
+  "address": [
+    "Suzhou, JS 215000",
+    "China"
+  ],
+  "raw_note": null
+}

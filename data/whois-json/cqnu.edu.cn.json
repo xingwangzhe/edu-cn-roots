@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Normal University",
+  "org_cn": null,
+  "domain_name": "CQNU.EDU.CN",
+  "network_name": "CQNU-CN",
+  "admin_contact": "Danyan Xiao (DX4-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.CQNU.EDU.CN",
+      "ip": "202.202.208.111"
+    },
+    {
+      "host": "SEC-DNS.CQNU.EDU.CN",
+      "ip": "202.202.208.112"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400047",
+    "China"
+  ],
+  "raw_note": null
+}

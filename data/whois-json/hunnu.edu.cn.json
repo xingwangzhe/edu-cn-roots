@@ -1,0 +1,24 @@
+{
+  "root_domain": "hunnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hu Nan Normal University",
+  "org_cn": null,
+  "domain_name": "HUNNU.EDU.CN",
+  "network_name": "HUNNU-CN",
+  "admin_contact": "Zhiyong Zhang (ZZ1-CER)",
+  "nameservers": [
+    {
+      "host": "SPARC2.HUNNU.EDU.CN",
+      "ip": "202.197.120.2"
+    },
+    {
+      "host": "SPARC1.HUNNU.EDU.CN",
+      "ip": "202.197.120.1"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410081",
+    "China"
+  ],
+  "raw_note": null
+}

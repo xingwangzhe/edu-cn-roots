@@ -1,0 +1,24 @@
+{
+  "root_domain": "sit.edu.cn",
+  "type": "full_record",
+  "org_en": "上海应用技术大学",
+  "org_cn": null,
+  "domain_name": "SIT.EDU.CN",
+  "network_name": "SHCM-CN",
+  "admin_contact": "Jiageng Chen (JC4-CER)",
+  "nameservers": [
+    {
+      "host": "ns.sit.edu.cn",
+      "ip": "210.35.96.2"
+    },
+    {
+      "host": "ns1.sit.edu.cn",
+      "ip": "210.35.96.6"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201418",
+    "China"
+  ],
+  "raw_note": null
+}

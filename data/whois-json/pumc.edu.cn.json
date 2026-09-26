@@ -1,0 +1,32 @@
+{
+  "root_domain": "pumc.edu.cn",
+  "type": "full_record",
+  "org_en": "Peking Union Medical College",
+  "org_cn": null,
+  "domain_name": "PUMC.EDU.CN",
+  "network_name": "PUMC-CN",
+  "admin_contact": "Ruiyu Wu (RW22-CER)",
+  "nameservers": [
+    {
+      "host": "nic-dns.pumc.edu.cn",
+      "ip": "222.28.160.2"
+    },
+    {
+      "host": "bak-dns.pumc.edu.cn",
+      "ip": "222.28.160.110"
+    },
+    {
+      "host": "kj-dns.pumc.edu.cn",
+      "ip": "124.17.96.110"
+    },
+    {
+      "host": "kjbak-dns.pumc.edu.cn",
+      "ip": "124.17.96.111"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100730",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "wfmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Second Medical University",
+  "org_cn": null,
+  "domain_name": "WFMC.EDU.CN",
+  "network_name": "WFMC-CN",
+  "admin_contact": "Jinmin Wang (JW24-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.WFMC.EDU.CN",
+      "ip": "210.44.80.1"
+    },
+    {
+      "host": "DNS2.WFMC.EDU.CN",
+      "ip": "210.44.80.2"
+    }
+  ],
+  "address": [
+    "Weifang, SD 261042",
+    "China"
+  ],
+  "raw_note": null
+}

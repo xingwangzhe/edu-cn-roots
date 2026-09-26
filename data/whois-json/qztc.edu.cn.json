@@ -1,0 +1,20 @@
+{
+  "root_domain": "qztc.edu.cn",
+  "type": "full_record",
+  "org_en": "Quanzhou Teacher's College",
+  "org_cn": null,
+  "domain_name": "QZTC.EDU.CN",
+  "network_name": "QZTC-CN",
+  "admin_contact": "Meng Chen (MC6-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.QZTC.EDU.CN",
+      "ip": "210.34.120.1"
+    }
+  ],
+  "address": [
+    "Quanzhou, FJ 362000",
+    "China"
+  ],
+  "raw_note": null
+}

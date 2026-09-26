@@ -1,0 +1,24 @@
+{
+  "root_domain": "djtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian Jiaotong University",
+  "org_cn": null,
+  "domain_name": "DJTU.EDU.CN",
+  "network_name": "DLRIN-CN",
+  "admin_contact": "Zunyi Shang (ZS11-CER)",
+  "nameservers": [
+    {
+      "host": "dns.djtu.edu.cn",
+      "ip": "202.199.128.6"
+    },
+    {
+      "host": "oar.djtu.edu.cn",
+      "ip": "202.199.128.8"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116028",
+    "China"
+  ],
+  "raw_note": null
+}

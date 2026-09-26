@@ -1,0 +1,24 @@
+{
+  "root_domain": "hsu.edu.cn",
+  "type": "full_record",
+  "org_en": "HuangShan College",
+  "org_cn": null,
+  "domain_name": "HSU.EDU.CN",
+  "network_name": "HSC-CN",
+  "admin_contact": "Wang Guojin (WG10-CER)",
+  "nameservers": [
+    {
+      "host": "ns.hsu.edu.cn",
+      "ip": "211.86.191.1"
+    },
+    {
+      "host": "dns.hsu.edu.cn",
+      "ip": "211.86.191.2"
+    }
+  ],
+  "address": [
+    "HuangShan, AH 245021",
+    "China"
+  ],
+  "raw_note": null
+}

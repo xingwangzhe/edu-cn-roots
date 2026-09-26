@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjfc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang A&F University",
+  "org_cn": null,
+  "domain_name": "ZJFC.EDU.CN",
+  "network_name": "ZJFC-CN",
+  "admin_contact": "Qingchen Jiang (QJ12-CER)",
+  "nameservers": [
+    {
+      "host": "FORCOL.ZAFU.EDU.CN",
+      "ip": "210.33.60.69"
+    },
+    {
+      "host": "FORCOL2.ZAFU.EDU.CN",
+      "ip": "202.107.200.69"
+    }
+  ],
+  "address": [
+    "Linan, ZJ 311300",
+    "China"
+  ],
+  "raw_note": null
+}

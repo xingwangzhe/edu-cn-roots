@@ -1,0 +1,24 @@
+{
+  "root_domain": "sou.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Open University",
+  "org_cn": null,
+  "domain_name": "SOU.EDU.CN",
+  "network_name": "SHTVU-CN",
+  "admin_contact": "XinYing Zhang (XZ127-CER)",
+  "nameservers": [
+    {
+      "host": "DRAGON.SOU.EDU.CN",
+      "ip": "202.121.80.10"
+    },
+    {
+      "host": "NS3.SOU.EDU.CN",
+      "ip": "180.166.194.51"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200433",
+    "China"
+  ],
+  "raw_note": null
+}

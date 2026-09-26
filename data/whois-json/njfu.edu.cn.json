@@ -1,0 +1,24 @@
+{
+  "root_domain": "njfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Forestry University",
+  "org_cn": null,
+  "domain_name": "NJFU.EDU.CN",
+  "network_name": "NJFU-CN",
+  "admin_contact": "Chengong Zhao (CZ3-CN)",
+  "nameservers": [
+    {
+      "host": "dns.njfu.edu.cn",
+      "ip": "202.119.208.10"
+    },
+    {
+      "host": "dns1.njfu.edu.cn",
+      "ip": "202.119.208.20"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210037",
+    "China"
+  ],
+  "raw_note": null
+}

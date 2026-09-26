@@ -1,0 +1,28 @@
+{
+  "root_domain": "neu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeastern University",
+  "org_cn": null,
+  "domain_name": "NEU.EDU.CN",
+  "network_name": "NEU-CN",
+  "admin_contact": "Zhankao Wen (ZW45-CER)",
+  "nameservers": [
+    {
+      "host": "ns.neu.edu.cn",
+      "ip": "202.118.1.35"
+    },
+    {
+      "host": "ns1.neu.edu.cn",
+      "ip": "202.118.1.45"
+    },
+    {
+      "host": "ns2.neu.edu.cn",
+      "ip": "202.112.31.197"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110004",
+    "China"
+  ],
+  "raw_note": null
+}

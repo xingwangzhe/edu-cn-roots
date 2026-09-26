@@ -1,0 +1,28 @@
+{
+  "root_domain": "tute.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University of Technology and Education",
+  "org_cn": null,
+  "domain_name": "TUTE.EDU.CN",
+  "network_name": "TJVTTC-CN",
+  "admin_contact": "Liancheng Guan (LG32-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TUTE.EDU.CN",
+      "ip": "202.113.244.253"
+    },
+    {
+      "host": "DNS1.TUTE.EDU.CN",
+      "ip": "202.113.244.2"
+    },
+    {
+      "host": "DNS2.TUTE.EDU.CN",
+      "ip": "202.113.244.12"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300222",
+    "China"
+  ],
+  "raw_note": null
+}

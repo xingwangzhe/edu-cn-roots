@@ -1,0 +1,24 @@
+{
+  "root_domain": "swfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest Forestry University",
+  "org_cn": null,
+  "domain_name": "SWFU.EDU.CN",
+  "network_name": "SWFC-CN",
+  "admin_contact": "Shijun Wen (SW6-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SWFU.EDU.CN",
+      "ip": "202.203.132.1"
+    },
+    {
+      "host": "DNS2.SWFU.EDU.CN",
+      "ip": "202.203.132.100"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650224",
+    "China"
+  ],
+  "raw_note": null
+}

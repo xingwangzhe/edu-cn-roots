@@ -1,0 +1,28 @@
+{
+  "root_domain": "jssnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Second Normal University",
+  "org_cn": null,
+  "domain_name": "JSSNU.EDU.CN",
+  "network_name": "JSIE-CN",
+  "admin_contact": "Hanqun Sun (HS20-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JSSNU.EDU.CN",
+      "ip": "202.195.32.10"
+    },
+    {
+      "host": "DNS2.JSSNU.EDU.CN",
+      "ip": "202.195.36.11"
+    },
+    {
+      "host": "DNS3.JSSNU.EDU.CN",
+      "ip": "120.195.117.170"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210013",
+    "China"
+  ],
+  "raw_note": null
+}

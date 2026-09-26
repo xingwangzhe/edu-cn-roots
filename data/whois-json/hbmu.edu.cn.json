@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Medical University",
+  "org_cn": null,
+  "domain_name": "HBMU.EDU.CN",
+  "network_name": "YMC-CN",
+  "admin_contact": "Zhiyuan Du (ZD20-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbmu.edu.cn",
+      "ip": "218.197.48.8"
+    },
+    {
+      "host": "dns2.hbmu.edu.cn",
+      "ip": "218.197.48.18"
+    }
+  ],
+  "address": [
+    "ShiYan, HB 420000",
+    "China"
+  ],
+  "raw_note": null
+}

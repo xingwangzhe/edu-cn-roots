@@ -1,0 +1,24 @@
+{
+  "root_domain": "zcu.edu.cn",
+  "type": "full_record",
+  "org_en": "City University Of Zhenzhou",
+  "org_cn": null,
+  "domain_name": "ZCU.EDU.CN",
+  "network_name": "BRYNDA-CN",
+  "admin_contact": "Zhanyong Meng (ZM12-CER)",
+  "nameservers": [
+    {
+      "host": "dns.zcu.edu.cn",
+      "ip": "115.158.112.8"
+    },
+    {
+      "host": "dns2.zcu.edu.cn",
+      "ip": "115.158.112.18"
+    }
+  ],
+  "address": [
+    "XinMi, HA 452370",
+    "China"
+  ],
+  "raw_note": null
+}

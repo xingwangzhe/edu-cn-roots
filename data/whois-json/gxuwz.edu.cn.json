@@ -1,0 +1,24 @@
+{
+  "root_domain": "gxuwz.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuzhou University",
+  "org_cn": null,
+  "domain_name": "GXUWZ.EDU.CN",
+  "network_name": "GXUWZ-CN",
+  "admin_contact": "Lu Keda (LK12-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.GXUWZ.EDU.CN",
+      "ip": "210.36.200.1"
+    },
+    {
+      "host": "DNS2.GXUWZ.EDU.CN",
+      "ip": "121.31.68.131"
+    }
+  ],
+  "address": [
+    "Wuzhou, GX 543002",
+    "China"
+  ],
+  "raw_note": null
+}

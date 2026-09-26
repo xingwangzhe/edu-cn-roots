@@ -1,0 +1,28 @@
+{
+  "root_domain": "njau.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Agricultural University",
+  "org_cn": null,
+  "domain_name": "NJAU.EDU.CN",
+  "network_name": "NJAU-CN",
+  "admin_contact": "Jiyi Cheng (JC2-CN)",
+  "nameservers": [
+    {
+      "host": "nau.njau.edu.cn",
+      "ip": "202.195.240.5"
+    },
+    {
+      "host": "dns2.njau.edu.cn",
+      "ip": "218.94.137.100"
+    },
+    {
+      "host": "dns3.njau.edu.cn",
+      "ip": "58.240.70.200"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210095",
+    "China"
+  ],
+  "raw_note": null
+}

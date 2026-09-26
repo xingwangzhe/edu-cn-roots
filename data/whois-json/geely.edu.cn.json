@@ -1,0 +1,24 @@
+{
+  "root_domain": "geely.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Automobile Vocational and Technology College",
+  "org_cn": null,
+  "domain_name": "GEELY.EDU.CN",
+  "network_name": "ZATC-CN",
+  "admin_contact": "JianShen Chen (JC66-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Linhai, ZJ 317000",
+    "China"
+  ],
+  "raw_note": null
+}

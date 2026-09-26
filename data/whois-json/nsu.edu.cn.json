@@ -1,0 +1,24 @@
+{
+  "root_domain": "nsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu Neusoft University",
+  "org_cn": null,
+  "domain_name": "NSU.EDU.CN",
+  "network_name": "CDNSU-CN",
+  "admin_contact": "Haibo Yang (HY47-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.NSU.EDU.CN",
+      "ip": "42.247.3.131"
+    },
+    {
+      "host": "dns2.NSU.EDU.CN",
+      "ip": "118.113.89.2"
+    }
+  ],
+  "address": [
+    "Dujiangyan, SC 611844",
+    "China"
+  ],
+  "raw_note": null
+}

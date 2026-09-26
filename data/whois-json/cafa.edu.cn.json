@@ -1,0 +1,24 @@
+{
+  "root_domain": "cafa.edu.cn",
+  "type": "full_record",
+  "org_en": "Central Academy of Fine Arts",
+  "org_cn": null,
+  "domain_name": "CAFA.EDU.CN",
+  "network_name": "CAFA-CN",
+  "admin_contact": "Pei Liu (PL10-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cafa.edu.cn",
+      "ip": "222.28.22.254"
+    },
+    {
+      "host": "dns2.cafa.edu.cn",
+      "ip": "124.127.38.254"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100102",
+    "China"
+  ],
+  "raw_note": null
+}

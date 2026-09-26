@@ -1,0 +1,24 @@
+{
+  "root_domain": "nxcy.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningxia Finance and Economics Professional Technology",
+  "org_cn": null,
+  "domain_name": "NXCY.EDU.CN",
+  "network_name": "NXCX-CN",
+  "admin_contact": "Wenxiong Gao (WG17-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NXCY.EDU.CN",
+      "ip": "210.27.209.250"
+    },
+    {
+      "host": "DNS2.NXCY.EDU.CN",
+      "ip": "210.27.209.251"
+    }
+  ],
+  "address": [
+    "Yinchuan, NX 750021",
+    "China"
+  ],
+  "raw_note": null
+}

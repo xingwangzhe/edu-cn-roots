@@ -1,0 +1,24 @@
+{
+  "root_domain": "zzti.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhongyuan University of Technology",
+  "org_cn": null,
+  "domain_name": "ZZTI.EDU.CN",
+  "network_name": "ZZTI-CN",
+  "admin_contact": "Zhanbin Che (ZC6-CN)",
+  "nameservers": [
+    {
+      "host": "SUN20.ZZTI.EDU.CN",
+      "ip": "202.196.32.1"
+    },
+    {
+      "host": "WINNT.ZZTI.EDU.CN",
+      "ip": "202.196.32.2"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450007",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjou.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Ocean University",
+  "org_cn": null,
+  "domain_name": "ZJOU.EDU.CN",
+  "network_name": "ZHJOU-CN",
+  "admin_contact": "Xianen Wang (XW102-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjou.edu.cn",
+      "ip": "59.79.140.11"
+    },
+    {
+      "host": "dns2.zjou.edu.cn",
+      "ip": "59.79.140.22"
+    }
+  ],
+  "address": [
+    "zhoushan, ZJ 316022",
+    "China"
+  ],
+  "raw_note": null
+}

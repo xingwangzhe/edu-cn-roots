@@ -1,0 +1,24 @@
+{
+  "root_domain": "bda.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Dance Academy",
+  "org_cn": null,
+  "domain_name": "BDA.EDU.CN",
+  "network_name": "BJDANCE-CN",
+  "admin_contact": "Li Chao (LC31-CER)",
+  "nameservers": [
+    {
+      "host": "dns.bda.edu.cn",
+      "ip": "219.242.16.1"
+    },
+    {
+      "host": "dns2.bda.edu.cn",
+      "ip": "202.99.48.100"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100814",
+    "China"
+  ],
+  "raw_note": null
+}

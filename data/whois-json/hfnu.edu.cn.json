@@ -1,0 +1,24 @@
+{
+  "root_domain": "hfnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hefei Normal University",
+  "org_cn": null,
+  "domain_name": "HFNU.EDU.CN",
+  "network_name": "AHIE-CN",
+  "admin_contact": "Kezhu Han (KH4-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hfnu.edu.cn",
+      "ip": "211.86.200.2"
+    },
+    {
+      "host": "dns1.hfnu.edu.cn",
+      "ip": "211.86.200.3"
+    }
+  ],
+  "address": [
+    "Hefei, AH 238076",
+    "China"
+  ],
+  "raw_note": null
+}

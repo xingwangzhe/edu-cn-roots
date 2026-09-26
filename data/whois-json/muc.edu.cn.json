@@ -1,0 +1,24 @@
+{
+  "root_domain": "muc.edu.cn",
+  "type": "full_record",
+  "org_en": "Minzu University of China",
+  "org_cn": null,
+  "domain_name": "MUC.EDU.CN",
+  "network_name": "CUN-CN",
+  "admin_contact": "Weiyu Yang (WY31-CER)",
+  "nameservers": [
+    {
+      "host": "dns.muc.edu.cn",
+      "ip": "210.31.0.10"
+    },
+    {
+      "host": "dns1.muc.edu.cn",
+      "ip": "210.31.0.9"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100081",
+    "China"
+  ],
+  "raw_note": null
+}

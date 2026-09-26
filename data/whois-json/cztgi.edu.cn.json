@@ -1,0 +1,24 @@
+{
+  "root_domain": "cztgi.edu.cn",
+  "type": "full_record",
+  "org_en": "Changzhou Textile And Garments Institute",
+  "org_cn": null,
+  "domain_name": "CZTGI.EDU.CN",
+  "network_name": "JCIC-CN",
+  "admin_contact": "Hexin Pan (HP1-CER)",
+  "nameservers": [
+    {
+      "host": "XXZX.CZTGI.EDU.CN",
+      "ip": "202.119.168.3"
+    },
+    {
+      "host": "DNS1.CZTGI.EDU.CN",
+      "ip": "58.216.240.252"
+    }
+  ],
+  "address": [
+    "Changzhou, JS 213004",
+    "China"
+  ],
+  "raw_note": null
+}

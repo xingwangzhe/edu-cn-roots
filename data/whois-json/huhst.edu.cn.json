@@ -1,0 +1,28 @@
+{
+  "root_domain": "huhst.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan Institute of Humanities Science and Technology",
+  "org_cn": null,
+  "domain_name": "HUHST.EDU.CN",
+  "network_name": "HNRKU-CN",
+  "admin_contact": "Fenglong Liu (FL14-CER)",
+  "nameservers": [
+    {
+      "host": "dns.huhst.edu.cn",
+      "ip": "59.71.62.8"
+    },
+    {
+      "host": "dns2.huhst.edu.cn",
+      "ip": "59.71.62.18"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Loudi, HN 417000",
+    "China"
+  ],
+  "raw_note": null
+}

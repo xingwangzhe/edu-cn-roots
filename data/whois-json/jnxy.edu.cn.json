@@ -1,0 +1,24 @@
+{
+  "root_domain": "jnxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Jining University",
+  "org_cn": null,
+  "domain_name": "JNXY.EDU.CN",
+  "network_name": "JNTC-CN",
+  "admin_contact": "Su Ning (SN1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JNXY.EDU.CN",
+      "ip": "202.194.97.150"
+    },
+    {
+      "host": "DNS2.JNXY.EDU.CN",
+      "ip": "202.194.97.151"
+    }
+  ],
+  "address": [
+    "Jining, SD 273155",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sxnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi Normal University",
+  "org_cn": null,
+  "domain_name": "SXNU.EDU.CN",
+  "network_name": "SXTU-CN",
+  "admin_contact": "Cunyou Wang (CW44-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.SXNU.EDU.CN",
+      "ip": "202.207.160.2"
+    },
+    {
+      "host": "NS1.SXNU.EDU.CN",
+      "ip": "202.207.160.17"
+    }
+  ],
+  "address": [
+    "TaiYuan, SX 030032",
+    "China"
+  ],
+  "raw_note": null
+}

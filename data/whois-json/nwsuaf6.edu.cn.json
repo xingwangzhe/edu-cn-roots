@@ -1,0 +1,20 @@
+{
+  "root_domain": "nwsuaf6.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwest A&F University",
+  "org_cn": null,
+  "domain_name": "NWSUAF6.EDU.CN",
+  "network_name": "NSTUAF-CN",
+  "admin_contact": "Chengyu Cui (CC11-CER)",
+  "nameservers": [
+    {
+      "host": "ncs1.nwsuaf6.edu.cn",
+      "ip": "210.27.80.2"
+    }
+  ],
+  "address": [
+    "Yang, SN 712100",
+    "China"
+  ],
+  "raw_note": null
+}

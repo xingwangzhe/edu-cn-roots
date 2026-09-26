@@ -1,0 +1,20 @@
+{
+  "root_domain": "asnc.edu.cn",
+  "type": "full_record",
+  "org_en": "Anshan Normal College",
+  "org_cn": null,
+  "domain_name": "ASNC.EDU.CN",
+  "network_name": "ASNC-CN",
+  "admin_contact": "Zhiyong Liu (ZL8-CN)",
+  "nameservers": [
+    {
+      "host": "ansh.asnc.edu.cn",
+      "ip": "202.199.248.2"
+    }
+  ],
+  "address": [
+    "Anshan, LN 114005",
+    "China"
+  ],
+  "raw_note": null
+}

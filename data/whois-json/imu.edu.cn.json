@@ -1,0 +1,32 @@
+{
+  "root_domain": "imu.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia University",
+  "org_cn": null,
+  "domain_name": "IMU.EDU.CN",
+  "network_name": "IMU-CN",
+  "admin_contact": "HongXu Hou (HH57-CER)",
+  "nameservers": [
+    {
+      "host": "NMG1.IMU.EDU.CN",
+      "ip": "202.207.0.6"
+    },
+    {
+      "host": "NMG2.IMU.EDU.CN",
+      "ip": "183.175.0.6"
+    },
+    {
+      "host": "NMG3.IMU.EDU.CN",
+      "ip": "202.207.0.246"
+    },
+    {
+      "host": "NMG4.IMU.EDU.CN",
+      "ip": "202.207.158.150"
+    }
+  ],
+  "address": [
+    "Huhehot, NM 010021",
+    "China"
+  ],
+  "raw_note": null
+}

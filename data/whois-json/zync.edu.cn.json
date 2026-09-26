@@ -1,0 +1,24 @@
+{
+  "root_domain": "zync.edu.cn",
+  "type": "full_record",
+  "org_en": "Zunyi Normal College",
+  "org_cn": null,
+  "domain_name": "ZYNC.EDU.CN",
+  "network_name": "ZUNYISY-CN",
+  "admin_contact": "Shuhong Yi (SY21-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zync.edu.cn",
+      "ip": "222.19.141.98"
+    },
+    {
+      "host": "dns2.zync.edu.cn",
+      "ip": "222.19.142.168"
+    }
+  ],
+  "address": [
+    "Zunyi, GZ 563002",
+    "China"
+  ],
+  "raw_note": null
+}

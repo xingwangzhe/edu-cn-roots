@@ -1,0 +1,28 @@
+{
+  "root_domain": "sdju.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai DianJi University",
+  "org_cn": null,
+  "domain_name": "SDJU.EDU.CN",
+  "network_name": "SHCEMT-CN",
+  "admin_contact": "Zhifeng Ding (ZD7-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.SDJU.EDU.CN",
+      "ip": "210.35.68.5"
+    },
+    {
+      "host": "NS3.SDJU.EDU.CN",
+      "ip": "210.35.68.7"
+    },
+    {
+      "host": "NS2.SDJU.EDU.CN",
+      "ip": "120.253.231.135"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200204",
+    "China"
+  ],
+  "raw_note": null
+}

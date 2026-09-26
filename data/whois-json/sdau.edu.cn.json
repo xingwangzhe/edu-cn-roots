@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdau.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Agricultural University",
+  "org_cn": null,
+  "domain_name": "SDAU.EDU.CN",
+  "network_name": "SDAU-CN",
+  "admin_contact": "Lu Che (LC1-CER)",
+  "nameservers": [
+    {
+      "host": "sdau1.sdau.edu.cn",
+      "ip": "202.194.133.1"
+    },
+    {
+      "host": "sdau2.sdau.edu.cn",
+      "ip": "202.194.133.2"
+    }
+  ],
+  "address": [
+    "Taian, SD 271018",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "njmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Medical University",
+  "org_cn": null,
+  "domain_name": "NJMU.EDU.CN",
+  "network_name": "NJMU-CN",
+  "admin_contact": "Zhenghui Zhang (ZZ11-CN)",
+  "nameservers": [
+    {
+      "host": "dns.njmu.edu.cn",
+      "ip": "202.195.176.66"
+    },
+    {
+      "host": "rose.njmu.edu.cn",
+      "ip": "202.195.176.68"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210029",
+    "China"
+  ],
+  "raw_note": null
+}

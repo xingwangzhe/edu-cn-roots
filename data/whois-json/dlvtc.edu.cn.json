@@ -1,0 +1,20 @@
+{
+  "root_domain": "dlvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian Vocational And Technical College",
+  "org_cn": null,
+  "domain_name": "DLVTC.EDU.CN",
+  "network_name": "DLVTC-CN",
+  "admin_contact": "Houjie Zhang (HZ14-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.DLVTC.EDU.CN",
+      "ip": "210.30.80.88"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116035",
+    "China"
+  ],
+  "raw_note": null
+}

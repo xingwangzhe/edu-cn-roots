@@ -1,0 +1,32 @@
+{
+  "root_domain": "nuc.edu.cn",
+  "type": "full_record",
+  "org_en": "North University of China",
+  "org_cn": null,
+  "domain_name": "NUC.EDU.CN",
+  "network_name": "NCIT-CN",
+  "admin_contact": "Hailiang Wang (HW67-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nuc.edu.cn",
+      "ip": "202.207.177.3"
+    },
+    {
+      "host": "dns2.nuc.edu.cn",
+      "ip": "202.207.177.4"
+    },
+    {
+      "host": "dns3.nuc.edu.cn",
+      "ip": "202.99.210.190"
+    },
+    {
+      "host": "dns4.nuc.edu.cn",
+      "ip": "59.49.34.15"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030051",
+    "China"
+  ],
+  "raw_note": null
+}

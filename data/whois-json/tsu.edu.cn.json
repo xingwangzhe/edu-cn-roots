@@ -1,0 +1,24 @@
+{
+  "root_domain": "tsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Taishan University",
+  "org_cn": null,
+  "domain_name": "TSU.EDU.CN",
+  "network_name": "TANC-CN",
+  "admin_contact": "Changguo Ye (CY6-CER)",
+  "nameservers": [
+    {
+      "host": "mail250.tsu.edu.cn",
+      "ip": "210.44.195.10"
+    },
+    {
+      "host": "DNS1.SD.EDU.CN",
+      "ip": "202.194.97.150"
+    }
+  ],
+  "address": [
+    "Taian, SD 271021",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,20 @@
+{
+  "root_domain": "scau.edu.cn",
+  "type": "full_record",
+  "org_en": "South China Agriculture University",
+  "org_cn": null,
+  "domain_name": "SCAU.EDU.CN",
+  "network_name": "SCAU-CN",
+  "admin_contact": "Feng Liu (FL35-CER)",
+  "nameservers": [
+    {
+      "host": "scausv1.scau.edu.cn",
+      "ip": "202.116.160.33"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510642",
+    "China"
+  ],
+  "raw_note": null
+}

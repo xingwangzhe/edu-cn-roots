@@ -1,0 +1,28 @@
+{
+  "root_domain": "ctbu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Technology and Business University",
+  "org_cn": null,
+  "domain_name": "CTBU.EDU.CN",
+  "network_name": "CQTBU-CN",
+  "admin_contact": "Changpeng Tian (CT4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ctbu.edu.cn",
+      "ip": "211.83.192.28"
+    },
+    {
+      "host": "dns2.ctbu.edu.cn",
+      "ip": "183.64.61.230"
+    },
+    {
+      "host": "dns3.ctbu.edu.cn",
+      "ip": "211.83.192.29"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400067",
+    "China"
+  ],
+  "raw_note": null
+}

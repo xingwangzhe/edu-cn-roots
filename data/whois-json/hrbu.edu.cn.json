@@ -1,0 +1,24 @@
+{
+  "root_domain": "hrbu.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin University",
+  "org_cn": null,
+  "domain_name": "HRBU.EDU.CN",
+  "network_name": "HAEBU-CN",
+  "admin_contact": "Hu Yingsong (HY17-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150086",
+    "China"
+  ],
+  "raw_note": null
+}

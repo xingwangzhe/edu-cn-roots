@@ -1,0 +1,24 @@
+{
+  "root_domain": "cernet2016.edu.cn",
+  "type": "full_record",
+  "org_en": "CERNET Corporation Chongqing Branch",
+  "org_cn": null,
+  "domain_name": "CERNET2016.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "WenQi Yang (WY46-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cngi.edu.cn",
+      "ip": "202.205.7.160"
+    },
+    {
+      "host": "dns1.cngi.edu.cn",
+      "ip": "202.205.7.161"
+    }
+  ],
+  "address": [
+    "ChongQing, CQ 400030",
+    "China"
+  ],
+  "raw_note": null
+}

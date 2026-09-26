@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdust.edu.cn",
+  "type": "full_record",
+  "org_en": "University Of Science And Technology Of Shandong",
+  "org_cn": null,
+  "domain_name": "SDUST.EDU.CN",
+  "network_name": "SDIMTB-CN",
+  "admin_contact": "Yue Shang (YS26-AP)",
+  "nameservers": [
+    {
+      "host": "SDMA.SDUST.EDU.CN",
+      "ip": "218.58.59.82"
+    },
+    {
+      "host": "SDMB.SDUST.EDU.CN",
+      "ip": "219.218.128.156"
+    }
+  ],
+  "address": [
+    "Taian, SD 271019",
+    "China"
+  ],
+  "raw_note": null
+}

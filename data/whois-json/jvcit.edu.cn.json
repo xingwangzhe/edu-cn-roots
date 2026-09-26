@@ -1,0 +1,28 @@
+{
+  "root_domain": "jvcit.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin Vocational College of Industry and Technology",
+  "org_cn": null,
+  "domain_name": "JVCIT.EDU.CN",
+  "network_name": "JVCIT-CN",
+  "admin_contact": "Yuedong Huang (YH33-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    },
+    {
+      "host": "dns.jvcit.edu.cn",
+      "ip": "222.168.145.227"
+    }
+  ],
+  "address": [
+    "Jilin, JL 132013",
+    "China"
+  ],
+  "raw_note": null
+}

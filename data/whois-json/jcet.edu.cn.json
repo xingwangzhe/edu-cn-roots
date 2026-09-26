@@ -1,0 +1,24 @@
+{
+  "root_domain": "jcet.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu College of Engineering and Technology",
+  "org_cn": null,
+  "domain_name": "JCET.EDU.CN",
+  "network_name": "NTTEC-CN",
+  "admin_contact": "Weidong Jin (WJ1-CER)",
+  "nameservers": [
+    {
+      "host": "Z.JCET.EDU.CN",
+      "ip": "210.28.225.251"
+    },
+    {
+      "host": "C.JCET.EDU.CN",
+      "ip": "210.28.225.252"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226007",
+    "China"
+  ],
+  "raw_note": null
+}

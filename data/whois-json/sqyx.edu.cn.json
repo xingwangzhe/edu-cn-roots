@@ -1,0 +1,24 @@
+{
+  "root_domain": "sqyx.edu.cn",
+  "type": "full_record",
+  "org_en": "Shang Qiu Health School",
+  "org_cn": null,
+  "domain_name": "SQYX.EDU.CN",
+  "network_name": "SQHS-CN",
+  "admin_contact": "Xuemin Sun (XS15-CER)",
+  "nameservers": [
+    {
+      "host": "dns.sqyx.edu.cn",
+      "ip": "222.21.88.8"
+    },
+    {
+      "host": "dns2.sqyx.edu.cn",
+      "ip": "222.21.88.18"
+    }
+  ],
+  "address": [
+    "Shang, HA 476100",
+    "China"
+  ],
+  "raw_note": null
+}

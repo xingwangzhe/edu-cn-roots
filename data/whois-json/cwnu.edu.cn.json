@@ -1,0 +1,24 @@
+{
+  "root_domain": "cwnu.edu.cn",
+  "type": "full_record",
+  "org_en": "China West Normal University",
+  "org_cn": null,
+  "domain_name": "CWNU.EDU.CN",
+  "network_name": "SCTC-CN",
+  "admin_contact": "Jianguo Li (JL53-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cwnu.edu.cn",
+      "ip": "210.41.192.20"
+    },
+    {
+      "host": "dns2.cwnu.edu.cn",
+      "ip": "210.41.192.22"
+    }
+  ],
+  "address": [
+    "Nanchong, SC 637002",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ynufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Yunan University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "YNUFE.EDU.CN",
+  "network_name": "YNIFT-CN",
+  "admin_contact": "Jian Zhao (JZ46-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ynufe.edu.cn",
+      "ip": "202.203.192.33"
+    },
+    {
+      "host": "dns2.ynufe.edu.cn",
+      "ip": "202.203.192.34"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650221",
+    "China"
+  ],
+  "raw_note": null
+}

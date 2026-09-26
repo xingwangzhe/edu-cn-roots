@@ -1,0 +1,24 @@
+{
+  "root_domain": "hzmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Heze Medical College",
+  "org_cn": null,
+  "domain_name": "HZMC.EDU.CN",
+  "network_name": "HZMC-CN",
+  "admin_contact": "Yan Zhou (YZ35-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.HZMC.EDU.CN",
+      "ip": "211.86.0.1"
+    },
+    {
+      "host": "DNS2.HZMC.EDU.CN",
+      "ip": "211.86.0.2"
+    }
+  ],
+  "address": [
+    "Heze, SD 274030",
+    "China"
+  ],
+  "raw_note": null
+}

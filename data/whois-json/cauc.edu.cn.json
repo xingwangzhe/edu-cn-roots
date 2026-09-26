@@ -1,0 +1,24 @@
+{
+  "root_domain": "cauc.edu.cn",
+  "type": "full_record",
+  "org_en": "Civil Aviation Institute Of China",
+  "org_cn": null,
+  "domain_name": "CAUC.EDU.CN",
+  "network_name": "CAIC-CN",
+  "admin_contact": "Xingjie Feng (XF16-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.CAUC.EDU.CN",
+      "ip": "202.113.32.6"
+    },
+    {
+      "host": "NS2.CAUC.EDU.CN",
+      "ip": "202.113.32.2"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300300",
+    "China"
+  ],
+  "raw_note": null
+}

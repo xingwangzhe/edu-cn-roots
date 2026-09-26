@@ -1,0 +1,28 @@
+{
+  "root_domain": "nuaa.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing University of Aeronautics & Astronautics",
+  "org_cn": null,
+  "domain_name": "NUAA.EDU.CN",
+  "network_name": "NUAA-CN",
+  "admin_contact": "Xinghu Wang (XW114-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.NUAA.EDU.CN",
+      "ip": "202.119.64.123"
+    },
+    {
+      "host": "DNS2.NUAA.EDU.CN",
+      "ip": "218.94.136.190"
+    },
+    {
+      "host": "DNS3.NUAA.EDU.CN",
+      "ip": "202.119.71.2"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210000",
+    "China"
+  ],
+  "raw_note": null
+}

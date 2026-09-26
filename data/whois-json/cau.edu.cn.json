@@ -1,0 +1,24 @@
+{
+  "root_domain": "cau.edu.cn",
+  "type": "full_record",
+  "org_en": "China Agricultural University",
+  "org_cn": null,
+  "domain_name": "CAU.EDU.CN",
+  "network_name": "CAU-CN",
+  "admin_contact": "Dazhi Pan (DP2-CER)",
+  "nameservers": [
+    {
+      "host": "ns.cau.edu.cn",
+      "ip": "202.205.80.135"
+    },
+    {
+      "host": "nsb.cau.edu.cn",
+      "ip": "202.112.162.88"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100094",
+    "China"
+  ],
+  "raw_note": null
+}

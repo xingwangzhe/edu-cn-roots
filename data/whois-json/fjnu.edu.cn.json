@@ -1,0 +1,28 @@
+{
+  "root_domain": "fjnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Fujian Normal University",
+  "org_cn": null,
+  "domain_name": "FJNU.EDU.CN",
+  "network_name": "FJTU-CN",
+  "admin_contact": "Cheng Siyue (CS5-CER)",
+  "nameservers": [
+    {
+      "host": "dns.fjtu.edu.cn",
+      "ip": "59.77.192.66"
+    },
+    {
+      "host": "cnet.fjtu.edu.cn",
+      "ip": "210.34.32.220"
+    },
+    {
+      "host": "dns3.fjtu.edu.cn",
+      "ip": "27.150.16.53"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350007",
+    "China"
+  ],
+  "raw_note": null
+}

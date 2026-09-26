@@ -1,0 +1,24 @@
+{
+  "root_domain": "nynu.edu.cn",
+  "type": "full_record",
+  "org_en": "NanYang Normal University",
+  "org_cn": null,
+  "domain_name": "NYNU.EDU.CN",
+  "network_name": "NYTC-CN",
+  "admin_contact": "Youhui Lv (YL233-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nynu.edu.cn",
+      "ip": "211.84.144.6"
+    },
+    {
+      "host": "hp.nynu.edu.cn",
+      "ip": "211.84.159.8"
+    }
+  ],
+  "address": [
+    "NAN, HA 473061",
+    "China"
+  ],
+  "raw_note": null
+}

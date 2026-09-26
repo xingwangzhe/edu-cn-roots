@@ -1,0 +1,24 @@
+{
+  "root_domain": "jiangnan.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangnan University",
+  "org_cn": null,
+  "domain_name": "JIANGNAN.EDU.CN",
+  "network_name": "WXULI-CN",
+  "admin_contact": "Wei Yu (WY3-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.jiangnan.edu.cn",
+      "ip": "202.195.144.130"
+    },
+    {
+      "host": "ns2.jiangnan.edu.cn",
+      "ip": "202.195.144.134"
+    }
+  ],
+  "address": [
+    "Wuxi, JS 214122",
+    "China"
+  ],
+  "raw_note": null
+}

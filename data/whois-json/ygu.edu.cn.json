@@ -1,0 +1,24 @@
+{
+  "root_domain": "ygu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yango University",
+  "org_cn": null,
+  "domain_name": "YGU.EDU.CN",
+  "network_name": "YGU-CN",
+  "admin_contact": "Bing Shen (BS1-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350015",
+    "China"
+  ],
+  "raw_note": null
+}

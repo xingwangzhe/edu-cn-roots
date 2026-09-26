@@ -1,0 +1,24 @@
+{
+  "root_domain": "pzxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Pingdingshan College of Industrial Technology",
+  "org_cn": null,
+  "domain_name": "PZXY.EDU.CN",
+  "network_name": "PZXY-CN",
+  "admin_contact": "Lifeng Yang (LY13-CER)",
+  "nameservers": [
+    {
+      "host": "dns.pzxy.edu.cn",
+      "ip": "218.198.8.8"
+    },
+    {
+      "host": "dns2.pzxy.edu.cn",
+      "ip": "218.198.8.18"
+    }
+  ],
+  "address": [
+    "Pingdingshan, HA 467001",
+    "China"
+  ],
+  "raw_note": null
+}

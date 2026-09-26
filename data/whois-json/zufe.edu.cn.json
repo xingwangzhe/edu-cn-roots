@@ -1,0 +1,32 @@
+{
+  "root_domain": "zufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang University Of Finance & Economics",
+  "org_cn": null,
+  "domain_name": "ZUFE.EDU.CN",
+  "network_name": "ZJIFE-CN",
+  "admin_contact": "Kai Chen (KC13-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ZUFE.EDU.CN",
+      "ip": "210.32.23.66"
+    },
+    {
+      "host": "dns2.zufe.edu.cn",
+      "ip": "60.191.99.238"
+    },
+    {
+      "host": "dns3.zufe.edu.cn",
+      "ip": "124.160.88.100"
+    },
+    {
+      "host": "dns4.zufe.edu.cn",
+      "ip": "120.199.62.150"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

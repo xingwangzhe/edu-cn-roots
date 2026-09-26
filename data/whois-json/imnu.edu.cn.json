@@ -1,0 +1,24 @@
+{
+  "root_domain": "imnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia Normal University",
+  "org_cn": null,
+  "domain_name": "IMNU.EDU.CN",
+  "network_name": "IMNU-CN",
+  "admin_contact": "Muren Bao (MB3-CER)",
+  "nameservers": [
+    {
+      "host": "NMSD1.IMNU.EDU.CN",
+      "ip": "210.31.176.8"
+    },
+    {
+      "host": "NMSD2.IMNU.EDU.CN",
+      "ip": "210.31.176.10"
+    }
+  ],
+  "address": [
+    "Huhhot, NM 010022",
+    "China"
+  ],
+  "raw_note": null
+}

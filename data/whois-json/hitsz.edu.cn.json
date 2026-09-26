@@ -1,0 +1,24 @@
+{
+  "root_domain": "hitsz.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Institute of Technology, Shenzhen",
+  "org_cn": null,
+  "domain_name": "HITSZ.EDU.CN",
+  "network_name": "HITSZ-CN",
+  "admin_contact": "Changxin Zhao (CZ54-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.HITSZ.EDU.CN",
+      "ip": "219.223.250.254"
+    },
+    {
+      "host": "DNS3.HITSZ.EDU.CN",
+      "ip": "116.6.110.228"
+    }
+  ],
+  "address": [
+    "ShenZhen, GD 518055",
+    "China"
+  ],
+  "raw_note": null
+}

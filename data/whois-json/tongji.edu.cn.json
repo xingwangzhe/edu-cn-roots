@@ -1,0 +1,28 @@
+{
+  "root_domain": "tongji.edu.cn",
+  "type": "full_record",
+  "org_en": "Tongji University",
+  "org_cn": null,
+  "domain_name": "TONGJI.EDU.CN",
+  "network_name": "TONGJI-CN",
+  "admin_contact": "Yang Lu (YL228-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tongji.edu.cn",
+      "ip": "202.120.191.30"
+    },
+    {
+      "host": "dns1.tongji.edu.cn",
+      "ip": "202.120.191.208"
+    },
+    {
+      "host": "dns2.tongji.edu.cn",
+      "ip": "222.66.109.33"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200092",
+    "China"
+  ],
+  "raw_note": null
+}

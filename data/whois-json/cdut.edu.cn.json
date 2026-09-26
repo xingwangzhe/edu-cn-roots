@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdut.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu University Of Technology",
+  "org_cn": null,
+  "domain_name": "CDUT.EDU.CN",
+  "network_name": "CDIT-CN",
+  "admin_contact": "Feng Yao (FY4-CER)",
+  "nameservers": [
+    {
+      "host": "PRIDNS.CDUT.EDU.CN",
+      "ip": "202.115.128.33"
+    },
+    {
+      "host": "SECDNS.CDUT.EDU.CN",
+      "ip": "202.115.128.34"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610059",
+    "China"
+  ],
+  "raw_note": null
+}

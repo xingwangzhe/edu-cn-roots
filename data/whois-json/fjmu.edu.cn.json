@@ -1,0 +1,28 @@
+{
+  "root_domain": "fjmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Fujian Medical University",
+  "org_cn": null,
+  "domain_name": "FJMU.EDU.CN",
+  "network_name": "FJMU-CN",
+  "admin_contact": "Fengjun Ren (FR1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.FJMU.EDU.CN",
+      "ip": "210.34.96.2"
+    },
+    {
+      "host": "DNS1.FJMU.EDU.CN",
+      "ip": "210.34.96.88"
+    },
+    {
+      "host": "DNS2.FJMU.EDU.CN",
+      "ip": "210.34.96.87"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350122",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "cicp.edu.cn",
+  "type": "full_record",
+  "org_en": "The Central Institute for Correctional Police",
+  "org_cn": null,
+  "domain_name": "CICP.EDU.CN",
+  "network_name": "CICP-CN",
+  "admin_contact": "Caifeng Yang (CY8-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cicp.edu.cn",
+      "ip": "121.195.224.4"
+    },
+    {
+      "host": "dns2.cicp.edu.cn",
+      "ip": "121.195.224.5"
+    }
+  ],
+  "address": [
+    "Baoding, HE 071000",
+    "China"
+  ],
+  "raw_note": null
+}

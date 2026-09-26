@@ -1,0 +1,24 @@
+{
+  "root_domain": "qhmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qinghai University For Nationalities",
+  "org_cn": null,
+  "domain_name": "QHMU.EDU.CN",
+  "network_name": "QHMY-CN",
+  "admin_contact": "Zhongjie Xiao (ZX12-CER)",
+  "nameservers": [
+    {
+      "host": "dns.qhmu.edu.cn",
+      "ip": "219.247.255.10"
+    },
+    {
+      "host": "dns1.qhmu.edu.cn",
+      "ip": "219.247.255.11"
+    }
+  ],
+  "address": [
+    "Xining, QH 810007",
+    "China"
+  ],
+  "raw_note": null
+}

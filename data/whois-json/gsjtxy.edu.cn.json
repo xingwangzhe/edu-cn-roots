@@ -1,0 +1,24 @@
+{
+  "root_domain": "gsjtxy.edu.cn",
+  "type": "full_record",
+  "org_en": "GANSU College of Communication Technology",
+  "org_cn": null,
+  "domain_name": "GSJTXY.EDU.CN",
+  "network_name": "GSJTXY-CN",
+  "admin_contact": "Yiping Zhang (YZ112-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gsjtxy.edu.cn",
+      "ip": "222.23.88.10"
+    },
+    {
+      "host": "dns2.gsjtxy.edu.cn",
+      "ip": "222.23.88.11"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730070",
+    "China"
+  ],
+  "raw_note": null
+}

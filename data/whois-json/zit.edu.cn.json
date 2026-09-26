@@ -1,0 +1,24 @@
+{
+  "root_domain": "zit.edu.cn",
+  "type": "full_record",
+  "org_en": "ZhenZhou Institute of Science and Technology",
+  "org_cn": null,
+  "domain_name": "ZIT.EDU.CN",
+  "network_name": "ZZIST-CN",
+  "admin_contact": "Hongtao Sun (HS8-CER)",
+  "nameservers": [
+    {
+      "host": "dns.zit.edu.cn",
+      "ip": "125.219.158.88"
+    },
+    {
+      "host": "dns2.zit.edu.cn",
+      "ip": "125.219.158.99"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450064",
+    "China"
+  ],
+  "raw_note": null
+}

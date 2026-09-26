@@ -1,0 +1,24 @@
+{
+  "root_domain": "hactcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan University of Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "HACTCM.EDU.CN",
+  "network_name": "HACTCM-CN",
+  "admin_contact": "Fangfang Geng (FG2-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HACTCM.EDU.CN",
+      "ip": "211.69.32.8"
+    },
+    {
+      "host": "DNS2.HACTCM.EDU.CN",
+      "ip": "211.69.32.10"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450003",
+    "China"
+  ],
+  "raw_note": null
+}

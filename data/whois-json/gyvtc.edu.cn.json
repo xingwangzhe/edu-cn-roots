@@ -1,0 +1,24 @@
+{
+  "root_domain": "gyvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Guiyang Vocational Technical College",
+  "org_cn": null,
+  "domain_name": "GYVTC.EDU.CN",
+  "network_name": "GZGYZY-CN",
+  "admin_contact": "Yongkun Tong (YT20-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.gyvtc.edu.cn",
+      "ip": "42.247.2.205"
+    },
+    {
+      "host": "ns2.gyvtc.edu.cn",
+      "ip": "42.247.2.206"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550081",
+    "China"
+  ],
+  "raw_note": null
+}

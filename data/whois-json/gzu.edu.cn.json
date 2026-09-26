@@ -1,0 +1,24 @@
+{
+  "root_domain": "gzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou University",
+  "org_cn": null,
+  "domain_name": "GZU.EDU.CN",
+  "network_name": "GZU-CN",
+  "admin_contact": "Hongfeng Gao (HG8-CER)",
+  "nameservers": [
+    {
+      "host": "pri-dns.gzu.edu.cn",
+      "ip": "210.40.0.33"
+    },
+    {
+      "host": "sec-dns.gzu.edu.cn",
+      "ip": "210.40.0.34"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550025",
+    "China"
+  ],
+  "raw_note": null
+}

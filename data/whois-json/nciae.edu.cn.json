@@ -1,0 +1,24 @@
+{
+  "root_domain": "nciae.edu.cn",
+  "type": "full_record",
+  "org_en": "North China Instifute Of Astronautic Engineering",
+  "org_cn": null,
+  "domain_name": "NCIAE.EDU.CN",
+  "network_name": "NCIAE-CN",
+  "admin_contact": "Juanping Geng (JG35-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nciae.edu.cn",
+      "ip": "210.31.224.1"
+    },
+    {
+      "host": "dns2.nciae.edu.cn",
+      "ip": "222.222.78.225"
+    }
+  ],
+  "address": [
+    "Langfang, HE 065000",
+    "China"
+  ],
+  "raw_note": null
+}

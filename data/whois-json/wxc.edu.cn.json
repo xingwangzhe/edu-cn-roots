@@ -1,0 +1,24 @@
+{
+  "root_domain": "wxc.edu.cn",
+  "type": "full_record",
+  "org_en": "Wanxi College",
+  "org_cn": null,
+  "domain_name": "WXC.EDU.CN",
+  "network_name": "WXC-CN",
+  "admin_contact": "Xu Tian (XT12-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.WXC.EDU.CN",
+      "ip": "211.70.160.1"
+    },
+    {
+      "host": "DNS2.WXC.EDU.CN",
+      "ip": "211.70.160.2"
+    }
+  ],
+  "address": [
+    "Lu'an, AH 237012",
+    "China"
+  ],
+  "raw_note": null
+}

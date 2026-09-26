@@ -1,0 +1,20 @@
+{
+  "root_domain": "tjlivtc.edu.cn",
+  "type": "full_record",
+  "org_en": "TianJin Light Industry Vocational Technical",
+  "org_cn": null,
+  "domain_name": "TJLIVTC.EDU.CN",
+  "network_name": "TJLIVTC-CN",
+  "admin_contact": "Ying Wang (YW22-CER)",
+  "nameservers": [
+    {
+      "host": "tjlivtc1.TJLIVTC.EDU.CN",
+      "ip": "211.81.40.67"
+    }
+  ],
+  "address": [
+    "TianJin, TJ 300380",
+    "China"
+  ],
+  "raw_note": null
+}

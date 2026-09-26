@@ -1,0 +1,24 @@
+{
+  "root_domain": "cxtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Chuxiong Teacher's College",
+  "org_cn": null,
+  "domain_name": "CXTC.EDU.CN",
+  "network_name": "CXTC-CN",
+  "admin_contact": "Xiaogang Li (XL19-CER)",
+  "nameservers": [
+    {
+      "host": "NS.CXTC.EDU.CN",
+      "ip": "211.83.176.32"
+    },
+    {
+      "host": "NS1.CXTC.EDU.CN",
+      "ip": "211.83.176.33"
+    }
+  ],
+  "address": [
+    "Chuxiong, YN 675000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjgzb.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Municipal Educational Admission And Test Center",
+  "org_cn": null,
+  "domain_name": "TJGZB.EDU.CN",
+  "network_name": "TJATC-CN",
+  "admin_contact": "Mingyu Wei (MW2-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJGZB.EDU.CN",
+      "ip": "202.113.160.132"
+    },
+    {
+      "host": "TATC.TJGZB.EDU.CN",
+      "ip": "202.113.160.130"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300060",
+    "China"
+  ],
+  "raw_note": null
+}

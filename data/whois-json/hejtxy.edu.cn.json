@@ -1,0 +1,24 @@
+{
+  "root_domain": "hejtxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Communications Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "HEJTXY.EDU.CN",
+  "network_name": "HEJTXY-CN",
+  "admin_contact": "Zhongqiu Li (ZL37-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Hebei, HE 050035",
+    "China"
+  ],
+  "raw_note": null
+}

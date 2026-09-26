@@ -1,0 +1,20 @@
+{
+  "root_domain": "zjtongji.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Tongji Vocational College Of Science and",
+  "org_cn": null,
+  "domain_name": "ZJTONGJI.EDU.CN",
+  "network_name": "ZJTONG-CN",
+  "admin_contact": "Changyun Wang (CW45-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zjtongji.edu.cn",
+      "ip": "121.192.3.11"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 311231",
+    "China"
+  ],
+  "raw_note": null
+}

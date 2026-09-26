@@ -1,0 +1,24 @@
+{
+  "root_domain": "shou.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Ocean University",
+  "org_cn": null,
+  "domain_name": "SHOU.EDU.CN",
+  "network_name": "SHOU-CN",
+  "admin_contact": "Wei Wang (WW27-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SHOU.EDU.CN",
+      "ip": "202.121.64.5"
+    },
+    {
+      "host": "SDNS.SHOU.EDU.CN",
+      "ip": "58.246.161.68"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201306",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,36 @@
+{
+  "root_domain": "xmut.edu.cn",
+  "type": "full_record",
+  "org_en": "Xiamen University of Technology",
+  "org_cn": null,
+  "domain_name": "XMUT.EDU.CN",
+  "network_name": "XMLJU-CN",
+  "admin_contact": "Hesong Wang (HW25-AP)",
+  "nameservers": [
+    {
+      "host": "dns1.xmut.edu.cn",
+      "ip": "210.34.213.3"
+    },
+    {
+      "host": "dns2.xmut.edu.cn",
+      "ip": "210.34.213.8"
+    },
+    {
+      "host": "dns3.xmut.edu.cn",
+      "ip": "58.199.212.212"
+    },
+    {
+      "host": "dns4.xmut.edu.cn",
+      "ip": "58.199.222.222"
+    },
+    {
+      "host": "dns5.xmut.edu.cn",
+      "ip": "36.248.247.8"
+    }
+  ],
+  "address": [
+    "Xiamen, FJ 361024",
+    "China"
+  ],
+  "raw_note": null
+}

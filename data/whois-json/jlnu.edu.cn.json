@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin Normal University",
+  "org_cn": null,
+  "domain_name": "JLNU.EDU.CN",
+  "network_name": "SPNU-CN",
+  "admin_contact": "Hao Zheng (HZ78-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Siping, JL 136000",
+    "China"
+  ],
+  "raw_note": null
+}

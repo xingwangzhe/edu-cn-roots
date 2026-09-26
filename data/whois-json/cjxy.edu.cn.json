@@ -1,0 +1,24 @@
+{
+  "root_domain": "cjxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Changjiang Professional College",
+  "org_cn": null,
+  "domain_name": "CJXY.EDU.CN",
+  "network_name": "CJXY-CN",
+  "admin_contact": "Yong Wei (YW12-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cjxy.edu.cn",
+      "ip": "218.197.8.8"
+    },
+    {
+      "host": "dns1.cjxy.edu.cn",
+      "ip": "218.197.8.18"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430074",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "shafc.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Vocational and Technical College of Agriculture",
+  "org_cn": null,
+  "domain_name": "SHAFC.EDU.CN",
+  "network_name": "SAFC-CN",
+  "admin_contact": "Jong Hong (JH11-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.shafc.edu.cn",
+      "ip": "59.78.85.2"
+    },
+    {
+      "host": "DNS2.shafc.edu.cn",
+      "ip": "116.228.1.214"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201600",
+    "China"
+  ],
+  "raw_note": null
+}

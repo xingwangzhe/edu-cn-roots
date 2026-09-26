@@ -1,0 +1,24 @@
+{
+  "root_domain": "hfiet.edu.cn",
+  "type": "full_record",
+  "org_en": "Hefei Institute Of Economics And Technology",
+  "org_cn": null,
+  "domain_name": "HFIET.EDU.CN",
+  "network_name": "HFCET-CN",
+  "admin_contact": "Jiansheng Cui (JC2-CER)",
+  "nameservers": [
+    {
+      "host": "MAIN1.HFIET.EDU.CN",
+      "ip": "210.45.112.2"
+    },
+    {
+      "host": "MAIN2.HFIET.EDU.CN",
+      "ip": "210.45.112.4"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230052",
+    "China"
+  ],
+  "raw_note": null
+}

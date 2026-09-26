@@ -1,0 +1,36 @@
+{
+  "root_domain": "wzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wenzhou University",
+  "org_cn": null,
+  "domain_name": "WZU.EDU.CN",
+  "network_name": "WZU-CN",
+  "admin_contact": "Yao Miaobo (YM6-CER)",
+  "nameservers": [
+    {
+      "host": "HOST.WZU.EDU.CN",
+      "ip": "210.33.44.2"
+    },
+    {
+      "host": "BACKUP.WZU.EDU.CN",
+      "ip": "210.33.44.10"
+    },
+    {
+      "host": "PUBLIC.WZU.EDU.CN",
+      "ip": "120.55.73.59"
+    },
+    {
+      "host": "YIDONG.WZU.EDU.CN",
+      "ip": "183.249.7.246"
+    },
+    {
+      "host": "DIANXING.WZU.EDU.CN",
+      "ip": "218.75.16.100"
+    }
+  ],
+  "address": [
+    "Wenzhou, ZJ 325027",
+    "China"
+  ],
+  "raw_note": null
+}

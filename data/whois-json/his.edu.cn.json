@@ -1,0 +1,24 @@
+{
+  "root_domain": "his.edu.cn",
+  "type": "full_record",
+  "org_en": "Hospitality Institute of Sanya",
+  "org_cn": null,
+  "domain_name": "HIS.EDU.CN",
+  "network_name": "HIOS-CN",
+  "admin_contact": "Chao Jiang (CJ17-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Sanya, HI 572000",
+    "China"
+  ],
+  "raw_note": null
+}

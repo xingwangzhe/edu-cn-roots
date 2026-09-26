@@ -1,0 +1,24 @@
+{
+  "root_domain": "lnc.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangzhou Lingnan Polytechnic College",
+  "org_cn": null,
+  "domain_name": "LNC.EDU.CN",
+  "network_name": "LNPC-CN",
+  "admin_contact": "Wanli Yang (WY29-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lnc.edu.cn",
+      "ip": "125.216.105.3"
+    },
+    {
+      "host": "dns2.lnc.edu.cn",
+      "ip": "125.216.105.253"
+    }
+  ],
+  "address": [
+    "GuangZhou, GD 510663",
+    "China"
+  ],
+  "raw_note": null
+}

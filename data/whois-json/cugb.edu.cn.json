@@ -1,0 +1,24 @@
+{
+  "root_domain": "cugb.edu.cn",
+  "type": "full_record",
+  "org_en": "China University of Geoscience (Beijing)",
+  "org_cn": null,
+  "domain_name": "CUGB.EDU.CN",
+  "network_name": "CUGB-CN",
+  "admin_contact": "Jieci Tuo (JT1-CN)",
+  "nameservers": [
+    {
+      "host": "ring.cugb.edu.cn",
+      "ip": "202.204.105.1"
+    },
+    {
+      "host": "dns.cugb.edu.cn",
+      "ip": "202.204.105.5"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

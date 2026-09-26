@@ -1,0 +1,24 @@
+{
+  "root_domain": "shcmusic.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Conservatory Of Music",
+  "org_cn": null,
+  "domain_name": "SHCMUSIC.EDU.CN",
+  "network_name": "SHCMUSIC-CN",
+  "admin_contact": "Yiwen Cai (YC72-CER)",
+  "nameservers": [
+    {
+      "host": "NET.SHCMUSIC.EDU.CN",
+      "ip": "211.80.0.5"
+    },
+    {
+      "host": "DNS.SHCMUSIC.EDU.CN",
+      "ip": "211.80.5.5"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200031",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,36 @@
+{
+  "root_domain": "scu.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan University",
+  "org_cn": null,
+  "domain_name": "SCU.EDU.CN",
+  "network_name": "SCUU-CN",
+  "admin_contact": "Xingguo Li (XL156-CER)",
+  "nameservers": [
+    {
+      "host": "DART.SCU.EDU.CN",
+      "ip": "202.115.32.39"
+    },
+    {
+      "host": "SECDNS.SCU.EDU.CN",
+      "ip": "202.115.32.36"
+    },
+    {
+      "host": "DNS1.SCU.EDU.CN",
+      "ip": "42.236.73.177"
+    },
+    {
+      "host": "DNS2.SCU.EDU.CN",
+      "ip": "42.236.73.178"
+    },
+    {
+      "host": "DNS3.SCU.EDU.CN",
+      "ip": "211.83.155.2"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610064",
+    "China"
+  ],
+  "raw_note": null
+}

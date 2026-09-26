@@ -1,0 +1,24 @@
+{
+  "root_domain": "gzeic.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou Electronic Information Professional Technology",
+  "org_cn": null,
+  "domain_name": "GZEIC.EDU.CN",
+  "network_name": "GZEITC-CN",
+  "admin_contact": "GuoSong WU (GW33-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gzeic.edu.cn",
+      "ip": "222.198.241.1"
+    },
+    {
+      "host": "dns2.gzeic.edu.cn",
+      "ip": "58.16.144.93"
+    }
+  ],
+  "address": [
+    "Kaili, GD 556000",
+    "China"
+  ],
+  "raw_note": null
+}

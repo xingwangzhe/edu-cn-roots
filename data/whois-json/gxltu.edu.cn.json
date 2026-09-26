@@ -1,0 +1,24 @@
+{
+  "root_domain": "gxltu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangxi Lantian Aviation Technical College",
+  "org_cn": null,
+  "domain_name": "GXLTU.EDU.CN",
+  "network_name": "GLATC-CN",
+  "admin_contact": "Yang Zheng (YZ152-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Laibin, GX 546100",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbgyzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Industrial Polytechnic",
+  "org_cn": null,
+  "domain_name": "HBGYZY.EDU.CN",
+  "network_name": "SYZY-CN",
+  "admin_contact": "Ming Liang (ML46-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hbgyzy.edu.cn",
+      "ip": "125.220.176.8"
+    },
+    {
+      "host": "dns2.hbgyzy.edu.cn",
+      "ip": "61.183.19.18"
+    }
+  ],
+  "address": [
+    "Shiyan, HB 442000",
+    "China"
+  ],
+  "raw_note": null
+}

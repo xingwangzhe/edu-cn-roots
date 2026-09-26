@@ -1,0 +1,24 @@
+{
+  "root_domain": "neau.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeast Agricultural University",
+  "org_cn": null,
+  "domain_name": "NEAU.EDU.CN",
+  "network_name": "NEAU-CN",
+  "admin_contact": "Jinge Xing (JX65-CER)",
+  "nameservers": [
+    {
+      "host": "ncc.neau.edu.cn",
+      "ip": "202.118.166.128"
+    },
+    {
+      "host": "ncc2.neau.edu.cn",
+      "ip": "202.118.166.53"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150030",
+    "China"
+  ],
+  "raw_note": null
+}

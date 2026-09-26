@@ -1,0 +1,24 @@
+{
+  "root_domain": "hncj.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan University of Urban Construction",
+  "org_cn": null,
+  "domain_name": "HNCJ.EDU.CN",
+  "network_name": "HNCJ-CN",
+  "admin_contact": "Feng Sha (FS11-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HNCJ.EDU.CN",
+      "ip": "211.67.112.1"
+    },
+    {
+      "host": "DNS2.HNCJ.EDU.CN",
+      "ip": "61.163.226.16"
+    }
+  ],
+  "address": [
+    "Pingdingshan, HA 467000",
+    "China"
+  ],
+  "raw_note": null
+}

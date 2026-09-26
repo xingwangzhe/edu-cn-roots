@@ -1,0 +1,24 @@
+{
+  "root_domain": "bua.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Agriculture",
+  "org_cn": null,
+  "domain_name": "BUA.EDU.CN",
+  "network_name": "BJAC-CN",
+  "admin_contact": "Ruiliang Wang (RW13-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.bua.edu.cn",
+      "ip": "219.242.32.3"
+    },
+    {
+      "host": "dns2.bua.edu.cn",
+      "ip": "111.202.170.8"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102206",
+    "China"
+  ],
+  "raw_note": null
+}

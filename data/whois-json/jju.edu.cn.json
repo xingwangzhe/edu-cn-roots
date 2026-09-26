@@ -1,0 +1,24 @@
+{
+  "root_domain": "jju.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiujiang University",
+  "org_cn": null,
+  "domain_name": "JJU.EDU.CN",
+  "network_name": "JJCZ-CN",
+  "admin_contact": "Xiaojiang Zhang (XZ68-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jju.edu.cn",
+      "ip": "218.193.224.4"
+    },
+    {
+      "host": "dns1.jju.edu.cn",
+      "ip": "218.193.224.3"
+    }
+  ],
+  "address": [
+    "Jiujiang, JX 332005",
+    "China"
+  ],
+  "raw_note": null
+}

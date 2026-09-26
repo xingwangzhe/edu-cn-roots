@@ -1,0 +1,24 @@
+{
+  "root_domain": "scetc.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Engineering Technical College",
+  "org_cn": null,
+  "domain_name": "SCETC.EDU.CN",
+  "network_name": "SCETC-CN",
+  "admin_contact": "Jian Yang (JY41-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.SCETC.EDU.CN",
+      "ip": "222.197.108.1"
+    },
+    {
+      "host": "dns2.SCETC.EDU.CN",
+      "ip": "222.197.108.2"
+    }
+  ],
+  "address": [
+    "Deyang, SC 618000",
+    "China"
+  ],
+  "raw_note": null
+}

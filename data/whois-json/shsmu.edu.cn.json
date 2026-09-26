@@ -1,0 +1,28 @@
+{
+  "root_domain": "shsmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai JiaoTong University School of Medicine",
+  "org_cn": null,
+  "domain_name": "SHSMU.EDU.CN",
+  "network_name": "SHSMU-CN",
+  "admin_contact": "Qin Lu (QL68-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.shsmu.edu.cn",
+      "ip": "202.120.143.250"
+    },
+    {
+      "host": "dns2.shsmu.edu.cn",
+      "ip": "202.120.143.251"
+    },
+    {
+      "host": "dns3.shsmu.edu.cn",
+      "ip": "180.166.197.194"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200025",
+    "China"
+  ],
+  "raw_note": null
+}

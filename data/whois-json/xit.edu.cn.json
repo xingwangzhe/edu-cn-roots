@@ -1,0 +1,24 @@
+{
+  "root_domain": "xit.edu.cn",
+  "type": "full_record",
+  "org_en": "Xiamen Institue of Technology",
+  "org_cn": null,
+  "domain_name": "XIT.EDU.CN",
+  "network_name": "HQUXMGXY-CN",
+  "admin_contact": "Chunbin Liao (CL51-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.XIT.EDU.CN",
+      "ip": "111.187.192.1"
+    },
+    {
+      "host": "DNS1.XIT.EDU.CN",
+      "ip": "111.187.192.2"
+    }
+  ],
+  "address": [
+    "Xiamen, FJ 361021",
+    "China"
+  ],
+  "raw_note": null
+}

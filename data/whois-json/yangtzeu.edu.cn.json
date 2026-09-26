@@ -1,0 +1,28 @@
+{
+  "root_domain": "yangtzeu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yangtze University",
+  "org_cn": null,
+  "domain_name": "YANGTZEU.EDU.CN",
+  "network_name": "JZTC-CN",
+  "admin_contact": "Wei Liu (WL26-CER)",
+  "nameservers": [
+    {
+      "host": "dns.Yangtzeu.edu.cn",
+      "ip": "210.42.16.8"
+    },
+    {
+      "host": "dns2.Yangtzeu.edu.cn",
+      "ip": "210.42.16.18"
+    },
+    {
+      "host": "dns3.Yangtzeu.edu.cn",
+      "ip": "221.233.24.8"
+    }
+  ],
+  "address": [
+    "JINGZHOU, HB 434023",
+    "China"
+  ],
+  "raw_note": null
+}

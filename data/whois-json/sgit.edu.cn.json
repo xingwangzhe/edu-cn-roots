@@ -1,0 +1,24 @@
+{
+  "root_domain": "sgit.edu.cn",
+  "type": "full_record",
+  "org_en": "Shou Gang Institute Of Technology",
+  "org_cn": null,
+  "domain_name": "SGIT.EDU.CN",
+  "network_name": "SHCOMP-CN",
+  "admin_contact": "Xuesong Zang (XZ85-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100041",
+    "China"
+  ],
+  "raw_note": null
+}

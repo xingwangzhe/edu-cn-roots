@@ -1,0 +1,32 @@
+{
+  "root_domain": "wmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wenzhou Medical University",
+  "org_cn": null,
+  "domain_name": "WMU.EDU.CN",
+  "network_name": "WZMCC-CN",
+  "admin_contact": "Qiao Liu (QL46-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.wmu.edu.cn",
+      "ip": "59.79.168.151"
+    },
+    {
+      "host": "dns4.wmu.edu.cn",
+      "ip": "122.228.158.114"
+    },
+    {
+      "host": "dns2.wmu.edu.cn",
+      "ip": "60.12.35.38"
+    },
+    {
+      "host": "dns3.wmu.edu.cn",
+      "ip": "112.16.39.177"
+    }
+  ],
+  "address": [
+    "Wenzhou, ZJ 325035",
+    "China"
+  ],
+  "raw_note": null
+}

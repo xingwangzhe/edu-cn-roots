@@ -1,0 +1,24 @@
+{
+  "root_domain": "hncfs.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan College of Foreign Studies",
+  "org_cn": null,
+  "domain_name": "HNCFS.EDU.CN",
+  "network_name": "HNCFS-CN",
+  "admin_contact": "Hao Wu (HW61-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hncfs.edu.cn",
+      "ip": "42.247.15.65"
+    },
+    {
+      "host": "dns2.hncfs.edu.cn",
+      "ip": "42.247.15.66"
+    }
+  ],
+  "address": [
+    "Wenchang, HI 571321",
+    "China"
+  ],
+  "raw_note": null
+}

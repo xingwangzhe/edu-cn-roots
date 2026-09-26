@@ -1,0 +1,24 @@
+{
+  "root_domain": "nymc.edu.cn",
+  "type": "full_record",
+  "org_en": "NanYang Medical College",
+  "org_cn": null,
+  "domain_name": "NYMC.EDU.CN",
+  "network_name": "NYMC-CN",
+  "admin_contact": "Guodong Li (GL28-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "NanYang, HA 473000",
+    "China"
+  ],
+  "raw_note": null
+}

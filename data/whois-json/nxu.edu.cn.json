@@ -1,0 +1,24 @@
+{
+  "root_domain": "nxu.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningxia University",
+  "org_cn": null,
+  "domain_name": "NXU.EDU.CN",
+  "network_name": "NXU-CN",
+  "admin_contact": "Zhaoming Yu (ZY40-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nxu.edu.cn",
+      "ip": "202.201.128.2"
+    },
+    {
+      "host": "nxnoc.nxu.edu.cn",
+      "ip": "202.201.128.2"
+    }
+  ],
+  "address": [
+    "Yingchuan, NX 750021",
+    "China"
+  ],
+  "raw_note": null
+}

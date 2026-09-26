@@ -1,0 +1,36 @@
+{
+  "root_domain": "gxu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangxi University",
+  "org_cn": null,
+  "domain_name": "GXU.EDU.CN",
+  "network_name": "GXU-CN",
+  "admin_contact": "Jinchuang Zhao (JZ133-CER)",
+  "nameservers": [
+    {
+      "host": "pigeon.gxu.edu.cn",
+      "ip": "210.36.16.33"
+    },
+    {
+      "host": "pigeondx.gxu.edu.cn",
+      "ip": "113.16.17.225"
+    },
+    {
+      "host": "pigeonlt.gxu.edu.cn",
+      "ip": "221.7.131.145"
+    },
+    {
+      "host": "crane.gxu.edu.cn",
+      "ip": "210.36.16.34"
+    },
+    {
+      "host": "cranelt.gxu.edu.cn",
+      "ip": "221.7.131.146"
+    }
+  ],
+  "address": [
+    "Nanning, GX 530004",
+    "China"
+  ],
+  "raw_note": null
+}

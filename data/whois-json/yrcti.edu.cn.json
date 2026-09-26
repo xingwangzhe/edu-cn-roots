@@ -1,0 +1,24 @@
+{
+  "root_domain": "yrcti.edu.cn",
+  "type": "full_record",
+  "org_en": "Yellow River Conservancy Technical Institute",
+  "org_cn": null,
+  "domain_name": "YRCTI.EDU.CN",
+  "network_name": "HHSY-CN",
+  "admin_contact": "Yuancan Sun (YS2-CER)",
+  "nameservers": [
+    {
+      "host": "dns.yrcti.edu.cn",
+      "ip": "218.198.48.8"
+    },
+    {
+      "host": "dns1.yrcti.edu.cn",
+      "ip": "218.198.48.18"
+    }
+  ],
+  "address": [
+    "Kaifeng, HA 4750004",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,12 @@
+# Local source material and research artifacts
+AGENTS.md
+.edu-cn-roots-cernic-whois-20260926.ref/
+data/cernic-whois-raw-20260926.txt
+outputs/
+edu-cn-roots.backup-20260926.csv
+edu-cn-roots-cernic-whois-20260926.xlsx
+edu-cn-roots.csv
+whois-json/
+
+# Local tooling
+.workbuddy/

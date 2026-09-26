@@ -1,0 +1,24 @@
+{
+  "root_domain": "scdy.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Electric Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "SCDY.EDU.CN",
+  "network_name": "SCDY-CN",
+  "admin_contact": "Chao Zhang (CZ73-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.scdy.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.scdy.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610071",
+    "China"
+  ],
+  "raw_note": null
+}

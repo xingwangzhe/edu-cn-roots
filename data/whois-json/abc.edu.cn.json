@@ -1,0 +1,24 @@
+{
+  "root_domain": "abc.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Business College of Vocational Technology",
+  "org_cn": null,
+  "domain_name": "ABC.EDU.CN",
+  "network_name": "AHSZY-CN",
+  "admin_contact": "Zhang Li (ZL89-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.abc.edu.cn",
+      "ip": "210.45.224.14"
+    },
+    {
+      "host": "ns2.abc.edu.cn",
+      "ip": "210.45.224.15"
+    }
+  ],
+  "address": [
+    "WuHu, AH 241003",
+    "China"
+  ],
+  "raw_note": null
+}

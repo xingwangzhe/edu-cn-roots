@@ -1,0 +1,28 @@
+{
+  "root_domain": "wnmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Wannan Medical University",
+  "org_cn": null,
+  "domain_name": "WNMC.EDU.CN",
+  "network_name": "WNMC-CN",
+  "admin_contact": "Yerui Zhang (YZ192-CER)",
+  "nameservers": [
+    {
+      "host": "LJX.WNMC.EDU.CN",
+      "ip": "210.45.48.55"
+    },
+    {
+      "host": "ns.wnmc.edu.cn",
+      "ip": "218.22.81.118"
+    },
+    {
+      "host": "ns1.wnmc.edu.cn",
+      "ip": "210.45.48.66"
+    }
+  ],
+  "address": [
+    "Wuhu, AH 241001",
+    "China"
+  ],
+  "raw_note": null
+}

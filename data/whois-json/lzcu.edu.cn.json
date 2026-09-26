@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou City University",
+  "org_cn": null,
+  "domain_name": "LZCU.EDU.CN",
+  "network_name": "LZTC-CN",
+  "admin_contact": "Yuhu Kang (YK4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lzcu.edu.cn",
+      "ip": "219.246.16.61"
+    },
+    {
+      "host": "dns2.lzcu.edu.cn",
+      "ip": "219.246.16.60"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730070",
+    "China"
+  ],
+  "raw_note": null
+}

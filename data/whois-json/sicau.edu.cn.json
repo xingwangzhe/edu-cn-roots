@@ -1,0 +1,24 @@
+{
+  "root_domain": "sicau.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Agricultural University",
+  "org_cn": null,
+  "domain_name": "SICAU.EDU.CN",
+  "network_name": "SICAU-CN",
+  "admin_contact": "Xintian Wen (XW7-CN)",
+  "nameservers": [
+    {
+      "host": "pridns.sicau.edu.cn",
+      "ip": "113.54.15.10"
+    },
+    {
+      "host": "SECDNS.SICAU.EDU.CN",
+      "ip": "218.6.135.185"
+    }
+  ],
+  "address": [
+    "Yaan, SC 625014",
+    "China"
+  ],
+  "raw_note": null
+}

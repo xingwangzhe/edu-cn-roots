@@ -1,0 +1,24 @@
+{
+  "root_domain": "stbu.edu.cn",
+  "type": "full_record",
+  "org_en": "SiChuan Technology and Business University",
+  "org_cn": null,
+  "domain_name": "STBU.EDU.CN",
+  "network_name": "CDXY-CN",
+  "admin_contact": "Guolun Deng (GD7-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.stbu.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.stbu.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 611745",
+    "China"
+  ],
+  "raw_note": null
+}

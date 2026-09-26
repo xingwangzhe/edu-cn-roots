@@ -1,0 +1,24 @@
+{
+  "root_domain": "kluniv.edu.cn",
+  "type": "full_record",
+  "org_en": "Kaili University",
+  "org_cn": null,
+  "domain_name": "KLUNIV.EDU.CN",
+  "network_name": "KLC-CN",
+  "admin_contact": "Bo Wang (BW39-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.kluniv.edu.cn",
+      "ip": "222.198.240.224"
+    },
+    {
+      "host": "dns2.kluniv.edu.cn",
+      "ip": "222.198.240.225"
+    }
+  ],
+  "address": [
+    "Kaili, GZ 556011",
+    "China"
+  ],
+  "raw_note": null
+}

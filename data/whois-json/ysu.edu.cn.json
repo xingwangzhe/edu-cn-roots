@@ -1,0 +1,24 @@
+{
+  "root_domain": "ysu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yan Shan University",
+  "org_cn": null,
+  "domain_name": "YSU.EDU.CN",
+  "network_name": "YSU-CN",
+  "admin_contact": "Baojie Feng (BF2-CER)",
+  "nameservers": [
+    {
+      "host": "ysudns1.ysu.edu.cn",
+      "ip": "202.206.240.12"
+    },
+    {
+      "host": "ysudns2.ysu.edu.cn",
+      "ip": "202.206.240.13"
+    }
+  ],
+  "address": [
+    "Qinhuangdao, HE 066004",
+    "China"
+  ],
+  "raw_note": null
+}

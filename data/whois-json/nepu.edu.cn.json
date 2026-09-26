@@ -1,0 +1,24 @@
+{
+  "root_domain": "nepu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeast Petroleum University",
+  "org_cn": null,
+  "domain_name": "NEPU.EDU.CN",
+  "network_name": "DQPI-CN",
+  "admin_contact": "Xincheng Gao (XG22-CER)",
+  "nameservers": [
+    {
+      "host": "DNS2.NEPU.EDU.CN",
+      "ip": "210.46.136.6"
+    },
+    {
+      "host": "DNS1.NEPU.EDU.CN",
+      "ip": "210.46.136.1"
+    }
+  ],
+  "address": [
+    "Daqing, HL 151400",
+    "China"
+  ],
+  "raw_note": null
+}

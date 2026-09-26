@@ -1,0 +1,24 @@
+{
+  "root_domain": "eyw.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Polytechnical University",
+  "org_cn": null,
+  "domain_name": "EYW.EDU.CN",
+  "network_name": "TJITST-CN",
+  "admin_contact": "Jiang Zongwen (JZ23-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.EYW.EDU.CN",
+      "ip": "219.243.60.2"
+    },
+    {
+      "host": "DNS2.EYW.EDU.CN",
+      "ip": "219.243.60.3"
+    }
+  ],
+  "address": [
+    "Tiajin, TJ 300160",
+    "China"
+  ],
+  "raw_note": null
+}

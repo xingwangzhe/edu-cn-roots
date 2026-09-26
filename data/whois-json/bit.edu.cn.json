@@ -1,0 +1,32 @@
+{
+  "root_domain": "bit.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Institute Of Technology",
+  "org_cn": null,
+  "domain_name": "BIT.EDU.CN",
+  "network_name": "BJIT-CN",
+  "admin_contact": "Furen Xue (FX1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.BIT.EDU.CN",
+      "ip": "202.204.80.16"
+    },
+    {
+      "host": "DNS1.BIT.EDU.CN",
+      "ip": "183.243.192.199"
+    },
+    {
+      "host": "DNS2.BIT.EDU.CN",
+      "ip": "71.132.51.82"
+    },
+    {
+      "host": "DNS3.BIT.EDU.CN",
+      "ip": "43.192.188.114"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100081",
+    "China"
+  ],
+  "raw_note": null
+}

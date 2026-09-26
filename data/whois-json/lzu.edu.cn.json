@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou University",
+  "org_cn": null,
+  "domain_name": "LZU.EDU.CN",
+  "network_name": "LZU-CN",
+  "admin_contact": "Lulu Li (LL83-CER)",
+  "nameservers": [
+    {
+      "host": "spin.lzu.edu.cn",
+      "ip": "202.201.0.131"
+    },
+    {
+      "host": "sigma.lzu.edu.cn",
+      "ip": "202.201.0.132"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730000",
+    "China"
+  ],
+  "raw_note": null
+}

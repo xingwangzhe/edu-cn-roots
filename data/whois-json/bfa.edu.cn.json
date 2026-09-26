@@ -1,0 +1,24 @@
+{
+  "root_domain": "bfa.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Film Academy",
+  "org_cn": null,
+  "domain_name": "BFA.EDU.CN",
+  "network_name": "BFA-CN",
+  "admin_contact": "Xiaohui Zhang (XZ78-CER)",
+  "nameservers": [
+    {
+      "host": "ns.bfa.edu.cn",
+      "ip": "202.205.112.100"
+    },
+    {
+      "host": "ns1.bfa.edu.cn",
+      "ip": "202.205.112.99"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100088",
+    "China"
+  ],
+  "raw_note": null
+}

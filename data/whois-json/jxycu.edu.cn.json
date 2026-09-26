@@ -1,0 +1,24 @@
+{
+  "root_domain": "jxycu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yichun University",
+  "org_cn": null,
+  "domain_name": "JXYCU.EDU.CN",
+  "network_name": "YICHUN-CN",
+  "admin_contact": "Shaorong Wang (SW22-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jxycu.edu.cn",
+      "ip": "222.204.107.72"
+    },
+    {
+      "host": "dns1.jxycu.edu.cn",
+      "ip": "61.180.25.72"
+    }
+  ],
+  "address": [
+    "Yichun, JX 336000",
+    "China"
+  ],
+  "raw_note": null
+}

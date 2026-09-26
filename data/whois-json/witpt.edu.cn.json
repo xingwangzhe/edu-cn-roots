@@ -1,0 +1,24 @@
+{
+  "root_domain": "witpt.edu.cn",
+  "type": "full_record",
+  "org_en": "The College of Post and Telecommunication of WIT",
+  "org_cn": null,
+  "domain_name": "WITPT.EDU.CN",
+  "network_name": "WPUPT-CN",
+  "admin_contact": "Shi Wang (SW30-CER)",
+  "nameservers": [
+    {
+      "host": "dns.witpt.edu.cn",
+      "ip": "122.204.42.8"
+    },
+    {
+      "host": "dns2.witpt.edu.cn",
+      "ip": "122.204.42.18"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430056",
+    "China"
+  ],
+  "raw_note": null
+}

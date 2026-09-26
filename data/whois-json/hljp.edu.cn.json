@@ -1,0 +1,24 @@
+{
+  "root_domain": "hljp.edu.cn",
+  "type": "full_record",
+  "org_en": "Heilongjiang Polypechnic",
+  "org_cn": null,
+  "domain_name": "HLJP.EDU.CN",
+  "network_name": "HLVC-CN",
+  "admin_contact": "Chenyu Wang (CW42-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hljp.edu.cn",
+      "ip": "42.247.2.139"
+    },
+    {
+      "host": "ns2.hljp.edu.cn",
+      "ip": "42.247.2.140"
+    }
+  ],
+  "address": [
+    "HARBin, HL 150001",
+    "China"
+  ],
+  "raw_note": null
+}

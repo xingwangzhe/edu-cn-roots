@@ -1,0 +1,24 @@
+{
+  "root_domain": "sau.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang University of Aeronautics and Astronautics",
+  "org_cn": null,
+  "domain_name": "SAU.EDU.CN",
+  "network_name": "SYIAE-CN",
+  "admin_contact": "ChenXi Zheng (CZ46-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sau.edu.cn",
+      "ip": "202.199.24.1"
+    },
+    {
+      "host": "dns2.sau.edu.cn",
+      "ip": "202.199.24.2"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110136",
+    "China"
+  ],
+  "raw_note": null
+}

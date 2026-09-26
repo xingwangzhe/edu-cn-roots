@@ -1,0 +1,20 @@
+{
+  "root_domain": "gues.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou University of Engineering Science",
+  "org_cn": null,
+  "domain_name": "GUES.EDU.CN",
+  "network_name": "BJC-CN",
+  "admin_contact": "Na Wang (NW6-CER)",
+  "nameservers": [
+    {
+      "host": "dns.gues.edu.cn",
+      "ip": "222.19.168.168"
+    }
+  ],
+  "address": [
+    "Bijie, GZ 551700",
+    "China"
+  ],
+  "raw_note": null
+}

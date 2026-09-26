@@ -1,0 +1,20 @@
+{
+  "root_domain": "buu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Union University",
+  "org_cn": null,
+  "domain_name": "BUU.EDU.CN",
+  "network_name": "BJUU-CN",
+  "admin_contact": "Hong Shen (HS28-CER)",
+  "nameservers": [
+    {
+      "host": "ns.buu.edu.cn",
+      "ip": "202.204.224.1"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100101",
+    "China"
+  ],
+  "raw_note": null
+}

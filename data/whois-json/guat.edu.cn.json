@@ -1,0 +1,28 @@
+{
+  "root_domain": "guat.edu.cn",
+  "type": "full_record",
+  "org_en": "Guilin University of Aerospace Technology",
+  "org_cn": null,
+  "domain_name": "GUAT.EDU.CN",
+  "network_name": "GLCAT-CN",
+  "admin_contact": "Liang Yan (LY69-CER)",
+  "nameservers": [
+    {
+      "host": "NEPTUNE.GUAT.EDU.CN",
+      "ip": "202.193.96.30"
+    },
+    {
+      "host": "JUPITER.GUAT.EDU.CN",
+      "ip": "202.193.96.29"
+    },
+    {
+      "host": "NS1.GUAT.EDU.CN",
+      "ip": "121.31.114.142"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

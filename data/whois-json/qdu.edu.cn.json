@@ -1,0 +1,24 @@
+{
+  "root_domain": "qdu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao University",
+  "org_cn": null,
+  "domain_name": "QDU.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Zhenkuan Pan (ZP3-CN)",
+  "nameservers": [
+    {
+      "host": "QDU1.QDU.EDU.CN",
+      "ip": "211.64.175.66"
+    },
+    {
+      "host": "QDU2.QDU.EDU.CN",
+      "ip": "211.64.175.67"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266071",
+    "China"
+  ],
+  "raw_note": null
+}

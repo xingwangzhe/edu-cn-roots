@@ -1,0 +1,20 @@
+{
+  "root_domain": "gdufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "GDUFE.EDU.CN",
+  "network_name": "GDCC-CN",
+  "admin_contact": "Zhonghua Zhou (ZZ95-CER)",
+  "nameservers": [
+    {
+      "host": "dns.gdufe.edu.cn",
+      "ip": "202.116.48.8"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510320",
+    "China"
+  ],
+  "raw_note": null
+}

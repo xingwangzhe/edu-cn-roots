@@ -1,0 +1,24 @@
+{
+  "root_domain": "qhfz.edu.cn",
+  "type": "full_record",
+  "org_en": "High School Attached To Tsinghua University",
+  "org_cn": null,
+  "domain_name": "QHFZ.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Gao Min (GM2-CER)",
+  "nameservers": [
+    {
+      "host": "PRIDNS.QHFZ.EDU.CN",
+      "ip": "166.111.124.17"
+    },
+    {
+      "host": "SECDNS.QHFZ.EDU.CN",
+      "ip": "166.111.124.7"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

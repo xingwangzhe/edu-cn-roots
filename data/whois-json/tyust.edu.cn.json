@@ -1,0 +1,24 @@
+{
+  "root_domain": "tyust.edu.cn",
+  "type": "full_record",
+  "org_en": "Taiyuan University of Science & Technology",
+  "org_cn": null,
+  "domain_name": "TYUST.EDU.CN",
+  "network_name": "TYHMI-CN",
+  "admin_contact": "Jun Wang (JW22-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tyust.edu.cn",
+      "ip": "210.31.104.6"
+    },
+    {
+      "host": "dns2.tyust.edu.cn",
+      "ip": "210.31.104.5"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030024",
+    "China"
+  ],
+  "raw_note": null
+}

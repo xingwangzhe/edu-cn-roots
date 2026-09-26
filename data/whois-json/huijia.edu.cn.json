@@ -1,0 +1,24 @@
+{
+  "root_domain": "huijia.edu.cn",
+  "type": "full_record",
+  "org_en": "Beiing Huijia Private School",
+  "org_cn": null,
+  "domain_name": "HUIJIA.EDU.CN",
+  "network_name": "HUIJIA-CN",
+  "admin_contact": "Aimin Zhang (AZ3-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102200",
+    "China"
+  ],
+  "raw_note": null
+}

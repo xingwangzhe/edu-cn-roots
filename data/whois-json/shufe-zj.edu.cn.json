@@ -1,0 +1,24 @@
+{
+  "root_domain": "shufe-zj.edu.cn",
+  "type": "full_record",
+  "org_en": "ShangHai University Of Finance And Economics ZheJiang",
+  "org_cn": null,
+  "domain_name": "SHUFE-ZJ.EDU.CN",
+  "network_name": "SHUFEZHJC-CN",
+  "admin_contact": "Duo Hua (DH25-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.shufe-zj.edu.cn",
+      "ip": "121.192.44.254"
+    },
+    {
+      "host": "ns2.shufe-zj.edu.cn",
+      "ip": "121.192.44.250"
+    }
+  ],
+  "address": [
+    "Jinhua, ZJ 321013",
+    "China"
+  ],
+  "raw_note": null
+}

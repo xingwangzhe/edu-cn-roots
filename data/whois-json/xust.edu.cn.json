@@ -1,0 +1,32 @@
+{
+  "root_domain": "xust.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an University Of Science And Technology",
+  "org_cn": null,
+  "domain_name": "XUST.EDU.CN",
+  "network_name": "XASTU-CN",
+  "admin_contact": "Mu Rong (MR2-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.xust.edu.cn",
+      "ip": "202.200.48.6"
+    },
+    {
+      "host": "ns3.xust.edu.cn",
+      "ip": "61.150.69.6"
+    },
+    {
+      "host": "dns1.xust.edu.cn",
+      "ip": "59.75.56.84"
+    },
+    {
+      "host": "dns2.xust.edu.cn",
+      "ip": "59.75.56.85"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710054",
+    "China"
+  ],
+  "raw_note": null
+}

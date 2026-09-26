@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjyc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiyang Collage of Zhejiang A&F University",
+  "org_cn": null,
+  "domain_name": "ZJYC.EDU.CN",
+  "network_name": "ZJYC-CN",
+  "admin_contact": "Xing Mo (XM14-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Zhuji, ZJ 311800",
+    "China"
+  ],
+  "raw_note": null
+}

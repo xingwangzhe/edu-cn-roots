@@ -1,0 +1,24 @@
+{
+  "root_domain": "lumei.edu.cn",
+  "type": "full_record",
+  "org_en": "Luxun Academy Of Fine Arts",
+  "org_cn": null,
+  "domain_name": "LUMEI.EDU.CN",
+  "network_name": "LAFA-CN",
+  "admin_contact": "Guijun Xiao (GX4-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.LUMEI.EDU.CN",
+      "ip": "210.30.238.11"
+    },
+    {
+      "host": "DNS1.LUMEI.EDU.CN",
+      "ip": "210.30.238.10"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110003",
+    "China"
+  ],
+  "raw_note": null
+}

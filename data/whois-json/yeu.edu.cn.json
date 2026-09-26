@@ -1,0 +1,24 @@
+{
+  "root_domain": "yeu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yangen University",
+  "org_cn": null,
+  "domain_name": "YEU.EDU.CN",
+  "network_name": "YEU-CN",
+  "admin_contact": "Yongjia Li (YL192-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.YEU.EDU.CN",
+      "ip": "211.80.252.10"
+    },
+    {
+      "host": "MAIL1.YEU.EDU.CN",
+      "ip": "211.80.253.61"
+    }
+  ],
+  "address": [
+    "Quanzhou, FJ 362014",
+    "China"
+  ],
+  "raw_note": null
+}

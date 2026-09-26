@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqtbi.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Technology and Business Institute",
+  "org_cn": null,
+  "domain_name": "CQTBI.EDU.CN",
+  "network_name": "CQRTVU-CN",
+  "admin_contact": "ZhiHU Huang (ZH23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cqtbi.edu.cn",
+      "ip": "219.221.49.65"
+    },
+    {
+      "host": "dns2.cqtbi.edu.cn",
+      "ip": "221.7.75.12"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400052",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "glmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Guilin Medical University",
+  "org_cn": null,
+  "domain_name": "GLMC.EDU.CN",
+  "network_name": "GLMC-CN",
+  "admin_contact": "Xiong Chuan (XC11-CER)",
+  "nameservers": [
+    {
+      "host": "GLMCS2.GLMC.EDU.CN",
+      "ip": "202.193.198.33"
+    },
+    {
+      "host": "GLMCS3.GLMC.EDU.CN",
+      "ip": "116.1.3.180"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

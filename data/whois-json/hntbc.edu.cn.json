@@ -1,0 +1,24 @@
+{
+  "root_domain": "hntbc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan Technology and Business College",
+  "org_cn": null,
+  "domain_name": "HNTBC.EDU.CN",
+  "network_name": "HKCEVT-CN",
+  "admin_contact": "Jun Zhang (JZ89-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hntbc.edu.cn",
+      "ip": "210.37.88.1"
+    },
+    {
+      "host": "dns2.hntbc.edu.cn",
+      "ip": "210.37.88.2"
+    }
+  ],
+  "address": [
+    "HaiKou, HI 570203",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "4over6.edu.cn",
+  "type": "full_record",
+  "org_en": "Tsinghua University",
+  "org_cn": null,
+  "domain_name": "4OVER6.EDU.CN",
+  "network_name": "TUNET",
+  "admin_contact": "Cui Yong (CY32-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tsinghua.edu.cn",
+      "ip": "166.111.8.30"
+    },
+    {
+      "host": "dns.edu.cn",
+      "ip": "202.38.109.35"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

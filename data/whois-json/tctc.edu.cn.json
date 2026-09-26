@@ -1,0 +1,24 @@
+{
+  "root_domain": "tctc.edu.cn",
+  "type": "full_record",
+  "org_en": "Tongcheng Teachers College",
+  "org_cn": null,
+  "domain_name": "TCTC.EDU.CN",
+  "network_name": "TTC-CN",
+  "admin_contact": "Huashi Zhao (HZ93-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.TCTC.EDU.CN",
+      "ip": "42.247.31.33"
+    },
+    {
+      "host": "ns2.TCTC.EDU.CN",
+      "ip": "210.45.226.226"
+    }
+  ],
+  "address": [
+    "Tongcheng, AH 231400",
+    "China"
+  ],
+  "raw_note": null
+}

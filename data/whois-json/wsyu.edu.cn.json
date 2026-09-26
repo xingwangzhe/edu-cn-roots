@@ -1,0 +1,24 @@
+{
+  "root_domain": "wsyu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuchang Shouyi University",
+  "org_cn": null,
+  "domain_name": "WSYU.EDU.CN",
+  "network_name": "HUSTWC-CN",
+  "admin_contact": "Ying Zhao (YZ146-CER)",
+  "nameservers": [
+    {
+      "host": "dns.wsyu.edu.cn",
+      "ip": "218.199.144.8"
+    },
+    {
+      "host": "dns2.wsyu.edu.cn",
+      "ip": "219.140.64.132"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430064",
+    "China"
+  ],
+  "raw_note": null
+}

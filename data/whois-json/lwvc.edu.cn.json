@@ -1,0 +1,24 @@
+{
+  "root_domain": "lwvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Laiwu Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "LWVC.EDU.CN",
+  "network_name": "LWVC-CN",
+  "admin_contact": "Zengji Chen (ZC32-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SD.EDU.CN",
+      "ip": "202.194.97.150"
+    },
+    {
+      "host": "DNS2.SD.EDU.CN",
+      "ip": "202.194.97.151"
+    }
+  ],
+  "address": [
+    "Laiwu, SD 271100",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "ah.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Education And Research Network",
+  "org_cn": null,
+  "domain_name": "AH.EDU.CN",
+  "network_name": "AHERNET-CN",
+  "admin_contact": "Shoubao Yang (SY1-CN)",
+  "nameservers": [
+    {
+      "host": "ns.ah.edu.cn",
+      "ip": "210.45.224.1"
+    },
+    {
+      "host": "ns2.ah.edu.cn",
+      "ip": "210.45.224.2"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230026",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "fjsmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Sanming University",
+  "org_cn": null,
+  "domain_name": "FJSMU.EDU.CN",
+  "network_name": "FJSMC-CN",
+  "admin_contact": "Zhixing Lin (ZL34-CER)",
+  "nameservers": [
+    {
+      "host": "dns.fjsmu.edu.cn",
+      "ip": "218.193.98.96"
+    },
+    {
+      "host": "dns1.fjsmu.edu.cn",
+      "ip": "218.5.241.20"
+    }
+  ],
+  "address": [
+    "Sanming, FJ 365004",
+    "China"
+  ],
+  "raw_note": null
+}

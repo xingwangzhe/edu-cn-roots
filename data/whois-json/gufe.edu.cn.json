@@ -1,0 +1,24 @@
+{
+  "root_domain": "gufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou University Of Finannce & Economics",
+  "org_cn": null,
+  "domain_name": "GUFE.EDU.CN",
+  "network_name": "GZIFE-CN",
+  "admin_contact": "Fan Wang (FW23-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.GUFE.EDU.CN",
+      "ip": "210.40.80.33"
+    },
+    {
+      "host": "SEC-DNS.GUFE.EDU.CN",
+      "ip": "210.40.80.39"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550002",
+    "China"
+  ],
+  "raw_note": null
+}

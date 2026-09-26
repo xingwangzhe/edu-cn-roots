@@ -1,0 +1,28 @@
+{
+  "root_domain": "ustb.edu.cn",
+  "type": "full_record",
+  "org_en": "University Of Science And Technology Beijing",
+  "org_cn": null,
+  "domain_name": "USTB.EDU.CN",
+  "network_name": "USTB-CN",
+  "admin_contact": "Yang Yang (YY2-CN)",
+  "nameservers": [
+    {
+      "host": "DNS.USTB.EDU.CN",
+      "ip": "202.204.48.6"
+    },
+    {
+      "host": "DNS2.USTB.EDU.CN",
+      "ip": "202.204.48.8"
+    },
+    {
+      "host": "DNS4.USTB.EDU.CN",
+      "ip": "123.124.147.252"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

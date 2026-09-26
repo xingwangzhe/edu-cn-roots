@@ -1,0 +1,24 @@
+{
+  "root_domain": "hrbnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Normal University",
+  "org_cn": null,
+  "domain_name": "HRBNU.EDU.CN",
+  "network_name": "HRBNU-CN",
+  "admin_contact": "Qian-jin Wang (QW1-CER)",
+  "nameservers": [
+    {
+      "host": "WWW-HNU.HRBNU.EDU.CN",
+      "ip": "202.118.128.2"
+    },
+    {
+      "host": "BNU.HRBNU.EDU.CN",
+      "ip": "202.118.128.3"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150080",
+    "China"
+  ],
+  "raw_note": null
+}

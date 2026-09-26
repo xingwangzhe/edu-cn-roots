@@ -1,0 +1,24 @@
+{
+  "root_domain": "blcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Language And Culture University",
+  "org_cn": null,
+  "domain_name": "BLCU.EDU.CN",
+  "network_name": "BLCU-CN",
+  "admin_contact": "Zhishan Wu (ZW86-CER)",
+  "nameservers": [
+    {
+      "host": "dns.blcu.edu.cn",
+      "ip": "202.112.192.10"
+    },
+    {
+      "host": "dns2.blcu.edu.cn",
+      "ip": "202.112.192.11"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

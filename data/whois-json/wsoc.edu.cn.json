@@ -1,0 +1,24 @@
+{
+  "root_domain": "wsoc.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuxi South Ocean College",
+  "org_cn": null,
+  "domain_name": "WSOC.EDU.CN",
+  "network_name": "WSOC-CN",
+  "admin_contact": "Honglu Zeng (HZ53-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.wsoc.edu.cn",
+      "ip": "58.193.120.1"
+    },
+    {
+      "host": "dns2.wsoc.edu.cn",
+      "ip": "58.193.120.2"
+    }
+  ],
+  "address": [
+    "Wuxi, JS 214081",
+    "China"
+  ],
+  "raw_note": null
+}

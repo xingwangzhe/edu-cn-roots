@@ -1,0 +1,24 @@
+{
+  "root_domain": "brs.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Royal School",
+  "org_cn": null,
+  "domain_name": "BRS.EDU.CN",
+  "network_name": "BRS-CN",
+  "admin_contact": "Shouxiang Song (SS14-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102209",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "tit.edu.cn",
+  "type": "full_record",
+  "org_en": "Taiyuan Institute Of Techmology",
+  "org_cn": null,
+  "domain_name": "TIT.EDU.CN",
+  "network_name": "CANCIT-CN",
+  "admin_contact": "Guangrong Dong (GD16-CER)",
+  "nameservers": [
+    {
+      "host": "dns2.tit.edu.cn",
+      "ip": "210.31.103.254"
+    },
+    {
+      "host": "dns3.tit.edu.cn",
+      "ip": "210.31.103.253"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030008",
+    "China"
+  ],
+  "raw_note": null
+}

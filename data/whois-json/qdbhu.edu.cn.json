@@ -1,0 +1,24 @@
+{
+  "root_domain": "qdbhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao Binhai University",
+  "org_cn": null,
+  "domain_name": "QDBHU.EDU.CN",
+  "network_name": "QDBHU-CN",
+  "admin_contact": "Xiaoming Yang (XY43-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.qdbhu.edu.cn",
+      "ip": "121.251.210.2"
+    },
+    {
+      "host": "dns2.qdbhu.edu.cn",
+      "ip": "121.251.210.3"
+    }
+  ],
+  "address": [
+    "qingdao, SD 266555",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "wspc.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Shipbuilding Polytechnic College",
+  "org_cn": null,
+  "domain_name": "WSPC.EDU.CN",
+  "network_name": "WHCY-CN",
+  "admin_contact": "Guofeng Huang (GH27-CER)",
+  "nameservers": [
+    {
+      "host": "dns.wspc.edu.cn",
+      "ip": "218.197.1.8"
+    },
+    {
+      "host": "dns1.wspc.edu.cn",
+      "ip": "218.197.1.18"
+    },
+    {
+      "host": "dns2.wspc.edu.cn",
+      "ip": "223.76.212.30"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430050",
+    "China"
+  ],
+  "raw_note": null
+}

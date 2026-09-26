@@ -1,0 +1,28 @@
+{
+  "root_domain": "cpu.edu.cn",
+  "type": "full_record",
+  "org_en": "China Pharmaceutical University",
+  "org_cn": null,
+  "domain_name": "CPU.EDU.CN",
+  "network_name": "CPU-CN",
+  "admin_contact": "Weipeng Chang (WC37-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.CPU.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "NS2.CPU.EDU.CN",
+      "ip": "202.119.189.100"
+    },
+    {
+      "host": "NS3.CPU.EDU.CN",
+      "ip": "202.119.191.100"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210009",
+    "China"
+  ],
+  "raw_note": null
+}

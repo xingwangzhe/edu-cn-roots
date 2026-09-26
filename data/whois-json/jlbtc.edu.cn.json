@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlbtc.edu.cn",
+  "type": "full_record",
+  "org_en": "jiLin Business And Technology College",
+  "org_cn": null,
+  "domain_name": "JLBTC.EDU.CN",
+  "network_name": "JLCZ-CN",
+  "admin_contact": "Zhihong Lu (ZL75-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.jlbtc.edu.cn",
+      "ip": "125.223.225.1"
+    },
+    {
+      "host": "dns2.jlbtc.edu.cn",
+      "ip": "125.223.225.2"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130062",
+    "China"
+  ],
+  "raw_note": null
+}

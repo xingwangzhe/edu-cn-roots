@@ -1,0 +1,28 @@
+{
+  "root_domain": "byau.edu.cn",
+  "type": "full_record",
+  "org_en": "Heilongjiang Bayi Agricultural University",
+  "org_cn": null,
+  "domain_name": "BYAU.EDU.CN",
+  "network_name": "HLAFLRU-CN",
+  "admin_contact": "Ming Xiao (MX15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.byau.edu.cn",
+      "ip": "210.46.192.1"
+    },
+    {
+      "host": "DNS2.byau.edu.cn",
+      "ip": "111.43.19.91"
+    },
+    {
+      "host": "DNS3.byau.edu.cn",
+      "ip": "61.167.199.254"
+    }
+  ],
+  "address": [
+    "Daqing, HL 158308",
+    "China"
+  ],
+  "raw_note": null
+}

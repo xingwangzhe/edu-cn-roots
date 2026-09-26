@@ -1,0 +1,28 @@
+{
+  "root_domain": "nytdc.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing University of Post&Telecommunication,TongDa College",
+  "org_cn": null,
+  "domain_name": "NYTDC.EDU.CN",
+  "network_name": "NYTD-CN",
+  "admin_contact": "Yanfeng Huang (YH66-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NYTDC.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.NYTDC.EDU.CN",
+      "ip": "202.112.23.101"
+    },
+    {
+      "host": "DNS3.NYTDC.EDU.CN",
+      "ip": "2001:Da8:1000::1"
+    }
+  ],
+  "address": [
+    "YangZhou, JS 225127",
+    "China"
+  ],
+  "raw_note": null
+}

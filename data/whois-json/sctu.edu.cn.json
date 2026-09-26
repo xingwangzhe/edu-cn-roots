@@ -1,0 +1,24 @@
+{
+  "root_domain": "sctu.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Tourism University",
+  "org_cn": null,
+  "domain_name": "SCTU.EDU.CN",
+  "network_name": "SHIC-CN",
+  "admin_contact": "Jiaxin Yao (JY55-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sctu.edu.cn",
+      "ip": "210.41.64.33"
+    },
+    {
+      "host": "dns2.sctu.edu.cn",
+      "ip": "210.41.64.34"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610100",
+    "China"
+  ],
+  "raw_note": null
+}

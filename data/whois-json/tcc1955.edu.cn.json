@@ -1,0 +1,28 @@
+{
+  "root_domain": "tcc1955.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin College of Commerce",
+  "org_cn": null,
+  "domain_name": "TCC1955.EDU.CN",
+  "network_name": "TIFERT-CN",
+  "admin_contact": "Xin Zhang (XZ101-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    },
+    {
+      "host": "DNS.TCC1955.EDU.CN",
+      "ip": "222.30.8.1"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300350",
+    "China"
+  ],
+  "raw_note": null
+}

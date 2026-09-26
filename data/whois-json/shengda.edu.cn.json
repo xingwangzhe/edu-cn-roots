@@ -1,0 +1,24 @@
+{
+  "root_domain": "shengda.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhengzhou Shengda University of Economics, Business & Management",
+  "org_cn": null,
+  "domain_name": "SHENGDA.EDU.CN",
+  "network_name": "SHD-CN",
+  "admin_contact": "Li Baohua (LB4-CER)",
+  "nameservers": [
+    {
+      "host": "dns.shengda.edu.cn",
+      "ip": "218.198.32.8"
+    },
+    {
+      "host": "dns2.shengda.edu.cn",
+      "ip": "218.198.32.18"
+    }
+  ],
+  "address": [
+    "Xinzheng, HA 451191",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "whcvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan City Vocational College",
+  "org_cn": null,
+  "domain_name": "WHCVC.EDU.CN",
+  "network_name": "WHCIT-CN",
+  "admin_contact": "Wentao Ye (WY28-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430064",
+    "China"
+  ],
+  "raw_note": null
+}

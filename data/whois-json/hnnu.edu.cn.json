@@ -1,0 +1,24 @@
+{
+  "root_domain": "hnnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Huainan Normal University",
+  "org_cn": null,
+  "domain_name": "HNNU.EDU.CN",
+  "network_name": "HNU-CN",
+  "admin_contact": "Yehong Cheng (YC83-CER)",
+  "nameservers": [
+    {
+      "host": "HNDS1.HNNU.EDU.CN",
+      "ip": "211.70.176.22"
+    },
+    {
+      "host": "HNDS2.HNNU.EDU.CN",
+      "ip": "211.70.176.21"
+    }
+  ],
+  "address": [
+    "Huainan, AH 232038",
+    "China"
+  ],
+  "raw_note": null
+}

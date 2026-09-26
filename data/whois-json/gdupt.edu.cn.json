@@ -1,0 +1,24 @@
+{
+  "root_domain": "gdupt.edu.cn",
+  "type": "full_record",
+  "org_en": "GuangDong University of Petrochemical Technology",
+  "org_cn": null,
+  "domain_name": "GDUPT.EDU.CN",
+  "network_name": "GDPA-CN",
+  "admin_contact": "Feng Xue (FX9-CER)",
+  "nameservers": [
+    {
+      "host": "public.gdupt.edu.cn",
+      "ip": "210.38.240.33"
+    },
+    {
+      "host": "orange.gdupt.edu.cn",
+      "ip": "210.38.240.39"
+    }
+  ],
+  "address": [
+    "Maoming, GD 525000",
+    "China"
+  ],
+  "raw_note": null
+}

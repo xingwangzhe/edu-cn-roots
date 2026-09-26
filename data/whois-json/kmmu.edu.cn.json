@@ -1,0 +1,24 @@
+{
+  "root_domain": "kmmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Kunming Medical University",
+  "org_cn": null,
+  "domain_name": "KMMU.EDU.CN",
+  "network_name": "KMUMS-CN",
+  "admin_contact": "Hua Han (HH35-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.kmmu.edu.cn",
+      "ip": "220.163.113.49"
+    },
+    {
+      "host": "dns2.kmmu.edu.cn",
+      "ip": "121.49.163.6"
+    }
+  ],
+  "address": [
+    "kunming, YN 650032",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlart.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin College Of The Arts",
+  "org_cn": null,
+  "domain_name": "JLART.EDU.CN",
+  "network_name": "JLART-CN",
+  "admin_contact": "Guangda He (GH11-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jlart.edu.cn",
+      "ip": "125.223.233.125"
+    },
+    {
+      "host": "dns1.jlart.edu.cn",
+      "ip": "122.139.61.155"
+    }
+  ],
+  "address": [
+    "changchun, JL 130021",
+    "China"
+  ],
+  "raw_note": null
+}

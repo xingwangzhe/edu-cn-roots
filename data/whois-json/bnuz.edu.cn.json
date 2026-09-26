@@ -1,0 +1,24 @@
+{
+  "root_domain": "bnuz.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Normal University Zhuhai",
+  "org_cn": null,
+  "domain_name": "BNUZ.EDU.CN",
+  "network_name": "BNUEP-CN",
+  "admin_contact": "Jian Tang (JT11-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Zhuhai, GD 519085",
+    "China"
+  ],
+  "raw_note": null
+}

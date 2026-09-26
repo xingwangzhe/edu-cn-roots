@@ -1,0 +1,24 @@
+{
+  "root_domain": "snsy.edu.cn",
+  "type": "full_record",
+  "org_en": "Shaanxi Xueqian Normal University",
+  "org_cn": null,
+  "domain_name": "SNSY.EDU.CN",
+  "network_name": "SSIE-CN",
+  "admin_contact": "Miaoke Zhang (MZ4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.snsy.edu.cn",
+      "ip": "202.117.192.6"
+    },
+    {
+      "host": "dns2.snsy.edu.cn",
+      "ip": "202.117.192.9"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710061",
+    "China"
+  ],
+  "raw_note": null
+}

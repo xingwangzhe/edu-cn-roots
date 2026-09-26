@@ -1,0 +1,28 @@
+{
+  "root_domain": "sppc.edu.cn",
+  "type": "full_record",
+  "org_en": "上海出版印刷高等专科学校",
+  "org_cn": null,
+  "domain_name": "SPPC.EDU.CN",
+  "network_name": "SHPPC-CN",
+  "admin_contact": "Xiaolong Liu (XL88-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sppc.edu.cn",
+      "ip": "59.79.116.2"
+    },
+    {
+      "host": "dnsfx.sppc.edu.cn",
+      "ip": "59.79.118.2"
+    },
+    {
+      "host": "dnsfxdx.sppc.edu.cn",
+      "ip": "114.94.101.66"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200093",
+    "China"
+  ],
+  "raw_note": null
+}

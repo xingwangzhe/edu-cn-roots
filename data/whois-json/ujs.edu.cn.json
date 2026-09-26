@@ -1,0 +1,28 @@
+{
+  "root_domain": "ujs.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu University",
+  "org_cn": null,
+  "domain_name": "UJS.EDU.CN",
+  "network_name": "JSUST-CN",
+  "admin_contact": "Shirui Zhu (SZ65-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ujs.edu.cn",
+      "ip": "202.195.160.7"
+    },
+    {
+      "host": "dns2.ujs.edu.cn",
+      "ip": "218.3.94.76"
+    },
+    {
+      "host": "dns3.ujs.edu.cn",
+      "ip": "36.156.27.232"
+    }
+  ],
+  "address": [
+    "Zhenjiang, JS 212013",
+    "China"
+  ],
+  "raw_note": null
+}

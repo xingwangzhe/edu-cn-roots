@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebust.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei University Of Scince And Technology",
+  "org_cn": null,
+  "domain_name": "HEBUST.EDU.CN",
+  "network_name": "HEBUST-CN",
+  "admin_contact": "Cui Xu (CX1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HEBUST.EDU.CN",
+      "ip": "202.206.64.33"
+    },
+    {
+      "host": "DNSS.HEBUST.EDU.CN",
+      "ip": "121.28.97.204"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050054",
+    "China"
+  ],
+  "raw_note": null
+}

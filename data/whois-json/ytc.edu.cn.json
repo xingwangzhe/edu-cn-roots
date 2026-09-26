@@ -1,0 +1,24 @@
+{
+  "root_domain": "ytc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Ying Tian College",
+  "org_cn": null,
+  "domain_name": "YTC.EDU.CN",
+  "network_name": "YTC-CN",
+  "admin_contact": "Ronglin Gao (RG2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ytc.edu.cn",
+      "ip": "222.193.112.1"
+    },
+    {
+      "host": "dns2.ytc.edu.cn",
+      "ip": "222.193.112.2"
+    }
+  ],
+  "address": [
+    "Nangjing, JS 210011",
+    "China"
+  ],
+  "raw_note": null
+}

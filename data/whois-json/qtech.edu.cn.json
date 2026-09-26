@@ -1,0 +1,24 @@
+{
+  "root_domain": "qtech.edu.cn",
+  "type": "full_record",
+  "org_en": "Qingdao Technological University",
+  "org_cn": null,
+  "domain_name": "QTECH.EDU.CN",
+  "network_name": "QDIAE-CN",
+  "admin_contact": "Yumin Dong (YD9-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.qtech.edu.cn",
+      "ip": "211.64.192.1"
+    },
+    {
+      "host": "dns2.qtech.edu.cn",
+      "ip": "211.64.192.2"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266033",
+    "China"
+  ],
+  "raw_note": null
+}

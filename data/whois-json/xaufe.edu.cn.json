@@ -1,0 +1,24 @@
+{
+  "root_domain": "xaufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "XAUFE.EDU.CN",
+  "network_name": "SNETI-CN",
+  "admin_contact": "Wei Wang (WW50-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xaufe.edu.cn",
+      "ip": "218.195.32.17"
+    },
+    {
+      "host": "dns2.xaufe.edu.cn",
+      "ip": "218.195.32.18"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710100",
+    "China"
+  ],
+  "raw_note": null
+}

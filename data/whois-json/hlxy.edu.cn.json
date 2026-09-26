@@ -1,0 +1,24 @@
+{
+  "root_domain": "hlxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Nan Jing University Of Chinese Medicine Han Lin",
+  "org_cn": null,
+  "domain_name": "HLXY.EDU.CN",
+  "network_name": "NJHLXY-CN",
+  "admin_contact": "Li Yang (LY41-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hlxy.edu.cn",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "dns2.hlxy.edu.cn",
+      "ip": "202.112.23.101"
+    }
+  ],
+  "address": [
+    "taizhou, JS 225300",
+    "China"
+  ],
+  "raw_note": null
+}

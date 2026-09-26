@@ -1,0 +1,24 @@
+{
+  "root_domain": "seu.edu.cn",
+  "type": "full_record",
+  "org_en": "Southeast University",
+  "org_cn": null,
+  "domain_name": "SEU.EDU.CN",
+  "network_name": "SEU-CN",
+  "admin_contact": "Tao Hua (TH1-CER)",
+  "nameservers": [
+    {
+      "host": "SEIC2.SEU.EDU.CN",
+      "ip": "202.119.24.12"
+    },
+    {
+      "host": "SEIC8.SEU.EDU.CN",
+      "ip": "202.119.24.18"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210096",
+    "China"
+  ],
+  "raw_note": null
+}

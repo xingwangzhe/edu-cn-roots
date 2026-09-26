@@ -1,0 +1,24 @@
+{
+  "root_domain": "xzit.edu.cn",
+  "type": "full_record",
+  "org_en": "Xuzhou Institute of Technology",
+  "org_cn": null,
+  "domain_name": "XZIT.EDU.CN",
+  "network_name": "PCC-CN",
+  "admin_contact": "Jun Xu (JX49-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xzit.edu.cn",
+      "ip": "211.65.116.1"
+    },
+    {
+      "host": "dns2.xzit.edu.cn",
+      "ip": "211.65.116.10"
+    }
+  ],
+  "address": [
+    "Xu, JS 221018",
+    "China"
+  ],
+  "raw_note": null
+}

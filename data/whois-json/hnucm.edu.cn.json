@@ -1,0 +1,28 @@
+{
+  "root_domain": "hnucm.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan University Of Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "HNUCM.EDU.CN",
+  "network_name": "HNCTCM-CN",
+  "admin_contact": "Wang Jin (WJ15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HNUCM.EDU.CN",
+      "ip": "210.42.176.3"
+    },
+    {
+      "host": "DNS2.HNUCM.EDU.CN",
+      "ip": "210.42.176.1"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410208",
+    "China"
+  ],
+  "raw_note": null
+}

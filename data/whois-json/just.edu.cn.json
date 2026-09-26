@@ -1,0 +1,20 @@
+{
+  "root_domain": "just.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "JUST.EDU.CN",
+  "network_name": "ECSI-CN",
+  "admin_contact": "Dianming Wang (DW11-CER)",
+  "nameservers": [
+    {
+      "host": "dns.just.edu.cn",
+      "ip": "202.195.192.10"
+    }
+  ],
+  "address": [
+    "Zhenjiang, JS 212003",
+    "China"
+  ],
+  "raw_note": null
+}

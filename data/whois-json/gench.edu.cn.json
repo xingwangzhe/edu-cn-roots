@@ -1,0 +1,24 @@
+{
+  "root_domain": "gench.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Jian Qiao College",
+  "org_cn": null,
+  "domain_name": "GENCH.EDU.CN",
+  "network_name": "SHJQU-CN",
+  "admin_contact": "Lei Yu (LY67-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201306",
+    "China"
+  ],
+  "raw_note": null
+}

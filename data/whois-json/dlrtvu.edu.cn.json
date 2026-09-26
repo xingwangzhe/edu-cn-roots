@@ -1,0 +1,20 @@
+{
+  "root_domain": "dlrtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian Radio And TV University",
+  "org_cn": null,
+  "domain_name": "DLRTVU.EDU.CN",
+  "network_name": "DLRTVU-CN",
+  "admin_contact": "ZHU Wei (ZW9-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.DLRTVU.EDU.CN",
+      "ip": "210.47.224.2"
+    }
+  ],
+  "address": [
+    "Dalian,, LN 116021",
+    "China"
+  ],
+  "raw_note": null
+}

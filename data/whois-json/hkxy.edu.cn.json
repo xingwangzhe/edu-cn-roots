@@ -1,0 +1,24 @@
+{
+  "root_domain": "hkxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Hankou University",
+  "org_cn": null,
+  "domain_name": "HKXY.EDU.CN",
+  "network_name": "HKBSCCNU-CN",
+  "admin_contact": "Xuan Zhu (XZ90-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hkxy.edu.cn",
+      "ip": "59.68.228.250"
+    },
+    {
+      "host": "dns2.hkxy.edu.cn",
+      "ip": "113.57.132.252"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430212",
+    "China"
+  ],
+  "raw_note": null
+}

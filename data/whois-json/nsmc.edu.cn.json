@@ -1,0 +1,24 @@
+{
+  "root_domain": "nsmc.edu.cn",
+  "type": "full_record",
+  "org_en": "North Sichuan Medical College",
+  "org_cn": null,
+  "domain_name": "NSMC.EDU.CN",
+  "network_name": "NSMC-CN",
+  "admin_contact": "ChangLin Zhu (CZ15-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.NSMC.EDU.CN",
+      "ip": "211.83.0.66"
+    },
+    {
+      "host": "SDNS.NSMC.EDU.CN",
+      "ip": "211.83.0.72"
+    }
+  ],
+  "address": [
+    "Nanchong, SC 637007",
+    "China"
+  ],
+  "raw_note": null
+}

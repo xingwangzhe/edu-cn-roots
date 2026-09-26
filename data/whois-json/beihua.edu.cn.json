@@ -1,0 +1,24 @@
+{
+  "root_domain": "beihua.edu.cn",
+  "type": "full_record",
+  "org_en": "Beihua University",
+  "org_cn": null,
+  "domain_name": "BEIHUA.EDU.CN",
+  "network_name": "BEIHUA-CN",
+  "admin_contact": "Yan Xu (YX23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.beihua.edu.cn",
+      "ip": "59.72.128.1"
+    },
+    {
+      "host": "dns2.beihua.edu.cn",
+      "ip": "59.72.128.2"
+    }
+  ],
+  "address": [
+    "Jilin, JL 132013",
+    "China"
+  ],
+  "raw_note": null
+}

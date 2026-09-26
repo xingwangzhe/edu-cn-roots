@@ -1,0 +1,28 @@
+{
+  "root_domain": "nfpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Police University",
+  "org_cn": null,
+  "domain_name": "NFPC.EDU.CN",
+  "network_name": "NJFP-CN",
+  "admin_contact": "Jiangdong Xu (JX43-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NFPC.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.NFPC.EDU.CN",
+      "ip": "202.112.23.101"
+    },
+    {
+      "host": "DNS3.NFPC.EDU.CN",
+      "ip": "2001:Da8:1000::1"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210023",
+    "China"
+  ],
+  "raw_note": null
+}

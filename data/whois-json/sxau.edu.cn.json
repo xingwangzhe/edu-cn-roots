@@ -1,0 +1,24 @@
+{
+  "root_domain": "sxau.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi Agricultural University",
+  "org_cn": null,
+  "domain_name": "SXAU.EDU.CN",
+  "network_name": "SXAU-CN",
+  "admin_contact": "Huaiqing Yang (HY12-CER)",
+  "nameservers": [
+    {
+      "host": "SXAUDNS.SXAU.EDU.CN",
+      "ip": "211.82.8.5"
+    },
+    {
+      "host": "SXAUDNS2.SXAU.EDU.CN",
+      "ip": "211.82.8.6"
+    }
+  ],
+  "address": [
+    "Taigu, SX 030801",
+    "China"
+  ],
+  "raw_note": null
+}

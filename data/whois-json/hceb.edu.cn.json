@@ -1,0 +1,24 @@
+{
+  "root_domain": "hceb.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan College of Economics and Business",
+  "org_cn": null,
+  "domain_name": "HCEB.EDU.CN",
+  "network_name": "HIFERT-CN",
+  "admin_contact": "Lirong Li (LL52-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hceb.edu.cn",
+      "ip": "116.13.0.2"
+    },
+    {
+      "host": "dns2.hceb.edu.cn",
+      "ip": "202.100.206.40"
+    }
+  ],
+  "address": [
+    "Haikou, HI 571127",
+    "China"
+  ],
+  "raw_note": null
+}

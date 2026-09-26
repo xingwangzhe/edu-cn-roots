@@ -1,0 +1,28 @@
+{
+  "root_domain": "gxnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangxi Normal University",
+  "org_cn": null,
+  "domain_name": "GXNU.EDU.CN",
+  "network_name": "GXNU-CN",
+  "admin_contact": "Xiaojian Li (XL2-CN)",
+  "nameservers": [
+    {
+      "host": "dns1.gxnu.edu.cn",
+      "ip": "202.193.160.33"
+    },
+    {
+      "host": "dns2.gxnu.edu.cn",
+      "ip": "202.193.160.34"
+    },
+    {
+      "host": "dns3.gxnu.edu.cn",
+      "ip": "202.193.158.33"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

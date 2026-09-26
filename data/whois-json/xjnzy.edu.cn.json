@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjnzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinjiang Agricultural Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "XJNZY.EDU.CN",
+  "network_name": "XJACS-CN",
+  "admin_contact": "Xiaodong Luo (XL83-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xjnzy.edu.cn",
+      "ip": "210.26.192.26"
+    },
+    {
+      "host": "dns2.xjnzy.edu.cn",
+      "ip": "117.191.53.199"
+    }
+  ],
+  "address": [
+    "ChangJi, XJ 831100",
+    "China"
+  ],
+  "raw_note": null
+}

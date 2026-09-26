@@ -1,0 +1,24 @@
+{
+  "root_domain": "fjjxu.edu.cn",
+  "type": "full_record",
+  "org_en": "FuJian JiangXia University",
+  "org_cn": null,
+  "domain_name": "FJJXU.EDU.CN",
+  "network_name": "FCFT-CN",
+  "admin_contact": "Xunyao Li (XL53-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fjjxu.edu.cn",
+      "ip": "59.77.163.8"
+    },
+    {
+      "host": "dns2.fjjxu.edu.cn",
+      "ip": "59.77.163.7"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350007",
+    "China"
+  ],
+  "raw_note": null
+}

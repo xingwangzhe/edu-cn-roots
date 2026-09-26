@@ -1,0 +1,28 @@
+{
+  "root_domain": "nyist.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanyang Institute of Technology",
+  "org_cn": null,
+  "domain_name": "NYIST.EDU.CN",
+  "network_name": "NYIST-CN",
+  "admin_contact": "Yulei Wang (YW62-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nyist.edu.cn",
+      "ip": "59.69.128.8"
+    },
+    {
+      "host": "dns2.nyist.edu.cn",
+      "ip": "59.69.128.18"
+    },
+    {
+      "host": "dns3.nyist.edu.cn",
+      "ip": "2001:DA8:5018:8::8"
+    }
+  ],
+  "address": [
+    "nanyang, HA 473004",
+    "China"
+  ],
+  "raw_note": null
+}

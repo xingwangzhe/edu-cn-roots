@@ -1,0 +1,28 @@
+{
+  "root_domain": "hebau.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Agricultrual University",
+  "org_cn": null,
+  "domain_name": "HEBAU.EDU.CN",
+  "network_name": "HEBAU-CN",
+  "admin_contact": "Yin Cheng (YC1-CER)",
+  "nameservers": [
+    {
+      "host": "NDDNS1.HEBAU.EDU.CN",
+      "ip": "211.68.176.8"
+    },
+    {
+      "host": "NDDNS2.HEBAU.EDU.CN",
+      "ip": "221.192.241.98"
+    },
+    {
+      "host": "NDDNS3.HEBAU.EDU.CN",
+      "ip": "222.222.178.98"
+    }
+  ],
+  "address": [
+    "Baoding, HE 071001",
+    "China"
+  ],
+  "raw_note": null
+}

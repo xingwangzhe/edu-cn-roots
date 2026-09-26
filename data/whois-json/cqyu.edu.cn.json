@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqyu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Youth Vocational & Technical University",
+  "org_cn": null,
+  "domain_name": "CQYU.EDU.CN",
+  "network_name": "CYTC-CN",
+  "admin_contact": "Yuhua Yan (YY1-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.cqyu.edu.cn",
+      "ip": "42.247.11.98"
+    },
+    {
+      "host": "ns2.cqyu.edu.cn",
+      "ip": "124.162.128.9"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400712",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,32 @@
+{
+  "root_domain": "ruc.edu.cn",
+  "type": "full_record",
+  "org_en": "Renmin University of China",
+  "org_cn": null,
+  "domain_name": "RUC.EDU.CN",
+  "network_name": "CRMU-CN",
+  "admin_contact": "Manman Xiao (MX3-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ruc.edu.cn",
+      "ip": "202.112.112.135"
+    },
+    {
+      "host": "dns2.ruc.edu.cn",
+      "ip": "202.112.112.136"
+    },
+    {
+      "host": "dns3.ruc.edu.cn",
+      "ip": "106.120.213.235"
+    },
+    {
+      "host": "dns4.ruc.edu.cn",
+      "ip": "106.120.213.236"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100872",
+    "China"
+  ],
+  "raw_note": null
+}

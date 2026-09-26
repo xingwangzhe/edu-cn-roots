@@ -1,0 +1,24 @@
+{
+  "root_domain": "yzpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Yangzhou Polytechnic College",
+  "org_cn": null,
+  "domain_name": "YZPC.EDU.CN",
+  "network_name": "YZPC-CN",
+  "admin_contact": "Jing Sang (JS49-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.yzpc.edu.cn",
+      "ip": "211.65.8.1"
+    },
+    {
+      "host": "dns2.yzpc.edu.cn",
+      "ip": "211.65.8.2"
+    }
+  ],
+  "address": [
+    "Yangzhou, JS 225009",
+    "China"
+  ],
+  "raw_note": null
+}

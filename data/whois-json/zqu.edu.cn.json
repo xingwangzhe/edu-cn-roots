@@ -1,0 +1,24 @@
+{
+  "root_domain": "zqu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhaoqing University",
+  "org_cn": null,
+  "domain_name": "ZQU.EDU.CN",
+  "network_name": "XIJU-CN",
+  "admin_contact": "Zhihua Zhang (ZZ10-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.zqu.edu.cn",
+      "ip": "210.38.176.1"
+    },
+    {
+      "host": "ns2.zqu.edu.cn",
+      "ip": "210.38.176.2"
+    }
+  ],
+  "address": [
+    "Zhaoqing, GD 526061",
+    "China"
+  ],
+  "raw_note": null
+}

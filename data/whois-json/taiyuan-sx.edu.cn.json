@@ -1,0 +1,24 @@
+{
+  "root_domain": "taiyuan-sx.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi Education And Research Network",
+  "org_cn": null,
+  "domain_name": "TAIYUAN-SX.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Jiang Wu (JW8-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.TAIYUAN-SX.EDU.CN",
+      "ip": "202.207.240.225"
+    },
+    {
+      "host": "DNS2.TAIYUAN-SX.EDU.CN",
+      "ip": "202.207.240.238"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030024",
+    "China"
+  ],
+  "raw_note": null
+}

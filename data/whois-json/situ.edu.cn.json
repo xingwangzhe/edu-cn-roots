@@ -1,0 +1,28 @@
+{
+  "root_domain": "situ.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang Institute of Technology",
+  "org_cn": null,
+  "domain_name": "SITU.EDU.CN",
+  "network_name": "SITU-CN",
+  "admin_contact": "Yao Jian (YJ35-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.situ.edu.cn",
+      "ip": "39.152.52.48"
+    },
+    {
+      "host": "ns2.situ.edu.cn",
+      "ip": "42.247.24.198"
+    },
+    {
+      "host": "ns3.situ.edu.cn",
+      "ip": "218.24.31.67"
+    }
+  ],
+  "address": [
+    "Fushun, LN 113122",
+    "China"
+  ],
+  "raw_note": null
+}

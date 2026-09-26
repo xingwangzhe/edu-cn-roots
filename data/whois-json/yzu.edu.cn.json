@@ -1,0 +1,24 @@
+{
+  "root_domain": "yzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yangzhou University",
+  "org_cn": null,
+  "domain_name": "YZU.EDU.CN",
+  "network_name": "YZU-CN",
+  "admin_contact": "Maosheng Sun (MS1-CN)",
+  "nameservers": [
+    {
+      "host": "cims1.yzu.edu.cn",
+      "ip": "202.195.48.10"
+    },
+    {
+      "host": "cims2.yzu.edu.cn",
+      "ip": "202.195.48.11"
+    }
+  ],
+  "address": [
+    "Yangzhou, JS 225001",
+    "China"
+  ],
+  "raw_note": null
+}

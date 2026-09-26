@@ -1,0 +1,32 @@
+{
+  "root_domain": "nju.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing University",
+  "org_cn": null,
+  "domain_name": "NJU.EDU.CN",
+  "network_name": "NJU-CN",
+  "admin_contact": "Guanxiang Jiang (GJ2-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nju.edu.cn",
+      "ip": "202.119.32.16"
+    },
+    {
+      "host": "ns.nju.edu.cn",
+      "ip": "202.119.62.16"
+    },
+    {
+      "host": "xldns.nju.edu.cn",
+      "ip": "202.119.32.6"
+    },
+    {
+      "host": "gldns.nju.edu.cn",
+      "ip": "202.119.32.12"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210093",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "lsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Lishui University",
+  "org_cn": null,
+  "domain_name": "LSU.EDU.CN",
+  "network_name": "LSU-CN",
+  "admin_contact": "Chengde Zhu (CZ3-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.lsu.edu.cn",
+      "ip": "59.79.130.21"
+    },
+    {
+      "host": "ns2.lsu.edu.cn",
+      "ip": "59.79.130.22"
+    }
+  ],
+  "address": [
+    "Lishui, ZJ 323000",
+    "China"
+  ],
+  "raw_note": null
+}

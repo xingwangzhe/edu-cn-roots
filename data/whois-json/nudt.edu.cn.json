@@ -1,0 +1,28 @@
+{
+  "root_domain": "nudt.edu.cn",
+  "type": "full_record",
+  "org_en": "National University of Defense Technology",
+  "org_cn": null,
+  "domain_name": "NUDT.EDU.CN",
+  "network_name": "NUDT-CN",
+  "admin_contact": "Yong Zhou (YZ204-CER)",
+  "nameservers": [
+    {
+      "host": "pdns.nudt.edu.cn",
+      "ip": "202.197.0.180"
+    },
+    {
+      "host": "sdns.nudt.edu.cn",
+      "ip": "202.197.0.181"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    ":, HN 410003",
+    "China"
+  ],
+  "raw_note": null
+}

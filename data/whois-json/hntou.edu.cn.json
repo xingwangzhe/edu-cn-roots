@@ -1,0 +1,24 @@
+{
+  "root_domain": "hntou.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan Tropical Ocean University",
+  "org_cn": null,
+  "domain_name": "HNTOU.EDU.CN",
+  "network_name": "QZU-CN",
+  "admin_contact": "Lin Chen (LC40-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Sanya, HI 572200",
+    "China"
+  ],
+  "raw_note": null
+}

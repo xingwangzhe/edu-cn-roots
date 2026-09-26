@@ -1,0 +1,24 @@
+{
+  "root_domain": "zzcsjr.edu.cn",
+  "type": "full_record",
+  "org_en": "ZhengZhou Vocational College of Finance & Taxation",
+  "org_cn": null,
+  "domain_name": "ZZCSJR.EDU.CN",
+  "network_name": "ZZCSJR-CN",
+  "admin_contact": "jin Liu (JL138-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450000",
+    "China"
+  ],
+  "raw_note": null
+}

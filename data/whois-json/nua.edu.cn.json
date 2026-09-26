@@ -1,0 +1,28 @@
+{
+  "root_domain": "nua.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing University of the Arts",
+  "org_cn": null,
+  "domain_name": "NUA.EDU.CN",
+  "network_name": "NANJAC-CN",
+  "admin_contact": "Shuai Xu (SX23-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nua.edu.cn",
+      "ip": "210.28.48.8"
+    },
+    {
+      "host": "dns2.nua.edu.cn",
+      "ip": "180.101.224.166"
+    },
+    {
+      "host": "dns3.nua.edu.cn",
+      "ip": "153.3.218.222"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210013",
+    "China"
+  ],
+  "raw_note": null
+}

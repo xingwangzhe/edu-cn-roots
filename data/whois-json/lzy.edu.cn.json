@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Luzhou Vocational Technical College",
+  "org_cn": null,
+  "domain_name": "LZY.EDU.CN",
+  "network_name": "LZZY-CN",
+  "admin_contact": "Zhou Quan (ZQ19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lzy.edu.cn",
+      "ip": "121.48.48.1"
+    },
+    {
+      "host": "dns2.lzy.edu.cn",
+      "ip": "121.48.48.2"
+    }
+  ],
+  "address": [
+    "LuZhou, SC 646005",
+    "China"
+  ],
+  "raw_note": null
+}

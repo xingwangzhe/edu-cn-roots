@@ -1,0 +1,28 @@
+{
+  "root_domain": "haue.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan University of Engineering",
+  "org_cn": null,
+  "domain_name": "HAUE.EDU.CN",
+  "network_name": "ZZEI-CN",
+  "admin_contact": "Jinwu Yuan (JY3-CER)",
+  "nameservers": [
+    {
+      "host": "dns.haue.edu.cn",
+      "ip": "125.219.48.8"
+    },
+    {
+      "host": "dns1.haue.edu.cn",
+      "ip": "218.28.36.158"
+    },
+    {
+      "host": "dns2.haue.edu.cn",
+      "ip": "1.198.6.198"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 451191",
+    "China"
+  ],
+  "raw_note": null
+}

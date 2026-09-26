@@ -1,0 +1,24 @@
+{
+  "root_domain": "gypec.edu.cn",
+  "type": "full_record",
+  "org_en": "Guiyang Preschool Education College",
+  "org_cn": null,
+  "domain_name": "GYPEC.EDU.CN",
+  "network_name": "GPEC-CN",
+  "admin_contact": "Fan He (FH11-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550004",
+    "China"
+  ],
+  "raw_note": null
+}

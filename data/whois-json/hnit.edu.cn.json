@@ -1,0 +1,28 @@
+{
+  "root_domain": "hnit.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan Institute of Technology",
+  "org_cn": null,
+  "domain_name": "HNIT.EDU.CN",
+  "network_name": "HNBMC-CN",
+  "admin_contact": "Qingqing Chen (QC18-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hnit.edu.cn",
+      "ip": "218.196.8.8"
+    },
+    {
+      "host": "dns2.hnit.edu.cn",
+      "ip": "218.196.24.8"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "HengYang, HN 421002",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "tcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Chengjian University",
+  "org_cn": null,
+  "domain_name": "TCU.EDU.CN",
+  "network_name": "TJUCI-CN",
+  "admin_contact": "Zhigang Zhang (ZZ34-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TCU.EDU.CN",
+      "ip": "202.113.88.10"
+    },
+    {
+      "host": "CENTER.TCU.EDU.CN",
+      "ip": "202.113.88.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300384",
+    "China"
+  ],
+  "raw_note": null
+}

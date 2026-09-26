@@ -1,0 +1,24 @@
+{
+  "root_domain": "qfnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qufu Normal University",
+  "org_cn": null,
+  "domain_name": "QFNU.EDU.CN",
+  "network_name": "QFNU-CN",
+  "admin_contact": "Wei Yan (WY43-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.qfnu.edu.cn",
+      "ip": "202.194.178.18"
+    },
+    {
+      "host": "dns2.qfnu.edu.cn",
+      "ip": "202.194.178.19"
+    }
+  ],
+  "address": [
+    "Qufu, SD 273165",
+    "China"
+  ],
+  "raw_note": null
+}

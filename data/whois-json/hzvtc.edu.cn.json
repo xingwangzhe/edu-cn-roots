@@ -1,0 +1,24 @@
+{
+  "root_domain": "hzvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hangzhou Polytechnic University",
+  "org_cn": null,
+  "domain_name": "HZVTC.EDU.CN",
+  "network_name": "HVTC-CN",
+  "admin_contact": "Wei Wu (WW15-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hzvtc.edu.cn",
+      "ip": "210.33.142.1"
+    },
+    {
+      "host": "dns2.hzvtc.edu.cn",
+      "ip": "60.191.116.166"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310018",
+    "China"
+  ],
+  "raw_note": null
+}

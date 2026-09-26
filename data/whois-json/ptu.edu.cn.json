@@ -1,0 +1,24 @@
+{
+  "root_domain": "ptu.edu.cn",
+  "type": "full_record",
+  "org_en": "Putian University",
+  "org_cn": null,
+  "domain_name": "PTU.EDU.CN",
+  "network_name": "PTU-CN",
+  "admin_contact": "Mianxian Chen (MC12-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ptu.edu.cn",
+      "ip": "59.77.176.193"
+    },
+    {
+      "host": "dns2.ptu.edu.cn",
+      "ip": "59.77.176.194"
+    }
+  ],
+  "address": [
+    "Putian, FJ 351100",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "jsnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Normal University",
+  "org_cn": null,
+  "domain_name": "JSNU.EDU.CN",
+  "network_name": "XZTU-CN",
+  "admin_contact": "Jun Xie (JX34-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jsnu.edu.cn",
+      "ip": "202.195.64.10"
+    },
+    {
+      "host": "dns1.jsnu.edu.cn",
+      "ip": "202.195.64.11"
+    }
+  ],
+  "address": [
+    "Xu, JS 221116",
+    "China"
+  ],
+  "raw_note": null
+}

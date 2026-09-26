@@ -1,0 +1,24 @@
+{
+  "root_domain": "hnuahe.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan University of Animal Husbandry and Economy",
+  "org_cn": null,
+  "domain_name": "HNUAHE.EDU.CN",
+  "network_name": "ZZCAH-CN",
+  "admin_contact": "Xianyu Cui (XC45-CER)",
+  "nameservers": [
+    {
+      "host": "mdns.hnuahe.edu.cn",
+      "ip": "211.84.208.2"
+    },
+    {
+      "host": "sdns.hnuahe.edu.cn",
+      "ip": "202.196.128.22"
+    }
+  ],
+  "address": [
+    "ZhengZhou, HA 450011",
+    "China"
+  ],
+  "raw_note": null
+}

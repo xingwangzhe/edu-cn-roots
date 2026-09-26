@@ -1,0 +1,32 @@
+{
+  "root_domain": "uibe.edu.cn",
+  "type": "full_record",
+  "org_en": "University Of International Business And Economics",
+  "org_cn": null,
+  "domain_name": "UIBE.EDU.CN",
+  "network_name": "UIBE-CN",
+  "admin_contact": "Yufeng Lan (YL35-CER)",
+  "nameservers": [
+    {
+      "host": "WATER.UIBE.EDU.CN",
+      "ip": "202.204.160.2"
+    },
+    {
+      "host": "SUN.UIBE.EDU.CN",
+      "ip": "202.204.175.50"
+    },
+    {
+      "host": "MOON.UIBE.EDU.CN",
+      "ip": "111.203.17.200"
+    },
+    {
+      "host": "EARTH.UIBE.EDU.CN",
+      "ip": "1.203.69.200"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100029",
+    "China"
+  ],
+  "raw_note": null
+}

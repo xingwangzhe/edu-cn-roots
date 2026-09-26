@@ -1,0 +1,24 @@
+{
+  "root_domain": "gzcc.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou University of Commerce",
+  "org_cn": null,
+  "domain_name": "GZCC.EDU.CN",
+  "network_name": "GZCC-CN",
+  "admin_contact": "Yanlong Zhou (YZ125-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.GZCC.EDU.CN",
+      "ip": "121.49.195.2"
+    },
+    {
+      "host": "NS2.GZCC.EDU.CN",
+      "ip": "121.49.195.3"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550014",
+    "China"
+  ],
+  "raw_note": null
+}

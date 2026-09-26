@@ -1,0 +1,28 @@
+{
+  "root_domain": "nacta.edu.cn",
+  "type": "full_record",
+  "org_en": "National Academy of Chinese Theatre Arts",
+  "org_cn": null,
+  "domain_name": "NACTA.EDU.CN",
+  "network_name": "ACTO-CN",
+  "admin_contact": "Lu Feng (LF12-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nacta.edu.cn",
+      "ip": "59.65.196.10"
+    },
+    {
+      "host": "dns2.nacta.edu.cn",
+      "ip": "59.65.196.11"
+    },
+    {
+      "host": "dns3.nacta.edu.cn",
+      "ip": "202.106.151.10"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100072",
+    "China"
+  ],
+  "raw_note": null
+}

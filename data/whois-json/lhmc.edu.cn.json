@@ -1,0 +1,24 @@
+{
+  "root_domain": "lhmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Luohe Medical College",
+  "org_cn": null,
+  "domain_name": "LHMC.EDU.CN",
+  "network_name": "LHMC-CN",
+  "admin_contact": "Chen Li (CL33-CER)",
+  "nameservers": [
+    {
+      "host": "dns.lhmc.edu.cn",
+      "ip": "125.219.128.8"
+    },
+    {
+      "host": "dns2.lhmc.edu.cn",
+      "ip": "125.219.128.18"
+    }
+  ],
+  "address": [
+    "LuoHe, HA 462002",
+    "China"
+  ],
+  "raw_note": null
+}

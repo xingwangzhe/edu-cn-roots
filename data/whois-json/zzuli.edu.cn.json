@@ -1,0 +1,24 @@
+{
+  "root_domain": "zzuli.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhengzhou Institute of Light Industry",
+  "org_cn": null,
+  "domain_name": "ZZULI.EDU.CN",
+  "network_name": "ZZILI-CN",
+  "admin_contact": "Shenyi Qian (SQ1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.zzuli.edu.cn",
+      "ip": "202.196.0.1"
+    },
+    {
+      "host": "dns2.zzuli.edu.cn",
+      "ip": "59.70.159.10"
+    }
+  ],
+  "address": [
+    "ZhengZhou, HA 450002",
+    "China"
+  ],
+  "raw_note": null
+}

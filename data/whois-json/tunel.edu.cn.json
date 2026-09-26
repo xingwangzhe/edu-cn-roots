@@ -1,0 +1,20 @@
+{
+  "root_domain": "tunel.edu.cn",
+  "type": "full_record",
+  "org_en": "Tsinghua University",
+  "org_cn": null,
+  "domain_name": "TUNEL.EDU.CN",
+  "network_name": "TSINGHUA-CN",
+  "admin_contact": "Hui Zhang (HZ5-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tunel.edu.cn",
+      "ip": "219.243.211.253"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

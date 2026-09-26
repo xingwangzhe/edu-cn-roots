@@ -1,0 +1,24 @@
+{
+  "root_domain": "aku.edu.cn",
+  "type": "full_record",
+  "org_en": "Ankang College",
+  "org_cn": null,
+  "domain_name": "AKU.EDU.CN",
+  "network_name": "ANKANG-CN",
+  "admin_contact": "Xiaoping Li (XL58-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.aku.edu.cn",
+      "ip": "59.74.50.2"
+    },
+    {
+      "host": "dns2.aku.edu.cn",
+      "ip": "59.74.50.4"
+    }
+  ],
+  "address": [
+    "Ankang, SN 725000",
+    "China"
+  ],
+  "raw_note": null
+}

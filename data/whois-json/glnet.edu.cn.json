@@ -1,0 +1,24 @@
+{
+  "root_domain": "glnet.edu.cn",
+  "type": "full_record",
+  "org_en": "North Guangxi Education And Research Network Centre",
+  "org_cn": null,
+  "domain_name": "GLNET.EDU.CN",
+  "network_name": "GXNNC-CN",
+  "admin_contact": "Xiaojian Li (XL2-CN)",
+  "nameservers": [
+    {
+      "host": "ORCHID.GLNET.EDU.CN",
+      "ip": "202.193.158.33"
+    },
+    {
+      "host": "JASMINE.GLNET.EDU.CN",
+      "ip": "202.193.158.34"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

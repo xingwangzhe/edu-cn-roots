@@ -1,0 +1,24 @@
+{
+  "root_domain": "thnu.edu.cn",
+  "type": "full_record",
+  "org_en": "TongHua Normal University",
+  "org_cn": null,
+  "domain_name": "THNU.EDU.CN",
+  "network_name": "THNU-CN",
+  "admin_contact": "Yunhao Zhang (YZ210-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.thnu.edu.cn",
+      "ip": "125.223.175.175"
+    },
+    {
+      "host": "dns2.thnu.edu.cn",
+      "ip": "222.160.127.37"
+    }
+  ],
+  "address": [
+    "TONGHUA, JL 134002",
+    "China"
+  ],
+  "raw_note": null
+}

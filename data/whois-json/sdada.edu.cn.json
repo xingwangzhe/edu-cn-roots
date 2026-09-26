@@ -1,0 +1,28 @@
+{
+  "root_domain": "sdada.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Art & Design Academy",
+  "org_cn": null,
+  "domain_name": "SDADA.EDU.CN",
+  "network_name": "SDADA-CN",
+  "admin_contact": "Qunye Gu (QG2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sdada.edu.cn",
+      "ip": "211.86.8.1"
+    },
+    {
+      "host": "dns2.sdada.edu.cn",
+      "ip": "221.214.14.221"
+    },
+    {
+      "host": "dns3.sdada.edu.cn",
+      "ip": "124.128.249.180"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250014",
+    "China"
+  ],
+  "raw_note": null
+}

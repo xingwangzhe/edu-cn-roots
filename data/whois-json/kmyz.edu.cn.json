@@ -1,0 +1,24 @@
+{
+  "root_domain": "kmyz.edu.cn",
+  "type": "full_record",
+  "org_en": "Kunming Metallurgy College",
+  "org_cn": null,
+  "domain_name": "KMYZ.EDU.CN",
+  "network_name": "KMYJGZ-CN",
+  "admin_contact": "Biao Li (BL47-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.kmyz.edu.cn",
+      "ip": "218.194.208.5"
+    },
+    {
+      "host": "dns2.kmyz.edu.cn",
+      "ip": "218.194.208.6"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650033",
+    "China"
+  ],
+  "raw_note": null
+}

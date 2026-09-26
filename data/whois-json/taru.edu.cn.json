@@ -1,0 +1,28 @@
+{
+  "root_domain": "taru.edu.cn",
+  "type": "full_record",
+  "org_en": "Talimu University",
+  "org_cn": null,
+  "domain_name": "TARU.EDU.CN",
+  "network_name": "TLMARU-CN",
+  "admin_contact": "Xuejun Zhang (XZ9-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TARU.EDU.CN",
+      "ip": "210.26.176.33"
+    },
+    {
+      "host": "DNS1.TARU.EDU.CN",
+      "ip": "210.26.176.34"
+    },
+    {
+      "host": "DNS2.TARU.EDU.CN",
+      "ip": "210.26.176.35"
+    }
+  ],
+  "address": [
+    "Alar, XJ 843300",
+    "China"
+  ],
+  "raw_note": null
+}

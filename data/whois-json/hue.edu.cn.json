@@ -1,0 +1,24 @@
+{
+  "root_domain": "hue.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei University of Educational",
+  "org_cn": null,
+  "domain_name": "HUE.EDU.CN",
+  "network_name": "HUBCE-CN",
+  "admin_contact": "Shangren Li (SL84-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hue.edu.cn",
+      "ip": "202.197.144.242"
+    },
+    {
+      "host": "dns2.hue.edu.cn",
+      "ip": "223.75.68.242"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430205",
+    "China"
+  ],
+  "raw_note": null
+}

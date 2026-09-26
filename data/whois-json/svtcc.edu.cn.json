@@ -1,0 +1,24 @@
+{
+  "root_domain": "svtcc.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Vocational and Technical College of Communications",
+  "org_cn": null,
+  "domain_name": "SVTCC.EDU.CN",
+  "network_name": "SCVTCC-CN",
+  "admin_contact": "Song Wang (SW23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.svtcc.edu.cn",
+      "ip": "121.48.143.51"
+    },
+    {
+      "host": "dns2.svtcc.edu.cn",
+      "ip": "121.48.143.58"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 611130",
+    "China"
+  ],
+  "raw_note": null
+}

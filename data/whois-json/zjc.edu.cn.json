@@ -1,0 +1,28 @@
+{
+  "root_domain": "zjc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhenjiang College",
+  "org_cn": null,
+  "domain_name": "ZJC.EDU.CN",
+  "network_name": "ZJC-CN",
+  "admin_contact": "Heng Zheng (HZ112-CER)",
+  "nameservers": [
+    {
+      "host": "ZJGZA.ZJC.EDU.CN",
+      "ip": "210.29.88.1"
+    },
+    {
+      "host": "ZJGZB.ZJC.EDU.CN",
+      "ip": "210.29.88.2"
+    },
+    {
+      "host": "ZJGZC.ZJC.EDU.CN",
+      "ip": "223.111.137.137"
+    }
+  ],
+  "address": [
+    "Zhenjiang, JS 212003",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "jcut.edu.cn",
+  "type": "full_record",
+  "org_en": "Jingchu University of Technology",
+  "org_cn": null,
+  "domain_name": "JCUT.EDU.CN",
+  "network_name": "JMUN-CN",
+  "admin_contact": "Xiaojin Wu (XW26-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jcut.edu.cn",
+      "ip": "218.199.48.8"
+    },
+    {
+      "host": "dns2.jcut.edu.cn",
+      "ip": "218.199.48.18"
+    }
+  ],
+  "address": [
+    "Jingmen, HB 448000",
+    "China"
+  ],
+  "raw_note": null
+}

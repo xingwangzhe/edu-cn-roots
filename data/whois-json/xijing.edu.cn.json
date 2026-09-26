@@ -1,0 +1,24 @@
+{
+  "root_domain": "xijing.edu.cn",
+  "type": "full_record",
+  "org_en": "Xijing University",
+  "org_cn": null,
+  "domain_name": "XIJING.EDU.CN",
+  "network_name": "XIJING-CN",
+  "admin_contact": "Ziqiang Fan (ZF22-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xijing.edu.cn",
+      "ip": "59.75.42.2"
+    },
+    {
+      "host": "dns1.xijing.edu.cn",
+      "ip": "219.144.130.177"
+    }
+  ],
+  "address": [
+    "xi'an, SN 710123",
+    "China"
+  ],
+  "raw_note": null
+}

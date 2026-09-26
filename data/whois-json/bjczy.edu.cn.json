@@ -1,0 +1,28 @@
+{
+  "root_domain": "bjczy.edu.cn",
+  "type": "full_record",
+  "org_en": "Institute of Finance & Management Beijing",
+  "org_cn": null,
+  "domain_name": "BJCZY.EDU.CN",
+  "network_name": "BJCZY-CN",
+  "admin_contact": "Wenshan Li (WL73-CER)",
+  "nameservers": [
+    {
+      "host": "dns.bjczy.edu.cn",
+      "ip": "222.199.160.81"
+    },
+    {
+      "host": "dns1.bjczy.edu.cn",
+      "ip": "219.143.12.81"
+    },
+    {
+      "host": "dns2.bjczy.edu.cn",
+      "ip": "111.198.102.81"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100010",
+    "China"
+  ],
+  "raw_note": null
+}

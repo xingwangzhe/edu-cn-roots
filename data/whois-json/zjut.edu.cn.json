@@ -1,0 +1,24 @@
+{
+  "root_domain": "zjut.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang University Of Technology",
+  "org_cn": null,
+  "domain_name": "ZJUT.EDU.CN",
+  "network_name": "ZJUT-CN",
+  "admin_contact": "Fang Zhaolin (FZ3-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ZJUT.EDU.CN",
+      "ip": "210.32.200.10"
+    },
+    {
+      "host": "BACKUP.ZJUT.EDU.CN",
+      "ip": "210.32.200.30"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310032",
+    "China"
+  ],
+  "raw_note": null
+}

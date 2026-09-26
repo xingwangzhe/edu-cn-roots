@@ -1,0 +1,28 @@
+{
+  "root_domain": "nankai.edu.cn",
+  "type": "full_record",
+  "org_en": "Nankai University",
+  "org_cn": null,
+  "domain_name": "NANKAI.EDU.CN",
+  "network_name": "NANKAI-CN",
+  "admin_contact": "Weihuan Han (WH1-CN)",
+  "nameservers": [
+    {
+      "host": "dns.nankai.edu.cn",
+      "ip": "202.113.16.10"
+    },
+    {
+      "host": "dns1.nankai.edu.cn",
+      "ip": "202.113.16.20"
+    },
+    {
+      "host": "dns6.nankai.edu.cn",
+      "ip": "222.30.45.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300071",
+    "China"
+  ],
+  "raw_note": null
+}

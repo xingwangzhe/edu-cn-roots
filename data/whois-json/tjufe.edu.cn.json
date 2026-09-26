@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University Of Finance And Economics",
+  "org_cn": null,
+  "domain_name": "TJUFE.EDU.CN",
+  "network_name": "TJUFE-CN",
+  "admin_contact": "Xiangyuan Meng (XM24-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJUFE.EDU.CN",
+      "ip": "202.113.128.10"
+    },
+    {
+      "host": "DNS1.TJUFE.EDU.CN",
+      "ip": "202.113.128.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300222",
+    "China"
+  ],
+  "raw_note": null
+}

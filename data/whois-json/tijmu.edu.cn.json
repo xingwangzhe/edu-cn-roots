@@ -1,0 +1,24 @@
+{
+  "root_domain": "tijmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Medical University",
+  "org_cn": null,
+  "domain_name": "TIJMU.EDU.CN",
+  "network_name": "TIJMU-CN",
+  "admin_contact": "Changchun Zeng (CZ29-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tijmu.edu.cn",
+      "ip": "202.113.48.10"
+    },
+    {
+      "host": "DNS2.TIJMU.EDU.CN",
+      "ip": "202.113.48.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300070",
+    "China"
+  ],
+  "raw_note": null
+}

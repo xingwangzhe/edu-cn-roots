@@ -1,0 +1,24 @@
+{
+  "root_domain": "csust.edu.cn",
+  "type": "full_record",
+  "org_en": "ChangSha University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "CSUST.EDU.CN",
+  "network_name": "CSUEP-CN",
+  "admin_contact": "Liang Zhu (LZ37-CER)",
+  "nameservers": [
+    {
+      "host": "dns.csust.edu.cn",
+      "ip": "210.43.192.8"
+    },
+    {
+      "host": "dns2.csust.edu.cn",
+      "ip": "210.43.192.18"
+    }
+  ],
+  "address": [
+    "CHANGSHA, HN 410076",
+    "China"
+  ],
+  "raw_note": null
+}

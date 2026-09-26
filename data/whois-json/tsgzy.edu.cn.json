@@ -1,0 +1,24 @@
+{
+  "root_domain": "tsgzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Tangshan Polytechnic University",
+  "org_cn": null,
+  "domain_name": "TSGZY.EDU.CN",
+  "network_name": "TSGZY-CN",
+  "admin_contact": "Yankui Guan (YG29-CER)",
+  "nameservers": [
+    {
+      "host": "dns.tsgzy.edu.cn",
+      "ip": "59.67.208.208"
+    },
+    {
+      "host": "dns1.tsgzy.edu.cn",
+      "ip": "59.67.208.244"
+    }
+  ],
+  "address": [
+    "Tangshan, HE 063020",
+    "China"
+  ],
+  "raw_note": null
+}

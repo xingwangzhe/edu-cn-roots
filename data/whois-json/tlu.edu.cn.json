@@ -1,0 +1,28 @@
+{
+  "root_domain": "tlu.edu.cn",
+  "type": "full_record",
+  "org_en": "TongLing University",
+  "org_cn": null,
+  "domain_name": "TLU.EDU.CN",
+  "network_name": "TLC-CN",
+  "admin_contact": "Zhengrong Song (ZS13-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tlu.edu.cn",
+      "ip": "211.86.208.1"
+    },
+    {
+      "host": "dns2.tlu.edu.cn",
+      "ip": "211.86.208.2"
+    },
+    {
+      "host": "ns.tlu.edu.cn",
+      "ip": "211.86.208.7"
+    }
+  ],
+  "address": [
+    "TongLing, AH 244000",
+    "China"
+  ],
+  "raw_note": null
+}

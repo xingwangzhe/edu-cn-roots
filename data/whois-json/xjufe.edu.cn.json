@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinjiang University of Finance & Economics",
+  "org_cn": null,
+  "domain_name": "XJUFE.EDU.CN",
+  "network_name": "XJIFE-CN",
+  "admin_contact": "Xiaoyu Zhang (XZ100-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xjufe.edu.cn",
+      "ip": "202.201.208.3"
+    },
+    {
+      "host": "dns2.xjufe.edu.cn",
+      "ip": "202.201.208.33"
+    }
+  ],
+  "address": [
+    "Urumqi, XJ 830012",
+    "China"
+  ],
+  "raw_note": null
+}

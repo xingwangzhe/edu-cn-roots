@@ -1,0 +1,24 @@
+{
+  "root_domain": "bitc.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Information Technology College",
+  "org_cn": null,
+  "domain_name": "BITC.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Yimin Wang (YW44-CER)",
+  "nameservers": [
+    {
+      "host": "dns.online.edu.cn",
+      "ip": "202.205.0.1"
+    },
+    {
+      "host": "dns2.online.edu.cn",
+      "ip": "202.205.0.2"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100016",
+    "China"
+  ],
+  "raw_note": null
+}

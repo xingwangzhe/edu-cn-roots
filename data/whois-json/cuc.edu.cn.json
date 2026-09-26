@@ -1,0 +1,32 @@
+{
+  "root_domain": "cuc.edu.cn",
+  "type": "full_record",
+  "org_en": "Communication University of China",
+  "org_cn": null,
+  "domain_name": "CUC.EDU.CN",
+  "network_name": "BJBI-CN",
+  "admin_contact": "Weijia Zhu (WZ99-CER)",
+  "nameservers": [
+    {
+      "host": "PDNS.CUC.EDU.CN",
+      "ip": "202.205.16.5"
+    },
+    {
+      "host": "BDNS.CUC.EDU.CN",
+      "ip": "202.205.16.3"
+    },
+    {
+      "host": "BDNS3.cuc.edu.cn",
+      "ip": "106.39.90.3"
+    },
+    {
+      "host": "PDNS3.cuc.edu.cn",
+      "ip": "106.39.90.5"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100024",
+    "China"
+  ],
+  "raw_note": null
+}

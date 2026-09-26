@@ -1,0 +1,24 @@
+{
+  "root_domain": "siva.edu.cn",
+  "type": "full_record",
+  "org_en": "上海视觉艺术学院",
+  "org_cn": null,
+  "domain_name": "SIVA.EDU.CN",
+  "network_name": "SIVA-CN",
+  "admin_contact": "Wang Chao (WC20-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201620",
+    "China"
+  ],
+  "raw_note": null
+}

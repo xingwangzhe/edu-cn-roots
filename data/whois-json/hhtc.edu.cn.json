@@ -1,0 +1,28 @@
+{
+  "root_domain": "hhtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Huaihua Teacher's College",
+  "org_cn": null,
+  "domain_name": "HHTC.EDU.CN",
+  "network_name": "HHTC-CN",
+  "admin_contact": "Yang Tao (YT4-CER)",
+  "nameservers": [
+    {
+      "host": "WEBSRV.HHTC.EDU.CN",
+      "ip": "210.43.162.4"
+    },
+    {
+      "host": "BAKSRV.HHTC.EDU.CN",
+      "ip": "210.43.162.2"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Huaihua, HN 418008",
+    "China"
+  ],
+  "raw_note": null
+}

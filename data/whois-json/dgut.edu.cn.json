@@ -1,0 +1,36 @@
+{
+  "root_domain": "dgut.edu.cn",
+  "type": "full_record",
+  "org_en": "Dongguan University of Technology",
+  "org_cn": null,
+  "domain_name": "DGUT.EDU.CN",
+  "network_name": "DGIT-CN",
+  "admin_contact": "Canhua Huang (CH1-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.dgut.edu.cn",
+      "ip": "219.222.191.9"
+    },
+    {
+      "host": "ns2.dgut.edu.cn",
+      "ip": "2001:da8:2005:8::3"
+    },
+    {
+      "host": "ns3.dgut.edu.cn",
+      "ip": "120.197.170.66"
+    },
+    {
+      "host": "ns4.dgut.edu.cn",
+      "ip": "27.39.220.20"
+    },
+    {
+      "host": "ns5.dgut.edu.cn",
+      "ip": "61.142.20.222"
+    }
+  ],
+  "address": [
+    "Dongguan, GD 523106",
+    "China"
+  ],
+  "raw_note": null
+}

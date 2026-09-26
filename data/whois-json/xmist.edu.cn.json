@@ -1,0 +1,24 @@
+{
+  "root_domain": "xmist.edu.cn",
+  "type": "full_record",
+  "org_en": "Xiamen Institute of Software Technology",
+  "org_cn": null,
+  "domain_name": "XMIST.EDU.CN",
+  "network_name": "XMSTC-CN",
+  "admin_contact": "Weijie Yang (WY52-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Xiamen, FJ 361024",
+    "China"
+  ],
+  "raw_note": null
+}

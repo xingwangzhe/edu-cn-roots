@@ -1,0 +1,28 @@
+{
+  "root_domain": "ouchn.edu.cn",
+  "type": "full_record",
+  "org_en": "The Open University of China",
+  "org_cn": null,
+  "domain_name": "OUCHN.EDU.CN",
+  "network_name": "SECCET-CN",
+  "admin_contact": "Ran Ren (RR3-CER)",
+  "nameservers": [
+    {
+      "host": "PDNS.CRTVU.EDU.CN",
+      "ip": "202.205.160.3"
+    },
+    {
+      "host": "FDNS.CRTVU.EDU.CN",
+      "ip": "219.142.50.126"
+    },
+    {
+      "host": "SDNS.CRTVU.EDU.CN",
+      "ip": "202.205.160.4"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100031",
+    "China"
+  ],
+  "raw_note": null
+}

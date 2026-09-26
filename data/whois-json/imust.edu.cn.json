@@ -1,0 +1,28 @@
+{
+  "root_domain": "imust.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia University of Science & Technology",
+  "org_cn": null,
+  "domain_name": "IMUST.EDU.CN",
+  "network_name": "BTU-CN",
+  "admin_contact": "Xizhi Xu (XX49-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.imust.edu.cn",
+      "ip": "202.207.157.1"
+    },
+    {
+      "host": "ns2.imust.edu.cn",
+      "ip": "202.207.157.2"
+    },
+    {
+      "host": "ns3.imust.edu.cn",
+      "ip": "202.207.80.65"
+    }
+  ],
+  "address": [
+    "Baotou, NM 014010",
+    "China"
+  ],
+  "raw_note": null
+}

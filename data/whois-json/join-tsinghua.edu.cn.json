@@ -1,0 +1,24 @@
+{
+  "root_domain": "join-tsinghua.edu.cn",
+  "type": "full_record",
+  "org_en": "Tsinghua University",
+  "org_cn": null,
+  "domain_name": "JOIN-TSINGHUA.EDU.CN",
+  "network_name": "TUNET",
+  "admin_contact": "Cheng Zhirui (CZ21-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cic.tsinghua.edu.cn",
+      "ip": "166.111.4.5"
+    },
+    {
+      "host": "dns2.cic.tsinghua.edu.cn",
+      "ip": "166.111.4.30"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

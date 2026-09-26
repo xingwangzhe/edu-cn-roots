@@ -1,0 +1,24 @@
+{
+  "root_domain": "bjpldx.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Bailie University",
+  "org_cn": null,
+  "domain_name": "BJPLDX.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Weida Liu (WL84-CER)",
+  "nameservers": [
+    {
+      "host": "dns.online.edu.cn",
+      "ip": "202.205.0.1"
+    },
+    {
+      "host": "dns2.online.edu.cn",
+      "ip": "202.205.0.2"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100086",
+    "China"
+  ],
+  "raw_note": null
+}

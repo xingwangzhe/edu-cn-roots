@@ -1,0 +1,32 @@
+{
+  "root_domain": "xiyou.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi`an University of Posts & Telecommunications",
+  "org_cn": null,
+  "domain_name": "XIYOU.EDU.CN",
+  "network_name": "XAIPT-CN",
+  "admin_contact": "Guoying Liu (GL17-CER)",
+  "nameservers": [
+    {
+      "host": "xyu01.xiyou.edu.cn",
+      "ip": "202.117.128.2"
+    },
+    {
+      "host": "xyu02.xiyou.edu.cn",
+      "ip": "202.117.128.3"
+    },
+    {
+      "host": "xyu03.xiyou.edu.cn",
+      "ip": "222.24.19.2"
+    },
+    {
+      "host": "xyu04.xiyou.edu.cn",
+      "ip": "221.11.22.35"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710061",
+    "China"
+  ],
+  "raw_note": null
+}

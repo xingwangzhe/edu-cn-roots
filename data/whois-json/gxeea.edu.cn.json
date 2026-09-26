@@ -1,0 +1,24 @@
+{
+  "root_domain": "gxeea.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangxi Examination And Enrollment Administration",
+  "org_cn": null,
+  "domain_name": "GXEEA.EDU.CN",
+  "network_name": "GXEEA-CN",
+  "admin_contact": "Faqi Zhao (FZ6-AP)",
+  "nameservers": [
+    {
+      "host": "CARAMBOLA.GXEEA.EDU.CN",
+      "ip": "210.36.254.1"
+    },
+    {
+      "host": "POMELO.GXEEA.EDU.CN",
+      "ip": "210.36.254.13"
+    }
+  ],
+  "address": [
+    "Nanning, GX 530022",
+    "China"
+  ],
+  "raw_note": null
+}

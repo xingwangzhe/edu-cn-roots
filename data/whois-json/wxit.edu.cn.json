@@ -1,0 +1,24 @@
+{
+  "root_domain": "wxit.edu.cn",
+  "type": "full_record",
+  "org_en": "无锡职业技术大学",
+  "org_cn": null,
+  "domain_name": "WXIT.EDU.CN",
+  "network_name": "WXIT-CN",
+  "admin_contact": "Weidong Ni (WN5-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.wxit.edu.cn",
+      "ip": "210.28.144.8"
+    },
+    {
+      "host": "dns2.wxit.edu.cn",
+      "ip": "210.28.144.9"
+    }
+  ],
+  "address": [
+    "Wuxi, JS 214121",
+    "China"
+  ],
+  "raw_note": null
+}

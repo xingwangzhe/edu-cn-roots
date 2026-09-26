@@ -1,0 +1,32 @@
+{
+  "root_domain": "dlufl.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian University Of Foreign Language",
+  "org_cn": null,
+  "domain_name": "DLUFL.EDU.CN",
+  "network_name": "DLUFL-CN",
+  "admin_contact": "Junpeng Yan (JY78-CER)",
+  "nameservers": [
+    {
+      "host": "dns-edu.dlufl.edu.cn",
+      "ip": "210.30.32.6"
+    },
+    {
+      "host": "dns-edu2.dlufl.edu.cn",
+      "ip": "210.30.32.7"
+    },
+    {
+      "host": "dns-tel.dlufl.edu.cn",
+      "ip": "59.46.158.166"
+    },
+    {
+      "host": "dns-mob.dlufl.edu.cn",
+      "ip": "223.100.146.136"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116000",
+    "China"
+  ],
+  "raw_note": null
+}

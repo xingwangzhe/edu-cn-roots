@@ -1,0 +1,32 @@
+{
+  "root_domain": "xdsisu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xianda College of Economics and Humanities Shanghai International Studies University",
+  "org_cn": null,
+  "domain_name": "XDSISU.EDU.CN",
+  "network_name": "XDSISU-CN",
+  "admin_contact": "Hanpu Jiang (HJ31-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xdsisu.edu.cn",
+      "ip": "59.78.72.2"
+    },
+    {
+      "host": "dns2.xdsisu.edu.cn",
+      "ip": "222.69.159.6"
+    },
+    {
+      "host": "dns3.xdsisu.edu.cn",
+      "ip": "211.95.26.253"
+    },
+    {
+      "host": "dns4.xdsisu.edu.cn",
+      "ip": "117.131.44.43"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 202162",
+    "China"
+  ],
+  "raw_note": null
+}

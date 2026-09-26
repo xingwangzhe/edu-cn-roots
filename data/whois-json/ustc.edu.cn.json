@@ -1,0 +1,24 @@
+{
+  "root_domain": "ustc.edu.cn",
+  "type": "full_record",
+  "org_en": "University Of Science And Technology Of China",
+  "org_cn": null,
+  "domain_name": "USTC.EDU.CN",
+  "network_name": "USTC-CN",
+  "admin_contact": "Shoubao Yang (SY1-CN)",
+  "nameservers": [
+    {
+      "host": "NS.USTC.EDU.CN",
+      "ip": "202.38.64.1"
+    },
+    {
+      "host": "MX.USTC.EDU.CN",
+      "ip": "202.38.64.56"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230026",
+    "China"
+  ],
+  "raw_note": null
+}

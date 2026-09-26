@@ -1,0 +1,24 @@
+{
+  "root_domain": "shspu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Second Polytechnic University",
+  "org_cn": null,
+  "domain_name": "SHSPU.EDU.CN",
+  "network_name": "SHSPU-CN",
+  "admin_contact": "Xiaolin Feng (XF1-CER)",
+  "nameservers": [
+    {
+      "host": "CMNET.SHSPU.EDU.CN",
+      "ip": "202.121.241.8"
+    },
+    {
+      "host": "CNIC.SHSPU.EDU.CN",
+      "ip": "202.121.240.8"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200041",
+    "China"
+  ],
+  "raw_note": null
+}

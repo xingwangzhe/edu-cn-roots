@@ -1,0 +1,32 @@
+{
+  "root_domain": "hlju.edu.cn",
+  "type": "full_record",
+  "org_en": "Heilongjiang University",
+  "org_cn": null,
+  "domain_name": "HLJU.EDU.CN",
+  "network_name": "HLJU-CN",
+  "admin_contact": "Weimin Zhu (WZ89-CER)",
+  "nameservers": [
+    {
+      "host": "ns.hlju.edu.cn",
+      "ip": "210.46.97.1"
+    },
+    {
+      "host": "ns2.hlju.edu.cn",
+      "ip": "219.147.166.120"
+    },
+    {
+      "host": "ns3.hlju.edu.cn",
+      "ip": "61.180.175.254"
+    },
+    {
+      "host": "ns4.hlju.edu.cn",
+      "ip": "111.40.31.115"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150080",
+    "China"
+  ],
+  "raw_note": null
+}

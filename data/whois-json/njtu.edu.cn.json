@@ -1,0 +1,28 @@
+{
+  "root_domain": "njtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Jiaotong University",
+  "org_cn": null,
+  "domain_name": "NJTU.EDU.CN",
+  "network_name": "NJTU-CN",
+  "admin_contact": "Gu Suqin (GS3-CER)",
+  "nameservers": [
+    {
+      "host": "MARS.NJTU.EDU.CN",
+      "ip": "202.112.144.30"
+    },
+    {
+      "host": "JUPITER.NJTU.EDU.CN",
+      "ip": "202.112.144.65"
+    },
+    {
+      "host": "Venus.njtu.edu.cn",
+      "ip": "218.249.29.200"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100044",
+    "China"
+  ],
+  "raw_note": null
+}

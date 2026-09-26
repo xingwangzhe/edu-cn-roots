@@ -1,0 +1,24 @@
+{
+  "root_domain": "uestc.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Electronic Science and Technology of China",
+  "org_cn": null,
+  "domain_name": "UESTC.EDU.CN",
+  "network_name": "UESTC-CN",
+  "admin_contact": "Wenyong Wang (WW1-CN)",
+  "nameservers": [
+    {
+      "host": "dns.uestc.edu.cn",
+      "ip": "202.112.14.151"
+    },
+    {
+      "host": "cdnet52.uestc.edu.cn",
+      "ip": "202.112.14.161"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610054",
+    "China"
+  ],
+  "raw_note": null
+}

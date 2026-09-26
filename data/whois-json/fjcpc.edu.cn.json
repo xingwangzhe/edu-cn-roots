@@ -1,0 +1,20 @@
+{
+  "root_domain": "fjcpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Fujian Chuanzheng Communication College",
+  "org_cn": null,
+  "domain_name": "FJCPC.EDU.CN",
+  "network_name": "FJCPC-CN",
+  "admin_contact": "Shijie Zhou (SZ38-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.FJCPC.EDU.CN",
+      "ip": "211.80.233.8"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350007",
+    "China"
+  ],
+  "raw_note": null
+}

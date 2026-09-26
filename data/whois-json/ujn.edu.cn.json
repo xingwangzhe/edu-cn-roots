@@ -1,0 +1,24 @@
+{
+  "root_domain": "ujn.edu.cn",
+  "type": "full_record",
+  "org_en": "Jinan University",
+  "org_cn": null,
+  "domain_name": "UJN.EDU.CN",
+  "network_name": "SDIBM-CN",
+  "admin_contact": "Xintang Wang (XW113-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.UJN.EDU.CN",
+      "ip": "202.194.68.10"
+    },
+    {
+      "host": "MAILBOX.UJN.EDU.CN",
+      "ip": "202.194.64.1"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250022",
+    "China"
+  ],
+  "raw_note": null
+}

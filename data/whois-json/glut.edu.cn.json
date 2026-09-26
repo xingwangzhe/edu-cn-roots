@@ -1,0 +1,24 @@
+{
+  "root_domain": "glut.edu.cn",
+  "type": "full_record",
+  "org_en": "Guilin University of Technology",
+  "org_cn": null,
+  "domain_name": "GLUT.EDU.CN",
+  "network_name": "GLITE-CN",
+  "admin_contact": "Xiaocheng Liang (XL10-CN)",
+  "nameservers": [
+    {
+      "host": "ns1.glut.edu.cn",
+      "ip": "202.193.80.33"
+    },
+    {
+      "host": "ns2.glut.edu.cn",
+      "ip": "202.193.80.34"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541004",
+    "China"
+  ],
+  "raw_note": null
+}

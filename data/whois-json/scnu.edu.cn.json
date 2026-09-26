@@ -1,0 +1,24 @@
+{
+  "root_domain": "scnu.edu.cn",
+  "type": "full_record",
+  "org_en": "South China Normal University",
+  "org_cn": null,
+  "domain_name": "SCNU.EDU.CN",
+  "network_name": "SCNU-CN",
+  "admin_contact": "NanHui Lin (NL2-CER)",
+  "nameservers": [
+    {
+      "host": "HSNC.SCNU.EDU.CN",
+      "ip": "202.116.32.8"
+    },
+    {
+      "host": "hsut.scnu.edu.cn",
+      "ip": "202.116.32.4"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510631",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "bisu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing International Studies University",
+  "org_cn": null,
+  "domain_name": "BISU.EDU.CN",
+  "network_name": "BSFLU-CN",
+  "admin_contact": "Zhen Duo (ZD9-CER)",
+  "nameservers": [
+    {
+      "host": "dns.bisu.edu.cn",
+      "ip": "211.71.199.27"
+    },
+    {
+      "host": "dns2.bisu.edu.cn",
+      "ip": "123.127.226.170"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100024",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "ahpu.edu.cn",
+  "type": "full_record",
+  "org_en": "AnHui Polytechnic University",
+  "org_cn": null,
+  "domain_name": "AHPU.EDU.CN",
+  "network_name": "AIMEE-CN",
+  "admin_contact": "Jianfeng Wang (JW74-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ahpu.edu.cn",
+      "ip": "211.86.224.2"
+    },
+    {
+      "host": "dns2.ahpu.edu.cn",
+      "ip": "211.86.224.4"
+    },
+    {
+      "host": "dns3.ahpu.edu.cn",
+      "ip": "210.45.226.226"
+    }
+  ],
+  "address": [
+    "Wuhu, AH 241000",
+    "China"
+  ],
+  "raw_note": null
+}

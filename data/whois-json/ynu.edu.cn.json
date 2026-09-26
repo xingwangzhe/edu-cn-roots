@@ -1,0 +1,24 @@
+{
+  "root_domain": "ynu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yunnan University",
+  "org_cn": null,
+  "domain_name": "YNU.EDU.CN",
+  "network_name": "YNU-CN",
+  "admin_contact": "Donghua Liu (DL1-CER)",
+  "nameservers": [
+    {
+      "host": "pridns.ynu.edu.cn",
+      "ip": "202.203.208.33"
+    },
+    {
+      "host": "secdns.ynu.edu.cn",
+      "ip": "202.203.208.34"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650091",
+    "China"
+  ],
+  "raw_note": null
+}

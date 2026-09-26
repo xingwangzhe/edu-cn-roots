@@ -1,0 +1,24 @@
+{
+  "root_domain": "dlufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "DLUFE.EDU.CN",
+  "network_name": "DUFEB-CN",
+  "admin_contact": "Qing Xie (QX12-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116622",
+    "China"
+  ],
+  "raw_note": null
+}

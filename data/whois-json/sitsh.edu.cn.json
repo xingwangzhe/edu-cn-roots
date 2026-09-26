@@ -1,0 +1,24 @@
+{
+  "root_domain": "sitsh.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Institute of Tourism",
+  "org_cn": null,
+  "domain_name": "SITSH.EDU.CN",
+  "network_name": "SIT-CN",
+  "admin_contact": "Weimeng Diao (WD10-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.sitsh.edu.cn",
+      "ip": "202.121.244.200"
+    },
+    {
+      "host": "DNS2.sitsh.edu.cn",
+      "ip": "202.121.244.201"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201418",
+    "China"
+  ],
+  "raw_note": null
+}

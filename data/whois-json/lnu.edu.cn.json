@@ -1,0 +1,24 @@
+{
+  "root_domain": "lnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Liaoning University",
+  "org_cn": null,
+  "domain_name": "LNU.EDU.CN",
+  "network_name": "LNU-CN",
+  "admin_contact": "Baihui Liu (BL1-CN)",
+  "nameservers": [
+    {
+      "host": "hstar.lnu.edu.cn",
+      "ip": "202.118.48.1"
+    },
+    {
+      "host": "SAINT.SYNET.edu.cn",
+      "ip": "202.112.29.85"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110036",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "aynu.edu.cn",
+  "type": "full_record",
+  "org_en": "An Yang Normal University",
+  "org_cn": null,
+  "domain_name": "AYNU.EDU.CN",
+  "network_name": "AYTC-CN",
+  "admin_contact": "Xinfeng Xiao (XX1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.aynu.edu.cn",
+      "ip": "202.196.240.1"
+    },
+    {
+      "host": "dns2.aynu.edu.cn",
+      "ip": "202.196.240.3"
+    }
+  ],
+  "address": [
+    "AnYang, HA 455002",
+    "China"
+  ],
+  "raw_note": null
+}

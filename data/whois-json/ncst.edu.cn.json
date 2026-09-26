@@ -1,0 +1,24 @@
+{
+  "root_domain": "ncst.edu.cn",
+  "type": "full_record",
+  "org_en": "North China University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "NCST.EDU.CN",
+  "network_name": "HEBIT-CN",
+  "admin_contact": "Tao Wu (TW4-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Tangshan, HE 063009",
+    "China"
+  ],
+  "raw_note": null
+}

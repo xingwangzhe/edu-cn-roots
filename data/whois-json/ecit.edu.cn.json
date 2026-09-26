@@ -1,0 +1,24 @@
+{
+  "root_domain": "ecit.edu.cn",
+  "type": "full_record",
+  "org_en": "East China University of Technology",
+  "org_cn": null,
+  "domain_name": "ECIT.EDU.CN",
+  "network_name": "ECGI-CN",
+  "admin_contact": "YueShun He (YH74-CER)",
+  "nameservers": [
+    {
+      "host": "public1.ecit.edu.cn",
+      "ip": "218.193.240.106"
+    },
+    {
+      "host": "public2.ecit.edu.cn",
+      "ip": "202.101.244.188"
+    }
+  ],
+  "address": [
+    "FuZhou, JX 344000",
+    "China"
+  ],
+  "raw_note": null
+}

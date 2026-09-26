@@ -1,0 +1,24 @@
+{
+  "root_domain": "qlu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qilu University of Technology",
+  "org_cn": null,
+  "domain_name": "QLU.EDU.CN",
+  "network_name": "SDILI-CN",
+  "admin_contact": "Guodong Wang (GW26-CER)",
+  "nameservers": [
+    {
+      "host": "dns.qlu.edu.cn",
+      "ip": "210.44.144.44"
+    },
+    {
+      "host": "dns2.qlu.edu.cn",
+      "ip": "60.216.135.17"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250353",
+    "China"
+  ],
+  "raw_note": null
+}

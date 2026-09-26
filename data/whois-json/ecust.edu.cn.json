@@ -1,0 +1,24 @@
+{
+  "root_domain": "ecust.edu.cn",
+  "type": "full_record",
+  "org_en": "East China University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "ECUST.EDU.CN",
+  "network_name": "ECUST-CN",
+  "admin_contact": "Zhihua Li (ZL158-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ecust.edu.cn",
+      "ip": "202.120.111.3"
+    },
+    {
+      "host": "dns2.ecust.edu.cn",
+      "ip": "202.120.111.30"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200237",
+    "China"
+  ],
+  "raw_note": null
+}

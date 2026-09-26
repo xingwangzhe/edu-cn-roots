@@ -1,0 +1,28 @@
+{
+  "root_domain": "hamc.edu.cn",
+  "type": "full_record",
+  "org_en": "HeNan Medical College",
+  "org_cn": null,
+  "domain_name": "HAMC.EDU.CN",
+  "network_name": "HAMC-CN",
+  "admin_contact": "Shuai Wen (SW58-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hamc.edu.cn",
+      "ip": "218.196.176.8"
+    },
+    {
+      "host": "dns2.hamc.edu.cn",
+      "ip": "218.196.176.18"
+    },
+    {
+      "host": "dns3.hamc.edu.cn",
+      "ip": "222.85.110.38"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450003",
+    "China"
+  ],
+  "raw_note": null
+}

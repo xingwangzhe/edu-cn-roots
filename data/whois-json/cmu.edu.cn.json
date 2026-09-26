@@ -1,0 +1,24 @@
+{
+  "root_domain": "cmu.edu.cn",
+  "type": "full_record",
+  "org_en": "China Medical University",
+  "org_cn": null,
+  "domain_name": "CMU.EDU.CN",
+  "network_name": "CMU-CN",
+  "admin_contact": "Wenyu Zhang (WZ63-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.CMU.EDU.CN",
+      "ip": "202.118.40.2"
+    },
+    {
+      "host": "NS2.CMU.EDU.CN",
+      "ip": "202.118.40.4"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110122",
+    "China"
+  ],
+  "raw_note": null
+}

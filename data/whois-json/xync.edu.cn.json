@@ -1,0 +1,24 @@
+{
+  "root_domain": "xync.edu.cn",
+  "type": "full_record",
+  "org_en": "Xianyang Normal College",
+  "org_cn": null,
+  "domain_name": "XYNC.EDU.CN",
+  "network_name": "SNXYTC-CN",
+  "admin_contact": "Yuhong Du (YD29-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xync.edu.cn",
+      "ip": "218.195.80.1"
+    },
+    {
+      "host": "dns2.xync.edu.cn",
+      "ip": "218.195.80.2"
+    }
+  ],
+  "address": [
+    "Xianyang, SN 712000",
+    "China"
+  ],
+  "raw_note": null
+}

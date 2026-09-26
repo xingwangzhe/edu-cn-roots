@@ -1,0 +1,24 @@
+{
+  "root_domain": "hrbeu.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Engineering University",
+  "org_cn": null,
+  "domain_name": "HRBEU.EDU.CN",
+  "network_name": "HRBEU-CN",
+  "admin_contact": "Yuping Wu (YW97-CER)",
+  "nameservers": [
+    {
+      "host": "hrbeu.hrbeu.edu.cn",
+      "ip": "202.118.176.2"
+    },
+    {
+      "host": "NS1.HRBEU.edu.cn",
+      "ip": "218.7.43.4"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150001",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbsi.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Software Institute",
+  "org_cn": null,
+  "domain_name": "HBSI.EDU.CN",
+  "network_name": "HBSI-CN",
+  "admin_contact": "Qi Zhang (QZ28-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hbsi.edu.cn",
+      "ip": "59.67.193.1"
+    },
+    {
+      "host": "dns2.hbsi.edu.cn",
+      "ip": "221.192.237.88"
+    }
+  ],
+  "address": [
+    "Baoding, HE 071000",
+    "China"
+  ],
+  "raw_note": null
+}

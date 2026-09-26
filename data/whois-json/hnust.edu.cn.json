@@ -1,0 +1,28 @@
+{
+  "root_domain": "hnust.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "HNUST.EDU.CN",
+  "network_name": "XTNU-CN",
+  "admin_contact": "Fangmin Li (FL7-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hnust.edu.cn",
+      "ip": "211.67.208.1"
+    },
+    {
+      "host": "dns2.hnust.edu.cn",
+      "ip": "211.67.208.2"
+    },
+    {
+      "host": "dns3.hnust.edu.cn",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Xiangtan, HN 411201",
+    "China"
+  ],
+  "raw_note": null
+}

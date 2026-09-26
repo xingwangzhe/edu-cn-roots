@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdupsl.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong University of Political science and Law",
+  "org_cn": null,
+  "domain_name": "SDUPSL.EDU.CN",
+  "network_name": "SDPLMCI-CN",
+  "admin_contact": "Zhonghui Jiao (ZJ6-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sdupsl.edu.cn",
+      "ip": "211.64.8.1"
+    },
+    {
+      "host": "dns2.sdupsl.edu.cn",
+      "ip": "211.64.8.5"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250014",
+    "China"
+  ],
+  "raw_note": null
+}

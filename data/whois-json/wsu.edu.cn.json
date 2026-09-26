@@ -1,0 +1,20 @@
+{
+  "root_domain": "wsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wenshan University",
+  "org_cn": null,
+  "domain_name": "WSU.EDU.CN",
+  "network_name": "WSTU-CN",
+  "admin_contact": "Changhong Wu (CW30-CER)",
+  "nameservers": [
+    {
+      "host": "dns.wsu.edu.cn",
+      "ip": "222.197.243.2"
+    }
+  ],
+  "address": [
+    "Wenshan, YN 663000",
+    "China"
+  ],
+  "raw_note": null
+}

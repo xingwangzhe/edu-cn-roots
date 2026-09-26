@@ -1,0 +1,24 @@
+{
+  "root_domain": "ldxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Longdong University",
+  "org_cn": null,
+  "domain_name": "LDXY.EDU.CN",
+  "network_name": "LONGDONG-CN",
+  "admin_contact": "Hongying Duan (HD16-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ldxy.edu.cn",
+      "ip": "59.76.48.200"
+    },
+    {
+      "host": "dns2.ldxy.edu.cn",
+      "ip": "59.76.48.201"
+    }
+  ],
+  "address": [
+    "Qingyang, GS 745000",
+    "China"
+  ],
+  "raw_note": null
+}

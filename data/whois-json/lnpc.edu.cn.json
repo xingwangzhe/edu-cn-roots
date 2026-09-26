@@ -1,0 +1,20 @@
+{
+  "root_domain": "lnpc.edu.cn",
+  "type": "full_record",
+  "org_en": "Liaoning Petrochemical Volational and Technology College",
+  "org_cn": null,
+  "domain_name": "LNPC.EDU.CN",
+  "network_name": "LPVT-CN",
+  "admin_contact": "Chunjiang Zhao (CZ25-CER)",
+  "nameservers": [
+    {
+      "host": "dns.lnpc.edu.cn",
+      "ip": "125.222.104.18"
+    }
+  ],
+  "address": [
+    "Jinzhou, LN 121001",
+    "China"
+  ],
+  "raw_note": null
+}

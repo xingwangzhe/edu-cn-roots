@@ -1,0 +1,24 @@
+{
+  "root_domain": "tsnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianshui Normal University",
+  "org_cn": null,
+  "domain_name": "TSNU.EDU.CN",
+  "network_name": "TSNC-CN",
+  "admin_contact": "Wenqin Zhou (WZ75-CER)",
+  "nameservers": [
+    {
+      "host": "TSPNS.TSNU.EDU.CN",
+      "ip": "210.26.24.2"
+    },
+    {
+      "host": "TSSNS.TSNU.EDU.CN",
+      "ip": "210.26.24.1"
+    }
+  ],
+  "address": [
+    "Tianshui, GS 741000",
+    "China"
+  ],
+  "raw_note": null
+}

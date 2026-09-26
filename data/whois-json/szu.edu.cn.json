@@ -1,0 +1,24 @@
+{
+  "root_domain": "szu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenzhen University",
+  "org_cn": null,
+  "domain_name": "SZU.EDU.CN",
+  "network_name": "SZU-CN",
+  "admin_contact": "Fan Zhang (FZ1-CN)",
+  "nameservers": [
+    {
+      "host": "bay.szu.edu.cn",
+      "ip": "210.39.0.33"
+    },
+    {
+      "host": "sea.szu.edu.cn",
+      "ip": "210.39.0.34"
+    }
+  ],
+  "address": [
+    "Shenzhen, GD 518060",
+    "China"
+  ],
+  "raw_note": null
+}

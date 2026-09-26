@@ -1,0 +1,20 @@
+{
+  "root_domain": "xiju.edu.cn",
+  "type": "full_record",
+  "org_en": "ZhaoQing University",
+  "org_cn": null,
+  "domain_name": "XIJU.EDU.CN",
+  "network_name": "XIJU-CN",
+  "admin_contact": "Weixiong Huang (WH5-CER)",
+  "nameservers": [
+    {
+      "host": "SUN1.XIJU.EDU.CN",
+      "ip": "210.38.176.1"
+    }
+  ],
+  "address": [
+    "Zhaoqing, GD 526061",
+    "China"
+  ],
+  "raw_note": null
+}

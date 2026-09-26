@@ -1,0 +1,28 @@
+{
+  "root_domain": "bjut.edu.cn",
+  "type": "full_record",
+  "org_en": "Bingjing University of Technology",
+  "org_cn": null,
+  "domain_name": "BJUT.EDU.CN",
+  "network_name": "BJPU-CN",
+  "admin_contact": "Jie Zhang (JZ135-CER)",
+  "nameservers": [
+    {
+      "host": "dragon.bjut.edu.cn",
+      "ip": "202.112.78.1"
+    },
+    {
+      "host": "dragon2.bjut.edu.cn",
+      "ip": "114.251.253.216"
+    },
+    {
+      "host": "dragon3.bjut.edu.cn",
+      "ip": "2001:da8:216:2100:ac0c:155c:5c15:cac"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100022",
+    "China"
+  ],
+  "raw_note": null
+}

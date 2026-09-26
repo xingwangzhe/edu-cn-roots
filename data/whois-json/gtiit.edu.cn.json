@@ -1,0 +1,24 @@
+{
+  "root_domain": "gtiit.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong Technion-Israel Institute of Technology",
+  "org_cn": null,
+  "domain_name": "GTIIT.EDU.CN",
+  "network_name": "GDTIT-CN",
+  "admin_contact": "Lesheng Xu (LX47-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shantou, GD 515063",
+    "China"
+  ],
+  "raw_note": null
+}

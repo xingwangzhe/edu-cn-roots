@@ -1,0 +1,24 @@
+{
+  "root_domain": "tyu.edu.cn",
+  "type": "full_record",
+  "org_en": "Taiyuan University",
+  "org_cn": null,
+  "domain_name": "TYU.EDU.CN",
+  "network_name": "TYU-CN",
+  "admin_contact": "Jian Wu (JW123-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TYU.EDU.CN",
+      "ip": "211.82.0.6"
+    },
+    {
+      "host": "DNS2.TYU.EDU.CN",
+      "ip": "211.82.0.8"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030051",
+    "China"
+  ],
+  "raw_note": null
+}

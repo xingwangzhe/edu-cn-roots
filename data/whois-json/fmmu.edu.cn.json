@@ -1,0 +1,24 @@
+{
+  "root_domain": "fmmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Air Force Medical University",
+  "org_cn": null,
+  "domain_name": "FMMU.EDU.CN",
+  "network_name": "FMMU-CN",
+  "admin_contact": "Hao Xu (HX20-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.FMMU.EDU.CN",
+      "ip": "202.200.32.1"
+    },
+    {
+      "host": "E450.FMMU.EDU.CN",
+      "ip": "61.134.11.227"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710032",
+    "China"
+  ],
+  "raw_note": null
+}

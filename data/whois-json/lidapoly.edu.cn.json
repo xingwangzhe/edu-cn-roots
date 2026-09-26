@@ -1,0 +1,24 @@
+{
+  "root_domain": "lidapoly.edu.cn",
+  "type": "full_record",
+  "org_en": "上海立达学院",
+  "org_cn": null,
+  "domain_name": "LIDAPOLY.EDU.CN",
+  "network_name": "LIDAPOLY-CN",
+  "admin_contact": "Wei Hu (WH53-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lidapoly.edu.cn",
+      "ip": "58.198.20.10"
+    },
+    {
+      "host": "dns2.lidapoly.edu.cn",
+      "ip": "211.95.27.35"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200030",
+    "China"
+  ],
+  "raw_note": null
+}

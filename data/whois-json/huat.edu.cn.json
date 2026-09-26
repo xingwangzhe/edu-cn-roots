@@ -1,0 +1,24 @@
+{
+  "root_domain": "huat.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei University of Automotive Technology",
+  "org_cn": null,
+  "domain_name": "HUAT.EDU.CN",
+  "network_name": "HAII-CN",
+  "admin_contact": "Yong Luo (YL81-CER)",
+  "nameservers": [
+    {
+      "host": "dns.huat.edu.cn",
+      "ip": "59.68.192.8"
+    },
+    {
+      "host": "dns2.huat.edu.cn",
+      "ip": "61.183.20.18"
+    }
+  ],
+  "address": [
+    "Shiyan, HB 442002",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "nic.edu.cn",
+  "type": "full_record",
+  "org_en": "China Education and Research Network Information Center",
+  "org_cn": null,
+  "domain_name": "NIC.EDU.CN",
+  "network_name": "CERNIC-CN",
+  "admin_contact": "Shuang Zhu (SZ1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.edu.cn",
+      "ip": "202.38.109.35"
+    },
+    {
+      "host": "dns2.edu.cn",
+      "ip": "202.112.0.13"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

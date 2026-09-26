@@ -1,0 +1,36 @@
+{
+  "root_domain": "bzmc.edu.cn",
+  "type": "full_record",
+  "org_en": "ShanDong Medical And Pharmaceutical University",
+  "org_cn": null,
+  "domain_name": "BZMC.EDU.CN",
+  "network_name": "BZMC-CN",
+  "admin_contact": "Kun Han (KH8-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.bzmc.edu.cn",
+      "ip": "211.87.240.1"
+    },
+    {
+      "host": "dns2.bzmc.edu.cn",
+      "ip": "211.87.240.2"
+    },
+    {
+      "host": "dns3.bzmc.edu.cn",
+      "ip": "211.87.240.3"
+    },
+    {
+      "host": "dns4.bzmc.edu.cn",
+      "ip": "211.87.240.7"
+    },
+    {
+      "host": "dns5.bzmc.edu.cn",
+      "ip": "211.87.240.8"
+    }
+  ],
+  "address": [
+    "Binzhou, SD 256603",
+    "China"
+  ],
+  "raw_note": null
+}

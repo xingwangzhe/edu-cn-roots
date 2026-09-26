@@ -1,0 +1,24 @@
+{
+  "root_domain": "ntnc.edu.cn",
+  "type": "full_record",
+  "org_en": "Nantong Normal College",
+  "org_cn": null,
+  "domain_name": "NTNC.EDU.CN",
+  "network_name": "JSETECB-CN",
+  "admin_contact": "Guanghua Qin (GQ2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ntnc.edu.cn",
+      "ip": "211.70.24.8"
+    },
+    {
+      "host": "dns2.ntnc.edu.cn",
+      "ip": "211.70.24.9"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226006",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "snut.edu.cn",
+  "type": "full_record",
+  "org_en": "Shaanxi University of Technology",
+  "org_cn": null,
+  "domain_name": "SNUT.EDU.CN",
+  "network_name": "SNIT-CN",
+  "admin_contact": "Zhe Wang (ZW25-CER)",
+  "nameservers": [
+    {
+      "host": "dns.snut.edu.cn",
+      "ip": "218.195.96.2"
+    },
+    {
+      "host": "dns1.snut.edu.cn",
+      "ip": "218.195.96.3"
+    }
+  ],
+  "address": [
+    "Hanzhong, SN 723001",
+    "China"
+  ],
+  "raw_note": null
+}

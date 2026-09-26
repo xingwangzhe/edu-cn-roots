@@ -1,0 +1,24 @@
+{
+  "root_domain": "qxnvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Qianxinan Nationality Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "QXNVC.EDU.CN",
+  "network_name": "QXNVC-CN",
+  "admin_contact": "Zhengkai He (ZH30-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "XingYi, GZ 562400",
+    "China"
+  ],
+  "raw_note": null
+}

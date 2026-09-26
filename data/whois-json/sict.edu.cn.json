@@ -1,0 +1,28 @@
+{
+  "root_domain": "sict.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Institute Of Commerce And Technology",
+  "org_cn": null,
+  "domain_name": "SICT.EDU.CN",
+  "network_name": "SICT-CN",
+  "admin_contact": "Xiandong Li (XL14-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SICT.EDU.CN",
+      "ip": "211.64.112.1"
+    },
+    {
+      "host": "DNS2.SICT.EDU.CN",
+      "ip": "123.232.99.145"
+    },
+    {
+      "host": "DNS3.SICT.EDU.CN",
+      "ip": "58.59.0.115"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250013",
+    "China"
+  ],
+  "raw_note": null
+}

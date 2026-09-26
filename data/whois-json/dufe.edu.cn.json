@@ -1,0 +1,24 @@
+{
+  "root_domain": "dufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Dongbei University Of Finance And Economics",
+  "org_cn": null,
+  "domain_name": "DUFE.EDU.CN",
+  "network_name": "DBUFE-CN",
+  "admin_contact": "Lushen Mi (LM3-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.DUFE.EDU.CN",
+      "ip": "202.199.160.206"
+    },
+    {
+      "host": "DNSB.DUFE.EDU.CN",
+      "ip": "202.199.160.208"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116025",
+    "China"
+  ],
+  "raw_note": null
+}

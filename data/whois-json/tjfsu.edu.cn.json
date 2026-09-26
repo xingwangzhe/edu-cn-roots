@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjfsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Foreign Studies University",
+  "org_cn": null,
+  "domain_name": "TJFSU.EDU.CN",
+  "network_name": "TJFSU-CN",
+  "admin_contact": "Jiabin Han (JH28-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJFSU.EDU.CN",
+      "ip": "211.68.208.10"
+    },
+    {
+      "host": "SUN.TJFSU.EDU.CN",
+      "ip": "211.68.208.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300204",
+    "China"
+  ],
+  "raw_note": null
+}

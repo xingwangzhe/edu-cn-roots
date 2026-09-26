@@ -1,0 +1,24 @@
+{
+  "root_domain": "ahmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Medical University",
+  "org_cn": null,
+  "domain_name": "AHMU.EDU.CN",
+  "network_name": "AHMU-CN",
+  "admin_contact": "Shoule Shi (SS21-CER)",
+  "nameservers": [
+    {
+      "host": "dns.ahmu.edu.cn",
+      "ip": "210.45.96.1"
+    },
+    {
+      "host": "dns2.ahmu.edu.cn",
+      "ip": "210.45.96.2"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230032",
+    "China"
+  ],
+  "raw_note": null
+}

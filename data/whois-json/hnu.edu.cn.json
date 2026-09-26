@@ -1,0 +1,32 @@
+{
+  "root_domain": "hnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan University",
+  "org_cn": null,
+  "domain_name": "HNU.EDU.CN",
+  "network_name": "HUNU-CN",
+  "admin_contact": "Zirong Wang (ZW44-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hnu.edu.cn",
+      "ip": "210.43.96.254"
+    },
+    {
+      "host": "dns2.hnu.edu.cn",
+      "ip": "61.187.64.2"
+    },
+    {
+      "host": "dns6.hnu.edu.cn",
+      "ip": "2001:250:4402::2"
+    },
+    {
+      "host": "dns3.hnu.edu.cn",
+      "ip": "210.43.97.1"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410082",
+    "China"
+  ],
+  "raw_note": null
+}

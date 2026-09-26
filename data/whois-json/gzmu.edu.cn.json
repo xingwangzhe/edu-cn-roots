@@ -1,0 +1,20 @@
+{
+  "root_domain": "gzmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou Minzu University",
+  "org_cn": null,
+  "domain_name": "GZMU.EDU.CN",
+  "network_name": "GZNC-CN",
+  "admin_contact": "Jun Wu (JW97-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gzmu.edu.cn",
+      "ip": "210.40.128.35"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550025",
+    "China"
+  ],
+  "raw_note": null
+}

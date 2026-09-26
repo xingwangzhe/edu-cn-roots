@@ -1,0 +1,24 @@
+{
+  "root_domain": "htc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hefei Technology College",
+  "org_cn": null,
+  "domain_name": "HTC.EDU.CN",
+  "network_name": "HFTC-CN",
+  "admin_contact": "Liang Tao (LT16-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.htc.edu.cn",
+      "ip": "42.247.13.114"
+    },
+    {
+      "host": "dns2.htc.edu.cn",
+      "ip": "36.7.106.62"
+    }
+  ],
+  "address": [
+    "Hefei, AH 238000",
+    "China"
+  ],
+  "raw_note": null
+}

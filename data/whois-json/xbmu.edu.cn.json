@@ -1,0 +1,24 @@
+{
+  "root_domain": "xbmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwest Minzu University",
+  "org_cn": null,
+  "domain_name": "XBMU.EDU.CN",
+  "network_name": "NWMU-CN",
+  "admin_contact": "Wang Yanbin (WY4-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.xbmu.edu.cn",
+      "ip": "210.26.0.10"
+    },
+    {
+      "host": "ns2.xbmu.edu.cn",
+      "ip": "210.26.0.11"
+    }
+  ],
+  "address": [
+    "Lan, GS 730030",
+    "China"
+  ],
+  "raw_note": null
+}

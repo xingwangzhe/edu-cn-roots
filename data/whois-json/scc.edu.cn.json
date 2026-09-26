@@ -1,0 +1,24 @@
+{
+  "root_domain": "scc.edu.cn",
+  "type": "full_record",
+  "org_en": "苏州百年职业学院",
+  "org_cn": null,
+  "domain_name": "SCC.EDU.CN",
+  "network_name": "HKUSPACE-CN",
+  "admin_contact": "Xuedong Ren (XR7-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.SCC.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "dns2.SCC.EDU.CN",
+      "ip": "202.112.23.101"
+    }
+  ],
+  "address": [
+    "Suzhou, JS 215000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,32 @@
+{
+  "root_domain": "ayit.edu.cn",
+  "type": "full_record",
+  "org_en": "Anyang Institute Of Technology",
+  "org_cn": null,
+  "domain_name": "AYIT.EDU.CN",
+  "network_name": "ANYANG-CN",
+  "admin_contact": "Chongming Zhao (CZ53-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ayit.edu.cn",
+      "ip": "211.84.230.8"
+    },
+    {
+      "host": "dns2.ayit.edu.cn",
+      "ip": "211.84.230.18"
+    },
+    {
+      "host": "dns3.ayit.edu.cn",
+      "ip": "222.88.155.217"
+    },
+    {
+      "host": "dns4.ayit.edu.cn",
+      "ip": "171.12.111.107"
+    }
+  ],
+  "address": [
+    "anyang, HA 455000",
+    "China"
+  ],
+  "raw_note": null
+}

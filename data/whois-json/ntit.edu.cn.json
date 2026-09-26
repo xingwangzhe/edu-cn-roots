@@ -1,0 +1,24 @@
+{
+  "root_domain": "ntit.edu.cn",
+  "type": "full_record",
+  "org_en": "Nantong Institute of Technology",
+  "org_cn": null,
+  "domain_name": "NTIT.EDU.CN",
+  "network_name": "ZLVC-CN",
+  "admin_contact": "Lingling Li (LL63-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ntit.edu.cn",
+      "ip": "58.193.88.5"
+    },
+    {
+      "host": "dns2.ntit.edu.cn",
+      "ip": "58.193.88.6"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226002",
+    "China"
+  ],
+  "raw_note": null
+}

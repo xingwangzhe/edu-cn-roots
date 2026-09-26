@@ -1,0 +1,28 @@
+{
+  "root_domain": "sntcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Shaanxi University of Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "SNTCM.EDU.CN",
+  "network_name": "SNUTCM-CN",
+  "admin_contact": "YiPeng Guo (YG45-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sntcm.edu.cn",
+      "ip": "218.195.64.31"
+    },
+    {
+      "host": "dns2.sntcm.edu.cn",
+      "ip": "218.195.64.32"
+    },
+    {
+      "host": "dns3.sntcm.edu.cn",
+      "ip": "221.11.69.244"
+    }
+  ],
+  "address": [
+    "Xianyang, SN 712083",
+    "China"
+  ],
+  "raw_note": null
+}

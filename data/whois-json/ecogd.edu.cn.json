@@ -1,0 +1,28 @@
+{
+  "root_domain": "ecogd.edu.cn",
+  "type": "full_record",
+  "org_en": "The Office Of Enrollment Commission Of Guangdong Province",
+  "org_cn": null,
+  "domain_name": "ECOGD.EDU.CN",
+  "network_name": "GDGZB-CN",
+  "admin_contact": "Wenwei Yang (WY44-CER)",
+  "nameservers": [
+    {
+      "host": "ECOGD1.ECOGD.EDU.CN",
+      "ip": "202.116.236.33"
+    },
+    {
+      "host": "ECOGD2.ECOGD.EDU.CN",
+      "ip": "183.62.28.4"
+    },
+    {
+      "host": "ECOGD3.ECOGD.EDU.CN",
+      "ip": "202.116.236.34"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510631",
+    "China"
+  ],
+  "raw_note": null
+}

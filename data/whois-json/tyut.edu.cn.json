@@ -1,0 +1,28 @@
+{
+  "root_domain": "tyut.edu.cn",
+  "type": "full_record",
+  "org_en": "Taiyuan University Of Technology",
+  "org_cn": null,
+  "domain_name": "TYUT.EDU.CN",
+  "network_name": "TUT-CN",
+  "admin_contact": "Xinhua Ren (XR1-CN)",
+  "nameservers": [
+    {
+      "host": "TYUTSVR.TYUT.EDU.CN",
+      "ip": "202.207.240.225"
+    },
+    {
+      "host": "VENUS.TYUT.EDU.CN",
+      "ip": "202.207.247.227"
+    },
+    {
+      "host": "pluto.tyut.edu.cn",
+      "ip": "116.62.186.109"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030024",
+    "China"
+  ],
+  "raw_note": null
+}

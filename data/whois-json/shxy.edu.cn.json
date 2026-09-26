@@ -1,0 +1,24 @@
+{
+  "root_domain": "shxy.edu.cn",
+  "type": "full_record",
+  "org_en": "SuiHua University",
+  "org_cn": null,
+  "domain_name": "SHXY.EDU.CN",
+  "network_name": "SHXY-CN",
+  "admin_contact": "FuYou Yu (FY18-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "SuiHua, HL 152061",
+    "China"
+  ],
+  "raw_note": null
+}

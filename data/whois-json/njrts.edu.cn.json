@@ -1,0 +1,24 @@
+{
+  "root_domain": "njrts.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Institute Of Railway Technology",
+  "org_cn": null,
+  "domain_name": "NJRTS.EDU.CN",
+  "network_name": "NJRTS-CN",
+  "admin_contact": "Jiahua Li (JL4-CER)",
+  "nameservers": [
+    {
+      "host": "CENTER1.NJRTS.EDU.CN",
+      "ip": "210.28.168.10"
+    },
+    {
+      "host": "CENTER2.NJRTS.EDU.CN",
+      "ip": "210.28.168.11"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210015",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "jscfa.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu College of Finance & Accounting",
+  "org_cn": null,
+  "domain_name": "JSCFA.EDU.CN",
+  "network_name": "JCFA-CN",
+  "admin_contact": "Yonggang Yang (YY62-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JSCFA.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.JSCFA.EDU.CN",
+      "ip": "202.112.23.101"
+    },
+    {
+      "host": "DNS3.JSCFA.EDU.CN",
+      "ip": "2001:Da8:1000::1"
+    }
+  ],
+  "address": [
+    "LianYungang, JS 222061",
+    "China"
+  ],
+  "raw_note": null
+}

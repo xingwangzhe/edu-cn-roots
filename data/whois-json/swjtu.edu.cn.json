@@ -1,0 +1,24 @@
+{
+  "root_domain": "swjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest Jiaotong University",
+  "org_cn": null,
+  "domain_name": "SWJTU.EDU.CN",
+  "network_name": "SWJTU-CN",
+  "admin_contact": "Jinhong Li (JL7-CER)",
+  "nameservers": [
+    {
+      "host": "pridns.swjtu.edu.cn",
+      "ip": "202.115.64.33"
+    },
+    {
+      "host": "secdns.swjtu.edu.cn",
+      "ip": "202.115.64.34"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610000",
+    "China"
+  ],
+  "raw_note": null
+}

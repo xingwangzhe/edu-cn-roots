@@ -1,0 +1,24 @@
+{
+  "root_domain": "sspu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Polytechnic University",
+  "org_cn": null,
+  "domain_name": "SSPU.EDU.CN",
+  "network_name": "SHSPU-CN",
+  "admin_contact": "Liping Tang (LT19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sspu.edu.cn",
+      "ip": "180.169.171.1"
+    },
+    {
+      "host": "dns2.sspu.edu.cn",
+      "ip": "219.220.236.1"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201209",
+    "China"
+  ],
+  "raw_note": null
+}

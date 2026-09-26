@@ -1,0 +1,24 @@
+{
+  "root_domain": "shaolinkungfu.edu.cn",
+  "type": "full_record",
+  "org_en": "Mount Song Shaolin Vocational Wushu Institute",
+  "org_cn": null,
+  "domain_name": "SHAOLINKUNGFU.EDU.CN",
+  "network_name": "SSWSVI-CN",
+  "admin_contact": "Jingze Cui (JC76-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Deng, HA 452470",
+    "China"
+  ],
+  "raw_note": null
+}

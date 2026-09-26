@@ -1,0 +1,32 @@
+{
+  "root_domain": "syau.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang Agricultural University",
+  "org_cn": null,
+  "domain_name": "SYAU.EDU.CN",
+  "network_name": "SYAU-CN",
+  "admin_contact": "Zhanwen Liu (ZL69-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.syau.edu.cn",
+      "ip": "210.47.160.1"
+    },
+    {
+      "host": "ns2.syau.edu.cn",
+      "ip": "103.152.186.1"
+    },
+    {
+      "host": "ns3.syau.edu.cn",
+      "ip": "47.108.95.88"
+    },
+    {
+      "host": "ns4.syau.edu.cn",
+      "ip": "101.91.176.99"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110161",
+    "China"
+  ],
+  "raw_note": null
+}

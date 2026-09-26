@@ -1,0 +1,20 @@
+{
+  "root_domain": "sut.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang University of Technology",
+  "org_cn": null,
+  "domain_name": "SUT.EDU.CN",
+  "network_name": "SYPU-CN",
+  "admin_contact": "Ruize Li (RL17-CER)",
+  "nameservers": [
+    {
+      "host": "dns.sut.edu.cn",
+      "ip": "202.199.98.1"
+    }
+  ],
+  "address": [
+    "Shenayang, LN 110870",
+    "China"
+  ],
+  "raw_note": null
+}

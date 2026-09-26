@@ -1,0 +1,24 @@
+{
+  "root_domain": "jnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jinan University",
+  "org_cn": null,
+  "domain_name": "JNU.EDU.CN",
+  "network_name": "JINAN-CN",
+  "admin_contact": "Huanming Zhang (HZ84-CER)",
+  "nameservers": [
+    {
+      "host": "maina.jnu.edu.cn",
+      "ip": "202.116.0.1"
+    },
+    {
+      "host": "mainb.jnu.edu.cn",
+      "ip": "202.116.0.2"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510632",
+    "China"
+  ],
+  "raw_note": null
+}

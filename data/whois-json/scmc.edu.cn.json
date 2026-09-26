@@ -1,0 +1,24 @@
+{
+  "root_domain": "scmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan College of Media and Communications",
+  "org_cn": null,
+  "domain_name": "SCMC.EDU.CN",
+  "network_name": "CDYSXY-CN",
+  "admin_contact": "Xiaoqian Feng (XF10-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.scmc.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.scmc.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 611745",
+    "China"
+  ],
+  "raw_note": null
+}

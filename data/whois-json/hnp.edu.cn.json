@@ -1,0 +1,24 @@
+{
+  "root_domain": "hnp.edu.cn",
+  "type": "full_record",
+  "org_en": "HeNan Police college",
+  "org_cn": null,
+  "domain_name": "HNP.EDU.CN",
+  "network_name": "HNGAZKB-CN",
+  "admin_contact": "Shiwei Wang (SW54-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450046",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing University",
+  "org_cn": null,
+  "domain_name": "CQU.EDU.CN",
+  "network_name": "CQU-CN",
+  "admin_contact": "Rongjun Tang (RT1-CER)",
+  "nameservers": [
+    {
+      "host": "pridns.cqu.edu.cn",
+      "ip": "202.202.0.33"
+    },
+    {
+      "host": "secdns.cqu.edu.cn",
+      "ip": "202.202.0.34"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 630044",
+    "China"
+  ],
+  "raw_note": null
+}

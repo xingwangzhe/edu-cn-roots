@@ -1,0 +1,24 @@
+{
+  "root_domain": "cnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Capital Normal University",
+  "org_cn": null,
+  "domain_name": "CNU.EDU.CN",
+  "network_name": "CNU-CN",
+  "admin_contact": "Tianli Zhang (TZ1-CN)",
+  "nameservers": [
+    {
+      "host": "DNS.CNU.EDU.CN",
+      "ip": "202.204.208.2"
+    },
+    {
+      "host": "DNS2.CNU.EDU.CN",
+      "ip": "202.108.129.3"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100084",
+    "China"
+  ],
+  "raw_note": null
+}

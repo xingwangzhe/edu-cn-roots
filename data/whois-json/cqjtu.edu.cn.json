@@ -1,0 +1,24 @@
+{
+  "root_domain": "cqjtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing Jiaotong University",
+  "org_cn": null,
+  "domain_name": "CQJTU.EDU.CN",
+  "network_name": "CQUC-CN",
+  "admin_contact": "Keyang Dong (KD12-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cqjtu.edu.cn",
+      "ip": "202.202.240.33"
+    },
+    {
+      "host": "dns2.cqjtu.edu.cn",
+      "ip": "202.202.240.34"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400074",
+    "China"
+  ],
+  "raw_note": null
+}

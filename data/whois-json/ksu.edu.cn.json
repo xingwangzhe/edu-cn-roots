@@ -1,0 +1,24 @@
+{
+  "root_domain": "ksu.edu.cn",
+  "type": "full_record",
+  "org_en": "Kashi University",
+  "org_cn": null,
+  "domain_name": "KSU.EDU.CN",
+  "network_name": "KSTC-CN",
+  "admin_contact": "Wenlong Wang (WW59-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ksu.edu.cn",
+      "ip": "218.195.192.73"
+    },
+    {
+      "host": "dns2.ksu.edu.cn",
+      "ip": "218.195.192.74"
+    }
+  ],
+  "address": [
+    "Kashi, XJ 844006",
+    "China"
+  ],
+  "raw_note": null
+}

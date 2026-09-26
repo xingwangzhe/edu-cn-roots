@@ -1,0 +1,20 @@
+{
+  "root_domain": "sylu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang Institute of Technology",
+  "org_cn": null,
+  "domain_name": "SYLU.EDU.CN",
+  "network_name": "SYIT-CN",
+  "admin_contact": "Wuyong Xia (WX24-CER)",
+  "nameservers": [
+    {
+      "host": "advan.sylu.edu.cn",
+      "ip": "202.118.32.2"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110015",
+    "China"
+  ],
+  "raw_note": null
+}

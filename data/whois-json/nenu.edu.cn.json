@@ -1,0 +1,28 @@
+{
+  "root_domain": "nenu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeast Normal University",
+  "org_cn": null,
+  "domain_name": "NENU.EDU.CN",
+  "network_name": "NENU-CN",
+  "admin_contact": "Lianxi Sheng (LS20-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nenu.edu.cn",
+      "ip": "202.198.129.254"
+    },
+    {
+      "host": "dns6.nenu.edu.cn",
+      "ip": "2001:250:7401:2::11"
+    },
+    {
+      "host": "dns2.nenu.edu.cn",
+      "ip": "61.138.177.114"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130021",
+    "China"
+  ],
+  "raw_note": null
+}

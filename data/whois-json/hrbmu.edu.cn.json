@@ -1,0 +1,24 @@
+{
+  "root_domain": "hrbmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Medical University",
+  "org_cn": null,
+  "domain_name": "HRBMU.EDU.CN",
+  "network_name": "HRBMU-CN",
+  "admin_contact": "He Ying (HY5-CER)",
+  "nameservers": [
+    {
+      "host": "HRBMU.HRBMU.EDU.CN",
+      "ip": "210.46.80.1"
+    },
+    {
+      "host": "DNS2.HRBMU.EDU.CN",
+      "ip": "210.46.80.4"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150086",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "sdu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shangdong University",
+  "org_cn": null,
+  "domain_name": "SDU.EDU.CN",
+  "network_name": "SDU-CN",
+  "admin_contact": "Yihong Qiu (YQ28-CER)",
+  "nameservers": [
+    {
+      "host": "sdunetsv2.sdu.edu.cn",
+      "ip": "202.194.15.13"
+    },
+    {
+      "host": "sdunetnms.sdu.edu.cn",
+      "ip": "202.194.15.12"
+    },
+    {
+      "host": "sdunetsv3.sdu.edu.cn",
+      "ip": "202.194.14.12"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250100",
+    "China"
+  ],
+  "raw_note": null
+}

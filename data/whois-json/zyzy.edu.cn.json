@@ -1,0 +1,24 @@
+{
+  "root_domain": "zyzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Zunyi Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "ZYZY.EDU.CN",
+  "network_name": "ZVTC-CN",
+  "admin_contact": "Junjun Yang (JY71-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Zunyi, GZ 564500",
+    "China"
+  ],
+  "raw_note": null
+}

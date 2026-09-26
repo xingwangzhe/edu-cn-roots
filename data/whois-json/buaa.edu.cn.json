@@ -1,0 +1,28 @@
+{
+  "root_domain": "buaa.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Aeronautics & Astronautics",
+  "org_cn": null,
+  "domain_name": "BUAA.EDU.CN",
+  "network_name": "BUAA-CN",
+  "admin_contact": "Tao Huang (TH15-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.buaa.edu.cn",
+      "ip": "202.112.128.51"
+    },
+    {
+      "host": "ns2.buaa.edu.cn",
+      "ip": "202.112.128.50"
+    },
+    {
+      "host": "ns3.buaa.edu.cn",
+      "ip": "106.39.41.15"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

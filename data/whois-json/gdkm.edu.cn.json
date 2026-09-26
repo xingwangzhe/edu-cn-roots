@@ -1,0 +1,24 @@
+{
+  "root_domain": "gdkm.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong Polytechnic of science and Trade",
+  "org_cn": null,
+  "domain_name": "GDKM.EDU.CN",
+  "network_name": "GDKM-CN",
+  "admin_contact": "JianBing Chen (JC67-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gdkm.edu.cn",
+      "ip": "125.216.192.1"
+    },
+    {
+      "host": "dns2.gdkm.edu.cn",
+      "ip": "125.216.192.2"
+    }
+  ],
+  "address": [
+    "Guangzhuo, GD 510430",
+    "China"
+  ],
+  "raw_note": null
+}

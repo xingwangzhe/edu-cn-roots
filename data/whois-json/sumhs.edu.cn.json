@@ -1,0 +1,24 @@
+{
+  "root_domain": "sumhs.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai University of Medicine & Health Sciences",
+  "org_cn": null,
+  "domain_name": "SUMHS.EDU.CN",
+  "network_name": "SMIC-CN",
+  "admin_contact": "Li Wang (LW72-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sumhs.edu.cn",
+      "ip": "219.228.48.2"
+    },
+    {
+      "host": "dns2.sumhs.edu.cn",
+      "ip": "219.228.48.15"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201318",
+    "China"
+  ],
+  "raw_note": null
+}

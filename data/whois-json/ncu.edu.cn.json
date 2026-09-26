@@ -1,0 +1,28 @@
+{
+  "root_domain": "ncu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanchang University",
+  "org_cn": null,
+  "domain_name": "NCU.EDU.CN",
+  "network_name": "NCU-CN",
+  "admin_contact": "Chuanjie Zhan (CZ6-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.NCU.EDU.CN",
+      "ip": "210.35.240.2"
+    },
+    {
+      "host": "DNS2.NCU.EDU.CN",
+      "ip": "222.204.2.20"
+    },
+    {
+      "host": "NS3.NCU.EDU.CN",
+      "ip": "218.64.56.8"
+    }
+  ],
+  "address": [
+    "Nanchang, JX 330029",
+    "China"
+  ],
+  "raw_note": null
+}

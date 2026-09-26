@@ -1,0 +1,24 @@
+{
+  "root_domain": "dac.edu.cn",
+  "type": "full_record",
+  "org_en": "DaLian Art College",
+  "org_cn": null,
+  "domain_name": "DAC.EDU.CN",
+  "network_name": "DLAVC-CN",
+  "admin_contact": "Fuyue Zhang (FZ18-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116600",
+    "China"
+  ],
+  "raw_note": null
+}

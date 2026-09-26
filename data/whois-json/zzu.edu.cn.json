@@ -1,0 +1,32 @@
+{
+  "root_domain": "zzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhengzhou University",
+  "org_cn": null,
+  "domain_name": "ZZU.EDU.CN",
+  "network_name": "ZZU-CN",
+  "admin_contact": "Zijiao Zhang (ZZ60-CER)",
+  "nameservers": [
+    {
+      "host": "dns.zzu.edu.cn",
+      "ip": "202.196.64.27"
+    },
+    {
+      "host": "dns2.zzu.edu.cn",
+      "ip": "202.196.64.36"
+    },
+    {
+      "host": "dnsv6.zzu.edu.cn",
+      "ip": "2001:da8:5000:6c00::7"
+    },
+    {
+      "host": "dnsv62.zzu.edu.cn",
+      "ip": "2001:da8:5000:6c00::8"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450001",
+    "China"
+  ],
+  "raw_note": null
+}

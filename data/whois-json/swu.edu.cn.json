@@ -1,0 +1,24 @@
+{
+  "root_domain": "swu.edu.cn",
+  "type": "full_record",
+  "org_en": "SouthWest University",
+  "org_cn": null,
+  "domain_name": "SWU.EDU.CN",
+  "network_name": "SWNU-CN",
+  "admin_contact": "Min Zhou (MZ10-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.swu.edu.cn",
+      "ip": "202.202.96.33"
+    },
+    {
+      "host": "dns2.swu.edu.cn",
+      "ip": "202.202.96.34"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400715",
+    "China"
+  ],
+  "raw_note": null
+}

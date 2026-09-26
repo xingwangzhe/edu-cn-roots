@@ -1,0 +1,24 @@
+{
+  "root_domain": "xaut.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an University of Technology",
+  "org_cn": null,
+  "domain_name": "XAUT.EDU.CN",
+  "network_name": "XAUT-CN",
+  "admin_contact": "Chao Yang (CY47-CER)",
+  "nameservers": [
+    {
+      "host": "xlg.xaut.edu.cn",
+      "ip": "202.200.112.2"
+    },
+    {
+      "host": "dns.xanet.edu.cn",
+      "ip": "202.112.11.130"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710048",
+    "China"
+  ],
+  "raw_note": null
+}

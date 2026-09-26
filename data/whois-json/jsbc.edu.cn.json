@@ -1,0 +1,28 @@
+{
+  "root_domain": "jsbc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Vocational College of Business",
+  "org_cn": null,
+  "domain_name": "JSBC.EDU.CN",
+  "network_name": "NTSSM-CN",
+  "admin_contact": "Jianjun Chen (JC26-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JSBC.EDU.CN",
+      "ip": "202.112.23.100"
+    },
+    {
+      "host": "DNS2.JSBC.EDU.CN",
+      "ip": "202.112.23.101"
+    },
+    {
+      "host": "DNS3.JSBC.EDU.CN",
+      "ip": "2001:Da8:1000::1"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226011",
+    "China"
+  ],
+  "raw_note": null
+}

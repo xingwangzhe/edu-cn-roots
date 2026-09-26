@@ -1,0 +1,24 @@
+{
+  "root_domain": "stiei.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Technical Institute of Electronics & Information",
+  "org_cn": null,
+  "domain_name": "STIEI.EDU.CN",
+  "network_name": "SHEIVC-CN",
+  "admin_contact": "Fan Lan (FL24-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.stiei.edu.cn",
+      "ip": "219.228.171.11"
+    },
+    {
+      "host": "dns2.stiei.edu.cn",
+      "ip": "222.72.145.137"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201411",
+    "China"
+  ],
+  "raw_note": null
+}

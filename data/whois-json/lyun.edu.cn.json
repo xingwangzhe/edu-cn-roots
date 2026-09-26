@@ -1,0 +1,24 @@
+{
+  "root_domain": "lyun.edu.cn",
+  "type": "full_record",
+  "org_en": "Longyan College",
+  "org_cn": null,
+  "domain_name": "LYUN.EDU.CN",
+  "network_name": "LYUN-CN",
+  "admin_contact": "Hanming Li (HL32-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lyun.edu.cn",
+      "ip": "218.193.32.1"
+    },
+    {
+      "host": "dns2.lyun.edu.cn",
+      "ip": "218.193.32.8"
+    }
+  ],
+  "address": [
+    "Longyan, FJ 364000",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "gztzy.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangzhou Sports Training and Technical College",
+  "org_cn": null,
+  "domain_name": "GZTZY.EDU.CN",
+  "network_name": "GZWLTX-CN",
+  "admin_contact": "Cong Zou (CZ66-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gztzy.edu.cn",
+      "ip": "211.66.209.33"
+    },
+    {
+      "host": "dns2.gztzy.edu.cn",
+      "ip": "121.8.99.244"
+    }
+  ],
+  "address": [
+    "GuangZhou, GD 510650",
+    "China"
+  ],
+  "raw_note": null
+}

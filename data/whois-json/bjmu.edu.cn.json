@@ -1,0 +1,24 @@
+{
+  "root_domain": "bjmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Peking University Health Science Center",
+  "org_cn": null,
+  "domain_name": "BJMU.EDU.CN",
+  "network_name": "BJMU-CN",
+  "admin_contact": "Shibin Song (SS16-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.BJMU.EDU.CN",
+      "ip": "202.112.176.2"
+    },
+    {
+      "host": "INDY.BJMU.EDU.CN",
+      "ip": "202.112.176.3"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

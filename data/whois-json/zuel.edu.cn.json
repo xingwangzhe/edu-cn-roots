@@ -1,0 +1,28 @@
+{
+  "root_domain": "zuel.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhongnan University of Economics and Law",
+  "org_cn": null,
+  "domain_name": "ZUEL.EDU.CN",
+  "network_name": "ZNUFE-CN",
+  "admin_contact": "Ke Li (KL6-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.zuel.edu.cn",
+      "ip": "202.114.224.1"
+    },
+    {
+      "host": "ns2.zuel.edu.cn",
+      "ip": "202.114.224.2"
+    },
+    {
+      "host": "ns3.zuel.edu.cn",
+      "ip": "202.114.234.1"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430073",
+    "China"
+  ],
+  "raw_note": null
+}

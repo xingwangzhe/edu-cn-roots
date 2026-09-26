@@ -1,0 +1,24 @@
+{
+  "root_domain": "jxut.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangxi University of Technology",
+  "org_cn": null,
+  "domain_name": "JXUT.EDU.CN",
+  "network_name": "BLUESKY-CN",
+  "admin_contact": "Lixin Lin (LL8-CER)",
+  "nameservers": [
+    {
+      "host": "dns2.jxut.edu.cn",
+      "ip": "210.35.172.2"
+    },
+    {
+      "host": "dns3.jxut.edu.cn",
+      "ip": "111.75.206.2"
+    }
+  ],
+  "address": [
+    "nanchang, JX 330098",
+    "China"
+  ],
+  "raw_note": null
+}

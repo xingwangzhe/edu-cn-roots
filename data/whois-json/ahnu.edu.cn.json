@@ -1,0 +1,24 @@
+{
+  "root_domain": "ahnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Normal University",
+  "org_cn": null,
+  "domain_name": "AHNU.EDU.CN",
+  "network_name": "AHNU-CN",
+  "admin_contact": "Shisong Li (SL64-CER)",
+  "nameservers": [
+    {
+      "host": "PNSAHNU.AHNU.EDU.CN",
+      "ip": "210.45.192.25"
+    },
+    {
+      "host": "SNSAHNU.AHNU.EDU.CN",
+      "ip": "210.45.192.26"
+    }
+  ],
+  "address": [
+    "Wuhu, AH 241000",
+    "China"
+  ],
+  "raw_note": null
+}

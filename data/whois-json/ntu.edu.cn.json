@@ -1,0 +1,24 @@
+{
+  "root_domain": "ntu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nantong University",
+  "org_cn": null,
+  "domain_name": "NTU.EDU.CN",
+  "network_name": "NTTC-CN",
+  "admin_contact": "Lu Hua (LH46-CER)",
+  "nameservers": [
+    {
+      "host": "dragon.ntu.edu.cn",
+      "ip": "210.29.64.28"
+    },
+    {
+      "host": "phoenix.ntu.edu.cn",
+      "ip": "210.29.64.26"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226007",
+    "China"
+  ],
+  "raw_note": null
+}

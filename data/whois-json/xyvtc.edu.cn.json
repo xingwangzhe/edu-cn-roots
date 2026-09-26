@@ -1,0 +1,24 @@
+{
+  "root_domain": "xyvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinyang Vocational and Technical College",
+  "org_cn": null,
+  "domain_name": "XYVTC.EDU.CN",
+  "network_name": "XYVTC-CN",
+  "admin_contact": "Xiangyang Xu (XX19-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xyvtc.edu.cn",
+      "ip": "125.219.116.8"
+    },
+    {
+      "host": "dns2.xyvtc.edu.cn",
+      "ip": "125.219.116.18"
+    }
+  ],
+  "address": [
+    "Xinyang, HA 464000",
+    "China"
+  ],
+  "raw_note": null
+}

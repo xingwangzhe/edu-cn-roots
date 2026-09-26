@@ -1,0 +1,28 @@
+{
+  "root_domain": "dlu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian University",
+  "org_cn": null,
+  "domain_name": "DLU.EDU.CN",
+  "network_name": "DLU-CN",
+  "admin_contact": "Xiaogeng Wang (XW18-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.DLU.EDU.CN",
+      "ip": "202.199.158.8"
+    },
+    {
+      "host": "DNS1.DLU.EDU.CN",
+      "ip": "202.199.158.9"
+    },
+    {
+      "host": "DNS2.DLU.EDU.CN",
+      "ip": "59.46.171.189"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116622",
+    "China"
+  ],
+  "raw_note": null
+}

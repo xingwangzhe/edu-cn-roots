@@ -1,0 +1,24 @@
+{
+  "root_domain": "lhvtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Luohe Vocational & Technical College",
+  "org_cn": null,
+  "domain_name": "LHVTC.EDU.CN",
+  "network_name": "LHVTC-CN",
+  "admin_contact": "Xueji Li (XL41-CER)",
+  "nameservers": [
+    {
+      "host": "dns.lhvtc.edu.cn",
+      "ip": "222.21.160.8"
+    },
+    {
+      "host": "dns2.lhvtc.edu.cn",
+      "ip": "222.21.160.18"
+    }
+  ],
+  "address": [
+    "Luohe, HA 462000",
+    "China"
+  ],
+  "raw_note": null
+}

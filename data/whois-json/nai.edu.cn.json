@@ -1,0 +1,28 @@
+{
+  "root_domain": "nai.edu.cn",
+  "type": "full_record",
+  "org_en": "National Accounting Institute",
+  "org_cn": null,
+  "domain_name": "NAI.EDU.CN",
+  "network_name": "NAI-CN",
+  "admin_contact": "Shulan An (SA1-CER)",
+  "nameservers": [
+    {
+      "host": "3dns2.nai.edu.cn",
+      "ip": "211.71.37.3"
+    },
+    {
+      "host": "3dns.nai.edu.cn",
+      "ip": "60.195.218.3"
+    },
+    {
+      "host": "3dns3.nai.edu.cn",
+      "ip": "202.108.76.131"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 101312",
+    "China"
+  ],
+  "raw_note": null
+}

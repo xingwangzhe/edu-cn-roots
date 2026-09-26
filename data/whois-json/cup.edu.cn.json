@@ -1,0 +1,24 @@
+{
+  "root_domain": "cup.edu.cn",
+  "type": "full_record",
+  "org_en": "China University of Petroleum - Beijing",
+  "org_cn": null,
+  "domain_name": "CUP.EDU.CN",
+  "network_name": "BJPEU-CN",
+  "admin_contact": "LiLe Wu (LW2-CER)",
+  "nameservers": [
+    {
+      "host": "dmn1.cup.edu.cn",
+      "ip": "202.204.192.1"
+    },
+    {
+      "host": "dmn2.cup.edu.cn",
+      "ip": "202.204.193.1"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102249",
+    "China"
+  ],
+  "raw_note": null
+}

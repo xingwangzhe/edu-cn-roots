@@ -1,0 +1,20 @@
+{
+  "root_domain": "syphu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang Pharmaceutical University",
+  "org_cn": null,
+  "domain_name": "SYPHU.EDU.CN",
+  "network_name": "SYPHU-CN",
+  "admin_contact": "Yunfei Zhao (YZ153-CER)",
+  "nameservers": [
+    {
+      "host": "SYPUWEB.SYPHU.EDU.CN",
+      "ip": "202.199.80.1"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110015",
+    "China"
+  ],
+  "raw_note": null
+}

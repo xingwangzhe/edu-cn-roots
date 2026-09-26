@@ -1,0 +1,24 @@
+{
+  "root_domain": "zucc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang University City College",
+  "org_cn": null,
+  "domain_name": "ZUCC.EDU.CN",
+  "network_name": "ZUCC-CN",
+  "admin_contact": "Chen Huang (CH40-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ZUCC.EDU.CN",
+      "ip": "210.32.64.8"
+    },
+    {
+      "host": "DNSSE.ZUCC.EDU.CN",
+      "ip": "210.32.64.9"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310015",
+    "China"
+  ],
+  "raw_note": null
+}

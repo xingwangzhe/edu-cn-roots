@@ -1,0 +1,24 @@
+{
+  "root_domain": "hmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hangzhou Medical College",
+  "org_cn": null,
+  "domain_name": "HMC.EDU.CN",
+  "network_name": "ZHJMC-CN",
+  "admin_contact": "Yang Yang (YY66-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hmc.edu.cn",
+      "ip": "59.79.136.6"
+    },
+    {
+      "host": "dns2.hmc.edu.cn",
+      "ip": "101.68.80.6"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310053",
+    "China"
+  ],
+  "raw_note": null
+}

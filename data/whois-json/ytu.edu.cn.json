@@ -1,0 +1,24 @@
+{
+  "root_domain": "ytu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yantai University",
+  "org_cn": null,
+  "domain_name": "YTU.EDU.CN",
+  "network_name": "YTU-CN",
+  "admin_contact": "Chuangcun Wang (CW7-CN)",
+  "nameservers": [
+    {
+      "host": "dns.ytu.edu.cn",
+      "ip": "202.194.116.66"
+    },
+    {
+      "host": "sea.ytu.edu.cn",
+      "ip": "202.194.116.88"
+    }
+  ],
+  "address": [
+    "Yantai, SD 264005",
+    "China"
+  ],
+  "raw_note": null
+}

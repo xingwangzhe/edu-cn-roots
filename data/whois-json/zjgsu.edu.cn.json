@@ -1,0 +1,28 @@
+{
+  "root_domain": "zjgsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Gongshang University",
+  "org_cn": null,
+  "domain_name": "ZJGSU.EDU.CN",
+  "network_name": "HZIC-CN",
+  "admin_contact": "Wuling Ren (WR3-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.ZJGSU.EDU.CN",
+      "ip": "210.33.88.1"
+    },
+    {
+      "host": "DNS2.ZJGSU.EDU.CN",
+      "ip": "210.33.88.2"
+    },
+    {
+      "host": "DNS3.ZJGSU.EDU.CN",
+      "ip": "210.33.88.1"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310035",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "ouc.edu.cn",
+  "type": "full_record",
+  "org_en": "Ocean University of China",
+  "org_cn": null,
+  "domain_name": "OUC.EDU.CN",
+  "network_name": "OUQDB-CN",
+  "admin_contact": "Yongjun Deng (YD10-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.OUC.EDU.CN",
+      "ip": "211.64.142.16"
+    },
+    {
+      "host": "DNS2.OUC.EDU.CN",
+      "ip": "211.64.142.17"
+    },
+    {
+      "host": "DNS3.OUC.EDU.CN",
+      "ip": "211.64.144.130"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266003",
+    "China"
+  ],
+  "raw_note": null
+}

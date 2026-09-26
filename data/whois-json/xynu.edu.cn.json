@@ -1,0 +1,24 @@
+{
+  "root_domain": "xynu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinyang Normal University",
+  "org_cn": null,
+  "domain_name": "XYNU.EDU.CN",
+  "network_name": "XYTC-CN",
+  "admin_contact": "Li Guoliang (LG4-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xynu.edu.cn",
+      "ip": "210.43.24.2"
+    },
+    {
+      "host": "dns2.xynu.edu.cn",
+      "ip": "210.43.24.3"
+    }
+  ],
+  "address": [
+    "Xinyang, HA 464000",
+    "China"
+  ],
+  "raw_note": null
+}

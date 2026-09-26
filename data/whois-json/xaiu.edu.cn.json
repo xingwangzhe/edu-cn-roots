@@ -1,0 +1,32 @@
+{
+  "root_domain": "xaiu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an International University",
+  "org_cn": null,
+  "domain_name": "XAIU.EDU.CN",
+  "network_name": "XAWS-CN",
+  "admin_contact": "Xuhui Zhang (XZ146-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xaiu.edu.cn",
+      "ip": "59.74.112.8"
+    },
+    {
+      "host": "dns2.xaiu.edu.cn",
+      "ip": "59.74.112.9"
+    },
+    {
+      "host": "dns3.xaiu.edu.cn",
+      "ip": "117.35.159.131"
+    },
+    {
+      "host": "dns4.xaiu.edu.cn",
+      "ip": "124.115.219.179"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710077",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "xafa.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Academy of Fine Arts",
+  "org_cn": null,
+  "domain_name": "XAFA.EDU.CN",
+  "network_name": "XAFA-CN",
+  "admin_contact": "Yalan Li (YL38-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xafa.edu.cn",
+      "ip": "218.195.23.205"
+    },
+    {
+      "host": "dnsb.xafa.edu.cn",
+      "ip": "218.195.23.210"
+    },
+    {
+      "host": "dnsc.xafa.edu.cn",
+      "ip": "113.200.50.118"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710065",
+    "China"
+  ],
+  "raw_note": null
+}

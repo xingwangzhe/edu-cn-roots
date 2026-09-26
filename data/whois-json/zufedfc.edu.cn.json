@@ -1,0 +1,28 @@
+{
+  "root_domain": "zufedfc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang University of Finance & Economics Dongfang College",
+  "org_cn": null,
+  "domain_name": "ZUFEDFC.EDU.CN",
+  "network_name": "ZUFEDFC-CN",
+  "admin_contact": "Yong Yang (YY63-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.zufedfc.edu.cn",
+      "ip": "122.225.78.20"
+    },
+    {
+      "host": "dns2.zufedfc.edu.cn",
+      "ip": "121.192.60.20"
+    },
+    {
+      "host": "dns3.zufedfc.edu.cn",
+      "ip": "112.11.131.40"
+    }
+  ],
+  "address": [
+    "Haining, ZJ 314408",
+    "China"
+  ],
+  "raw_note": null
+}

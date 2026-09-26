@@ -1,0 +1,24 @@
+{
+  "root_domain": "xjnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xinjiang Normal University",
+  "org_cn": null,
+  "domain_name": "XJNU.EDU.CN",
+  "network_name": "XJNU-CN",
+  "admin_contact": "Jun Zhang (JZ95-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xjnu.edu.cn",
+      "ip": "218.195.208.65"
+    },
+    {
+      "host": "dnsb1.xjnu.edu.cn",
+      "ip": "218.195.208.66"
+    }
+  ],
+  "address": [
+    "Urumqi, XJ 830054",
+    "China"
+  ],
+  "raw_note": null
+}

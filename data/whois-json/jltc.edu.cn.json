@@ -1,0 +1,24 @@
+{
+  "root_domain": "jltc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin Technology College of Electronic Information",
+  "org_cn": null,
+  "domain_name": "JLTC.EDU.CN",
+  "network_name": "JLTCEI-CN",
+  "admin_contact": "Xiaofei Jia (XJ20-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jltc.edu.cn",
+      "ip": "219.217.72.13"
+    },
+    {
+      "host": "dns2.jltc.edu.cn",
+      "ip": "219.217.72.3"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130117",
+    "China"
+  ],
+  "raw_note": null
+}

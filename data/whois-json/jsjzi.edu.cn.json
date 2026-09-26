@@ -1,0 +1,24 @@
+{
+  "root_domain": "jsjzi.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu University of Architectural Technology",
+  "org_cn": null,
+  "domain_name": "JSJZI.EDU.CN",
+  "network_name": "XZCAT-CN",
+  "admin_contact": "Wu Zhaoli (WZ74-CER)",
+  "nameservers": [
+    {
+      "host": "XJY1.JSJZI.EDU.CN",
+      "ip": "211.70.248.1"
+    },
+    {
+      "host": "XJY2.JSJZI.EDU.CN",
+      "ip": "211.70.248.2"
+    }
+  ],
+  "address": [
+    "Xuzhou, JS 221116",
+    "China"
+  ],
+  "raw_note": null
+}

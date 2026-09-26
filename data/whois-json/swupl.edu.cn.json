@@ -1,0 +1,24 @@
+{
+  "root_domain": "swupl.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest University of Political Science and Law",
+  "org_cn": null,
+  "domain_name": "SWUPL.EDU.CN",
+  "network_name": "SWUPL-CN",
+  "admin_contact": "Minghua Fu (MF1-CN)",
+  "nameservers": [
+    {
+      "host": "pridns.swupl.edu.cn",
+      "ip": "202.202.80.33"
+    },
+    {
+      "host": "secdns.swupl.edu.cn",
+      "ip": "202.202.80.34"
+    }
+  ],
+  "address": [
+    "Chongqing, SC 630031",
+    "China"
+  ],
+  "raw_note": null
+}

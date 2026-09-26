@@ -1,0 +1,24 @@
+{
+  "root_domain": "gcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangzhou City University of Technology",
+  "org_cn": null,
+  "domain_name": "GCU.EDU.CN",
+  "network_name": "GZAUTO-CN",
+  "admin_contact": "Shi Pan (SP1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gcu.edu.cn",
+      "ip": "125.216.144.3"
+    },
+    {
+      "host": "dns2.gcu.edu.cn",
+      "ip": "120.236.147.3"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510800",
+    "China"
+  ],
+  "raw_note": null
+}

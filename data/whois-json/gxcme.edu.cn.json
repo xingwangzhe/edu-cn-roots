@@ -1,0 +1,24 @@
+{
+  "root_domain": "gxcme.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangxi Technological College of Machinery and Electricity",
+  "org_cn": null,
+  "domain_name": "GXCME.EDU.CN",
+  "network_name": "GXCME-CN",
+  "admin_contact": "Qiguo Li (QL67-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.gxcme.edu.cn",
+      "ip": "210.36.158.180"
+    },
+    {
+      "host": "ns2.gxcme.edu.cn",
+      "ip": "210.36.158.181"
+    }
+  ],
+  "address": [
+    "NanNing, GX 530007",
+    "China"
+  ],
+  "raw_note": null
+}

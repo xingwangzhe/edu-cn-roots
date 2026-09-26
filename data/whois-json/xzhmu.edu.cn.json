@@ -1,0 +1,32 @@
+{
+  "root_domain": "xzhmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Xuzhou Medical University",
+  "org_cn": null,
+  "domain_name": "XZHMU.EDU.CN",
+  "network_name": "XZMCB-CN",
+  "admin_contact": "Jian Li (JL179-CER)",
+  "nameservers": [
+    {
+      "host": "ns.xzhmu.edu.cn",
+      "ip": "223.2.183.66"
+    },
+    {
+      "host": "ct.xzhmu.edu.cn",
+      "ip": "49.81.52.66"
+    },
+    {
+      "host": "cm.xzhmu.edu.cn",
+      "ip": "223.108.106.66"
+    },
+    {
+      "host": "cu.xzhmu.edu.cn",
+      "ip": "112.85.255.66"
+    }
+  ],
+  "address": [
+    "XuZhou, JS 221004",
+    "China"
+  ],
+  "raw_note": null
+}

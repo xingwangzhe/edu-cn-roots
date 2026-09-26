@@ -1,0 +1,24 @@
+{
+  "root_domain": "bucmdf.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing University of Chinese Medicine Dongfang College",
+  "org_cn": null,
+  "domain_name": "BUCMDF.EDU.CN",
+  "network_name": "BJCMDC-CN",
+  "admin_contact": "Xiangjun Han (XH38-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Langfang, HE 065001",
+    "China"
+  ],
+  "raw_note": null
+}

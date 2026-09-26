@@ -1,0 +1,28 @@
+{
+  "root_domain": "cmc.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu Medical College",
+  "org_cn": null,
+  "domain_name": "CMC.EDU.CN",
+  "network_name": "CHDMC-CN",
+  "admin_contact": "Yu Ren (YR1-CER)",
+  "nameservers": [
+    {
+      "host": "dns.cmc.edu.cn",
+      "ip": "222.197.128.5"
+    },
+    {
+      "host": "dns1.cmc.edu.cn",
+      "ip": "222.197.128.66"
+    },
+    {
+      "host": "dns2.cmc.edu.cn",
+      "ip": "222.197.128.130"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610083",
+    "China"
+  ],
+  "raw_note": null
+}

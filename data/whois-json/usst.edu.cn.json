@@ -1,0 +1,24 @@
+{
+  "root_domain": "usst.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Shanghai for Science and Technology",
+  "org_cn": null,
+  "domain_name": "USST.EDU.CN",
+  "network_name": "USST-CN",
+  "admin_contact": "Shufeng Zhao (SZ62-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.usst.edu.cn",
+      "ip": "202.120.223.6"
+    },
+    {
+      "host": "dns2.usst.edu.cn",
+      "ip": "202.120.223.5"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200093",
+    "China"
+  ],
+  "raw_note": null
+}

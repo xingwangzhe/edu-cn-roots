@@ -1,0 +1,24 @@
+{
+  "root_domain": "hbgy.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Vocational College of Labour Relations",
+  "org_cn": null,
+  "domain_name": "HBGY.EDU.CN",
+  "network_name": "HBGY-CN",
+  "admin_contact": "Yongjun Li (YL31-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050091",
+    "China"
+  ],
+  "raw_note": null
+}

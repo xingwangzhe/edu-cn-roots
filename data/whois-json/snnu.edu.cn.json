@@ -1,0 +1,24 @@
+{
+  "root_domain": "snnu.edu.cn",
+  "type": "full_record",
+  "org_en": "ShannXi Normal University",
+  "org_cn": null,
+  "domain_name": "SNNU.EDU.CN",
+  "network_name": "SSTU-CN",
+  "admin_contact": "Weisheng Yu (WY3-CN)",
+  "nameservers": [
+    {
+      "host": "dns.snnu.edu.cn",
+      "ip": "202.117.144.2"
+    },
+    {
+      "host": "dns1.snnu.edu.cn",
+      "ip": "202.117.145.2"
+    }
+  ],
+  "address": [
+    "XiAn, SN 710062",
+    "China"
+  ],
+  "raw_note": null
+}

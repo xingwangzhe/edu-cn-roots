@@ -1,0 +1,28 @@
+{
+  "root_domain": "jse.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Electrical Technology Education Center",
+  "org_cn": null,
+  "domain_name": "JSE.EDU.CN",
+  "network_name": "JSETEC-CN",
+  "admin_contact": "Xiaofeng Xu (XX27-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JSE.EDU.CN",
+      "ip": "202.119.133.1"
+    },
+    {
+      "host": "DNS2.JSE.EDU.CN",
+      "ip": "58.213.155.162"
+    },
+    {
+      "host": "DNS3.JSE.EDU.CN",
+      "ip": "2001:da8:102e:1000::10"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210013",
+    "China"
+  ],
+  "raw_note": null
+}

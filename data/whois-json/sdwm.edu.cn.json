@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdwm.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Foreign Trade Vocational College",
+  "org_cn": null,
+  "domain_name": "SDWM.EDU.CN",
+  "network_name": "SDFTVC-CN",
+  "admin_contact": "Wen Zhang (WZ62-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sdwm.edu.cn",
+      "ip": "222.207.144.1"
+    },
+    {
+      "host": "dns2.sdwm.edu.cn",
+      "ip": "222.207.144.2"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266071",
+    "China"
+  ],
+  "raw_note": null
+}

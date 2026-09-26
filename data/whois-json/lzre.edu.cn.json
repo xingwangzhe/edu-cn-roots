@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzre.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou Resources&Envirsonment Voc-Tech College",
+  "org_cn": null,
+  "domain_name": "LZRE.EDU.CN",
+  "network_name": "LZREC-CN",
+  "admin_contact": "Runlong Gu (RG6-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.lzre.edu.cn",
+      "ip": "59.76.143.6"
+    },
+    {
+      "host": "dns2.lzre.edu.cn",
+      "ip": "202.201.89.131"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730021",
+    "China"
+  ],
+  "raw_note": null
+}

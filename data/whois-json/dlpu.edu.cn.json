@@ -1,0 +1,24 @@
+{
+  "root_domain": "dlpu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian Polytechnic University",
+  "org_cn": null,
+  "domain_name": "DLPU.EDU.CN",
+  "network_name": "DLILI-CN",
+  "admin_contact": "Pitao Yan (PY9-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.DLPU.EDU.CN",
+      "ip": "210.30.48.8"
+    },
+    {
+      "host": "NS2.DLPU.EDU.CN",
+      "ip": "210.30.48.7"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116034",
+    "China"
+  ],
+  "raw_note": null
+}

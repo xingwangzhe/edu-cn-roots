@@ -1,0 +1,24 @@
+{
+  "root_domain": "hufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan University Of Finance And Economics",
+  "org_cn": null,
+  "domain_name": "HUFE.EDU.CN",
+  "network_name": "HNCZ-CN",
+  "admin_contact": "Suo Tan (ST8-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hufe.edu.cn",
+      "ip": "59.71.96.8"
+    },
+    {
+      "host": "dns2.hufe.edu.cn",
+      "ip": "59.71.96.9"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410205",
+    "China"
+  ],
+  "raw_note": null
+}

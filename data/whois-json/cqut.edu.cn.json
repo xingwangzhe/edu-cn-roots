@@ -1,0 +1,36 @@
+{
+  "root_domain": "cqut.edu.cn",
+  "type": "full_record",
+  "org_en": "Chongqing University of Technology",
+  "org_cn": null,
+  "domain_name": "CQUT.EDU.CN",
+  "network_name": "CQIIM-CN",
+  "admin_contact": "Yahui He (YH89-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cqut.edu.cn",
+      "ip": "202.202.145.5"
+    },
+    {
+      "host": "dns2.cqut.edu.cn",
+      "ip": "202.202.145.6"
+    },
+    {
+      "host": "dns3.cqut.edu.cn",
+      "ip": "222.178.158.5"
+    },
+    {
+      "host": "dns4.cqut.edu.cn",
+      "ip": "222.178.158.6"
+    },
+    {
+      "host": "dns5.cqut.edu.cn",
+      "ip": "183.230.242.5"
+    }
+  ],
+  "address": [
+    "Chongqing, CQ 400054",
+    "China"
+  ],
+  "raw_note": null
+}

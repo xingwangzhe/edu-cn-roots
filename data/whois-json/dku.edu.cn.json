@@ -1,0 +1,28 @@
+{
+  "root_domain": "dku.edu.cn",
+  "type": "full_record",
+  "org_en": "Duke Kunshan University",
+  "org_cn": null,
+  "domain_name": "DKU.EDU.CN",
+  "network_name": "DKGCK-CN",
+  "admin_contact": "Robert Johnson (RJ6-CER)",
+  "nameservers": [
+    {
+      "host": "dns-dku-01.dku.edu.cn",
+      "ip": "180.208.59.131"
+    },
+    {
+      "host": "dns-dku-02.dku.edu.cn",
+      "ip": "180.208.59.132"
+    },
+    {
+      "host": "dns-auth-01.oit.duke.edu",
+      "ip": "152.3.103.93"
+    }
+  ],
+  "address": [
+    "Kunshan, JS 215316",
+    "China"
+  ],
+  "raw_note": null
+}

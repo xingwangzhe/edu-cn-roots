@@ -1,0 +1,20 @@
+{
+  "root_domain": "cyu.edu.cn",
+  "type": "full_record",
+  "org_en": "China Youth University for Political Sciences",
+  "org_cn": null,
+  "domain_name": "CYU.EDU.CN",
+  "network_name": "CYC-CN",
+  "admin_contact": "Feng Cui (FC2-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.CYU.EDU.CN",
+      "ip": "210.31.160.7"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100089",
+    "China"
+  ],
+  "raw_note": null
+}

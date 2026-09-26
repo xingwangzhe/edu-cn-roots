@@ -1,0 +1,28 @@
+{
+  "root_domain": "cczu.edu.cn",
+  "type": "full_record",
+  "org_en": "Changzhou University",
+  "org_cn": null,
+  "domain_name": "CCZU.EDU.CN",
+  "network_name": "JSPUB-CN",
+  "admin_contact": "Yanwei Fu (YF9-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.CCZU.EDU.CN",
+      "ip": "211.65.64.65"
+    },
+    {
+      "host": "LIB1.CCZU.EDU.CN",
+      "ip": "211.65.66.65"
+    },
+    {
+      "host": "LIB2.CCZU.EDU.CN",
+      "ip": "222.185.140.131"
+    }
+  ],
+  "address": [
+    "Changzhou, JS 213016",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjutcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin College Of Traditional Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "TJUTCM.EDU.CN",
+  "network_name": "TJTCM-CN",
+  "admin_contact": "Ergang Xiao (EX1-CER)",
+  "nameservers": [
+    {
+      "host": "PRIDNS.TJUTCM.EDU.CN",
+      "ip": "202.113.168.10"
+    },
+    {
+      "host": "SNDDNS.TJUTCM.EDU.CN",
+      "ip": "202.113.168.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300193",
+    "China"
+  ],
+  "raw_note": null
+}

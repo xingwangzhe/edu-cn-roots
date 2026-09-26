@@ -1,0 +1,32 @@
+{
+  "root_domain": "fjny.edu.cn",
+  "type": "full_record",
+  "org_en": "Fujian Vocational College Of Agriculture",
+  "org_cn": null,
+  "domain_name": "FJNY.EDU.CN",
+  "network_name": "FVCA-CN",
+  "admin_contact": "Wanhong Chen (WC52-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fjny.edu.cn",
+      "ip": "42.247.11.66"
+    },
+    {
+      "host": "dns2.fjny.edu.cn",
+      "ip": "42.247.11.67"
+    },
+    {
+      "host": "dns3.fjny.edu.cn",
+      "ip": "27.151.113.131"
+    },
+    {
+      "host": "dns4.fjny.edu.cn",
+      "ip": "112.111.61.211"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350000",
+    "China"
+  ],
+  "raw_note": null
+}

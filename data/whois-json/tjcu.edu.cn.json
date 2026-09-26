@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University of Commerce",
+  "org_cn": null,
+  "domain_name": "TJCU.EDU.CN",
+  "network_name": "TJCU-CN",
+  "admin_contact": "Desen Qian (DQ2-AP)",
+  "nameservers": [
+    {
+      "host": "ns1.tjcu.edu.cn",
+      "ip": "202.113.80.10"
+    },
+    {
+      "host": "ns2.tjcu.edu.cn",
+      "ip": "202.113.80.20"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300400",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "whu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan University",
+  "org_cn": null,
+  "domain_name": "WHU.EDU.CN",
+  "network_name": "WHU-CN",
+  "admin_contact": "Xueli Guo (XG5-CER)",
+  "nameservers": [
+    {
+      "host": "dns.whu.edu.cn",
+      "ip": "202.114.64.5"
+    },
+    {
+      "host": "wuda.whu.edu.cn",
+      "ip": "202.114.64.35"
+    },
+    {
+      "host": "dns58.whu.edu.cn",
+      "ip": "59.172.178.5"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430072",
+    "China"
+  ],
+  "raw_note": null
+}

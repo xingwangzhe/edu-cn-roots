@@ -1,0 +1,24 @@
+{
+  "root_domain": "njut.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing University Of Technology",
+  "org_cn": null,
+  "domain_name": "NJUT.EDU.CN",
+  "network_name": "NJUCT-CN",
+  "admin_contact": "Ting Li (TL19-CER)",
+  "nameservers": [
+    {
+      "host": "dns.njut.edu.cn",
+      "ip": "202.119.248.64"
+    },
+    {
+      "host": "dns1.njut.edu.cn",
+      "ip": "202.119.248.65"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210009",
+    "China"
+  ],
+  "raw_note": null
+}

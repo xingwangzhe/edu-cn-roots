@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebeu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Engineering University",
+  "org_cn": null,
+  "domain_name": "HEBEU.EDU.CN",
+  "network_name": "HEBIAT-CN",
+  "admin_contact": "Ziyong Zhai (ZZ5-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hebeu.edu.cn",
+      "ip": "202.206.160.10"
+    },
+    {
+      "host": "dns2.hebeu.edu.cn",
+      "ip": "202.206.160.12"
+    }
+  ],
+  "address": [
+    "Handan, HE 056038",
+    "China"
+  ],
+  "raw_note": null
+}

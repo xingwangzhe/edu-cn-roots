@@ -1,0 +1,32 @@
+{
+  "root_domain": "fjut.edu.cn",
+  "type": "full_record",
+  "org_en": "Fujian University of Technology",
+  "org_cn": null,
+  "domain_name": "FJUT.EDU.CN",
+  "network_name": "FJICE-CN",
+  "admin_contact": "Enze Zhuang (EZ2-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fjut.edu.cn",
+      "ip": "211.80.184.1"
+    },
+    {
+      "host": "dns2.fjut.edu.cn",
+      "ip": "59.77.139.1"
+    },
+    {
+      "host": "dns3.fjut.edu.cn",
+      "ip": "2001:250:6804::1"
+    },
+    {
+      "host": "dns4.fjut.edu.cn",
+      "ip": "2001:250:6804::2"
+    }
+  ],
+  "address": [
+    "Fuzhou, FJ 350118",
+    "China"
+  ],
+  "raw_note": null
+}

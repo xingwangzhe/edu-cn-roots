@@ -1,0 +1,24 @@
+{
+  "root_domain": "bibt.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Institute of Business and Technology",
+  "org_cn": null,
+  "domain_name": "BIBT.EDU.CN",
+  "network_name": "BJIBT-CN",
+  "admin_contact": "Yue Li (YL163-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100005",
+    "China"
+  ],
+  "raw_note": null
+}

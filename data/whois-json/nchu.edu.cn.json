@@ -1,0 +1,24 @@
+{
+  "root_domain": "nchu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanchang Hangkong University",
+  "org_cn": null,
+  "domain_name": "NCHU.EDU.CN",
+  "network_name": "NIAT-CN",
+  "admin_contact": "Zhigang Liu (ZL76-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nchu.edu.cn",
+      "ip": "210.35.32.10"
+    },
+    {
+      "host": "dns2.nchu.edu.cn",
+      "ip": "218.65.113.234"
+    }
+  ],
+  "address": [
+    "Nanchang, JX 330063",
+    "China"
+  ],
+  "raw_note": null
+}

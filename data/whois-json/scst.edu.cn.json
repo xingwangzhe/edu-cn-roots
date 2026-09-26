@@ -1,0 +1,28 @@
+{
+  "root_domain": "scst.edu.cn",
+  "type": "full_record",
+  "org_en": "上海科学技术职业学院",
+  "org_cn": null,
+  "domain_name": "SCST.EDU.CN",
+  "network_name": "SVCST-CN",
+  "admin_contact": "Jian Xie (JX62-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.scst.edu.cn",
+      "ip": "58.198.38.8"
+    },
+    {
+      "host": "dns2.scst.edu.cn",
+      "ip": "117.144.93.34"
+    },
+    {
+      "host": "dns3.scst.edu.cn",
+      "ip": "140.207.167.54"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201800",
+    "China"
+  ],
+  "raw_note": null
+}

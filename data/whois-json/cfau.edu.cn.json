@@ -1,0 +1,32 @@
+{
+  "root_domain": "cfau.edu.cn",
+  "type": "full_record",
+  "org_en": "China Foreign Affairs University",
+  "org_cn": null,
+  "domain_name": "CFAU.EDU.CN",
+  "network_name": "FAC-CN",
+  "admin_contact": "Jinfang Li (JL195-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cfau.edu.cn",
+      "ip": "211.68.66.251"
+    },
+    {
+      "host": "dns2.cfau.edu.cn",
+      "ip": "222.28.1.251"
+    },
+    {
+      "host": "dns3.cfau.edu.cn",
+      "ip": "211.68.66.250"
+    },
+    {
+      "host": "dns4.cfau.edu.cn",
+      "ip": "222.28.1.250"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100037",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sxftc.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi Finance & Tax College",
+  "org_cn": null,
+  "domain_name": "SXFTC.EDU.CN",
+  "network_name": "SXFTC-CN",
+  "admin_contact": "Yuanyue Zhang (YZ162-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sxftc.edu.cn",
+      "ip": "211.82.32.32"
+    },
+    {
+      "host": "dns2.sxftc.edu.cn",
+      "ip": "211.82.32.35"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030024",
+    "China"
+  ],
+  "raw_note": null
+}

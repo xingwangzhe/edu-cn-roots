@@ -1,0 +1,32 @@
+{
+  "root_domain": "gdsyzx.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong Experimental Middle School",
+  "org_cn": null,
+  "domain_name": "GDSYZX.EDU.CN",
+  "network_name": "GDEMS-CN",
+  "admin_contact": "Yueming Feng (YF7-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.GDSYZX.EDU.CN",
+      "ip": "211.66.74.1"
+    },
+    {
+      "host": "DNS2.GDSYZX.EDU.CN",
+      "ip": "183.62.11.83"
+    },
+    {
+      "host": "dns3.gdsyzx.edu.cn",
+      "ip": "216.218.131.2"
+    },
+    {
+      "host": "dns4.gdsyzx.edu.cn",
+      "ip": "216.218.132.2"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510055",
+    "China"
+  ],
+  "raw_note": null
+}

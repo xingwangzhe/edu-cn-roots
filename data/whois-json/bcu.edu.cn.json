@@ -1,0 +1,28 @@
+{
+  "root_domain": "bcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing City University",
+  "org_cn": null,
+  "domain_name": "BCU.EDU.CN",
+  "network_name": "HDU-CN",
+  "admin_contact": "Xu Chen (XC57-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.bcu.edu.cn",
+      "ip": "211.68.97.1"
+    },
+    {
+      "host": "dns2.bcu.edu.cn",
+      "ip": "211.68.97.10"
+    },
+    {
+      "host": "dns3.bcu.edu.cn",
+      "ip": "222.249.67.10"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

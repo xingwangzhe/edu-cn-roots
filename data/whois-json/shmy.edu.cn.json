@@ -1,0 +1,24 @@
+{
+  "root_domain": "shmy.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Minyuan Vocational Technical College",
+  "org_cn": null,
+  "domain_name": "SHMY.EDU.CN",
+  "network_name": "SMPI-CN",
+  "admin_contact": "Yongli Wu (YW118-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201210",
+    "China"
+  ],
+  "raw_note": null
+}

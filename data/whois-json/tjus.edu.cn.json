@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjus.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin University of sport",
+  "org_cn": null,
+  "domain_name": "TJUS.EDU.CN",
+  "network_name": "TJIPE-CN",
+  "admin_contact": "Jianping Zhang (JZ16-CER)",
+  "nameservers": [
+    {
+      "host": "HOST1.TJUS.EDU.CN",
+      "ip": "211.68.236.10"
+    },
+    {
+      "host": "HOST2.TJUS.EDU.CN",
+      "ip": "211.68.236.11"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300081",
+    "China"
+  ],
+  "raw_note": null
+}

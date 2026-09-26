@@ -1,0 +1,24 @@
+{
+  "root_domain": "jit.edu.cn",
+  "type": "full_record",
+  "org_en": "Jinling Institute of Technology",
+  "org_cn": null,
+  "domain_name": "JIT.EDU.CN",
+  "network_name": "NJPC-CN",
+  "admin_contact": "Liang Tao (LT8-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.jit.edu.cn",
+      "ip": "210.28.184.1"
+    },
+    {
+      "host": "dns2.jit.edu.cn",
+      "ip": "210.28.184.2"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210001",
+    "China"
+  ],
+  "raw_note": null
+}

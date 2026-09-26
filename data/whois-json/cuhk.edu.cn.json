@@ -1,0 +1,24 @@
+{
+  "root_domain": "cuhk.edu.cn",
+  "type": "full_record",
+  "org_en": "The Chinese University of Hong Kong, Shenzhen",
+  "org_cn": null,
+  "domain_name": "CUHK.EDU.CN",
+  "network_name": "VMA-CN",
+  "admin_contact": "Jerry Liu (JL175-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.cuhk.edu.cn",
+      "ip": "42.247.17.94"
+    },
+    {
+      "host": "ns2.cuhk.edu.cn",
+      "ip": "116.31.95.8"
+    }
+  ],
+  "address": [
+    "Shenzhen, GD 518172",
+    "China"
+  ],
+  "raw_note": null
+}

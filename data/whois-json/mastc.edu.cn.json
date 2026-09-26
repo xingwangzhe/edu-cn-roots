@@ -1,0 +1,24 @@
+{
+  "root_domain": "mastc.edu.cn",
+  "type": "full_record",
+  "org_en": "Maanshan Technology College",
+  "org_cn": null,
+  "domain_name": "MASTC.EDU.CN",
+  "network_name": "MASTC-CN",
+  "admin_contact": "Fei Xu (FX7-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.mastc.edu.cn",
+      "ip": "121.251.56.1"
+    },
+    {
+      "host": "dns2.mastc.edu.cn",
+      "ip": "121.251.56.2"
+    }
+  ],
+  "address": [
+    "Maanshan, AH 243011",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,20 @@
+{
+  "root_domain": "syu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang University",
+  "org_cn": null,
+  "domain_name": "SYU.EDU.CN",
+  "network_name": "SYU-CN",
+  "admin_contact": "Qiang Zhou (QZ40-CER)",
+  "nameservers": [
+    {
+      "host": "SDserver.syu.edu.cn",
+      "ip": "202.199.32.2"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110044",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "gdaib.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong Aib Polytechnic College",
+  "org_cn": null,
+  "domain_name": "GDAIB.EDU.CN",
+  "network_name": "GDAIB-CN",
+  "admin_contact": "Shuguang Yao (SY16-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510507",
+    "China"
+  ],
+  "raw_note": null
+}

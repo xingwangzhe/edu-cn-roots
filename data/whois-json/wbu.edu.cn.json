@@ -1,0 +1,32 @@
+{
+  "root_domain": "wbu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Business University",
+  "org_cn": null,
+  "domain_name": "WBU.EDU.CN",
+  "network_name": "WCSC-CN",
+  "admin_contact": "Zhifeng Hu (ZH39-CER)",
+  "nameservers": [
+    {
+      "host": "dns.wbu.edu.cn",
+      "ip": "218.199.208.8"
+    },
+    {
+      "host": "dns2.wbu.edu.cn",
+      "ip": "218.199.208.18"
+    },
+    {
+      "host": "dns3.wbu.edu.cn",
+      "ip": "183.95.36.38"
+    },
+    {
+      "host": "dns4.wbu.edu.cn",
+      "ip": "183.95.36.39"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430056",
+    "China"
+  ],
+  "raw_note": null
+}

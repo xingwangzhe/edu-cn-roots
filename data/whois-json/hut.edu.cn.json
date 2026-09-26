@@ -1,0 +1,28 @@
+{
+  "root_domain": "hut.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan University of Technology",
+  "org_cn": null,
+  "domain_name": "HUT.EDU.CN",
+  "network_name": "ZHUZIT-CN",
+  "admin_contact": "Xusheng Zhou (XZ57-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hut.edu.cn",
+      "ip": "210.43.248.245"
+    },
+    {
+      "host": "dns2.hut.edu.cn",
+      "ip": "210.43.248.244"
+    },
+    {
+      "host": "dns3.hut.edu.cn",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Zhuzhou, HN 412008",
+    "China"
+  ],
+  "raw_note": null
+}

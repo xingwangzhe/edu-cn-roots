@@ -1,0 +1,28 @@
+{
+  "root_domain": "wdu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Donghu University",
+  "org_cn": null,
+  "domain_name": "WDU.EDU.CN",
+  "network_name": "WDFX-CN",
+  "admin_contact": "Fengjun Li (FL25-CER)",
+  "nameservers": [
+    {
+      "host": "dns.wdu.edu.cn",
+      "ip": "125.220.48.8"
+    },
+    {
+      "host": "dns2.wdu.edu.cn",
+      "ip": "125.220.48.18"
+    },
+    {
+      "host": "dns3.wdu.edu.cn",
+      "ip": "221.232.159.21"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430212",
+    "China"
+  ],
+  "raw_note": null
+}

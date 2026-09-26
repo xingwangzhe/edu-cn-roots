@@ -1,0 +1,24 @@
+{
+  "root_domain": "sdp.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong Polytechnic",
+  "org_cn": null,
+  "domain_name": "SDP.EDU.CN",
+  "network_name": "JNRP-CN",
+  "admin_contact": "Ning Wang (NW4-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.SDP.EDU.CN",
+      "ip": "222.206.160.11"
+    },
+    {
+      "host": "dns2.SDP.EDU.CN",
+      "ip": "60.216.75.158"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250104",
+    "China"
+  ],
+  "raw_note": null
+}

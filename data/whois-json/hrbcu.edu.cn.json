@@ -1,0 +1,24 @@
+{
+  "root_domain": "hrbcu.edu.cn",
+  "type": "full_record",
+  "org_en": "Harbin Commercial University",
+  "org_cn": null,
+  "domain_name": "HRBCU.EDU.CN",
+  "network_name": "HLJCU-CN",
+  "admin_contact": "Bai YiEn (BY4-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HRBCU.EDU.CN",
+      "ip": "210.46.112.8"
+    },
+    {
+      "host": "DNS2.HRBCU.EDU.CN",
+      "ip": "221.212.109.188"
+    }
+  ],
+  "address": [
+    "Harbin, HL 150076",
+    "China"
+  ],
+  "raw_note": null
+}

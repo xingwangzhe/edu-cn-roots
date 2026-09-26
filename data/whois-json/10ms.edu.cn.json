@@ -1,0 +1,24 @@
+{
+  "root_domain": "10ms.edu.cn",
+  "type": "full_record",
+  "org_en": "CERNET CORPORATION",
+  "org_cn": null,
+  "domain_name": "10MS.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Xinman Li (XL76-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hosting.edu.cn",
+      "ip": "121.194.2.51"
+    },
+    {
+      "host": "ns2.hosting.edu.cn",
+      "ip": "121.194.2.55"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100738",
+    "China"
+  ],
+  "raw_note": null
+}

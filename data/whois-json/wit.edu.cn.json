@@ -1,0 +1,24 @@
+{
+  "root_domain": "wit.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Institute of Technology",
+  "org_cn": null,
+  "domain_name": "WIT.EDU.CN",
+  "network_name": "WHICT-CN",
+  "admin_contact": "Jie Chen (JC69-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.wit.edu.cn",
+      "ip": "210.42.24.19"
+    },
+    {
+      "host": "dns2.wit.edu.cn",
+      "ip": "59.172.155.94"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430074",
+    "China"
+  ],
+  "raw_note": null
+}

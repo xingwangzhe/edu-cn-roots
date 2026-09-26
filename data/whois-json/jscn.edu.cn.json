@@ -1,0 +1,24 @@
+{
+  "root_domain": "jscn.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu College Of Nursing",
+  "org_cn": null,
+  "domain_name": "JSCN.EDU.CN",
+  "network_name": "JSNVC-CN",
+  "admin_contact": "YongWang Jiang (YJ38-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JSCN.EDU.CN",
+      "ip": "42.247.23.188"
+    },
+    {
+      "host": "DNS2.JSCN.EDU.CN",
+      "ip": "42.247.23.190"
+    }
+  ],
+  "address": [
+    "Huai'an, JS 223005",
+    "China"
+  ],
+  "raw_note": null
+}

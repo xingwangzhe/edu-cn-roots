@@ -1,0 +1,24 @@
+{
+  "root_domain": "5aaa.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing institute of Science research and Studies",
+  "org_cn": null,
+  "domain_name": "5AAA.EDU.CN",
+  "network_name": "BJSTU-CN",
+  "admin_contact": "Mengkui Zhou (MZ8-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 102206",
+    "China"
+  ],
+  "raw_note": null
+}

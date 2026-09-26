@@ -1,0 +1,24 @@
+{
+  "root_domain": "dgpt.edu.cn",
+  "type": "full_record",
+  "org_en": "Dongguan Polytechnic",
+  "org_cn": null,
+  "domain_name": "DGPT.EDU.CN",
+  "network_name": "DGPTII-CN",
+  "admin_contact": "Jian Tan (JT4-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Dongguan, GD 523808",
+    "China"
+  ],
+  "raw_note": null
+}

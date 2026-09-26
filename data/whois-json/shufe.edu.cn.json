@@ -1,0 +1,24 @@
+{
+  "root_domain": "shufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "SHUFE.EDU.CN",
+  "network_name": "SHUFE-CN",
+  "admin_contact": "Hong Liu (HL11-AP)",
+  "nameservers": [
+    {
+      "host": "SUFE-1.SHUFE.EDU.CN",
+      "ip": "202.121.138.1"
+    },
+    {
+      "host": "STMAIL.SHUFE.EDU.CN",
+      "ip": "202.121.138.5"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200433",
+    "China"
+  ],
+  "raw_note": null
+}

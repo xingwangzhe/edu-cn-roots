@@ -1,0 +1,32 @@
+{
+  "root_domain": "sdufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Shandong University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "SDUFE.EDU.CN",
+  "network_name": "IESD-CN",
+  "admin_contact": "Ke Ma (KM5-CER)",
+  "nameservers": [
+    {
+      "host": "dns.sdufe.edu.cn",
+      "ip": "202.194.240.88"
+    },
+    {
+      "host": "dns2.sdufe.edu.cn",
+      "ip": "202.194.240.89"
+    },
+    {
+      "host": "dns3.sdufe.edu.cn",
+      "ip": "210.44.128.100"
+    },
+    {
+      "host": "dns4.sdufe.edu.cn",
+      "ip": "210.44.128.99"
+    }
+  ],
+  "address": [
+    "Jinan, SD 250014",
+    "China"
+  ],
+  "raw_note": null
+}

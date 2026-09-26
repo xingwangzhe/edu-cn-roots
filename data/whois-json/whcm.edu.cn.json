@@ -1,0 +1,28 @@
+{
+  "root_domain": "whcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Conservatory of Music",
+  "org_cn": null,
+  "domain_name": "WHCM.EDU.CN",
+  "network_name": "WHCM-CN",
+  "admin_contact": "Xiongfei Xu (XX52-CER)",
+  "nameservers": [
+    {
+      "host": "dns.whcm.edu.cn",
+      "ip": "125.221.2.8"
+    },
+    {
+      "host": "dns2.whcm.edu.cn",
+      "ip": "125.221.2.18"
+    },
+    {
+      "host": "dns3.whcm.edu.cn",
+      "ip": "27.17.51.141"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430060",
+    "China"
+  ],
+  "raw_note": null
+}

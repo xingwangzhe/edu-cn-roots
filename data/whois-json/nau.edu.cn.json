@@ -1,0 +1,24 @@
+{
+  "root_domain": "nau.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing Audit University",
+  "org_cn": null,
+  "domain_name": "NAU.EDU.CN",
+  "network_name": "NJAI-CN",
+  "admin_contact": "Hua Ji (HJ24-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.nau.edu.cn",
+      "ip": "210.28.92.7"
+    },
+    {
+      "host": "dns2.nau.edu.cn",
+      "ip": "210.28.92.8"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210029",
+    "China"
+  ],
+  "raw_note": null
+}

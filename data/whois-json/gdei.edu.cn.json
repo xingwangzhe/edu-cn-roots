@@ -1,0 +1,24 @@
+{
+  "root_domain": "gdei.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong University of Education",
+  "org_cn": null,
+  "domain_name": "GDEI.EDU.CN",
+  "network_name": "GDCE-CN",
+  "admin_contact": "Chen De (CD1-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.GDEI.EDU.CN",
+      "ip": "210.38.64.33"
+    },
+    {
+      "host": "NS2.GDEI.EDU.CN",
+      "ip": "210.38.64.45"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510303",
+    "China"
+  ],
+  "raw_note": null
+}

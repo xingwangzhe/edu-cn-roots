@@ -1,0 +1,28 @@
+{
+  "root_domain": "bjou.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Open University",
+  "org_cn": null,
+  "domain_name": "BJOU.EDU.CN",
+  "network_name": "BJOU-CN",
+  "admin_contact": "Shiliang Tang (ST16-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.bjou.edu.cn",
+      "ip": "42.247.3.64"
+    },
+    {
+      "host": "DNS2.bjou.edu.cn",
+      "ip": "111.198.124.50"
+    },
+    {
+      "host": "DNS3.bjou.edu.cn",
+      "ip": "106.38.157.132"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100081",
+    "China"
+  ],
+  "raw_note": null
+}

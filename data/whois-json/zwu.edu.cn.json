@@ -1,0 +1,24 @@
+{
+  "root_domain": "zwu.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhe Jiang Wanli University",
+  "org_cn": null,
+  "domain_name": "ZWU.EDU.CN",
+  "network_name": "ZJRTCT-CN",
+  "admin_contact": "Zhongwei Chen (ZC48-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.ZWU.EDU.CN",
+      "ip": "210.33.48.1"
+    },
+    {
+      "host": "NS2.ZWU.EDU.CN",
+      "ip": "61.153.150.21"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315100",
+    "China"
+  ],
+  "raw_note": null
+}

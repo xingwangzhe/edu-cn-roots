@@ -1,0 +1,24 @@
+{
+  "root_domain": "ecnu.edu.cn",
+  "type": "full_record",
+  "org_en": "East China Normal University",
+  "org_cn": null,
+  "domain_name": "ECNU.EDU.CN",
+  "network_name": "ECNU-CN",
+  "admin_contact": "Zhipeng Liu (ZL145-CER)",
+  "nameservers": [
+    {
+      "host": "liwa.ecnu.edu.cn",
+      "ip": "202.120.80.1"
+    },
+    {
+      "host": "xiayu.ecnu.edu.cn",
+      "ip": "202.120.80.67"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200062",
+    "China"
+  ],
+  "raw_note": null
+}

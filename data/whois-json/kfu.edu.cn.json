@@ -1,0 +1,24 @@
+{
+  "root_domain": "kfu.edu.cn",
+  "type": "full_record",
+  "org_en": "KaiFeng University",
+  "org_cn": null,
+  "domain_name": "KFU.EDU.CN",
+  "network_name": "KFU-CN",
+  "admin_contact": "Jiangxin Wang (JW32-CER)",
+  "nameservers": [
+    {
+      "host": "dns.kfu.edu.cn",
+      "ip": "211.84.240.6"
+    },
+    {
+      "host": "dns2.kfu.edu.cn",
+      "ip": "211.84.240.8"
+    }
+  ],
+  "address": [
+    "kaiFeng, HA 475004",
+    "China"
+  ],
+  "raw_note": null
+}

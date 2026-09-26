@@ -1,0 +1,28 @@
+{
+  "root_domain": "gznu.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhuo Normal University",
+  "org_cn": null,
+  "domain_name": "GZNU.EDU.CN",
+  "network_name": "GZNU-CN",
+  "admin_contact": "Jiawei Wang (JW1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.GZNU.EDU.CN",
+      "ip": "210.40.64.33"
+    },
+    {
+      "host": "SEC-DNS.GZNU.EDU.CN",
+      "ip": "210.40.64.34"
+    },
+    {
+      "host": "DNS1.GZNU.EDU.CN",
+      "ip": "202.101.92.12"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550001",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "szit.edu.cn",
+  "type": "full_record",
+  "org_en": "Shazhou Institute of Technology",
+  "org_cn": null,
+  "domain_name": "SZIT.EDU.CN",
+  "network_name": "SZIT-CN",
+  "admin_contact": "Zong Xiaozong (ZX43-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.szit.edu.cn",
+      "ip": "211.70.72.60"
+    },
+    {
+      "host": "dns2.szit.edu.cn",
+      "ip": "211.70.72.61"
+    },
+    {
+      "host": "dns3.szit.edu.cn",
+      "ip": "2001:250:5061:5::60"
+    }
+  ],
+  "address": [
+    "Zhangjiagang, JS 215600",
+    "China"
+  ],
+  "raw_note": null
+}

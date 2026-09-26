@@ -1,0 +1,24 @@
+{
+  "root_domain": "hsnc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hengshui College",
+  "org_cn": null,
+  "domain_name": "HSNC.EDU.CN",
+  "network_name": "HSNC-CN",
+  "admin_contact": "Liu Shumei (LS1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.hsnc.edu.cn",
+      "ip": "211.82.216.2"
+    },
+    {
+      "host": "dns2.hsnc.edu.cn",
+      "ip": "211.82.216.3"
+    }
+  ],
+  "address": [
+    "Hengshui, HE 053000",
+    "China"
+  ],
+  "raw_note": null
+}

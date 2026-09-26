@@ -1,0 +1,36 @@
+{
+  "root_domain": "csuft.edu.cn",
+  "type": "full_record",
+  "org_en": "Central South University of Forestry & Technology",
+  "org_cn": null,
+  "domain_name": "CSUFT.EDU.CN",
+  "network_name": "CSFU-CN",
+  "admin_contact": "Zhi Wang (ZW104-CER)",
+  "nameservers": [
+    {
+      "host": "dns.csuft.edu.cn",
+      "ip": "222.22.224.66"
+    },
+    {
+      "host": "dns2.csuft.edu.cn",
+      "ip": "222.22.224.139"
+    },
+    {
+      "host": "dns3.csuft.edu.cn",
+      "ip": "222.22.225.8"
+    },
+    {
+      "host": "dns4.csuft.edu.cn",
+      "ip": "222.22.225.9"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Changsha, HN 410004",
+    "China"
+  ],
+  "raw_note": null
+}

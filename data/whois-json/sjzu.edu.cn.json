@@ -1,0 +1,24 @@
+{
+  "root_domain": "sjzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shenyang Jianzhu University",
+  "org_cn": null,
+  "domain_name": "SJZU.EDU.CN",
+  "network_name": "SYACEI-CN",
+  "admin_contact": "Chunyang Gao (CG10-CER)",
+  "nameservers": [
+    {
+      "host": "as.sjzu.edu.cn",
+      "ip": "202.199.64.5"
+    },
+    {
+      "host": "as1.sjzu.edu.cn",
+      "ip": "202.199.64.6"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110168",
+    "China"
+  ],
+  "raw_note": null
+}

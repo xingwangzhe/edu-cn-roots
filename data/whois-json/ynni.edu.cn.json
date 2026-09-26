@@ -1,0 +1,24 @@
+{
+  "root_domain": "ynni.edu.cn",
+  "type": "full_record",
+  "org_en": "Yunnan University of Nationalities",
+  "org_cn": null,
+  "domain_name": "YNNI.EDU.CN",
+  "network_name": "YNNI-CN",
+  "admin_contact": "Jie Wang (JW99-CER)",
+  "nameservers": [
+    {
+      "host": "king.ynni.edu.cn",
+      "ip": "202.203.144.33"
+    },
+    {
+      "host": "yuhua.ynni.edu.cn",
+      "ip": "202.203.158.190"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650031",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sx.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi Education And Research Network",
+  "org_cn": null,
+  "domain_name": "SX.EDU.CN",
+  "network_name": "SXERNET-CN",
+  "admin_contact": "Jiang Wu (JW8-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SX.EDU.CN",
+      "ip": "202.207.240.211"
+    },
+    {
+      "host": "DNS2.SX.EDU.CN",
+      "ip": "202.207.240.212"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030024",
+    "China"
+  ],
+  "raw_note": null
+}

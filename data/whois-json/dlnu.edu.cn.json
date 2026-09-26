@@ -1,0 +1,24 @@
+{
+  "root_domain": "dlnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dalian Nationalities University",
+  "org_cn": null,
+  "domain_name": "DLNU.EDU.CN",
+  "network_name": "DLNU-CN",
+  "admin_contact": "Jinliang Wei (JW14-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Dalian, LN 116600",
+    "China"
+  ],
+  "raw_note": null
+}

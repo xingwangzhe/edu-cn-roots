@@ -1,0 +1,32 @@
+{
+  "root_domain": "ybu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yanbian University",
+  "org_cn": null,
+  "domain_name": "YBU.EDU.CN",
+  "network_name": "YBU-CN",
+  "admin_contact": "Mingzhu Che (MC19-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ybu.edu.cn",
+      "ip": "202.198.192.10"
+    },
+    {
+      "host": "dns2.ybu.edu.cn",
+      "ip": "202.198.192.11"
+    },
+    {
+      "host": "dns3.ybu.edu.cn",
+      "ip": "219.150.13.38"
+    },
+    {
+      "host": "dnsv6.ybu.edu.cn",
+      "ip": "2001:250:7408::10"
+    }
+  ],
+  "address": [
+    "Yanji, JL 133002",
+    "China"
+  ],
+  "raw_note": null
+}

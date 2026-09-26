@@ -1,0 +1,28 @@
+{
+  "root_domain": "yibinu.edu.cn",
+  "type": "full_record",
+  "org_en": "Yi Bin University",
+  "org_cn": null,
+  "domain_name": "YIBINU.EDU.CN",
+  "network_name": "YBTC-CN",
+  "admin_contact": "Taifeng Li (TL33-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.YIBINU.EDU.CN",
+      "ip": "210.41.72.6"
+    },
+    {
+      "host": "DNSBAK.YIBINU.EDU.CN",
+      "ip": "210.41.72.7"
+    },
+    {
+      "host": "DNS2.YIBINU.EDU.CN",
+      "ip": "125.64.220.20"
+    }
+  ],
+  "address": [
+    "Yibin, SC 644007",
+    "China"
+  ],
+  "raw_note": null
+}

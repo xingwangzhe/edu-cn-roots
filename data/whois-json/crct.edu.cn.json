@@ -1,0 +1,24 @@
+{
+  "root_domain": "crct.edu.cn",
+  "type": "full_record",
+  "org_en": "China Research Center For Teaching And Learning In",
+  "org_cn": null,
+  "domain_name": "CRCT.EDU.CN",
+  "network_name": "CRCT-CN",
+  "admin_contact": "Bo Wu (BW8-CER)",
+  "nameservers": [
+    {
+      "host": "dns.crct.edu.cn",
+      "ip": "202.205.144.68"
+    },
+    {
+      "host": "dns2.crct.edu.cn",
+      "ip": "202.205.144.69"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100011",
+    "China"
+  ],
+  "raw_note": null
+}

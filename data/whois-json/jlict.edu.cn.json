@@ -1,0 +1,24 @@
+{
+  "root_domain": "jlict.edu.cn",
+  "type": "full_record",
+  "org_en": "Jilin University of Chemical Technology",
+  "org_cn": null,
+  "domain_name": "JLICT.EDU.CN",
+  "network_name": "JLICT-CN",
+  "admin_contact": "Liang Zhao (LZ24-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.JLICT.EDU.CN",
+      "ip": "210.47.10.1"
+    },
+    {
+      "host": "DNS2.JLICT.EDU.CN",
+      "ip": "210.47.10.2"
+    }
+  ],
+  "address": [
+    "Jilin, JL 132022",
+    "China"
+  ],
+  "raw_note": null
+}

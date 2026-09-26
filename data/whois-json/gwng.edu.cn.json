@@ -1,0 +1,28 @@
+{
+  "root_domain": "gwng.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong University of Foreign Studies, Nanguo Business",
+  "org_cn": null,
+  "domain_name": "GWNG.EDU.CN",
+  "network_name": "GUFSNGBC-CN",
+  "admin_contact": "Hongxia Ding (HD12-CER)",
+  "nameservers": [
+    {
+      "host": "dns.gwng.edu.cn",
+      "ip": "125.216.64.186"
+    },
+    {
+      "host": "dns2.gwng.edu.cn",
+      "ip": "120.236.153.48"
+    },
+    {
+      "host": "dns3.gwng.edu.cn",
+      "ip": "125.216.64.200"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510545",
+    "China"
+  ],
+  "raw_note": null
+}

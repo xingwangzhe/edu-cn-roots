@@ -1,0 +1,24 @@
+{
+  "root_domain": "qqhru.edu.cn",
+  "type": "full_record",
+  "org_en": "Qiqihar University",
+  "org_cn": null,
+  "domain_name": "QQHRU.EDU.CN",
+  "network_name": "QQHRU-CN",
+  "admin_contact": "Peng He (PH1-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.QQHRU.EDU.CN",
+      "ip": "210.47.68.88"
+    },
+    {
+      "host": "NET.QQHRU.EDU.CN",
+      "ip": "210.47.68.188"
+    }
+  ],
+  "address": [
+    "Qiqihar, HL 161006",
+    "China"
+  ],
+  "raw_note": null
+}

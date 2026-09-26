@@ -1,0 +1,32 @@
+{
+  "root_domain": "sicnu.edu.cn",
+  "type": "full_record",
+  "org_en": "Sichuan Normal University",
+  "org_cn": null,
+  "domain_name": "SICNU.EDU.CN",
+  "network_name": "SICNU-CN",
+  "admin_contact": "Fuyuan Lin (FL2-AP)",
+  "nameservers": [
+    {
+      "host": "DNS1.SICNU.EDU.CN",
+      "ip": "202.115.192.33"
+    },
+    {
+      "host": "DNS2.SICNU.EDU.CN",
+      "ip": "202.115.192.32"
+    },
+    {
+      "host": "dns3.sicnu.edu.cn",
+      "ip": "2001:250:2008:1000:202:115:192:33"
+    },
+    {
+      "host": "dns4.sicnu.edu.cn",
+      "ip": "2001:250:2008:1000:202:115:192:32"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610066",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "jgsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jinggangshan University",
+  "org_cn": null,
+  "domain_name": "JGSU.EDU.CN",
+  "network_name": "JGSNC-CN",
+  "admin_contact": "Yongping Kang (YK2-CER)",
+  "nameservers": [
+    {
+      "host": "dns.jgsu.edu.cn",
+      "ip": "218.193.208.1"
+    },
+    {
+      "host": "dns1.jgsu.edu.cn",
+      "ip": "218.193.208.5"
+    }
+  ],
+  "address": [
+    "Ji'an, JX 343009",
+    "China"
+  ],
+  "raw_note": null
+}

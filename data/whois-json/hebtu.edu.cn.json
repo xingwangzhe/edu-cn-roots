@@ -1,0 +1,24 @@
+{
+  "root_domain": "hebtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Teacher's University",
+  "org_cn": null,
+  "domain_name": "HEBTU.EDU.CN",
+  "network_name": "HEBTU-CN",
+  "admin_contact": "Yunkai Zhang (YZ8-CER)",
+  "nameservers": [
+    {
+      "host": "NS.HEBTU.EDU.CN",
+      "ip": "202.206.100.36"
+    },
+    {
+      "host": "E150.HEBTU.EDU.CN",
+      "ip": "202.206.100.34"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050016",
+    "China"
+  ],
+  "raw_note": null
+}

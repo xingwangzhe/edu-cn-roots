@@ -1,0 +1,28 @@
+{
+  "root_domain": "hnebp.edu.cn",
+  "type": "full_record",
+  "org_en": "Hunan Environment-Biological Polytechnic",
+  "org_cn": null,
+  "domain_name": "HNEBP.EDU.CN",
+  "network_name": "HNEBP-CN",
+  "admin_contact": "Honghua Tuo (HT5-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hnebp.edu.cn",
+      "ip": "211.85.228.8"
+    },
+    {
+      "host": "dns2.hnebp.edu.cn",
+      "ip": "211.85.228.18"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    }
+  ],
+  "address": [
+    "Hengyang, HN 421005",
+    "China"
+  ],
+  "raw_note": null
+}

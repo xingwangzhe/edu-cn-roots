@@ -1,0 +1,24 @@
+{
+  "root_domain": "xaepi.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'an Electric Power Institute",
+  "org_cn": null,
+  "domain_name": "XAEPI.EDU.CN",
+  "network_name": "XAEIP-CN",
+  "admin_contact": "Yaojun Wei (YW7-CER)",
+  "nameservers": [
+    {
+      "host": "HPLH3.XAEPI.EDU.CN",
+      "ip": "202.117.224.7"
+    },
+    {
+      "host": "HPLC3.XAEPI.EDU.CN",
+      "ip": "202.117.224.8"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710032",
+    "China"
+  ],
+  "raw_note": null
+}

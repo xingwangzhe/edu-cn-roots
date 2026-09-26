@@ -1,0 +1,28 @@
+{
+  "root_domain": "nwu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwest University",
+  "org_cn": null,
+  "domain_name": "NWU.EDU.CN",
+  "network_name": "NWU-CN",
+  "admin_contact": "Yuxiang Wang (YW142-CER)",
+  "nameservers": [
+    {
+      "host": "nwu01.nwu.edu.cn",
+      "ip": "202.117.96.10"
+    },
+    {
+      "host": "nwu02.nwu.edu.cn",
+      "ip": "59.75.56.18"
+    },
+    {
+      "host": "nwu03.nwu.edu.cn",
+      "ip": "202.117.96.5"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710069",
+    "China"
+  ],
+  "raw_note": null
+}

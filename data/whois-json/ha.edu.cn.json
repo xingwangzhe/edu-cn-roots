@@ -1,0 +1,24 @@
+{
+  "root_domain": "ha.edu.cn",
+  "type": "full_record",
+  "org_en": "Cernet Central China Regional Network Henan Node",
+  "org_cn": null,
+  "domain_name": "HA.EDU.CN",
+  "network_name": "HAERNET-CN",
+  "admin_contact": "Yusong Lin (YL148-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HA.EDU.CN",
+      "ip": "210.43.144.1"
+    },
+    {
+      "host": "DNS2.HA.EDU.CN",
+      "ip": "210.43.144.2"
+    }
+  ],
+  "address": [
+    "ZhengZhou, HA 450052",
+    "China"
+  ],
+  "raw_note": null
+}

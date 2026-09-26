@@ -1,0 +1,24 @@
+{
+  "root_domain": "wust.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan University Of Science And Technology",
+  "org_cn": null,
+  "domain_name": "WUST.EDU.CN",
+  "network_name": "WHUST-CN",
+  "admin_contact": "Wei Cao (WC46-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.WUST.EDU.CN",
+      "ip": "202.114.240.6"
+    },
+    {
+      "host": "DNS1.WUST.EDU.CN",
+      "ip": "202.114.240.12"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430081",
+    "China"
+  ],
+  "raw_note": null
+}

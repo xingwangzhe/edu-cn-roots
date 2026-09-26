@@ -1,0 +1,24 @@
+{
+  "root_domain": "qust.edu.cn",
+  "type": "full_record",
+  "org_en": "University of Science and Technology at Qingdao",
+  "org_cn": null,
+  "domain_name": "QUST.EDU.CN",
+  "network_name": "QDICT-CN",
+  "admin_contact": "Yongtao Chen (YC21-CER)",
+  "nameservers": [
+    {
+      "host": "SERVER.QUST.EDU.CN",
+      "ip": "211.64.208.1"
+    },
+    {
+      "host": "DBA.QUST.EDU.CN",
+      "ip": "211.87.159.2"
+    }
+  ],
+  "address": [
+    "Qingdao, SD 266042",
+    "China"
+  ],
+  "raw_note": null
+}

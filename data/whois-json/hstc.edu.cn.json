@@ -1,0 +1,24 @@
+{
+  "root_domain": "hstc.edu.cn",
+  "type": "full_record",
+  "org_en": "Hanshan Normal University",
+  "org_cn": null,
+  "domain_name": "HSTC.EDU.CN",
+  "network_name": "HSTC-CN",
+  "admin_contact": "Zhu Li (ZL48-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HSTC.EDU.CN",
+      "ip": "210.38.208.130"
+    },
+    {
+      "host": "DNS2.HSTC.EDU.CN",
+      "ip": "125.91.237.93"
+    }
+  ],
+  "address": [
+    "Chaozhou, GD 521041",
+    "China"
+  ],
+  "raw_note": null
+}

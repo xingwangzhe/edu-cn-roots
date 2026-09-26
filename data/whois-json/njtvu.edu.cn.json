@@ -1,0 +1,24 @@
+{
+  "root_domain": "njtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Nanjing City Vocational College",
+  "org_cn": null,
+  "domain_name": "NJTVU.EDU.CN",
+  "network_name": "NJRTVU-CN",
+  "admin_contact": "Zhenying Huang (ZH4-CER)",
+  "nameservers": [
+    {
+      "host": "NJHOST1.NJTVU.EDU.CN",
+      "ip": "210.29.112.88"
+    },
+    {
+      "host": "NJHOST2.NJTVU.EDU.CN",
+      "ip": "210.29.112.89"
+    }
+  ],
+  "address": [
+    "Nanjing, JS 210002",
+    "China"
+  ],
+  "raw_note": null
+}

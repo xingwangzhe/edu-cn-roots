@@ -1,0 +1,28 @@
+{
+  "root_domain": "imufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Inner Mongolia University of Finance and Economics",
+  "org_cn": null,
+  "domain_name": "IMUFE.EDU.CN",
+  "network_name": "IMFEC-CN",
+  "admin_contact": "Lizhi Guo (LG22-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.imufe.edu.cn",
+      "ip": "211.82.169.6"
+    },
+    {
+      "host": "dns2.imufe.edu.cn",
+      "ip": "61.138.96.42"
+    },
+    {
+      "host": "dns3.imufe.edu.cn",
+      "ip": "58.18.166.55"
+    }
+  ],
+  "address": [
+    "Huhhot, NM 010051",
+    "China"
+  ],
+  "raw_note": null
+}

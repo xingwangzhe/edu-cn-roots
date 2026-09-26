@@ -1,0 +1,28 @@
+{
+  "root_domain": "git.edu.cn",
+  "type": "full_record",
+  "org_en": "Guizhou Institute Of Technology",
+  "org_cn": null,
+  "domain_name": "GIT.EDU.CN",
+  "network_name": "GZLGXY-CN",
+  "admin_contact": "Yunjiang Yang (YY60-CER)",
+  "nameservers": [
+    {
+      "host": "dns.git.edu.cn",
+      "ip": "222.198.252.2"
+    },
+    {
+      "host": "dns1.git.edu.cn",
+      "ip": "58.16.130.38"
+    },
+    {
+      "host": "dns2.git.edu.cn",
+      "ip": "222.85.134.18"
+    }
+  ],
+  "address": [
+    "Guiyang, GZ 550003",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,28 @@
+{
+  "root_domain": "btbu.edu.cn",
+  "type": "full_record",
+  "org_en": "Beijing Technology and Business University",
+  "org_cn": null,
+  "domain_name": "BTBU.EDU.CN",
+  "network_name": "BTBU-CN",
+  "admin_contact": "Biyong Yu (BY13-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.btbu.edu.cn",
+      "ip": "211.82.112.20"
+    },
+    {
+      "host": "ns2.btbu.edu.cn",
+      "ip": "211.82.112.21"
+    },
+    {
+      "host": "ns3.btbu.edu.cn",
+      "ip": "203.93.30.20"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100037",
+    "China"
+  ],
+  "raw_note": null
+}

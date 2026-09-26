@@ -1,0 +1,24 @@
+{
+  "root_domain": "xyu.edu.cn",
+  "type": "full_record",
+  "org_en": "XinYang University",
+  "org_cn": null,
+  "domain_name": "XYU.EDU.CN",
+  "network_name": "HRXY-CN",
+  "admin_contact": "Shuo Liu (SL60-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xyu.edu.cn",
+      "ip": "122.206.84.42"
+    },
+    {
+      "host": "dns2.xyu.edu.cn",
+      "ip": "117.159.223.38"
+    }
+  ],
+  "address": [
+    "xin, HA 464000",
+    "China"
+  ],
+  "raw_note": null
+}

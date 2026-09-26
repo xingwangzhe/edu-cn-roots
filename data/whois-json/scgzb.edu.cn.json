@@ -1,0 +1,24 @@
+{
+  "root_domain": "scgzb.edu.cn",
+  "type": "full_record",
+  "org_en": "Enrolment Committee Office For University And Polytechnic",
+  "org_cn": null,
+  "domain_name": "SCGZB.EDU.CN",
+  "network_name": "SCECO-CN",
+  "admin_contact": "Xu Qiang (XQ10-AP)",
+  "nameservers": [
+    {
+      "host": "DNS.SCGZB.EDU.CN",
+      "ip": "202.115.240.188"
+    },
+    {
+      "host": "DNS2.SCGZB.EDU.CN",
+      "ip": "202.115.240.189"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610012",
+    "China"
+  ],
+  "raw_note": null
+}

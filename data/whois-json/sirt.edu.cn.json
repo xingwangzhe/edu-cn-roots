@@ -1,0 +1,24 @@
+{
+  "root_domain": "sirt.edu.cn",
+  "type": "full_record",
+  "org_en": "Shijiazhuang Institute of Railway Technology",
+  "org_cn": null,
+  "domain_name": "SIRT.EDU.CN",
+  "network_name": "SIRT-CN",
+  "admin_contact": "Dean Song (DS8-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sirt.edu.cn",
+      "ip": "222.30.160.1"
+    },
+    {
+      "host": "dns2.sirt.edu.cn",
+      "ip": "222.30.160.2"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050041",
+    "China"
+  ],
+  "raw_note": null
+}

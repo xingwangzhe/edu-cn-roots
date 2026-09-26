@@ -1,0 +1,32 @@
+{
+  "root_domain": "hqu.edu.cn",
+  "type": "full_record",
+  "org_en": "National Huaqiao University",
+  "org_cn": null,
+  "domain_name": "HQU.EDU.CN",
+  "network_name": "HQU-CN",
+  "admin_contact": "Jiang Chen (JC9-CER)",
+  "nameservers": [
+    {
+      "host": "HCH.HQU.EDU.CN",
+      "ip": "210.34.240.100"
+    },
+    {
+      "host": "HQDX.HQU.EDU.CN",
+      "ip": "210.34.240.101"
+    },
+    {
+      "host": "xmns.hqu.edu.cn",
+      "ip": "218.193.80.100"
+    },
+    {
+      "host": "nsxm.hqu.edu.cn",
+      "ip": "218.193.80.101"
+    }
+  ],
+  "address": [
+    "Quanzhou, FJ 362011",
+    "China"
+  ],
+  "raw_note": null
+}

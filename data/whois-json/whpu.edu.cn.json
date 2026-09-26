@@ -1,0 +1,32 @@
+{
+  "root_domain": "whpu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan Polytechnic University",
+  "org_cn": null,
+  "domain_name": "WHPU.EDU.CN",
+  "network_name": "WHPU-CN",
+  "admin_contact": "Yuhuang Wu (YW23-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.WHPU.EDU.CN",
+      "ip": "211.85.192.8"
+    },
+    {
+      "host": "DNS1.WHPU.EDU.CN",
+      "ip": "211.85.192.18"
+    },
+    {
+      "host": "DNS2.WHPU.EDU.CN",
+      "ip": "211.85.192.7"
+    },
+    {
+      "host": "DNS3.WHPU.EDU.CN",
+      "ip": "211.85.192.19"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430023",
+    "China"
+  ],
+  "raw_note": null
+}

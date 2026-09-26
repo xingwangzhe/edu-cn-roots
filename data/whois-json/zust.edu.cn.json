@@ -1,0 +1,24 @@
+{
+  "root_domain": "zust.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "ZUST.EDU.CN",
+  "network_name": "HZIAT-CN",
+  "admin_contact": "Xiaoyang Xie (XX8-CER)",
+  "nameservers": [
+    {
+      "host": "NS1.ZUST.EDU.CN",
+      "ip": "210.33.6.6"
+    },
+    {
+      "host": "NS2.ZUST.EDU.CN",
+      "ip": "210.33.6.7"
+    }
+  ],
+  "address": [
+    "Hangzhou, ZJ 310012",
+    "China"
+  ],
+  "raw_note": null
+}

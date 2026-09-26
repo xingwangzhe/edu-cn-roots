@@ -1,0 +1,28 @@
+{
+  "root_domain": "scut.edu.cn",
+  "type": "full_record",
+  "org_en": "South China University Of Technology",
+  "org_cn": null,
+  "domain_name": "SCUT.EDU.CN",
+  "network_name": "SCUT-CN",
+  "admin_contact": "YiQin Lu (YL213-CER)",
+  "nameservers": [
+    {
+      "host": "SCUTSV33.SCUT.EDU.CN",
+      "ip": "202.38.193.33"
+    },
+    {
+      "host": "ORANGE.GZNET.EDU.CN",
+      "ip": "202.112.17.33"
+    },
+    {
+      "host": "EMILY.SCUT.EDU.CN",
+      "ip": "202.38.251.33"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510641",
+    "China"
+  ],
+  "raw_note": null
+}

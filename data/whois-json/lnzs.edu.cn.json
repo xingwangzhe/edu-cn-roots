@@ -1,0 +1,24 @@
+{
+  "root_domain": "lnzs.edu.cn",
+  "type": "full_record",
+  "org_en": "The Office Of Recruitment Committee Of Liaoning Province",
+  "org_cn": null,
+  "domain_name": "LNZS.EDU.CN",
+  "network_name": "LNZS-CN",
+  "admin_contact": "Weiguang Dong (WD8-AP)",
+  "nameservers": [
+    {
+      "host": "NS.LNZS.EDU.CN",
+      "ip": "202.199.16.1"
+    },
+    {
+      "host": "NS2.LNZS.EDU.CN",
+      "ip": "202.199.16.2"
+    }
+  ],
+  "address": [
+    "Shenyang, LN 110000",
+    "China"
+  ],
+  "raw_note": null
+}

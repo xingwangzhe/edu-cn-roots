@@ -1,0 +1,24 @@
+{
+  "root_domain": "ahjzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Anhui Jianzhu University",
+  "org_cn": null,
+  "domain_name": "AHJZU.EDU.CN",
+  "network_name": "AIAI-CN",
+  "admin_contact": "Zhang Lin (ZL23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ahjzu.edu.cn",
+      "ip": "219.231.0.1"
+    },
+    {
+      "host": "dns2.ahjzu.edu.cn",
+      "ip": "219.231.0.2"
+    }
+  ],
+  "address": [
+    "HeFei, AH 230022",
+    "China"
+  ],
+  "raw_note": null
+}

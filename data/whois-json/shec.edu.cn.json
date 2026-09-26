@@ -1,0 +1,32 @@
+{
+  "root_domain": "shec.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Teacher Institute",
+  "org_cn": null,
+  "domain_name": "SHEC.EDU.CN",
+  "network_name": "SHEC-CN",
+  "admin_contact": "Wanting Chu (WC1-CER)",
+  "nameservers": [
+    {
+      "host": "apple.shec.edu.cn",
+      "ip": "218.78.240.11"
+    },
+    {
+      "host": "orange.shec.edu.cn",
+      "ip": "202.120.192.34"
+    },
+    {
+      "host": "apple3.shec.edu.cn",
+      "ip": "219.228.13.34"
+    },
+    {
+      "host": "apple2.shec.edu.cn",
+      "ip": "219.228.15.35"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200072",
+    "China"
+  ],
+  "raw_note": null
+}

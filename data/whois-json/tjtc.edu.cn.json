@@ -1,0 +1,24 @@
+{
+  "root_domain": "tjtc.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Vocational Institute",
+  "org_cn": null,
+  "domain_name": "TJTC.EDU.CN",
+  "network_name": "TJPC-CN",
+  "admin_contact": "Jian Wang (JW139-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TJTC.EDU.CN",
+      "ip": "211.68.224.6"
+    },
+    {
+      "host": "DNS.NET.TJTC.EDU.CN",
+      "ip": "211.68.224.12"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300402",
+    "China"
+  ],
+  "raw_note": null
+}

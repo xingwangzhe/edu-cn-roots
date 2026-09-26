@@ -1,0 +1,24 @@
+{
+  "root_domain": "ynutcm.edu.cn",
+  "type": "full_record",
+  "org_en": "Yunnan University of Traditional Chinese Medicine",
+  "org_cn": null,
+  "domain_name": "YNUTCM.EDU.CN",
+  "network_name": "YNTM-CN",
+  "admin_contact": "Yongqiang Li (YL28-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ynutcm.edu.cn",
+      "ip": "210.40.176.5"
+    },
+    {
+      "host": "dns2.ynutcm.edu.cn",
+      "ip": "210.40.176.6"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650200",
+    "China"
+  ],
+  "raw_note": null
+}

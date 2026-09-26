@@ -1,0 +1,24 @@
+{
+  "root_domain": "czc.edu.cn",
+  "type": "full_record",
+  "org_en": "Changzhi University",
+  "org_cn": null,
+  "domain_name": "CZC.EDU.CN",
+  "network_name": "JDNTC-CN",
+  "admin_contact": "Haiyun Yang (HY11-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    }
+  ],
+  "address": [
+    "Changzhi, SX 046011",
+    "China"
+  ],
+  "raw_note": null
+}

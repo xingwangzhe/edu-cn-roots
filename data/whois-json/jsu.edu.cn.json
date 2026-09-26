@@ -1,0 +1,36 @@
+{
+  "root_domain": "jsu.edu.cn",
+  "type": "full_record",
+  "org_en": "Jishou Uninversity",
+  "org_cn": null,
+  "domain_name": "JSU.EDU.CN",
+  "network_name": "JSU-CN",
+  "admin_contact": "Jianping Luo (JL108-AP)",
+  "nameservers": [
+    {
+      "host": "MAIL12.JSU.EDU.CN",
+      "ip": "210.43.64.10"
+    },
+    {
+      "host": "WTP.JSU.EDU.CN",
+      "ip": "210.43.64.11"
+    },
+    {
+      "host": "DNS.HN.EDU.CN",
+      "ip": "210.43.44.4"
+    },
+    {
+      "host": "dns-v6-10.jsu.edu.cn",
+      "ip": "2001:da8:d00b::10"
+    },
+    {
+      "host": "dns-v6-11.jsu.edu.cn",
+      "ip": "2001:da8:d00b::11"
+    }
+  ],
+  "address": [
+    "Jishou, HN 410000",
+    "China"
+  ],
+  "raw_note": null
+}

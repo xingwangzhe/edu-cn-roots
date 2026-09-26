@@ -1,0 +1,24 @@
+{
+  "root_domain": "sgmtu.edu.cn",
+  "type": "full_record",
+  "org_en": "South Guizhou Minorities Teachers University",
+  "org_cn": null,
+  "domain_name": "SGMTU.EDU.CN",
+  "network_name": "SGMTU-CN",
+  "admin_contact": "Yunhui Shi (YS15-CER)",
+  "nameservers": [
+    {
+      "host": "dns.sgmtu.edu.cn",
+      "ip": "218.194.224.33"
+    },
+    {
+      "host": "sec-dns.sgmtu.edu.cn",
+      "ip": "218.194.224.34"
+    }
+  ],
+  "address": [
+    "Duyun, GZ 558000",
+    "China"
+  ],
+  "raw_note": null
+}

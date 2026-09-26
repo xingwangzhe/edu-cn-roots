@@ -1,0 +1,28 @@
+{
+  "root_domain": "ccu.edu.cn",
+  "type": "full_record",
+  "org_en": "Changchun University",
+  "org_cn": null,
+  "domain_name": "CCU.EDU.CN",
+  "network_name": "CCUI-CN",
+  "admin_contact": "Shuhuai Tian (ST18-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.ccu.edu.cn",
+      "ip": "59.72.224.68"
+    },
+    {
+      "host": "dns2.ccu.edu.cn",
+      "ip": "222.168.56.234"
+    },
+    {
+      "host": "dns3.ccu.edu.cn",
+      "ip": "36.135.111.168"
+    }
+  ],
+  "address": [
+    "Changchun, JL 130022",
+    "China"
+  ],
+  "raw_note": null
+}

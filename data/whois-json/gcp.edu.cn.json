@@ -1,0 +1,24 @@
+{
+  "root_domain": "gcp.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangzhou City Polytechnic",
+  "org_cn": null,
+  "domain_name": "GCP.EDU.CN",
+  "network_name": "GZCVC-CN",
+  "admin_contact": "Liming Liu (LL78-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gcp.edu.cn",
+      "ip": "219.222.224.1"
+    },
+    {
+      "host": "dns2.gcp.edu.cn",
+      "ip": "219.222.224.2"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510405",
+    "China"
+  ],
+  "raw_note": null
+}

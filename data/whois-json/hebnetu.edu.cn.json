@@ -1,0 +1,28 @@
+{
+  "root_domain": "hebnetu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hebei Open University",
+  "org_cn": null,
+  "domain_name": "HEBNETU.EDU.CN",
+  "network_name": "HEBRTVU-CN",
+  "admin_contact": "Kecheng Wang (KW7-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.HEBNETU.EDU.CN",
+      "ip": "202.206.236.6"
+    },
+    {
+      "host": "DNS2.HEBNETU.EDU.CN",
+      "ip": "202.206.236.8"
+    },
+    {
+      "host": "DNS3.HEBNETU.EDU.CN",
+      "ip": "121.28.150.75"
+    }
+  ],
+  "address": [
+    "Shijiazhuang, HE 050071",
+    "China"
+  ],
+  "raw_note": null
+}

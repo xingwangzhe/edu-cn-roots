@@ -1,0 +1,24 @@
+{
+  "root_domain": "swmu.edu.cn",
+  "type": "full_record",
+  "org_en": "Southwest Medical University",
+  "org_cn": null,
+  "domain_name": "SWMU.EDU.CN",
+  "network_name": "LZMC-CN",
+  "admin_contact": "Maoxu Liao (ML41-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.swmu.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.swmu.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "Luzhou, SC 646000",
+    "China"
+  ],
+  "raw_note": null
+}

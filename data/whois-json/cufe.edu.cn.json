@@ -1,0 +1,28 @@
+{
+  "root_domain": "cufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Central University Of Finance & Economics",
+  "org_cn": null,
+  "domain_name": "CUFE.EDU.CN",
+  "network_name": "CUFE-CN",
+  "admin_contact": "Zheng Lin (ZL27-CER)",
+  "nameservers": [
+    {
+      "host": "DNS2.CUFE.EDU.CN",
+      "ip": "123.124.19.180"
+    },
+    {
+      "host": "DNS1.CUFE.EDU.CN",
+      "ip": "202.205.208.6"
+    },
+    {
+      "host": "DNS.CUFE.EDU.CN",
+      "ip": "202.205.208.5"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100081",
+    "China"
+  ],
+  "raw_note": null
+}

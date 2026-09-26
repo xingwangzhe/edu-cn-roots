@@ -1,0 +1,24 @@
+{
+  "root_domain": "glnc.edu.cn",
+  "type": "full_record",
+  "org_en": "Guilin Normal University",
+  "org_cn": null,
+  "domain_name": "GLNC.EDU.CN",
+  "network_name": "GLNC-CN",
+  "admin_contact": "Shi Bangrong (SB1-CER)",
+  "nameservers": [
+    {
+      "host": "ALPHA1.GLNC.EDU.CN",
+      "ip": "202.193.208.33"
+    },
+    {
+      "host": "ALPHA2.GLNC.EDU.CN",
+      "ip": "202.193.208.34"
+    }
+  ],
+  "address": [
+    "Guilin, GX 541001",
+    "China"
+  ],
+  "raw_note": null
+}

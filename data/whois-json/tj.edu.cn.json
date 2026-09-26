@@ -1,0 +1,24 @@
+{
+  "root_domain": "tj.edu.cn",
+  "type": "full_record",
+  "org_en": "Science and Research Division of Tianjin Municipal",
+  "org_cn": null,
+  "domain_name": "TJ.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Fanzhen Wang (FW6-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.tj.edu.cn",
+      "ip": "211.81.20.200"
+    },
+    {
+      "host": "dns2.tj.edu.cn",
+      "ip": "211.81.20.201"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300050",
+    "China"
+  ],
+  "raw_note": null
+}

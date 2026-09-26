@@ -1,0 +1,24 @@
+{
+  "root_domain": "cumtb.edu.cn",
+  "type": "full_record",
+  "org_en": "China University of Mining & Technology Beijing Graduate School",
+  "org_cn": null,
+  "domain_name": "CUMTB.EDU.CN",
+  "network_name": "CUMTB-CN",
+  "admin_contact": "Yang Lin (LY6-CN)",
+  "nameservers": [
+    {
+      "host": "kd1.cumtb.edu.cn",
+      "ip": "202.112.209.122"
+    },
+    {
+      "host": "kd2.cumtb.edu.cn",
+      "ip": "202.112.209.123"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100083",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "sxufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanxi University Of Finance & Economics",
+  "org_cn": null,
+  "domain_name": "SXUFE.EDU.CN",
+  "network_name": "SXUFE-CN",
+  "admin_contact": "Shouyu Zhang (SZ10-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.SXUFE.EDU.CN",
+      "ip": "210.31.120.10"
+    },
+    {
+      "host": "DNS2.SXUFE.EDU.CN",
+      "ip": "210.31.120.13"
+    }
+  ],
+  "address": [
+    "Taiyuan, SX 030006",
+    "China"
+  ],
+  "raw_note": null
+}

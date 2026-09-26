@@ -1,0 +1,24 @@
+{
+  "root_domain": "shmtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Maritime University",
+  "org_cn": null,
+  "domain_name": "SHMTU.EDU.CN",
+  "network_name": "SHMTU-CN",
+  "admin_contact": "Mingyan Yao (MY2-CER)",
+  "nameservers": [
+    {
+      "host": "orient.shmtu.edu.cn",
+      "ip": "202.121.209.11"
+    },
+    {
+      "host": "ns2.shmtu.edu.cn",
+      "ip": "58.40.126.17"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201306",
+    "China"
+  ],
+  "raw_note": null
+}

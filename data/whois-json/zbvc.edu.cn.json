@@ -1,0 +1,24 @@
+{
+  "root_domain": "zbvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zibo Vocational College",
+  "org_cn": null,
+  "domain_name": "ZBVC.EDU.CN",
+  "network_name": "ZBVC-CN",
+  "admin_contact": "XueXiang Li (XL65-CER)",
+  "nameservers": [
+    {
+      "host": "dns.zbvc.edu.cn",
+      "ip": "222.194.183.1"
+    },
+    {
+      "host": "dns2.zbvc.edu.cn",
+      "ip": "222.194.183.2"
+    }
+  ],
+  "address": [
+    "Zibo, SD 255314",
+    "China"
+  ],
+  "raw_note": null
+}

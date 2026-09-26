@@ -1,0 +1,28 @@
+{
+  "root_domain": "yit.edu.cn",
+  "type": "full_record",
+  "org_en": "Yanching Institute of Technology",
+  "org_cn": null,
+  "domain_name": "YIT.EDU.CN",
+  "network_name": "NCBUCT-CN",
+  "admin_contact": "Haicun Zhao (HZ39-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49"
+    },
+    {
+      "host": "ns2.yit.edu.cn",
+      "ip": "60.10.194.223"
+    }
+  ],
+  "address": [
+    "Sanhe, HE 065201",
+    "China"
+  ],
+  "raw_note": null
+}

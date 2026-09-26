@@ -1,0 +1,24 @@
+{
+  "root_domain": "hhstu.edu.cn",
+  "type": "full_record",
+  "org_en": "Huanghe Science & Technology University",
+  "org_cn": null,
+  "domain_name": "HHSTU.EDU.CN",
+  "network_name": "HHSTU-CN",
+  "admin_contact": "Baocheng Yang (BY32-CER)",
+  "nameservers": [
+    {
+      "host": "HHSTU.HHSTU.EDU.CN",
+      "ip": "202.197.208.1"
+    },
+    {
+      "host": "HHKD.HHSTU.EDU.CN",
+      "ip": "202.197.208.2"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450005",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "lzufe.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou University of Finance Economics",
+  "org_cn": null,
+  "domain_name": "LZUFE.EDU.CN",
+  "network_name": "LZCC-CN",
+  "admin_contact": "Bofeng He (BH2-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.LZUFE.EDU.CN",
+      "ip": "202.201.80.101"
+    },
+    {
+      "host": "APOLO.LZUFE.EDU.CN",
+      "ip": "202.201.80.100"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730020",
+    "China"
+  ],
+  "raw_note": null
+}

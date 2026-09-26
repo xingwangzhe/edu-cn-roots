@@ -1,0 +1,20 @@
+{
+  "root_domain": "nxjy.edu.cn",
+  "type": "full_record",
+  "org_en": "Ninxia Constrution Vocationail and Technical College",
+  "org_cn": null,
+  "domain_name": "NXJY.EDU.CN",
+  "network_name": "NXJY-CN",
+  "admin_contact": "Dajun Wu (DW14-CER)",
+  "nameservers": [
+    {
+      "host": "dns.nxjy.edu.cn",
+      "ip": "59.76.208.10"
+    }
+  ],
+  "address": [
+    "Yinchuan, NX 750021",
+    "China"
+  ],
+  "raw_note": null
+}

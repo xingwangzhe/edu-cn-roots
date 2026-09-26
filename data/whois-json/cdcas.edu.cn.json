@@ -1,0 +1,24 @@
+{
+  "root_domain": "cdcas.edu.cn",
+  "type": "full_record",
+  "org_en": "College of Arts and Sciences,SICNU",
+  "org_cn": null,
+  "domain_name": "CDCAS.EDU.CN",
+  "network_name": "SICNUAS-CN",
+  "admin_contact": "Xiaojun Hu (XH48-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cdcas.edu.cn",
+      "ip": "202.115.254.250"
+    },
+    {
+      "host": "dns2.cdcas.edu.cn",
+      "ip": "202.115.254.251"
+    }
+  ],
+  "address": [
+    "ChengDu, SC 610101",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "polus.edu.cn",
+  "type": "full_record",
+  "org_en": "Polus International College",
+  "org_cn": null,
+  "domain_name": "POLUS.EDU.CN",
+  "network_name": "SPVC-CN",
+  "admin_contact": "Heng Zeng (HZ66-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.polus.edu.cn",
+      "ip": "121.48.96.12"
+    },
+    {
+      "host": "dns2.polus.edu.cn",
+      "ip": "171.217.95.133"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 610103",
+    "China"
+  ],
+  "raw_note": null
+}

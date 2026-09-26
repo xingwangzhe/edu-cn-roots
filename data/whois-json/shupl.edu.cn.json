@@ -1,0 +1,24 @@
+{
+  "root_domain": "shupl.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Politics and Law College",
+  "org_cn": null,
+  "domain_name": "SHUPL.EDU.CN",
+  "network_name": "SPLC-CN",
+  "admin_contact": "Tianhong Yang (TY14-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SHUPL.EDU.CN",
+      "ip": "222.204.192.129"
+    },
+    {
+      "host": "DNS2.SHUPL.EDU.CN",
+      "ip": "222.204.192.130"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201701",
+    "China"
+  ],
+  "raw_note": null
+}

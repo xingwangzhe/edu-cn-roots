@@ -1,0 +1,24 @@
+{
+  "root_domain": "sxit.edu.cn",
+  "type": "full_record",
+  "org_en": "ShanXi Institute Of Technology",
+  "org_cn": null,
+  "domain_name": "SXIT.EDU.CN",
+  "network_name": "TYUTYQC-CN",
+  "admin_contact": "Changchun Wang (CW31-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sxit.edu.cn",
+      "ip": "211.82.48.35"
+    },
+    {
+      "host": "dns2.sxit.edu.cn",
+      "ip": "211.82.48.37"
+    }
+  ],
+  "address": [
+    "Yangquan, SX 045000",
+    "China"
+  ],
+  "raw_note": null
+}

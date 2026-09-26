@@ -1,0 +1,24 @@
+{
+  "root_domain": "cisisu.edu.cn",
+  "type": "full_record",
+  "org_en": "Chengdu Institute of Sichuan International Studies",
+  "org_cn": null,
+  "domain_name": "CISISU.EDU.CN",
+  "network_name": "SISUCD-CN",
+  "admin_contact": "Wenhong Han (WH27-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cisisu.edu.cn",
+      "ip": "222.196.1.1"
+    },
+    {
+      "host": "dns2.cisisu.edu.cn",
+      "ip": "171.212.96.101"
+    }
+  ],
+  "address": [
+    "Chengdu, SC 611731",
+    "China"
+  ],
+  "raw_note": null
+}

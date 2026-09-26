@@ -1,0 +1,32 @@
+{
+  "root_domain": "luas.edu.cn",
+  "type": "full_record",
+  "org_en": "Lanzhou University of Arts and Science",
+  "org_cn": null,
+  "domain_name": "LUAS.EDU.CN",
+  "network_name": "GSLU-CN",
+  "admin_contact": "Pei Lin (PL20-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.LUAS.edu.cn",
+      "ip": "59.76.64.151"
+    },
+    {
+      "host": "dns2.LUAS.edu.cn",
+      "ip": "59.76.64.115"
+    },
+    {
+      "host": "dns3.LUAS.edu.cn",
+      "ip": "2001:250:1417:2::4"
+    },
+    {
+      "host": "dns4.LUAS.edu.cn",
+      "ip": "2001:250:1417:2::3"
+    }
+  ],
+  "address": [
+    "Lanzhou, GS 730000",
+    "China"
+  ],
+  "raw_note": null
+}

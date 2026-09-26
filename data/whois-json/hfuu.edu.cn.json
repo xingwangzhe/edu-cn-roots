@@ -1,0 +1,24 @@
+{
+  "root_domain": "hfuu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hefei University",
+  "org_cn": null,
+  "domain_name": "HFUU.EDU.CN",
+  "network_name": "HFUU-CN",
+  "admin_contact": "Guangfeng Xia (GX6-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.HFUU.EDU.CN",
+      "ip": "210.45.88.1"
+    },
+    {
+      "host": "ns2.HFUU.EDU.CN",
+      "ip": "210.45.88.2"
+    }
+  ],
+  "address": [
+    "Hefei, AH 230601",
+    "China"
+  ],
+  "raw_note": null
+}

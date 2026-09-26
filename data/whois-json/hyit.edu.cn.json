@@ -1,0 +1,32 @@
+{
+  "root_domain": "hyit.edu.cn",
+  "type": "full_record",
+  "org_en": "Huaian University",
+  "org_cn": null,
+  "domain_name": "HYIT.EDU.CN",
+  "network_name": "HYIC-CN",
+  "admin_contact": "Chengfu Sun (CS7-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HYIT.EDU.CN",
+      "ip": "210.29.152.4"
+    },
+    {
+      "host": "DNS2.HYIT.EDU.CN",
+      "ip": "210.29.152.5"
+    },
+    {
+      "host": "DNS3.HYIT.EDU.CN",
+      "ip": "222.184.15.254"
+    },
+    {
+      "host": "DNS4.HYIT.EDU.CN",
+      "ip": "222.184.15.253"
+    }
+  ],
+  "address": [
+    "Huaiyin, JS 223001",
+    "China"
+  ],
+  "raw_note": null
+}

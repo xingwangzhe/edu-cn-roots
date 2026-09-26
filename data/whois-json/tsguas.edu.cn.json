@@ -1,0 +1,24 @@
+{
+  "root_domain": "tsguas.edu.cn",
+  "type": "full_record",
+  "org_en": "Tianjin Sino-German University of Applied Sciences",
+  "org_cn": null,
+  "domain_name": "TSGUAS.EDU.CN",
+  "network_name": "ZHONGDE-CN",
+  "admin_contact": "Meng Wang (MW13-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.TSGUAS.EDU.CN",
+      "ip": "59.67.48.240"
+    },
+    {
+      "host": "DNS2.TSGUAS.EDU.CN",
+      "ip": "59.67.48.241"
+    }
+  ],
+  "address": [
+    "Tianjin, TJ 300350",
+    "China"
+  ],
+  "raw_note": null
+}

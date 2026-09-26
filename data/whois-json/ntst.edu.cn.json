@@ -1,0 +1,24 @@
+{
+  "root_domain": "ntst.edu.cn",
+  "type": "full_record",
+  "org_en": "Nantong Science and Technology College",
+  "org_cn": null,
+  "domain_name": "NTST.EDU.CN",
+  "network_name": "NTAC-CN",
+  "admin_contact": "Yang Mingsheng (YM27-CER)",
+  "nameservers": [
+    {
+      "host": "GREEN.NTST.EDU.CN",
+      "ip": "210.29.176.1"
+    },
+    {
+      "host": "HOPE.NTST.EDU.CN",
+      "ip": "210.29.176.2"
+    }
+  ],
+  "address": [
+    "Nantong, JS 226007",
+    "China"
+  ],
+  "raw_note": null
+}

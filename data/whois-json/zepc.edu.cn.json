@@ -1,0 +1,28 @@
+{
+  "root_domain": "zepc.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhengzhou Electric Power College",
+  "org_cn": null,
+  "domain_name": "ZEPC.EDU.CN",
+  "network_name": "ZZEPC-CN",
+  "admin_contact": "Junzhou Ma (JM21-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.ZEPC.EDU.CN",
+      "ip": "202.197.192.10"
+    },
+    {
+      "host": "PDC.ZEPC.EDU.CN",
+      "ip": "61.163.83.52"
+    },
+    {
+      "host": "YD.ZEPC.EDU.CN",
+      "ip": "117.159.14.248"
+    }
+  ],
+  "address": [
+    "Zhengzhou, HA 450004",
+    "China"
+  ],
+  "raw_note": null
+}

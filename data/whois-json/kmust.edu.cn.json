@@ -1,0 +1,24 @@
+{
+  "root_domain": "kmust.edu.cn",
+  "type": "full_record",
+  "org_en": "Kunmimg University of Science and Technology",
+  "org_cn": null,
+  "domain_name": "KMUST.EDU.CN",
+  "network_name": "KMUST-CN",
+  "admin_contact": "Jintao Zhang (JZ7-CN)",
+  "nameservers": [
+    {
+      "host": "pridns.kmust.edu.cn",
+      "ip": "202.203.160.33"
+    },
+    {
+      "host": "secdns.kmust.edu.cn",
+      "ip": "202.203.160.34"
+    }
+  ],
+  "address": [
+    "Kunming, YN 650000",
+    "China"
+  ],
+  "raw_note": null
+}

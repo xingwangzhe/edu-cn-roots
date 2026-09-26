@@ -1,0 +1,24 @@
+{
+  "root_domain": "jsahvc.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Animal Husbandry & Veterinary College",
+  "org_cn": null,
+  "domain_name": "JSAHVC.EDU.CN",
+  "network_name": "JSAHVC-CN",
+  "admin_contact": "Wang Qi (WQ8-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.JSAHVC.EDU.CN",
+      "ip": "210.29.233.1"
+    },
+    {
+      "host": "DNS1.JSAHVC.EDU.CN",
+      "ip": "210.29.233.250"
+    }
+  ],
+  "address": [
+    "Taizhou, JS 225300",
+    "China"
+  ],
+  "raw_note": null
+}

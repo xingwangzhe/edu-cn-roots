@@ -1,0 +1,28 @@
+{
+  "root_domain": "hlu.edu.cn",
+  "type": "full_record",
+  "org_en": "Private Hualian University",
+  "org_cn": null,
+  "domain_name": "HLU.EDU.CN",
+  "network_name": "PHLC-CN",
+  "admin_contact": "Defu Hou (DH4-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HLU.EDU.CN",
+      "ip": "211.66.152.2"
+    },
+    {
+      "host": "DNS1.HLU.EDU.CN",
+      "ip": "211.66.152.3"
+    },
+    {
+      "host": "DNS6.HLU.EDU.CN",
+      "ip": "2001:250:302c::3"
+    }
+  ],
+  "address": [
+    "Guang, GD 510665",
+    "China"
+  ],
+  "raw_note": null
+}

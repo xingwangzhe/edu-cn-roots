@@ -1,0 +1,28 @@
+{
+  "root_domain": "xapi.edu.cn",
+  "type": "full_record",
+  "org_en": "Xi'An Petroleum University",
+  "org_cn": null,
+  "domain_name": "XAPI.EDU.CN",
+  "network_name": "XAPI-CN",
+  "admin_contact": "Hongtao Zheng (HZ74-CER)",
+  "nameservers": [
+    {
+      "host": "xpinetra.xapi.edu.cn",
+      "ip": "202.200.80.13"
+    },
+    {
+      "host": "xpi2000.xapi.edu.cn",
+      "ip": "202.200.80.11"
+    },
+    {
+      "host": "xpis201.xapi.edu.cn",
+      "ip": "202.200.82.12"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 710065",
+    "China"
+  ],
+  "raw_note": null
+}

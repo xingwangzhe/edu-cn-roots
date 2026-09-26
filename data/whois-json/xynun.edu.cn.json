@@ -1,0 +1,24 @@
+{
+  "root_domain": "xynun.edu.cn",
+  "type": "full_record",
+  "org_en": "Xingyi Normal University for Nationalities",
+  "org_cn": null,
+  "domain_name": "XYNUN.EDU.CN",
+  "network_name": "QXNTC-CN",
+  "admin_contact": "YuLong Yang (YY72-CER)",
+  "nameservers": [
+    {
+      "host": "dns.xynun.edu.cn",
+      "ip": "218.194.248.33"
+    },
+    {
+      "host": "sec-dns.xynun.edu.cn",
+      "ip": "218.194.248.34"
+    }
+  ],
+  "address": [
+    "Xingyi, GZ 562400",
+    "China"
+  ],
+  "raw_note": null
+}

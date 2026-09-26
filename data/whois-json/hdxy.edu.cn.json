@@ -1,0 +1,24 @@
+{
+  "root_domain": "hdxy.edu.cn",
+  "type": "full_record",
+  "org_en": "Haidu College Qingdao Agricultural University",
+  "org_cn": null,
+  "domain_name": "HDXY.EDU.CN",
+  "network_name": "Administrative",
+  "admin_contact": "Changxiang Li (CL63-CER)",
+  "nameservers": [
+    {
+      "host": "DNS1.SD.EDU.CN",
+      "ip": "202.194.97.150"
+    },
+    {
+      "host": "DNS2.SD.EDU.CN",
+      "ip": "202.194.97.151"
+    }
+  ],
+  "address": [
+    "Yantai, SD 265200",
+    "China"
+  ],
+  "raw_note": null
+}

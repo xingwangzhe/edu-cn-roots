@@ -1,0 +1,28 @@
+{
+  "root_domain": "hubtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hubei Open University",
+  "org_cn": null,
+  "domain_name": "HUBTVU.EDU.CN",
+  "network_name": "HUBTVU-CN",
+  "admin_contact": "Gang Wang (GW42-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.HUBTVU.EDU.CN",
+      "ip": "210.42.160.59"
+    },
+    {
+      "host": "DNS1.HUBTVU.EDU.CN",
+      "ip": "210.42.160.58"
+    },
+    {
+      "host": "DNS2.HUBTVU.EDU.CN",
+      "ip": "219.140.183.16"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430073",
+    "China"
+  ],
+  "raw_note": null
+}

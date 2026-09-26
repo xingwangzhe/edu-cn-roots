@@ -1,0 +1,24 @@
+{
+  "root_domain": "sicfl.edu.cn",
+  "type": "full_record",
+  "org_en": "Shanghai Industrial&Commercial Foreign Languages",
+  "org_cn": null,
+  "domain_name": "SICFL.EDU.CN",
+  "network_name": "SICFL-CN",
+  "admin_contact": "Xiaojun Yan (XY70-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.sicfl.edu.cn",
+      "ip": "219.220.191.1"
+    },
+    {
+      "host": "dns2.sicfl.edu.cn",
+      "ip": "219.220.176.67"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 201300",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "dhu.edu.cn",
+  "type": "full_record",
+  "org_en": "Dong Hua University",
+  "org_cn": null,
+  "domain_name": "DHU.EDU.CN",
+  "network_name": "CTU-CN",
+  "admin_contact": "Min Wu (MW6-CER)",
+  "nameservers": [
+    {
+      "host": "SUNSHINE.DHU.EDU.CN",
+      "ip": "202.120.144.2"
+    },
+    {
+      "host": "DNS.DHU.EDU.CN",
+      "ip": "218.193.144.2"
+    }
+  ],
+  "address": [
+    "Shanghai, SH 200051",
+    "China"
+  ],
+  "raw_note": null
+}

@@ -1,0 +1,24 @@
+{
+  "root_domain": "hait.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan Institute of Technology",
+  "org_cn": null,
+  "domain_name": "HAIT.EDU.CN",
+  "network_name": "HAJZU-CN",
+  "admin_contact": "Xianfeng Zheng (XZ102-CER)",
+  "nameservers": [
+    {
+      "host": "dns.hait.edu.cn",
+      "ip": "211.69.0.8"
+    },
+    {
+      "host": "dns2.hait.edu.cn",
+      "ip": "211.69.0.15"
+    }
+  ],
+  "address": [
+    "Xinxiang, HA 453000",
+    "China"
+  ],
+  "raw_note": null
+}
