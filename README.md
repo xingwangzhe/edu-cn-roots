@@ -70,7 +70,9 @@ CSV 使用 UTF-8 BOM，适合常见表格软件直接打开。行首 12 列为�
 
 ## 来源与采集说明
 
-WHOIS 查询使用 CERNIC 官方查询入口：<https://www.nic.edu.cn/cgi-bin/reg/otherobj>。查询入口接受域名、网络名或 IP 作为 `query` 参数。本数据集的逐域核验对象为表内根域名。该服务返回内容可能是完整英文 WHOIS 记录，也可能是中文单行注册状态，或无匹配结果；本仓库将这些结果整理为 `full_record`、`cn_status` 和 `not_found` 三类。
+WHOIS 查询使用 CERNIC 官方查询入口：<https://www.nic.edu.cn/cgi-bin/reg/otherobj>。查询入口接受域名、网络名或 IP 作为 `query` 参数。本数据集的逐域核验对象为表内根域名。**截至 2026-09-26 的实测，查询无需登录或 Cookie，也不要求处于教育网环境；从非教育网公网出口可以直接访问并查询。**这是该日期的可达性测试结果，未来网络策略或服务可用性可能变化。
+
+该服务返回内容可能是完整英文 WHOIS 记录，也可能是中文单行注册状态，或无匹配结果；本仓库将这些结果整理为 `full_record`、`cn_status` 和 `not_found` 三类。
 
 域名发现列表来自多种公开来源和历史清单，来源信息保存在 `collected_from`、`source_last_observed`、`evidence_hostnames` 和 `review_notes` 中。DNS 记录及 CERNET 地址列表关联是独立维度，不应与 CERNIC WHOIS 结果混为一谈。
 
