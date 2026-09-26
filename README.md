@@ -70,7 +70,7 @@ CSV 使用 UTF-8 BOM，适合常见表格软件直接打开。行首 12 列为�
 
 ## 来源与采集说明
 
-WHOIS 查询使用 CERNIC 官方查询入口：<https://www.nic.edu.cn/cgi-bin/reg/otherobj>。查询入口接受域名、网络名或 IP 作为 `query` 参数。本数据集的逐域核验对象为表内根域名。**截至 2026-09-26 的实测，查询无需登录或 Cookie，也不要求处于教育网环境；从非教育网公网出口可以直接访问并查询。**这是该日期的可达性测试结果，未来网络策略或服务可用性可能变化。
+WHOIS 查询使用 CERNIC 官方查询入口：<https://www.nic.edu.cn/cgi-bin/reg/otherobj>。查询入口接受域名、网络名或 IP 作为 `query` 参数。本数据集的逐域核验对象为表内根域名。**截至 2026-09-26 的实测，该 WHOIS 接口只能在教育网环境下查询。**使用 Check-Host 从 12 个境外公开 HTTP 探测节点请求 WHOIS 接口，全部收到 `403 Forbidden`；同日对 CERNIC 首页的 12 节点对照请求均返回 `200 OK`。可查看 [WHOIS 接口检测报告](https://check-host.net/check-report/4d8fa59ck9cd) 和 [首页对照报告](https://check-host.net/check-report/4d8fab19kf07)。此结论描述本次实际测试到的访问条件；检测报告没有列出各探测节点的源 IP，因此不应据此推导完整的允许/拒绝 IP 段。网络策略和服务可用性可能变化。
 
 该服务返回内容可能是完整英文 WHOIS 记录，也可能是中文单行注册状态，或无匹配结果；本仓库将这些结果整理为 `full_record`、`cn_status` 和 `not_found` 三类。
 
