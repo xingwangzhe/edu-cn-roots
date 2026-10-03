@@ -21,6 +21,73 @@ https://raw.githubusercontent.com/xingwangzhe/edu-cn-roots/main/data/edu-cn-root
 git clone https://github.com/xingwangzhe/edu-cn-roots.git
 ```
 
+## 通过 jsDelivr CDN 引用文件
+
+无需克隆仓库，可以通过 jsDelivr 的 GitHub CDN 下载 CSV、汇总 JSON 或逐域 JSON。通用地址格式为：
+
+```text
+https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots@main/<仓库内文件路径>
+```
+
+### 可直接使用的地址
+
+| 文件 | CDN 地址 |
+| --- | --- |
+| 单个域名的 WHOIS JSON | [jxutcm.edu.cn.json](https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots@main/data/whois-json/jxutcm.edu.cn.json) |
+| WHOIS 汇总 JSON（含日期、数量和记录） | [edu-cn-roots-whois-2026-09-26.json](https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots@main/data/edu-cn-roots-whois-2026-09-26.json) |
+| WHOIS CSV | [edu-cn-roots-whois-2026-09-26.csv](https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots@main/data/edu-cn-roots-whois-2026-09-26.csv) |
+
+省略版本也可以引用，例如：
+
+```text
+https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots/data/whois-json/jxutcm.edu.cn.json
+```
+
+建议显式写出 `@main`，明确引用的分支。需要可复现的数据时，将 `@main` 替换为对应的完整 Git commit SHA，固定到一次提交。
+
+### 浏览器读取逐域 JSON
+
+逐域文件以根域名命名。下面的示例会将 `www.jxutcm.edu.cn` 或更多层前缀自动剥离为 `jxutcm.edu.cn`，再读取对应文件：
+
+```javascript
+async function readEduCnWhois(input) {
+  const domain = input.trim().toLowerCase();
+  const validDomain = /^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?)*\.[a-z]{2,}$/;
+  if (domain.length > 253 || !validDomain.test(domain) || !domain.endsWith(".edu.cn")) {
+    throw new Error("请输入有效的 edu.cn 域名，例如 jxutcm.edu.cn");
+  }
+
+  const rootDomain = domain.split(".").slice(-3).join(".");
+  const url = `https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots@main/data/whois-json/${rootDomain}.json`;
+  const response = await fetch(url, { signal: AbortSignal.timeout(15000) });
+  if (!response.ok) {
+    throw new Error(`文件请求失败：HTTP ${response.status}；不能据此判断域名未注册`);
+  }
+  return response.json();
+}
+
+const record = await readEduCnWhois("www.jxutcm.edu.cn");
+console.log(record);
+```
+
+也可以用命令行下载：
+
+```bash
+curl --fail --location \
+  'https://cdn.jsdelivr.net/gh/xingwangzhe/edu-cn-roots@main/data/whois-json/jxutcm.edu.cn.json'
+```
+
+### 更新、缓存与结果边界
+
+- CDN 提供仓库文件的静态副本，不会向 CERNIC 发起实时 WHOIS 查询；当前公开快照采集于 **2026-09-26**。
+- `@main` 跟随主分支，但 CDN 缓存可能延迟反映修改，不保证即时更新。汇总文件的日期和数量请读取 `whois_queried`、`count`；逐域文件的字段以该文件实际结构为准。
+- 汇总文件名包含日期：以后新增另一日期的文件，不会使旧 URL 自动切换，需要更新引用路径。
+- 根域名文件只收录 `edu.cn` 下的一层域名。将子域归一化后，查到的是根域名登记快照，不是子域的独立 WHOIS 记录。
+- HTTP 404 表示请求的文件不存在，可能是路径错误或数据集未收录；网络错误也不是登记状态。JSON 中的 `not_found` 表示当次查询没有匹配记录，都不能作为域名未注册或可注册的证明。
+- CDN 不可用时，可按相同路径尝试 GitHub Raw，例如 [jxutcm.edu.cn 的原始文件](https://raw.githubusercontent.com/xingwangzhe/edu-cn-roots/main/data/whois-json/jxutcm.edu.cn.json)。
+
+完整地址语法和缓存说明见 [jsDelivr 官方文档](https://www.jsdelivr.com/documentation#id-github)。公开网页查询可使用 [needhelp WHOIS 工具](https://needhelp.icu/zh/tools/whois-lookup)，查询方式见 [静态快照说明](https://needhelp.icu/zh/blogs/edu-cn-whois-static-lookup)。
+
 ## 数据范围与口径
 
 - 仅包含直接位于 `edu.cn` 下的一层域名，例如 `tsinghua.edu.cn`；`www.tsinghua.edu.cn` 等更深子域不单独列为根域名。
