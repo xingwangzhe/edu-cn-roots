@@ -1,0 +1,44 @@
+{
+  "root_domain": "htu.edu.cn",
+  "type": "full_record",
+  "org_en": "Henan Normal University",
+  "org_cn": null,
+  "domain_name": "HTU.EDU.CN",
+  "network_name": "HANU-CN",
+  "admin_contact": "Xia Liang (XL4-CER)",
+  "nameservers": [
+    {
+      "host": "dns.htu.edu.cn",
+      "ip": "210.42.241.1",
+      "ipv6": "2001:250:4804::1"
+    },
+    {
+      "host": "dns2.htu.edu.cn",
+      "ip": "210.42.241.2",
+      "ipv6": "2001:250:4804::2"
+    }
+  ],
+  "address": [
+    "Xinxiang, HA 453007",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=htu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois htu.edu.cn ?\n\nHenan Normal University \n   Xinxiang, HA 453007\n   China\n\n   Domain Name: HTU.EDU.CN\n\n   Network Name:   HANU-CN\n\n   Administrative Contact, Technical Contact:\n      Xia Liang  (XL4-CER) \n\n   Domain Servers in listed order:\n\n   dns.htu.edu.cn      \t210.42.241.1\t2001:250:4804::1\n   dns2.htu.edu.cn     \t210.42.241.2\t2001:250:4804::2\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Henan Normal University",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/htu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "htu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

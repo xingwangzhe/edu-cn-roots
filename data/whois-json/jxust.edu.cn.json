@@ -1,0 +1,44 @@
+{
+  "root_domain": "jxust.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangxi University of Science & Technology",
+  "org_cn": null,
+  "domain_name": "JXUST.EDU.CN",
+  "network_name": "JUST-CN",
+  "admin_contact": "XiaoRong Li (XL101-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.jxust.edu.cn",
+      "ip": "219.229.224.2",
+      "ipv6": "2001:250:6C0B:281:219:229:224:2"
+    },
+    {
+      "host": "dns2.jxust.edu.cn",
+      "ip": "218.87.136.7",
+      "ipv6": "2001:250:6C0B:281:219:229:224:3"
+    }
+  ],
+  "address": [
+    "Ganzhou, JX 341000",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jxust.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois jxust.edu.cn ?\n\nJiangxi University of Science & Technology \n   Ganzhou, JX 341000\n   China\n\n   Domain Name: JXUST.EDU.CN\n\n   Network Name:   JUST-CN\n\n   Administrative Contact, Technical Contact:\n      XiaoRong Li  (XL101-CER) \n\n   Domain Servers in listed order:\n\n   dns1.jxust.edu.cn   \t219.229.224.2\t2001:250:6C0B:281:219:229:224:2\n   dns2.jxust.edu.cn   \t218.87.136.7\t2001:250:6C0B:281:219:229:224:3\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Jiangxi University of Science & Technology",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/jxust.txt; https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/jxust/mail.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "jxust.edu.cn; mail.jxust.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

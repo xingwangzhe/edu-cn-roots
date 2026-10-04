@@ -1,0 +1,42 @@
+{
+  "root_domain": "neuq.edu.cn",
+  "type": "full_record",
+  "org_en": "Northeast Universitty At Qinhuangdao Compus",
+  "org_cn": null,
+  "domain_name": "NEUQ.EDU.CN",
+  "network_name": "NEUQ-CN",
+  "admin_contact": "Xiaoping Liu (XL16-CER)",
+  "nameservers": [
+    {
+      "host": "DNS.NEUQ.EDU.CN",
+      "ip": "202.206.16.2"
+    },
+    {
+      "host": "MAIL.NEUQ.EDU.CN",
+      "ip": "202.206.16.3"
+    }
+  ],
+  "address": [
+    "Qinhuangdao, HE 066004",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=neuq.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois neuq.edu.cn ?\n\nNortheast Universitty At Qinhuangdao Compus \n   Qinhuangdao, HE 066004\n   China\n\n   Domain Name: NEUQ.EDU.CN\n\n   Network Name:   NEUQ-CN\n\n   Administrative Contact, Technical Contact:\n      Xiaoping Liu  (XL16-CER) \n\n   Domain Servers in listed order:\n\n   DNS.NEUQ.EDU.CN     \t202.206.16.2\n   MAIL.NEUQ.EDU.CN    \t202.206.16.3\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Northeast Universitty At Qinhuangdao Compus",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/neuq.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "neuq.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

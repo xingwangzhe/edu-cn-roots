@@ -1,0 +1,44 @@
+{
+  "root_domain": "gdgm.edu.cn",
+  "type": "full_record",
+  "org_en": "Guangdong Vocational College of Industry & Commerce",
+  "org_cn": null,
+  "domain_name": "GDGM.EDU.CN",
+  "network_name": "GDGM-CN",
+  "admin_contact": "Bin Wang (BW10-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.gdgm.edu.cn",
+      "ip": "219.222.208.238",
+      "ipv6": "2001:da8:2021:0:219:222:208:238"
+    },
+    {
+      "host": "dns2.gdgm.edu.cn",
+      "ip": "219.222.208.236",
+      "ipv6": "2001:da8:2021:0:219:222:208:236"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510510",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gdgm.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois gdgm.edu.cn ?\n\nGuangdong Vocational College of Industry & Commerce \n   Guangzhou, GD 510510\n   China\n\n   Domain Name: GDGM.EDU.CN\n\n   Network Name:   GDGM-CN\n\n   Administrative Contact, Technical Contact:\n      Bin Wang  (BW10-CER) \n\n   Domain Servers in listed order:\n\n   dns1.gdgm.edu.cn    \t219.222.208.238\t2001:da8:2021:0:219:222:208:238\n   dns2.gdgm.edu.cn    \t219.222.208.236\t2001:da8:2021:0:219:222:208:236\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Guangdong Vocational College of Industry & Commerce",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/gdgm/stu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "stu.gdgm.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

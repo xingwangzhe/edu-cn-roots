@@ -24,5 +24,23 @@
     "Jinan, SD 250100",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sdu.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "山东大学",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-09-07T14:53:00; 2017-09-22T03:50:00; 2017-09-22T03:58:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "211.86.56.247; 202.194.15.6; 202.194.14.6",
+    "AAAA_records": "",
+    "NS_records": "sdunetsv2.sdu.edu.cn; sdunetsv3.sdu.edu.cn; sdunetnms.sdu.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 211.86.56.247; A overlaps CERNIC IPv4 list: 202.194.15.6; A overlaps CERNIC IPv4 list: 202.194.14.6",
+    "evidence_hostnames": "bbs.sdu.edu.cn; card.sdu.edu.cn; cas.sdu.edu.cn; epay.sdu.edu.cn; info.tsxt.sdu.edu.cn; mirror.sdu.edu.cn; online.sdu.edu.cn; sdu.edu.cn; www.online.sdu.edu.cn; www.sdu.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

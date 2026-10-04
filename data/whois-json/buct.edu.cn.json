@@ -32,5 +32,23 @@
     "Beijing, BJ 100029",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=buct.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "北京化工大学",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-09-12T03:17:00; 2017-09-28T00:08:00; 2017-10-01T12:58:49",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "222.199.255.27",
+    "AAAA_records": "",
+    "NS_records": "ns5.buct.edu.cn; ns3.buct.edu.cn; ns4.buct.edu.cn; ns.buct.edu.cn; ns2.buct.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 222.199.255.27",
+    "evidence_hostnames": "app.buct.edu.cn; bt.buct.edu.cn; buct.edu.cn; dssa.buct.edu.cn; i.buct.edu.cn; img.app.buct.edu.cn; pay.buct.edu.cn; track.buct.edu.cn; ubuntu.buct.edu.cn; wechat.snc.buct.edu.cn; weixin.buct.edu.cn; www.buct.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

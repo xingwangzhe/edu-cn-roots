@@ -20,5 +20,23 @@
     "Beijing, BJ 100084",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=time.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "CERNIC Network Time Services",
+    "collected_from": "CERNIC WHOIS spot-check",
+    "source_last_observed": "2026-09-26",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "101.4.126.36; 202.118.1.81; 101.4.126.12; 202.118.1.130",
+    "AAAA_records": "",
+    "NS_records": "dns2.edu.cn; dns.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 101.4.126.36; A overlaps CERNIC IPv4 list: 202.118.1.81; A overlaps CERNIC IPv4 list: 101.4.126.12; A overlaps CERNIC IPv4 list: 202.118.1.130",
+    "evidence_hostnames": "time.edu.cn",
+    "review_notes": "CERNIC network time service domain; retained because user requested all observed edu.cn roots; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

@@ -1,0 +1,47 @@
+{
+  "root_domain": "crtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "The Open University of China",
+  "org_cn": null,
+  "domain_name": "CRTVU.EDU.CN",
+  "network_name": "SECCET-CN",
+  "admin_contact": "Weimin Ren (WR1-CER)",
+  "nameservers": [
+    {
+      "host": "PDNS.CRTVU.EDU.CN",
+      "ip": "202.205.160.3",
+      "ipv6": "2001:DA8:23E::AAAA:1111"
+    },
+    {
+      "host": "FDNS.CRTVU.EDU.CN",
+      "ip": "219.142.50.126"
+    },
+    {
+      "host": "SDNS.CRTVU.EDU.CN",
+      "ip": "202.205.160.4"
+    }
+  ],
+  "address": [
+    "Beijing, BJ 100031",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=crtvu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois crtvu.edu.cn ?\n\nThe Open University of China \n   Beijing, BJ 100031\n   China\n\n   Domain Name: CRTVU.EDU.CN\n\n   Network Name:   SECCET-CN\n\n   Administrative Contact, Technical Contact:\n      Weimin Ren  (WR1-CER) \n\n   Domain Servers in listed order:\n\n   PDNS.CRTVU.EDU.CN   \t202.205.160.3\t2001:DA8:23E::AAAA:1111\n   FDNS.CRTVU.EDU.CN   \t219.142.50.126\n   SDNS.CRTVU.EDU.CN   \t202.205.160.4\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "The Open University of China",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/crtvu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "crtvu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

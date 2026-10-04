@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "root_domain": "whtu.edu.cn",
+  "type": "full_record",
+  "org_en": "Wuhan University of Technology",
+  "org_cn": null,
+  "domain_name": "WHTU.EDU.CN",
+  "network_name": "WHTU-CN",
+  "admin_contact": "He Huang (HH5-CN)",
+  "reg_date": null,
+  "nameservers": [
+    {
+      "host": "dns.whtu.edu.cn",
+      "ip": "202.114.160.10"
+    },
+    {
+      "host": "sun10.whtu.edu.cn",
+      "ip": "202.114.160.20"
+    }
+  ],
+  "address": [
+    "Wuhan, HB 430063",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=whtu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois whtu.edu.cn ?\n\nWuhan University of Technology \n   Wuhan, HB 430063\n   China\n\n   Domain Name: WHTU.EDU.CN\n\n   Network Name:   WHTU-CN\n\n   Administrative Contact, Technical Contact:\n      He Huang  (HH5-CN) \n\n   Domain Servers in listed order:\n\n   dns.whtu.edu.cn     \t202.114.160.10\n   sun10.whtu.edu.cn   \t202.114.160.20\n",
+  "metadata": {
+    "organization_or_record_name": "Wuhan University of Technology",
+    "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "whtu.edu.cn; www.whtu.edu.cn",
+    "review_notes": "Hipo source labels: Wuhan Transportation University. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+  }
+}

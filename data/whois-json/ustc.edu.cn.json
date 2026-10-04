@@ -20,5 +20,23 @@
     "Hefei, AH 230026",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ustc.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "中国科学技术大学",
+    "collected_from": "PTR sample in CERNIC-published address ranges; crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-09-30T18:01:55; 2017-09-30T21:52:41; 2017-10-02T18:02:07",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "202.38.64.246",
+    "AAAA_records": "2001:da8:d800:642::248",
+    "NS_records": "mx.ustc.edu.cn; ns.ustc.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.38.64.246; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:d800:642::248",
+    "evidence_hostnames": "abnerwang.blog.ustc.edu.cn; aemol.ustc.edu.cn; auth.lib.ustc.edu.cn; bbs.ustc.edu.cn; bbs2.ustc.edu.cn; bbs3.ustc.edu.cn; bbs6.ustc.edu.cn; bjwl.ustc.edu.cn; blackip.ustc.edu.cn; blog.lug.ustc.edu.cn; blog.ustc.edu.cn; cnote.ustc.edu.cn; www.ustc.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

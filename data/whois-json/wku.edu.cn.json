@@ -20,5 +20,23 @@
     "Wenzhou, ZJ 325000",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=wku.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "温州肯恩大学",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2013-06-17T00:00:00; 2014-12-09T00:00:00; 2015-06-25T00:00:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "122.225.234.116",
+    "AAAA_records": "2001:250:640c::f",
+    "NS_records": "ns2.service.edu.cn; ns1.service.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:640c::f",
+    "evidence_hostnames": "discovery.ougan.wku.edu.cn; librarysso.wku.edu.cn; m.ougan.wku.edu.cn; mediasite.wku.edu.cn; ougan.wku.edu.cn; sso.wku.edu.cn; www.wku.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

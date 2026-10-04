@@ -1,0 +1,44 @@
+{
+  "root_domain": "hainanu.edu.cn",
+  "type": "full_record",
+  "org_en": "Hainan University",
+  "org_cn": null,
+  "domain_name": "HAINANU.EDU.CN",
+  "network_name": "HAINU-CN",
+  "admin_contact": "Qinggang Li (QL52-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.hainanu.edu.cn",
+      "ip": "210.37.40.11",
+      "ipv6": "2001:250:3801:201::11"
+    },
+    {
+      "host": "ns2.hainanu.edu.cn",
+      "ip": "59.50.85.60",
+      "ipv6": "2001:250:3801:201::13"
+    }
+  ],
+  "address": [
+    "Haikou, HI 570228",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hainanu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois hainanu.edu.cn ?\n\nHainan University \n   Haikou, HI 570228\n   China\n\n   Domain Name: HAINANU.EDU.CN\n\n   Network Name:   HAINU-CN\n\n   Administrative Contact, Technical Contact:\n      Qinggang Li  (QL52-CER) \n\n   Domain Servers in listed order:\n\n   ns1.hainanu.edu.cn  \t210.37.40.11\t2001:250:3801:201::11\n   ns2.hainanu.edu.cn  \t59.50.85.60\t2001:250:3801:201::13\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Hainan University",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/hainanu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "hainanu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

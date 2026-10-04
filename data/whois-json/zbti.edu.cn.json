@@ -1,0 +1,44 @@
+{
+  "root_domain": "zbti.edu.cn",
+  "type": "full_record",
+  "org_en": "Zhejiang Business Technology Institute",
+  "org_cn": null,
+  "domain_name": "ZBTI.EDU.CN",
+  "network_name": "ZBTI-CN",
+  "admin_contact": "Huanqiang Bian (HB6-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.service.edu.cn",
+      "ip": "202.112.5.49",
+      "ipv6": "2001:da8:257:1111::8888"
+    },
+    {
+      "host": "ns2.service.edu.cn",
+      "ip": "202.112.4.49",
+      "ipv6": "2001:da8:257:2222::8888"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315012",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zbti.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois zbti.edu.cn ?\n\nZhejiang Business Technology Institute \n   Ningbo, ZJ 315012\n   China\n\n   Domain Name: ZBTI.EDU.CN\n\n   Network Name:   ZBTI-CN\n\n   Administrative Contact, Technical Contact:\n      Huanqiang Bian  (HB6-CER) \n\n   Domain Servers in listed order:\n\n   ns1.service.edu.cn  \t202.112.5.49\t2001:da8:257:1111::8888\n   ns2.service.edu.cn  \t202.112.4.49\t2001:da8:257:2222::8888\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Zhejiang Business Technology Institute",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/zbti.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "zbti.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

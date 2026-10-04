@@ -1,0 +1,13 @@
+{
+  "updated": "2026-10-04",
+  "count": 1439,
+  "result_types": {
+    "cn_status": 221,
+    "full_record": 1195,
+    "not_found": 23
+  },
+  "query_dates": {
+    "2026-09-26": 1317,
+    "2026-10-04": 122
+  }
+}

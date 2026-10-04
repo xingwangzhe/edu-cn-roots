@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "root_domain": "wtusm.edu.cn",
+  "type": "cn_status",
+  "org_en": null,
+  "org_cn": "武汉测绘科技大学",
+  "domain_name": null,
+  "network_name": null,
+  "admin_contact": null,
+  "reg_date": "19960325",
+  "nameservers": [],
+  "address": [],
+  "raw_note": "域名 wtusm.edu.cn 已于19960325 在CERNIC注册 [武汉测绘科技大学]",
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=wtusm.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois wtusm.edu.cn ?\n\n域名 wtusm.edu.cn 已于19960325 在CERNIC注册 [武汉测绘科技大学]\n\n\nBack",
+  "metadata": {
+    "organization_or_record_name": "武汉测绘科技大学",
+    "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed CERNIC Chinese registration status (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "wtusm.edu.cn; www.wtusm.edu.cn",
+    "review_notes": "Hipo source labels: Wuhan Technical University of Surveying and Mapping. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+  }
+}

@@ -20,5 +20,23 @@
     "Guangzhou, GD 510163",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gzsx.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "Guangzhou Vocational School Of Finance And Business",
+    "collected_from": "crt.sh CT",
+    "source_last_observed": "2017-06-21T01:39:00; 2017-06-21T01:40:00; 2017-06-22T02:15:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "ns2.service.edu.cn; ns1.service.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
+    "evidence_hostnames": "collection.gzsx.edu.cn; hr.gzsx.edu.cn; ids.gzsx.edu.cn; jw.gzsx.edu.cn; oa.gzsx.edu.cn; pm.gzsx.edu.cn; portal.gzsx.edu.cn; smart.gzsx.edu.cn; szxy.gzsx.edu.cn; szyx.gzsx.edu.cn; www.gzsx.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

@@ -28,5 +28,23 @@
     "Shanghai, SH 200072",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shec.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "Shanghai Teacher Institute",
+    "collected_from": "crt.sh CT",
+    "source_last_observed": "2014-12-02T02:57:11; 2014-12-02T03:08:55; 2015-05-26T05:54:07",
+    "current_dns_status": "A=NOERROR (Cloudflare fallback); AAAA=NOERROR (Cloudflare fallback); NS=NOERROR",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "apple.shec.edu.cn; apple2.shec.edu.cn; apple3.shec.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
+    "evidence_hostnames": "autodiscover.shec.edu.cn; kxxfx.shec.edu.cn; mail.shec.edu.cn; owa.shec.edu.cn; shec.edu.cn; w.shec.edu.cn; wayf.shec.edu.cn; www.kxxfx.shec.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

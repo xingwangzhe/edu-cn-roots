@@ -20,5 +20,23 @@
     "Shenyang, LN 110000",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=lnzs.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "辽宁省高中等教育招生考试委员会办公室",
+    "collected_from": "CERNET导报 1998 Q3, CERNIC新增域名表",
+    "source_last_observed": "1998-1999 registry publication",
+    "current_dns_status": "A=DNS status 2; AAAA=DNS status 2; NS=DNS status 2",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
+    "evidence_hostnames": "lnzs.edu.cn",
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

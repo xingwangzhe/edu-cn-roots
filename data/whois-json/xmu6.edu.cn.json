@@ -20,5 +20,23 @@
     "Xiamen, FJ 361005",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xmu6.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "Xiamen University",
+    "collected_from": "crt.sh CT",
+    "source_last_observed": "2017-08-07T06:58:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "219.229.81.200",
+    "AAAA_records": "2001:da8:e800:251c::200",
+    "NS_records": "ns1.xmu.edu.cn; ns2.xmu.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 219.229.81.200; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:e800:251c::200",
+    "evidence_hostnames": "www.xmu6.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

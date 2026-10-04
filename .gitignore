@@ -10,3 +10,8 @@ whois-json/
 
 # Local tooling
 .workbuddy/
+
+# Generated exports and Python caches
+build/
+__pycache__/
+.venv/

@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "root_domain": "qzu.edu.cn",
+  "type": "full_record",
+  "org_en": "Qiongzhou University",
+  "org_cn": null,
+  "domain_name": "QZU.EDU.CN",
+  "network_name": "QZU-CN",
+  "admin_contact": null,
+  "reg_date": null,
+  "nameservers": [
+    {
+      "host": "DNS1.QZU.EDU.CN",
+      "ip": "210.37.144.1"
+    },
+    {
+      "host": "DNS2.QZU.EDU.CN",
+      "ip": "210.37.144.2"
+    }
+  ],
+  "address": [
+    "Tongshi, HI 572200",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=qzu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois qzu.edu.cn ?\n\nQiongzhou University \n   Tongshi, HI 572200\n   China\n\n   Domain Name: QZU.EDU.CN\n\n   Network Name:   QZU-CN\n\n   Administrative Contact:\n      Tian Lin  (TL5-CER) \n   Network Name:   QZU-CN\n\n   Technical Contact:\n      Bing Wei  (BW3-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.QZU.EDU.CN     \t210.37.144.1\n   DNS2.QZU.EDU.CN     \t210.37.144.2\n",
+  "metadata": {
+    "organization_or_record_name": "Qiongzhou University",
+    "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "qzu.edu.cn; www.qzu.edu.cn",
+    "review_notes": "Hipo source labels: Qiongzhou University. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+  }
+}

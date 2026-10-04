@@ -32,5 +32,23 @@
     "Shanghai, SH 200433",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=fudan.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "复旦大学",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-08-24T09:11:00; 2017-09-15T05:12:00; 2017-09-22T03:05:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "175.186.248.54",
+    "AAAA_records": "240c:c701:1:3513::54",
+    "NS_records": "ns1.fudan.edu.cn; ns2.fudan.edu.cn; ns4.fudan.edu.cn; ns3.fudan.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 175.186.248.54; AAAA overlaps CERNIC-published IPv6 address/peering list: 240c:c701:1:3513::54",
+    "evidence_hostnames": "adfs.fudan.edu.cn; alumnidb.fudan.edu.cn; bbs.fudan.edu.cn; ctf.fudan.edu.cn; epedigree.fudan.edu.cn; fudan.edu.cn; idp.fudan.edu.cn; pt.vm.fudan.edu.cn; sso.fdsm.fudan.edu.cn; tac.fudan.edu.cn; weblogin.fudan.edu.cn; www.alumnidb.fudan.edu.cn; www.fudan.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

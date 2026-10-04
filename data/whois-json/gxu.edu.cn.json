@@ -32,5 +32,23 @@
     "Nanning, GX 530004",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gxu.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "广西大学行健文理学院",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2015-10-10T09:23:53; 2016-11-16T00:00:00; 2016-12-01T00:00:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "cranelt.gxu.edu.cn; crane.gxu.edu.cn; pigeon.gxu.edu.cn; pigeonlt.gxu.edu.cn; pigeondx.gxu.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
+    "evidence_hostnames": "apps.gxu.edu.cn; cems.gxu.edu.cn; cscada.gxu.edu.cn; ecloud.gxu.edu.cn; pay.gxu.edu.cn; www.gxu.edu.cn; xingjian.gxu.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

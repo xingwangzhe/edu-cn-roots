@@ -1,0 +1,42 @@
+{
+  "root_domain": "jou.edu.cn",
+  "type": "full_record",
+  "org_en": "Jiangsu Ocean University",
+  "org_cn": null,
+  "domain_name": "JOU.EDU.CN",
+  "network_name": "HHIT-CN",
+  "admin_contact": null,
+  "nameservers": [
+    {
+      "host": "JOU1.JOU.EDU.CN",
+      "ip": "210.28.39.88"
+    },
+    {
+      "host": "JOU2.JOU.EDU.CN",
+      "ip": "2001:250:500E:1502:1::2"
+    }
+  ],
+  "address": [
+    "Lianyungang, JS 222005",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jou.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois jou.edu.cn ?\n\nJiangsu Ocean University \n   Lianyungang, JS 222005\n   China\n\n   Domain Name: JOU.EDU.CN\n\n   Network Name:   HHIT-CN\n\n   Administrative Contact:\n      Liang Haijun  (LH27-CER) \n   Network Name:   HHIT-CN\n\n   Technical Contact:\n      YongQiang Liu  (YL220-CER) \n\n   Domain Servers in listed order:\n\n   JOU1.JOU.EDU.CN     \t210.28.39.88\n   JOU2.JOU.EDU.CN     \t2001:250:500E:1502:1::2\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Jiangsu Ocean University",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/jou.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "jou.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

@@ -7,5 +7,24 @@
   "network_name": null,
   "admin_contact": null,
   "nameservers": [],
-  "raw_note": "域名 hhuwtian.edu.cn  已于20080613 在CERNIC注册 [河海大学文天学院]"
+  "raw_note": "域名 hhuwtian.edu.cn  已于20080613 在CERNIC注册 [河海大学文天学院]",
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hhuwtian.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "河海大学文天学院",
+    "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
+    "current_dns_status": "A=NXDOMAIN; AAAA=NXDOMAIN; NS=NXDOMAIN",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed registered in CERNIC; registration date 20080613 (queried 2026-09-26)",
+    "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
+    "evidence_hostnames": "www.hhuwtian.edu.cn",
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "domain_name": null,
+  "raw_text": null,
+  "address": []
 }

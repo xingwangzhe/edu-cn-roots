@@ -1,0 +1,30 @@
+{
+  "root_domain": "hebnu.edu.cn",
+  "type": "cn_status",
+  "org_en": null,
+  "org_cn": "河北师范大学",
+  "domain_name": null,
+  "network_name": null,
+  "admin_contact": null,
+  "nameservers": [],
+  "address": [],
+  "raw_note": "域名 hebnu.edu.cn 已于20000317 在CERNIC注册 [河北师范大学]",
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hebnu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois hebnu.edu.cn ?\n\n域名 hebnu.edu.cn 已于20000317 在CERNIC注册 [河北师范大学]\n\n\nBack",
+  "reg_date": "20000317",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "河北师范大学",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/hebnu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed CERNIC Chinese registration status (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "hebnu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  }
+}

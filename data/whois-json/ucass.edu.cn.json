@@ -1,0 +1,47 @@
+{
+  "root_domain": "ucass.edu.cn",
+  "type": "full_record",
+  "org_en": "University Of Chinese Academy Of Social Sciences",
+  "org_cn": null,
+  "domain_name": "UCASS.EDU.CN",
+  "network_name": "UCASS-CN",
+  "admin_contact": "Gang Wang (GW32-CER)",
+  "nameservers": [
+    {
+      "host": "ns1.ucass.edu.cn",
+      "ip": "118.228.246.91",
+      "ipv6": "2001:250:22b:303::28"
+    },
+    {
+      "host": "ns2.ucass.edu.cn",
+      "ip": "114.247.165.91"
+    },
+    {
+      "host": "ns3.ucass.edu.cn",
+      "ip": "103.132.23.91"
+    }
+  ],
+  "address": [
+    "BeiJing, BJ 102488",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ucass.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois ucass.edu.cn ?\n\nUniversity Of Chinese Academy Of Social Sciences \n   BeiJing, BJ 102488\n   China\n\n   Domain Name: UCASS.EDU.CN\n\n   Network Name:   UCASS-CN\n\n   Administrative Contact, Technical Contact:\n      Gang Wang  (GW32-CER) \n\n   Domain Servers in listed order:\n\n   ns1.ucass.edu.cn    \t118.228.246.91\t2001:250:22b:303::28\n   ns2.ucass.edu.cn    \t114.247.165.91\n   ns3.ucass.edu.cn    \t103.132.23.91\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "University Of Chinese Academy Of Social Sciences",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/ucass.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "ucass.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

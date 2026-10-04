@@ -16,5 +16,23 @@
     "Beijing, BJ 100084",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tunel.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "Tsinghua University",
+    "collected_from": "crt.sh CT",
+    "source_last_observed": "2017-05-31T15:01:00; 2017-08-19T14:02:00; 2017-08-31T15:01:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "219.243.211.253",
+    "AAAA_records": "",
+    "NS_records": "ns1.tunel.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 219.243.211.253",
+    "evidence_hostnames": "chat.tunel.edu.cn; dev.fit.tunel.edu.cn; europa.tunel.edu.cn; git.tunel.edu.cn; nms.tunel.edu.cn; spring.tunel.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

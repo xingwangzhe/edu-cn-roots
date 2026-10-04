@@ -1,0 +1,43 @@
+{
+  "root_domain": "nwafu.edu.cn",
+  "type": "full_record",
+  "org_en": "Northwest Agriculture & Forestry University",
+  "org_cn": null,
+  "domain_name": "NWAFU.EDU.CN",
+  "network_name": "NSTUAF-CN",
+  "admin_contact": "Li Li (LL48-CER)",
+  "nameservers": [
+    {
+      "host": "NCS1.NWAFU.EDU.CN",
+      "ip": "210.27.80.2",
+      "ipv6": "2001:250:1002::3"
+    },
+    {
+      "host": "NCS2.NWAFU.EDU.CN",
+      "ip": "61.150.47.1"
+    }
+  ],
+  "address": [
+    "Xi'an, SN 712100",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nwafu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois nwafu.edu.cn ?\n\nNorthwest Agriculture & Forestry University \n   Xi'an, SN 712100\n   China\n\n   Domain Name: NWAFU.EDU.CN\n\n   Network Name:   NSTUAF-CN\n\n   Administrative Contact, Technical Contact:\n      Li Li  (LL48-CER) \n\n   Domain Servers in listed order:\n\n   NCS1.NWAFU.EDU.CN   \t210.27.80.2\t2001:250:1002::3\n   NCS2.NWAFU.EDU.CN   \t61.150.47.1\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Northwest Agriculture & Forestry University",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/nwafu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "nwafu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

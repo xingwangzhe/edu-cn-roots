@@ -1,0 +1,1254 @@
+{
+  "source_commit": "603e10f51b67c6553b9bca9aecc0db4c2417ed10",
+  "source_url": "https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+  "all_university_records": 10268,
+  "edu_cn_university_records": 365,
+  "domains_field_roots": 364,
+  "web_pages_field_roots": 364,
+  "unique_edu_cn_roots": 364,
+  "local_roots": 1380,
+  "overlap": 305,
+  "new_count": 59,
+  "web_pages_only_roots": [],
+  "new_candidates": [
+    {
+      "root_domain": "biti.edu.cn",
+      "evidence": [
+        {
+          "name": "Beijing Information Science and Technology University",
+          "country": "China",
+          "field": "domains",
+          "value": "biti.edu.cn",
+          "hostname": "biti.edu.cn",
+          "record_index": 2332
+        },
+        {
+          "name": "Beijing Information Science and Technology University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.biti.edu.cn/",
+          "hostname": "www.biti.edu.cn",
+          "record_index": 2332
+        }
+      ]
+    },
+    {
+      "root_domain": "bjaeu.edu.cn",
+      "evidence": [
+        {
+          "name": "China Agriculture University East",
+          "country": "China",
+          "field": "domains",
+          "value": "bjaeu.edu.cn",
+          "hostname": "bjaeu.edu.cn",
+          "record_index": 2334
+        },
+        {
+          "name": "China Agriculture University East",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.bjaeu.edu.cn/",
+          "hostname": "www.bjaeu.edu.cn",
+          "record_index": 2334
+        }
+      ]
+    },
+    {
+      "root_domain": "bjpeu.edu.cn",
+      "evidence": [
+        {
+          "name": "Beijing Petroleum University",
+          "country": "China",
+          "field": "domains",
+          "value": "bjpeu.edu.cn",
+          "hostname": "bjpeu.edu.cn",
+          "record_index": 2337
+        },
+        {
+          "name": "Beijing Petroleum University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.bjpeu.edu.cn/",
+          "hostname": "www.bjpeu.edu.cn",
+          "record_index": 2337
+        }
+      ]
+    },
+    {
+      "root_domain": "bjpu.edu.cn",
+      "evidence": [
+        {
+          "name": "Beijing Polytechnic University",
+          "country": "China",
+          "field": "domains",
+          "value": "bjpu.edu.cn",
+          "hostname": "bjpu.edu.cn",
+          "record_index": 2338
+        },
+        {
+          "name": "Beijing Polytechnic University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.bjpu.edu.cn/",
+          "hostname": "www.bjpu.edu.cn",
+          "record_index": 2338
+        }
+      ]
+    },
+    {
+      "root_domain": "bjucmp.edu.cn",
+      "evidence": [
+        {
+          "name": "Beijing University of Chinese Medicine and Pharmacology",
+          "country": "China",
+          "field": "domains",
+          "value": "bjucmp.edu.cn",
+          "hostname": "bjucmp.edu.cn",
+          "record_index": 2339
+        },
+        {
+          "name": "Beijing University of Chinese Medicine and Pharmacology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.bjucmp.edu.cn/",
+          "hostname": "www.bjucmp.edu.cn",
+          "record_index": 2339
+        }
+      ]
+    },
+    {
+      "root_domain": "cdutcm.edu.cn",
+      "evidence": [
+        {
+          "name": "Chengdu University of Traditional Chinese Medicine",
+          "country": "China",
+          "field": "domains",
+          "value": "cdutcm.edu.cn",
+          "hostname": "cdutcm.edu.cn",
+          "record_index": 2352
+        },
+        {
+          "name": "Chengdu University of Traditional Chinese Medicine",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.cdutcm.edu.cn/",
+          "hostname": "www.cdutcm.edu.cn",
+          "record_index": 2352
+        }
+      ]
+    },
+    {
+      "root_domain": "cppsu.edu.cn",
+      "evidence": [
+        {
+          "name": "Chinese People's Public Security University",
+          "country": "China",
+          "field": "domains",
+          "value": "cppsu.edu.cn",
+          "hostname": "cppsu.edu.cn",
+          "record_index": 2360
+        },
+        {
+          "name": "Chinese People's Public Security University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.cppsu.edu.cn/",
+          "hostname": "www.cppsu.edu.cn",
+          "record_index": 2360
+        }
+      ]
+    },
+    {
+      "root_domain": "cpums.edu.cn",
+      "evidence": [
+        {
+          "name": "Capital University of Medical Sciences",
+          "country": "China",
+          "field": "domains",
+          "value": "cpums.edu.cn",
+          "hostname": "cpums.edu.cn",
+          "record_index": 2362
+        },
+        {
+          "name": "Capital University of Medical Sciences",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.cpums.edu.cn/",
+          "hostname": "www.cpums.edu.cn",
+          "record_index": 2362
+        }
+      ]
+    },
+    {
+      "root_domain": "cquc.edu.cn",
+      "evidence": [
+        {
+          "name": "Chongqing University of Communications",
+          "country": "China",
+          "field": "domains",
+          "value": "cquc.edu.cn",
+          "hostname": "cquc.edu.cn",
+          "record_index": 2368
+        },
+        {
+          "name": "Chongqing University of Communications",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.cquc.edu.cn/",
+          "hostname": "www.cquc.edu.cn",
+          "record_index": 2368
+        }
+      ]
+    },
+    {
+      "root_domain": "csfu.edu.cn",
+      "evidence": [
+        {
+          "name": "Central South Forestry University",
+          "country": "China",
+          "field": "domains",
+          "value": "csfu.edu.cn",
+          "hostname": "csfu.edu.cn",
+          "record_index": 2375
+        },
+        {
+          "name": "Central South Forestry University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.csfu.edu.cn/",
+          "hostname": "www.csfu.edu.cn",
+          "record_index": 2375
+        }
+      ]
+    },
+    {
+      "root_domain": "csru.edu.cn",
+      "evidence": [
+        {
+          "name": "Changsha Railway University",
+          "country": "China",
+          "field": "domains",
+          "value": "csru.edu.cn",
+          "hostname": "csru.edu.cn",
+          "record_index": 2376
+        },
+        {
+          "name": "Changsha Railway University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.csru.edu.cn/",
+          "hostname": "www.csru.edu.cn",
+          "record_index": 2376
+        }
+      ]
+    },
+    {
+      "root_domain": "csuep.edu.cn",
+      "evidence": [
+        {
+          "name": "Changsha University of Electric Power",
+          "country": "China",
+          "field": "domains",
+          "value": "csuep.edu.cn",
+          "hostname": "csuep.edu.cn",
+          "record_index": 2378
+        },
+        {
+          "name": "Changsha University of Electric Power",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.csuep.edu.cn/",
+          "hostname": "www.csuep.edu.cn",
+          "record_index": 2378
+        }
+      ]
+    },
+    {
+      "root_domain": "cun.edu.cn",
+      "evidence": [
+        {
+          "name": "Central University for Nationalities",
+          "country": "China",
+          "field": "domains",
+          "value": "cun.edu.cn",
+          "hostname": "cun.edu.cn",
+          "record_index": 2389
+        },
+        {
+          "name": "Central University for Nationalities",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.cun.edu.cn/",
+          "hostname": "www.cun.edu.cn",
+          "record_index": 2389
+        }
+      ]
+    },
+    {
+      "root_domain": "dnui.edu.cn",
+      "evidence": [
+        {
+          "name": "Dalian Neusoft University of Information",
+          "country": "China",
+          "field": "domains",
+          "value": "dnui.edu.cn",
+          "hostname": "dnui.edu.cn",
+          "record_index": 9803
+        },
+        {
+          "name": "Dalian Neusoft University of Information",
+          "country": "China",
+          "field": "web_pages",
+          "value": "https://dnui.edu.cn/",
+          "hostname": "dnui.edu.cn",
+          "record_index": 9803
+        }
+      ]
+    },
+    {
+      "root_domain": "fimmu.edu.cn",
+      "evidence": [
+        {
+          "name": "Southern Medial University",
+          "country": "China",
+          "field": "domains",
+          "value": "fimmu.edu.cn",
+          "hostname": "fimmu.edu.cn",
+          "record_index": 2403
+        },
+        {
+          "name": "Southern Medial University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.fimmu.edu.cn/",
+          "hostname": "www.fimmu.edu.cn",
+          "record_index": 2403
+        }
+      ]
+    },
+    {
+      "root_domain": "fspu.edu.cn",
+      "evidence": [
+        {
+          "name": "Fushun Petroleum University",
+          "country": "China",
+          "field": "domains",
+          "value": "fspu.edu.cn",
+          "hostname": "fspu.edu.cn",
+          "record_index": 2410
+        },
+        {
+          "name": "Fushun Petroleum University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.fspu.edu.cn/",
+          "hostname": "www.fspu.edu.cn",
+          "record_index": 2410
+        }
+      ]
+    },
+    {
+      "root_domain": "gdin.edu.cn",
+      "evidence": [
+        {
+          "name": "Guangdong Polytechnic Normal University",
+          "country": "China",
+          "field": "domains",
+          "value": "gdin.edu.cn",
+          "hostname": "gdin.edu.cn",
+          "record_index": 2413
+        },
+        {
+          "name": "Guangdong Polytechnic Normal University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.gdin.edu.cn/",
+          "hostname": "www.gdin.edu.cn",
+          "record_index": 2413
+        }
+      ]
+    },
+    {
+      "root_domain": "guangztc.edu.cn",
+      "evidence": [
+        {
+          "name": "Guangzhou Normal University",
+          "country": "China",
+          "field": "domains",
+          "value": "guangztc.edu.cn",
+          "hostname": "guangztc.edu.cn",
+          "record_index": 2419
+        },
+        {
+          "name": "Guangzhou Normal University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.guangztc.edu.cn/",
+          "hostname": "www.guangztc.edu.cn",
+          "record_index": 2419
+        }
+      ]
+    },
+    {
+      "root_domain": "gzsums.edu.cn",
+      "evidence": [
+        {
+          "name": "Sun Yat-Sen University of Medical Sciences",
+          "country": "China",
+          "field": "domains",
+          "value": "gzsums.edu.cn",
+          "hostname": "gzsums.edu.cn",
+          "record_index": 2429
+        },
+        {
+          "name": "Sun Yat-Sen University of Medical Sciences",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.gzsums.edu.cn/",
+          "hostname": "www.gzsums.edu.cn",
+          "record_index": 2429
+        }
+      ]
+    },
+    {
+      "root_domain": "hbc.edu.cn",
+      "evidence": [
+        {
+          "name": "Hubei Business College",
+          "country": "China",
+          "field": "domains",
+          "value": "hbc.edu.cn",
+          "hostname": "hbc.edu.cn",
+          "record_index": 9753
+        },
+        {
+          "name": "Hubei Business College",
+          "country": "China",
+          "field": "web_pages",
+          "value": "https://www.hbc.edu.cn/",
+          "hostname": "www.hbc.edu.cn",
+          "record_index": 9753
+        }
+      ]
+    },
+    {
+      "root_domain": "hdpu.edu.cn",
+      "evidence": [
+        {
+          "name": "University of Petroleum (East China)",
+          "country": "China",
+          "field": "domains",
+          "value": "hdpu.edu.cn",
+          "hostname": "hdpu.edu.cn",
+          "record_index": 2436
+        },
+        {
+          "name": "University of Petroleum (East China)",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.hdpu.edu.cn/",
+          "hostname": "www.hdpu.edu.cn",
+          "record_index": 2436
+        }
+      ]
+    },
+    {
+      "root_domain": "hlaflru.edu.cn",
+      "evidence": [
+        {
+          "name": "Heilongjiang August 1st Reclamation University",
+          "country": "China",
+          "field": "domains",
+          "value": "hlaflru.edu.cn",
+          "hostname": "hlaflru.edu.cn",
+          "record_index": 2454
+        },
+        {
+          "name": "Heilongjiang August 1st Reclamation University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.hlaflru.edu.cn/",
+          "hostname": "www.hlaflru.edu.cn",
+          "record_index": 2454
+        }
+      ]
+    },
+    {
+      "root_domain": "hljcu.edu.cn",
+      "evidence": [
+        {
+          "name": "Heilongjiang Commercial University",
+          "country": "China",
+          "field": "domains",
+          "value": "hljcu.edu.cn",
+          "hostname": "hljcu.edu.cn",
+          "record_index": 2455
+        },
+        {
+          "name": "Heilongjiang Commercial University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.hljcu.edu.cn/",
+          "hostname": "www.hljcu.edu.cn",
+          "record_index": 2455
+        }
+      ]
+    },
+    {
+      "root_domain": "hrbucea.edu.cn",
+      "evidence": [
+        {
+          "name": "Harbin University of Civil Engineering & Architecture",
+          "country": "China",
+          "field": "domains",
+          "value": "hrbucea.edu.cn",
+          "hostname": "hrbucea.edu.cn",
+          "record_index": 2463
+        },
+        {
+          "name": "Harbin University of Civil Engineering & Architecture",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.hrbucea.edu.cn/",
+          "hostname": "www.hrbucea.edu.cn",
+          "record_index": 2463
+        }
+      ]
+    },
+    {
+      "root_domain": "ibub.edu.cn",
+      "evidence": [
+        {
+          "name": "International Business University of Beijing",
+          "country": "China",
+          "field": "domains",
+          "value": "ibub.edu.cn",
+          "hostname": "ibub.edu.cn",
+          "record_index": 2471
+        },
+        {
+          "name": "International Business University of Beijing",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.ibub.edu.cn/",
+          "hostname": "www.ibub.edu.cn",
+          "record_index": 2471
+        }
+      ]
+    },
+    {
+      "root_domain": "impu.edu.cn",
+      "evidence": [
+        {
+          "name": "Inner Mongolia Polytechnic University",
+          "country": "China",
+          "field": "domains",
+          "value": "impu.edu.cn",
+          "hostname": "impu.edu.cn",
+          "record_index": 2474
+        },
+        {
+          "name": "Inner Mongolia Polytechnic University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.impu.edu.cn/",
+          "hostname": "www.impu.edu.cn",
+          "record_index": 2474
+        }
+      ]
+    },
+    {
+      "root_domain": "jut.edu.cn",
+      "evidence": [
+        {
+          "name": "Jilin University of Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "jut.edu.cn",
+          "hostname": "jut.edu.cn",
+          "record_index": 2485
+        },
+        {
+          "name": "Jilin University of Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.jut.edu.cn/",
+          "hostname": "www.jut.edu.cn",
+          "record_index": 2485
+        }
+      ]
+    },
+    {
+      "root_domain": "lctu.edu.cn",
+      "evidence": [
+        {
+          "name": "Liaocheng Teachers University",
+          "country": "China",
+          "field": "domains",
+          "value": "lctu.edu.cn",
+          "hostname": "lctu.edu.cn",
+          "record_index": 2491
+        },
+        {
+          "name": "Liaocheng Teachers University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.lctu.edu.cn/",
+          "hostname": "www.lctu.edu.cn",
+          "record_index": 2491
+        }
+      ]
+    },
+    {
+      "root_domain": "lzmc.edu.cn",
+      "evidence": [
+        {
+          "name": "Luzhou Medical College",
+          "country": "China",
+          "field": "domains",
+          "value": "lzmc.edu.cn",
+          "hostname": "lzmc.edu.cn",
+          "record_index": 2498
+        },
+        {
+          "name": "Luzhou Medical College",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.lzmc.edu.cn/",
+          "hostname": "www.lzmc.edu.cn",
+          "record_index": 2498
+        }
+      ]
+    },
+    {
+      "root_domain": "nbut.edu.cn",
+      "evidence": [
+        {
+          "name": "Ningbo University of Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "nbut.edu.cn",
+          "hostname": "nbut.edu.cn",
+          "record_index": 2501
+        },
+        {
+          "name": "Ningbo University of Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.nbut.edu.cn/",
+          "hostname": "www.nbut.edu.cn",
+          "record_index": 2501
+        }
+      ]
+    },
+    {
+      "root_domain": "ncepubj.edu.cn",
+      "evidence": [
+        {
+          "name": "North China Electric Power University",
+          "country": "China",
+          "field": "domains",
+          "value": "ncepubj.edu.cn",
+          "hostname": "ncepubj.edu.cn",
+          "record_index": 2502
+        },
+        {
+          "name": "North China Electric Power University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.ncepubj.edu.cn/",
+          "hostname": "www.ncepubj.edu.cn",
+          "record_index": 2502
+        }
+      ]
+    },
+    {
+      "root_domain": "njim.edu.cn",
+      "evidence": [
+        {
+          "name": "Nanjing Institute of Meteorology",
+          "country": "China",
+          "field": "domains",
+          "value": "njim.edu.cn",
+          "hostname": "njim.edu.cn",
+          "record_index": 2514
+        },
+        {
+          "name": "Nanjing Institute of Meteorology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.njim.edu.cn/",
+          "hostname": "www.njim.edu.cn",
+          "record_index": 2514
+        }
+      ]
+    },
+    {
+      "root_domain": "njuct.edu.cn",
+      "evidence": [
+        {
+          "name": "Nanjing University of Chemical Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "njuct.edu.cn",
+          "hostname": "njuct.edu.cn",
+          "record_index": 2518
+        },
+        {
+          "name": "Nanjing University of Chemical Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.njuct.edu.cn/",
+          "hostname": "www.njuct.edu.cn",
+          "record_index": 2518
+        }
+      ]
+    },
+    {
+      "root_domain": "nxmc.edu.cn",
+      "evidence": [
+        {
+          "name": "Ningxia Medical College",
+          "country": "China",
+          "field": "domains",
+          "value": "nxmc.edu.cn",
+          "hostname": "nxmc.edu.cn",
+          "record_index": 2534
+        },
+        {
+          "name": "Ningxia Medical College",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.nxmc.edu.cn/",
+          "hostname": "www.nxmc.edu.cn",
+          "record_index": 2534
+        }
+      ]
+    },
+    {
+      "root_domain": "qzu.edu.cn",
+      "evidence": [
+        {
+          "name": "Qiongzhou University",
+          "country": "China",
+          "field": "domains",
+          "value": "qzu.edu.cn",
+          "hostname": "qzu.edu.cn",
+          "record_index": 2546
+        },
+        {
+          "name": "Qiongzhou University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.qzu.edu.cn/",
+          "hostname": "www.qzu.edu.cn",
+          "record_index": 2546
+        }
+      ]
+    },
+    {
+      "root_domain": "sccu.edu.cn",
+      "evidence": [
+        {
+          "name": "South China Construction University",
+          "country": "China",
+          "field": "domains",
+          "value": "sccu.edu.cn",
+          "hostname": "sccu.edu.cn",
+          "record_index": 2552
+        },
+        {
+          "name": "South China Construction University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.sccu.edu.cn/",
+          "hostname": "www.sccu.edu.cn",
+          "record_index": 2552
+        }
+      ]
+    },
+    {
+      "root_domain": "shift.edu.cn",
+      "evidence": [
+        {
+          "name": "Shanghai Institue of Foreign Trade",
+          "country": "China",
+          "field": "domains",
+          "value": "shift.edu.cn",
+          "hostname": "shift.edu.cn",
+          "record_index": 2571
+        },
+        {
+          "name": "Shanghai Institue of Foreign Trade",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.shift.edu.cn/",
+          "hostname": "www.shift.edu.cn",
+          "record_index": 2571
+        }
+      ]
+    },
+    {
+      "root_domain": "shtdu.edu.cn",
+      "evidence": [
+        {
+          "name": "Shanghai TieDao University",
+          "country": "China",
+          "field": "domains",
+          "value": "shtdu.edu.cn",
+          "hostname": "shtdu.edu.cn",
+          "record_index": 2579
+        },
+        {
+          "name": "Shanghai TieDao University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.shtdu.edu.cn/",
+          "hostname": "www.shtdu.edu.cn",
+          "record_index": 2579
+        }
+      ]
+    },
+    {
+      "root_domain": "swau.edu.cn",
+      "evidence": [
+        {
+          "name": "Southwest Agricultural University",
+          "country": "China",
+          "field": "domains",
+          "value": "swau.edu.cn",
+          "hostname": "swau.edu.cn",
+          "record_index": 2598
+        },
+        {
+          "name": "Southwest Agricultural University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.swau.edu.cn/",
+          "hostname": "www.swau.edu.cn",
+          "record_index": 2598
+        }
+      ]
+    },
+    {
+      "root_domain": "swnu.edu.cn",
+      "evidence": [
+        {
+          "name": "Southwest University",
+          "country": "China",
+          "field": "domains",
+          "value": "swnu.edu.cn",
+          "hostname": "swnu.edu.cn",
+          "record_index": 2601
+        },
+        {
+          "name": "Southwest University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.swnu.edu.cn/",
+          "hostname": "www.swnu.edu.cn",
+          "record_index": 2601
+        }
+      ]
+    },
+    {
+      "root_domain": "swuyc.edu.cn",
+      "evidence": [
+        {
+          "name": "South West University Yucai College",
+          "country": "China",
+          "field": "domains",
+          "value": "swuyc.edu.cn",
+          "hostname": "swuyc.edu.cn",
+          "record_index": 2608
+        },
+        {
+          "name": "South West University Yucai College",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.swuyc.edu.cn/",
+          "hostname": "www.swuyc.edu.cn",
+          "record_index": 2608
+        }
+      ]
+    },
+    {
+      "root_domain": "syict.edu.cn",
+      "evidence": [
+        {
+          "name": "Shenyang Institute of Chemical Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "syict.edu.cn",
+          "hostname": "syict.edu.cn",
+          "record_index": 2611
+        },
+        {
+          "name": "Shenyang Institute of Chemical Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.syict.edu.cn/",
+          "hostname": "www.syict.edu.cn",
+          "record_index": 2611
+        }
+      ]
+    },
+    {
+      "root_domain": "sypu.edu.cn",
+      "evidence": [
+        {
+          "name": "Shenyang Polytechnic University",
+          "country": "China",
+          "field": "domains",
+          "value": "sypu.edu.cn",
+          "hostname": "sypu.edu.cn",
+          "record_index": 2613
+        },
+        {
+          "name": "Shenyang Polytechnic University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.sypu.edu.cn/",
+          "hostname": "www.sypu.edu.cn",
+          "record_index": 2613
+        }
+      ]
+    },
+    {
+      "root_domain": "sytu.edu.cn",
+      "evidence": [
+        {
+          "name": "Southern Yangtze University",
+          "country": "China",
+          "field": "domains",
+          "value": "sytu.edu.cn",
+          "hostname": "sytu.edu.cn",
+          "record_index": 2614
+        },
+        {
+          "name": "Southern Yangtze University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.sytu.edu.cn/",
+          "hostname": "www.sytu.edu.cn",
+          "record_index": 2614
+        }
+      ]
+    },
+    {
+      "root_domain": "ttmc.edu.cn",
+      "evidence": [
+        {
+          "name": "Tibet Tibetan Medical College",
+          "country": "China",
+          "field": "domains",
+          "value": "ttmc.edu.cn",
+          "hostname": "ttmc.edu.cn",
+          "record_index": 2630
+        },
+        {
+          "name": "Tibet Tibetan Medical College",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.ttmc.edu.cn/",
+          "hostname": "www.ttmc.edu.cn",
+          "record_index": 2630
+        }
+      ]
+    },
+    {
+      "root_domain": "uheeyc.edu.cn",
+      "evidence": [
+        {
+          "name": "University of Hydraulic Electric Engineering",
+          "country": "China",
+          "field": "domains",
+          "value": "uheeyc.edu.cn",
+          "hostname": "uheeyc.edu.cn",
+          "record_index": 2634
+        },
+        {
+          "name": "University of Hydraulic Electric Engineering",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.uheeyc.edu.cn/",
+          "hostname": "www.uheeyc.edu.cn",
+          "record_index": 2634
+        }
+      ]
+    },
+    {
+      "root_domain": "wcums.edu.cn",
+      "evidence": [
+        {
+          "name": "West China University of Medical Sciences",
+          "country": "China",
+          "field": "domains",
+          "value": "wcums.edu.cn",
+          "hostname": "wcums.edu.cn",
+          "record_index": 2644
+        },
+        {
+          "name": "West China University of Medical Sciences",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.wcums.edu.cn/",
+          "hostname": "www.wcums.edu.cn",
+          "record_index": 2644
+        }
+      ]
+    },
+    {
+      "root_domain": "whapu.edu.cn",
+      "evidence": [
+        {
+          "name": "Wuhan Automobile Polytechnical University",
+          "country": "China",
+          "field": "domains",
+          "value": "whapu.edu.cn",
+          "hostname": "whapu.edu.cn",
+          "record_index": 2646
+        },
+        {
+          "name": "Wuhan Automobile Polytechnical University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.whapu.edu.cn/",
+          "hostname": "www.whapu.edu.cn",
+          "record_index": 2646
+        }
+      ]
+    },
+    {
+      "root_domain": "whtu.edu.cn",
+      "evidence": [
+        {
+          "name": "Wuhan Transportation University",
+          "country": "China",
+          "field": "domains",
+          "value": "whtu.edu.cn",
+          "hostname": "whtu.edu.cn",
+          "record_index": 2647
+        },
+        {
+          "name": "Wuhan Transportation University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.whtu.edu.cn/",
+          "hostname": "www.whtu.edu.cn",
+          "record_index": 2647
+        }
+      ]
+    },
+    {
+      "root_domain": "wtusm.edu.cn",
+      "evidence": [
+        {
+          "name": "Wuhan Technical University of Surveying and Mapping",
+          "country": "China",
+          "field": "domains",
+          "value": "wtusm.edu.cn",
+          "hostname": "wtusm.edu.cn",
+          "record_index": 2651
+        },
+        {
+          "name": "Wuhan Technical University of Surveying and Mapping",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.wtusm.edu.cn/",
+          "hostname": "www.wtusm.edu.cn",
+          "record_index": 2651
+        }
+      ]
+    },
+    {
+      "root_domain": "wuhee.edu.cn",
+      "evidence": [
+        {
+          "name": "Wuhan University of Hydraulic and Electric Engineering",
+          "country": "China",
+          "field": "domains",
+          "value": "wuhee.edu.cn",
+          "hostname": "wuhee.edu.cn",
+          "record_index": 2652
+        },
+        {
+          "name": "Wuhan University of Hydraulic and Electric Engineering",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.wuhee.edu.cn/",
+          "hostname": "www.wuhee.edu.cn",
+          "record_index": 2652
+        }
+      ]
+    },
+    {
+      "root_domain": "wxuli.edu.cn",
+      "evidence": [
+        {
+          "name": "Wuxi University of Light Industry",
+          "country": "China",
+          "field": "domains",
+          "value": "wxuli.edu.cn",
+          "hostname": "wxuli.edu.cn",
+          "record_index": 2653
+        },
+        {
+          "name": "Wuxi University of Light Industry",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.wxuli.edu.cn/",
+          "hostname": "www.wxuli.edu.cn",
+          "record_index": 2653
+        }
+      ]
+    },
+    {
+      "root_domain": "ybust.edu.cn",
+      "evidence": [
+        {
+          "name": "Yanbian University of Science and Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "ybust.edu.cn",
+          "hostname": "ybust.edu.cn",
+          "record_index": 2681
+        },
+        {
+          "name": "Yanbian University of Science and Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.ybust.edu.cn/",
+          "hostname": "www.ybust.edu.cn",
+          "record_index": 2681
+        }
+      ]
+    },
+    {
+      "root_domain": "ytet.edu.cn",
+      "evidence": [
+        {
+          "name": "Yantai Education Institute & Yantai Television University",
+          "country": "China",
+          "field": "domains",
+          "value": "ytet.edu.cn",
+          "hostname": "ytet.edu.cn",
+          "record_index": 2687
+        },
+        {
+          "name": "Yantai Education Institute & Yantai Television University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.ytet.edu.cn/",
+          "hostname": "www.ytet.edu.cn",
+          "record_index": 2687
+        }
+      ]
+    },
+    {
+      "root_domain": "zhnut.edu.cn",
+      "evidence": [
+        {
+          "name": "Zhongnan University of Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "zhnut.edu.cn",
+          "hostname": "zhnut.edu.cn",
+          "record_index": 2694
+        },
+        {
+          "name": "Zhongnan University of Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.zhnut.edu.cn/",
+          "hostname": "www.zhnut.edu.cn",
+          "record_index": 2694
+        }
+      ]
+    },
+    {
+      "root_domain": "znufe.edu.cn",
+      "evidence": [
+        {
+          "name": "Zhongnan University of Finance and Economics",
+          "country": "China",
+          "field": "domains",
+          "value": "znufe.edu.cn",
+          "hostname": "znufe.edu.cn",
+          "record_index": 2702
+        },
+        {
+          "name": "Zhongnan University of Finance and Economics",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.znufe.edu.cn/",
+          "hostname": "www.znufe.edu.cn",
+          "record_index": 2702
+        }
+      ]
+    },
+    {
+      "root_domain": "zsu.edu.cn",
+      "evidence": [
+        {
+          "name": "Zhongshan University",
+          "country": "China",
+          "field": "domains",
+          "value": "zsu.edu.cn",
+          "hostname": "zsu.edu.cn",
+          "record_index": 2705
+        },
+        {
+          "name": "Zhongshan University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.zsu.edu.cn/",
+          "hostname": "www.zsu.edu.cn",
+          "record_index": 2705
+        }
+      ]
+    },
+    {
+      "root_domain": "zzgc.edu.cn",
+      "evidence": [
+        {
+          "name": "Zhengzhou Grain University",
+          "country": "China",
+          "field": "domains",
+          "value": "zzgc.edu.cn",
+          "hostname": "zzgc.edu.cn",
+          "record_index": 2706
+        },
+        {
+          "name": "Zhengzhou Grain University",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.zzgc.edu.cn/",
+          "hostname": "www.zzgc.edu.cn",
+          "record_index": 2706
+        }
+      ]
+    },
+    {
+      "root_domain": "zzut.edu.cn",
+      "evidence": [
+        {
+          "name": "Zhengzhou University of Technology",
+          "country": "China",
+          "field": "domains",
+          "value": "zzut.edu.cn",
+          "hostname": "zzut.edu.cn",
+          "record_index": 2707
+        },
+        {
+          "name": "Zhengzhou University of Technology",
+          "country": "China",
+          "field": "web_pages",
+          "value": "http://www.zzut.edu.cn/",
+          "hostname": "www.zzut.edu.cn",
+          "record_index": 2707
+        }
+      ]
+    }
+  ]
+}

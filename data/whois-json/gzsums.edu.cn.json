@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "root_domain": "gzsums.edu.cn",
+  "type": "full_record",
+  "org_en": "Sun Yat-Sen University of Medical Sciences",
+  "org_cn": null,
+  "domain_name": "GZSUMS.EDU.CN",
+  "network_name": "SYSUMS-CN",
+  "admin_contact": "xuenong zhang (XZ3-CN)",
+  "reg_date": null,
+  "nameservers": [
+    {
+      "host": "dns.gzsums.edu.cn",
+      "ip": "202.116.96.33"
+    },
+    {
+      "host": "info.gzsums.edu.cn",
+      "ip": "202.116.96.34"
+    }
+  ],
+  "address": [
+    "GuangZhou, GD 510089",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gzsums.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois gzsums.edu.cn ?\n\nSun Yat-Sen University of Medical Sciences \n   GuangZhou, GD 510089\n   China\n\n   Domain Name: GZSUMS.EDU.CN\n\n   Network Name:   SYSUMS-CN\n\n   Administrative Contact, Technical Contact:\n      xuenong zhang  (XZ3-CN) \n\n   Domain Servers in listed order:\n\n   dns.gzsums.edu.cn   \t202.116.96.33\n   info.gzsums.edu.cn  \t202.116.96.34\n",
+  "metadata": {
+    "organization_or_record_name": "Sun Yat-Sen University of Medical Sciences",
+    "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "gzsums.edu.cn; www.gzsums.edu.cn",
+    "review_notes": "Hipo source labels: Sun Yat-Sen University of Medical Sciences. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+  }
+}

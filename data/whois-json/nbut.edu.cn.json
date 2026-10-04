@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "root_domain": "nbut.edu.cn",
+  "type": "full_record",
+  "org_en": "Ningbo University of Technology",
+  "org_cn": null,
+  "domain_name": "NBUT.EDU.CN",
+  "network_name": "NBUT-CN",
+  "admin_contact": "Hongxing Zhang (HZ76-CER)",
+  "reg_date": null,
+  "nameservers": [
+    {
+      "host": "sun.nbut.edu.cn",
+      "ip": "122.227.184.189"
+    },
+    {
+      "host": "ns2.nbut.edu.cn",
+      "ip": "210.33.8.2"
+    },
+    {
+      "host": "ns3.nbut.edu.cn",
+      "ip": "112.16.145.117"
+    }
+  ],
+  "address": [
+    "Ningbo, ZJ 315211",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nbut.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois nbut.edu.cn ?\n\nNingbo University of Technology \n   Ningbo, ZJ 315211\n   China\n\n   Domain Name: NBUT.EDU.CN\n\n   Network Name:   NBUT-CN\n\n   Administrative Contact, Technical Contact:\n      Hongxing Zhang  (HZ76-CER) \n\n   Domain Servers in listed order:\n\n   sun.nbut.edu.cn     \t122.227.184.189\n   ns2.nbut.edu.cn     \t210.33.8.2\n   ns3.nbut.edu.cn     \t112.16.145.117\n",
+  "metadata": {
+    "organization_or_record_name": "Ningbo University of Technology",
+    "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "nbut.edu.cn; www.nbut.edu.cn",
+    "review_notes": "Hipo source labels: Ningbo University of Technology. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+  }
+}

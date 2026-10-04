@@ -20,5 +20,23 @@
     "Beijing, BJ 100871",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=pku.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "Computer Center, Peking University",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-08-31T17:01:00; 2017-09-06T08:01:00; 2017-09-11T11:40:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "162.105.131.160",
+    "AAAA_records": "",
+    "NS_records": "ns.pku.edu.cn; DNS1.pku.edu.cn; DNS2.pku.edu.cn; DNS3.pku.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 162.105.131.160",
+    "evidence_hostnames": "admission.pku.edu.cn; app.pku.edu.cn; clapa.pku.edu.cn; cw.pku.edu.cn; geeklab.pku.edu.cn; geophy.pku.edu.cn; hepfarm02.phy.pku.edu.cn; i3a.pku.edu.cn; iaaa.pku.edu.cn; iee.pku.edu.cn; its.pku.edu.cn; mail.iee.pku.edu.cn; www.pku.edu.cn",
+    "review_notes": "CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

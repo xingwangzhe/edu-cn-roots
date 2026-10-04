@@ -1,0 +1,44 @@
+{
+  "root_domain": "gdrtvu.edu.cn",
+  "type": "full_record",
+  "org_en": "The Open University of Guangdong",
+  "org_cn": null,
+  "domain_name": "GDRTVU.EDU.CN",
+  "network_name": "GDRTVU-CN",
+  "admin_contact": "Le Jun (LJ9-AP)",
+  "nameservers": [
+    {
+      "host": "SUNSVR.GDRTVU.EDU.CN",
+      "ip": "210.38.32.2",
+      "ipv6": "2001:250:3042::32:2"
+    },
+    {
+      "host": "DNS2.GDRTVU.EDU.CN",
+      "ip": "59.42.214.90",
+      "ipv6": "2001:250:3042::32:3"
+    }
+  ],
+  "address": [
+    "Guangzhou, GD 510091",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gdrtvu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois gdrtvu.edu.cn ?\n\nThe Open University of Guangdong \n   Guangzhou, GD 510091\n   China\n\n   Domain Name: GDRTVU.EDU.CN\n\n   Network Name:   GDRTVU-CN\n\n   Administrative Contact, Technical Contact:\n      Le Jun  (LJ9-AP) \n\n   Domain Servers in listed order:\n\n   SUNSVR.GDRTVU.EDU.CN\t210.38.32.2\t2001:250:3042::32:2\n   DNS2.GDRTVU.EDU.CN  \t59.42.214.90\t2001:250:3042::32:3\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "The Open University of Guangdong",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/gdrtvu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "gdrtvu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

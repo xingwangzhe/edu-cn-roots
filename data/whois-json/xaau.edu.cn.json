@@ -1,0 +1,44 @@
+{
+  "root_domain": "xaau.edu.cn",
+  "type": "full_record",
+  "org_en": "xi'an Aeronautic University",
+  "org_cn": null,
+  "domain_name": "XAAU.EDU.CN",
+  "network_name": "XAAC-CN",
+  "admin_contact": "Kan Zhao (KZ1-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.xaau.edu.cn",
+      "ip": "59.74.111.8",
+      "ipv6": "2001:da8:402c:a100::3b4a:6f08"
+    },
+    {
+      "host": "dns2.xaau.edu.cn",
+      "ip": "221.11.16.250",
+      "ipv6": "2001:da8:402c:a100::3b4a:6f08"
+    }
+  ],
+  "address": [
+    "xi'an, SN 710077",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xaau.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois xaau.edu.cn ?\n\nxi'an Aeronautic University \n   xi'an, SN 710077\n   China\n\n   Domain Name: XAAU.EDU.CN\n\n   Network Name:   XAAC-CN\n\n   Administrative Contact, Technical Contact:\n      Kan Zhao  (KZ1-CER) \n\n   Domain Servers in listed order:\n\n   dns1.xaau.edu.cn    \t59.74.111.8\t2001:da8:402c:a100::3b4a:6f08\n   dns2.xaau.edu.cn    \t221.11.16.250\t2001:da8:402c:a100::3b4a:6f08\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "xi'an Aeronautic University",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/xaau.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "xaau.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

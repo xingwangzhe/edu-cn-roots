@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "root_domain": "zhnut.edu.cn",
+  "type": "cn_status",
+  "org_en": null,
+  "org_cn": "中南工学院",
+  "domain_name": null,
+  "network_name": null,
+  "admin_contact": null,
+  "reg_date": "19990305",
+  "nameservers": [],
+  "address": [],
+  "raw_note": "域名 zhnut.edu.cn 已于19990305 在CERNIC注册 [中南工学院]",
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zhnut.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois zhnut.edu.cn ?\n\n域名 zhnut.edu.cn 已于19990305 在CERNIC注册 [中南工学院]\n\n\nBack",
+  "metadata": {
+    "organization_or_record_name": "中南工学院",
+    "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed CERNIC Chinese registration status (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "www.zhnut.edu.cn; zhnut.edu.cn",
+    "review_notes": "Hipo source labels: Zhongnan University of Technology. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+  }
+}

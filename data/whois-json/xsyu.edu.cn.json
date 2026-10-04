@@ -1,0 +1,48 @@
+{
+  "root_domain": "xsyu.edu.cn",
+  "type": "full_record",
+  "org_en": "XI'AN SHIYOU UNIVERSITY",
+  "org_cn": null,
+  "domain_name": "XSYU.EDU.CN",
+  "network_name": "XAPU-CN",
+  "admin_contact": null,
+  "nameservers": [
+    {
+      "host": "DNS.XSYU.EDU.CN",
+      "ip": "202.200.80.13",
+      "ipv6": "2001:da8:4015:1::3"
+    },
+    {
+      "host": "DNS1.XSYU.EDU.CN",
+      "ip": "202.200.80.11",
+      "ipv6": "2001:da8:4015:1::1"
+    },
+    {
+      "host": "DNS3.XSYU.EDU.CN",
+      "ip": "117.32.249.158"
+    }
+  ],
+  "address": [
+    "XI'AN, SN 710065",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xsyu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois xsyu.edu.cn ?\n\nXI'AN SHIYOU UNIVERSITY \n   XI'AN, SN 710065\n   China\n\n   Domain Name: XSYU.EDU.CN\n\n   Network Name:   XAPU-CN\n\n   Administrative Contact:\n      Xuelong Wang  (XW117-CER) \n   Network Name:   XAPU-CN\n\n   Technical Contact:\n      Meng Yang  (MY28-CER) \n\n   Domain Servers in listed order:\n\n   DNS.XSYU.EDU.CN     \t202.200.80.13\t2001:da8:4015:1::3\n   DNS1.XSYU.EDU.CN    \t202.200.80.11\t2001:da8:4015:1::1\n   DNS3.XSYU.EDU.CN    \t117.32.249.158\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "XI'AN SHIYOU UNIVERSITY",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/xsyu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "xsyu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

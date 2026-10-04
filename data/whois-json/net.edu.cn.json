@@ -20,5 +20,23 @@
     "Beijing, BJ 100084",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=net.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "CERNET network service domain",
+    "collected_from": "CERNIC/CERNET service-domain reference; current DNS (Google Public DNS DoH)",
+    "source_last_observed": "2026-09-26",
+    "current_dns_status": "A=NOERROR; AAAA and NS not separately queried for this added row",
+    "A_records": "202.38.109.20",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "Not checked for this added service-domain row",
+    "evidence_hostnames": "net.edu.cn",
+    "review_notes": "Direct child of edu.cn retained regardless of institution type; DNS A query checked 2026-09-26. Name denotes or is associated with CERNIC/CERNET service infrastructure; WHOIS registration not individually confirmed.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

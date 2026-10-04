@@ -1,0 +1,44 @@
+{
+  "root_domain": "fynu.edu.cn",
+  "type": "full_record",
+  "org_en": "Fuyang Normal University",
+  "org_cn": null,
+  "domain_name": "FYNU.EDU.CN",
+  "network_name": "FYNC-CN",
+  "admin_contact": "Yiqiang Zhu (YZ171-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.fynu.edu.cn",
+      "ip": "210.45.32.66",
+      "ipv6": "2001:250:540a:32::66"
+    },
+    {
+      "host": "dns2.fynu.edu.cn",
+      "ip": "210.45.32.69",
+      "ipv6": "2001:250:540a:32::69"
+    }
+  ],
+  "address": [
+    "Fuyang, AH 236037",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=fynu.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois fynu.edu.cn ?\n\nFuyang Normal University \n   Fuyang, AH 236037\n   China\n\n   Domain Name: FYNU.EDU.CN\n\n   Network Name:   FYNC-CN\n\n   Administrative Contact, Technical Contact:\n      Yiqiang Zhu  (YZ171-CER) \n\n   Domain Servers in listed order:\n\n   dns1.fynu.edu.cn    \t210.45.32.66\t2001:250:540a:32::66\n   dns2.fynu.edu.cn    \t210.45.32.69\t2001:250:540a:32::69\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "Fuyang Normal University",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/fynu.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "fynu.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

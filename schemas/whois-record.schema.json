@@ -1,0 +1,244 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/xingwangzhe/edu-cn-roots/schemas/whois-record.schema.json",
+  "title": "CERNIC per-domain record",
+  "type": "object",
+  "required": [
+    "org_en",
+    "org_cn",
+    "domain_name",
+    "network_name",
+    "admin_contact",
+    "reg_date",
+    "raw_note",
+    "raw_text",
+    "schema_version",
+    "root_domain",
+    "type",
+    "whois_queried",
+    "source_url",
+    "address",
+    "nameservers",
+    "metadata"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "org_en": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "org_cn": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "domain_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "network_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "admin_contact": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reg_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{8}$"
+    },
+    "raw_note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "raw_text": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "schema_version": {
+      "const": "2.0"
+    },
+    "root_domain": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+\\.edu\\.cn$"
+    },
+    "type": {
+      "enum": [
+        "full_record",
+        "cn_status",
+        "not_found"
+      ]
+    },
+    "whois_queried": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "address": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "nameservers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "host",
+          "ip"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "host": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9_.-]+\\.?$"
+          },
+          "ip": {
+            "type": "string"
+          },
+          "ipv6": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "organization_or_record_name",
+        "collected_from",
+        "source_last_observed",
+        "current_dns_status",
+        "A_records",
+        "AAAA_records",
+        "NS_records",
+        "CERNIC_WHOIS_status",
+        "CERNET_address_list_association",
+        "evidence_hostnames",
+        "review_notes"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "organization_or_record_name": {
+          "type": "string"
+        },
+        "collected_from": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_last_observed": {
+          "type": "string"
+        },
+        "current_dns_status": {
+          "type": "string"
+        },
+        "A_records": {
+          "type": "string"
+        },
+        "AAAA_records": {
+          "type": "string"
+        },
+        "NS_records": {
+          "type": "string"
+        },
+        "CERNIC_WHOIS_status": {
+          "type": "string"
+        },
+        "CERNET_address_list_association": {
+          "type": "string"
+        },
+        "evidence_hostnames": {
+          "type": "string"
+        },
+        "review_notes": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "full_record"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "org_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "domain_name": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "cn_status"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "org_cn": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reg_date": {
+            "type": "string",
+            "pattern": "^\\d{8}$"
+          },
+          "raw_note": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "not_found"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "raw_note": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  ]
+}

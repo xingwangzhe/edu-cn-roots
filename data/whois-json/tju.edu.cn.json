@@ -20,5 +20,23 @@
     "Tianjin, TJ 300072",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tju.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "天津大学",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-08-24T03:46:00; 2017-08-27T18:19:00; 2017-08-29T04:42:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "202.113.2.198",
+    "AAAA_records": "2001:da8:a000:ab23::10",
+    "NS_records": "dns2.tju.edu.cn; dns1.tju.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.113.2.198; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:a000:ab23::10",
+    "evidence_hostnames": "bbs.tju.edu.cn; cucm-a1.tju.edu.cn; job.tju.edu.cn; oban.spst.tju.edu.cn; psych.tju.edu.cn; pt.tju.edu.cn; sso.tju.edu.cn; tju.edu.cn; work.tju.edu.cn; www.tju.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

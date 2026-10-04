@@ -20,5 +20,23 @@
     "Shanghai, SH 200090",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shiep.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "上海电力学院",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2015-06-25T02:25:34; 2015-12-08T07:01:09; 2015-12-08T07:06:24",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "210.35.90.23",
+    "AAAA_records": "2001:da8:8011:8000:10:166:18:6",
+    "NS_records": "dns.shiep.edu.cn; legend.shiep.edu.cn; mainserver.shiep.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 210.35.90.23; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:8011:8000:10:166:18:6",
+    "evidence_hostnames": "idp.shiep.edu.cn; mids.shiep.edu.cn; mobile.shiep.edu.cn; www.shiep.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

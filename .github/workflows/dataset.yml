@@ -1,0 +1,47 @@
+name: Validate JSON and generate dataset
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'schemas/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'requirements-dev.txt'
+      - '.github/workflows/dataset.yml'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'schemas/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'requirements-dev.txt'
+      - '.github/workflows/dataset.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install validation dependency
+        run: python -m pip install -r requirements-dev.txt
+      - name: Test validator and exporter
+        run: python -m unittest discover -s tests -v
+      - name: Validate every domain JSON and generate CSV and summary JSON
+        run: python scripts/build_dataset.py --output build
+      - name: Upload generated dataset
+        uses: actions/upload-artifact@v4
+        with:
+          name: edu-cn-roots-dataset
+          path: |
+            build/*.csv
+            build/*.json
+          if-no-files-found: error

@@ -6,5 +6,25 @@
   "network_name": null,
   "admin_contact": null,
   "nameservers": [],
-  "raw_note": "在 CERNIC 数据库中没有找到关键字dns.edu.cn 的域名/地址记录"
+  "raw_note": "在 CERNIC 数据库中没有找到关键字dns.edu.cn 的域名/地址记录",
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=dns.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "",
+    "collected_from": "PTR sample in CERNIC-published address ranges",
+    "source_last_observed": "",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "202.38.109.35",
+    "AAAA_records": "2001:250:c006::35",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "No matching record in CERNIC database (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.38.109.35; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:c006::35",
+    "evidence_hostnames": "dns.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "domain_name": null,
+  "reg_date": null,
+  "raw_text": null,
+  "address": []
 }

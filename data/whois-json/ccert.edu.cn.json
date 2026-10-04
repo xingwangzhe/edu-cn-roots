@@ -20,5 +20,23 @@
     "Beijing, BJ 100084",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ccert.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "China Education and Research Network Center",
+    "collected_from": "crt.sh CT",
+    "source_last_observed": "2017-06-28T04:45:00; 2017-06-29T05:33:00; 2017-09-21T12:56:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "166.111.204.8",
+    "AAAA_records": "",
+    "NS_records": "dns.ccert.edu.cn; dns2.ccert.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 166.111.204.8",
+    "evidence_hostnames": "docker.ccert.edu.cn; netsec.ccert.edu.cn; tusec.ccert.edu.cn; www.ccert.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

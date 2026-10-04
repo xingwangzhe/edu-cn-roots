@@ -20,5 +20,23 @@
     "Xingyi, GZ 562400",
     "China"
   ],
-  "raw_note": null
+  "raw_note": null,
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xynun.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "兴义民族师范学院",
+    "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
+    "source_last_observed": "2017-09-04T12:49:00; 2017-09-04T13:03:00; 2017-09-22T12:15:00",
+    "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
+    "A_records": "218.194.249.66",
+    "AAAA_records": "2001:250:2c1e:1::58",
+    "NS_records": "sec-dns.xynun.edu.cn; dns.xynun.edu.cn",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 218.194.249.66; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:2c1e:1::58",
+    "evidence_hostnames": "git.xynun.edu.cn; imap.xynun.edu.cn; oa.sit.xynun.edu.cn; pop3.xynun.edu.cn; smtp.xynun.edu.cn; webmail.xynun.edu.cn; www.xynun.edu.cn",
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "reg_date": null,
+  "raw_text": null
 }

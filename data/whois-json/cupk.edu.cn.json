@@ -1,0 +1,44 @@
+{
+  "root_domain": "cupk.edu.cn",
+  "type": "full_record",
+  "org_en": "China University of Petroleum - Beijing at Karamay",
+  "org_cn": null,
+  "domain_name": "CUPK.EDU.CN",
+  "network_name": "CUPKII-CN",
+  "admin_contact": "Dongmei Xi (DX23-CER)",
+  "nameservers": [
+    {
+      "host": "dns1.cupk.edu.cn",
+      "ip": "42.247.21.32",
+      "ipv6": "2001:250:1809:10f::2"
+    },
+    {
+      "host": "dns2.cupk.edu.cn",
+      "ip": "42.247.21.33",
+      "ipv6": "2001:250:1809:10f::3"
+    }
+  ],
+  "address": [
+    "Karamay, XJ 834000",
+    "China"
+  ],
+  "raw_note": null,
+  "whois_queried": "2026-10-04",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cupk.edu.cn",
+  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois cupk.edu.cn ?\n\nChina University of Petroleum - Beijing at Karamay \n   Karamay, XJ 834000\n   China\n\n   Domain Name: CUPK.EDU.CN\n\n   Network Name:   CUPKII-CN\n\n   Administrative Contact, Technical Contact:\n      Dongmei Xi  (DX23-CER) \n\n   Domain Servers in listed order:\n\n   dns1.cupk.edu.cn    \t42.247.21.32\t2001:250:1809:10f::2\n   dns2.cupk.edu.cn    \t42.247.21.33\t2001:250:1809:10f::3\n",
+  "schema_version": "2.0",
+  "metadata": {
+    "organization_or_record_name": "China University of Petroleum - Beijing at Karamay",
+    "collected_from": "JetBrains/swot: https://github.com/JetBrains/swot/blob/b2dee08283cfee0ba43630779b6bf702bf5df76e/lib/domains/cn/edu/cupk.txt",
+    "source_last_observed": "2026-10-04",
+    "current_dns_status": "Not checked in 2026-10-04 WHOIS update",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNET_address_list_association": "",
+    "evidence_hostnames": "cupk.edu.cn",
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+  },
+  "reg_date": null
+}

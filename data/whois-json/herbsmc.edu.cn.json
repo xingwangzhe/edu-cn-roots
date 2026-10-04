@@ -6,5 +6,25 @@
   "network_name": null,
   "admin_contact": null,
   "nameservers": [],
-  "raw_note": "在 CERNIC 数据库中没有找到关键字herbsmc.edu.cn 的域名/地址记录"
+  "raw_note": "在 CERNIC 数据库中没有找到关键字herbsmc.edu.cn 的域名/地址记录",
+  "schema_version": "2.0",
+  "whois_queried": "2026-09-26",
+  "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=herbsmc.edu.cn",
+  "metadata": {
+    "organization_or_record_name": "哈尔滨医科大学附属第二医院",
+    "collected_from": "CERNET导报 1999 Q4, CERNIC域名注册清单",
+    "source_last_observed": "1998-1999 registry publication",
+    "current_dns_status": "A=NXDOMAIN; AAAA=NXDOMAIN; NS=NXDOMAIN",
+    "A_records": "",
+    "AAAA_records": "",
+    "NS_records": "",
+    "CERNIC_WHOIS_status": "No matching record in CERNIC database (queried 2026-09-26)",
+    "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
+    "evidence_hostnames": "herbsmc.edu.cn",
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+  },
+  "domain_name": null,
+  "reg_date": null,
+  "raw_text": null,
+  "address": []
 }
