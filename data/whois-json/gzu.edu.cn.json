@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "pri-dns.gzu.edu.cn",
-      "ip": "210.40.0.33"
+      "ip": "210.40.0.33",
+      "ipv6": "2001:250:2c00::33"
     },
     {
       "host": "sec-dns.gzu.edu.cn",
-      "ip": "210.40.0.34"
+      "ip": "210.40.0.34",
+      "ipv6": "2001:250:2c00::34"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gzu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "贵州大学",
+    "organization_or_record_name": "Guizhou University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2012-03-26T01:35:02; 2016-11-29T10:46:00; 2016-11-29T11:05:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "sec-dns.gzu.edu.cn; pri-dns.gzu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "cst.gzu.edu.cn; gzu.edu.cn; mdc.gzu.edu.cn; su.gzu.edu.cn; www.gzu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for gzu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois gzu.edu.cn  ?\n\n\n\n\nGuizhou University \n   Guiyang, GZ 550025\n   China\n\n   Domain Name: GZU.EDU.CN\n\n   Network Name:   GZU-CN\n\n   Administrative Contact, Technical Contact:\n      Hongfeng Gao  (HG8-CER) \n\n   Domain Servers in listed order:\n\n   pri-dns.gzu.edu.cn  \t210.40.0.33\t2001:250:2c00::33\n   sec-dns.gzu.edu.cn  \t210.40.0.34\t2001:250:2c00::34\n\n\n\n\n\n\n"
 }

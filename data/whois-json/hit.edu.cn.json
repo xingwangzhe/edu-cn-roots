@@ -26,21 +26,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hit.edu.cn",
   "metadata": {
-    "organization_or_record_name": "哈尔滨工业大学",
+    "organization_or_record_name": "Harbin Institute of Technology, Harbin",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-07-05T23:53:00; 2017-08-05T18:01:00; 2017-09-04T22:31:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.118.254.135",
     "AAAA_records": "",
     "NS_records": "hit01.hit.edu.cn; hit03.hit.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.118.254.135",
     "evidence_hostnames": "bioinformatics.hit.edu.cn; cas.hit.edu.cn; cms.hit.edu.cn; ids.hit.edu.cn; mail.cs.hit.edu.cn; mlg.hit.edu.cn; pt.hit.edu.cn; sse.hit.edu.cn; vpn.hit.edu.cn; www.hit.edu.cn; www.mail.cs.hit.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hit.edu.cn  ?\n\n\n\n\nHarbin Institute of Technology, Harbin \n   Harbin, HL 150000\n   China\n\n   Domain Name: HIT.EDU.CN\n\n   Network Name:   HIT-CN\n\n   Administrative Contact, Technical Contact:\n      Zhong-xiang Jiang  (ZJ1-CN) \n\n   Domain Servers in listed order:\n\n   hit02.hit.edu.cn    \t202.118.224.101\n   hit01.hit.edu.cn    \t202.118.224.100\n   hit1.hit.edu.cn     \t61.167.60.101\n\n\n\n\n\n\n"
 }

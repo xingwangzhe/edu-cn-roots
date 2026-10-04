@@ -49,6 +49,10 @@ def validate_record(record, filename, validator):
                 parsed = ipaddress.ip_address(value)
                 if key == 'ipv6' and parsed.version != 6:
                     raise ValueError(f'{domain}: ipv6 field is not IPv6')
+        for address in ns.get('addresses', []):
+            ipaddress.ip_address(address)
+        if ns.get('addresses') and any(ns.get(k) and ns[k] not in ns['addresses'] for k in ('ip','ipv6')):
+            raise ValueError(f'{domain}: primary NS addresses must appear in addresses')
     raw = record['raw_text']
     if raw:
         if domain.lower() not in raw.lower():
@@ -64,7 +68,7 @@ def export_row(record):
     row.update(whois_result_type=record['type'], whois_org_cn=record['org_cn'] or '',
                whois_org_en=record['org_en'] or '', whois_reg_date=record['reg_date'] or '',
                whois_network_name=record['network_name'] or '', whois_admin_contact=record['admin_contact'] or '',
-               whois_ns='; '.join(n['host']+'('+(';'.join(str(n[k]) for k in ('ip','ipv6') if n.get(k)))+')' for n in record['nameservers']),
+               whois_ns='; '.join(n['host']+'('+(';'.join(n.get('addresses') or list(dict.fromkeys(str(n[k]) for k in ('ip','ipv6') if n.get(k)))))+')' for n in record['nameservers']),
                whois_queried=record['whois_queried'])
     return {key: row[key] for key in FIELDS}
 

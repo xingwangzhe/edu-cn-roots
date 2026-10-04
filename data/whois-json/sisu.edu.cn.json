@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "PHOEBUS.SISU.EDU.CN",
-      "ip": "202.202.197.2"
+      "ip": "202.202.197.2",
+      "ipv6": "2001:da8:c80d:25::9cf"
     },
     {
       "host": "FLORA.SISU.EDU.CN",
-      "ip": "202.202.197.223"
+      "ip": "202.202.197.223",
+      "ipv6": "2001:da8:c80d:25::9e4"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sisu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "四川外国语大学",
+    "organization_or_record_name": "Sichuan International Studies University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "flora.sisu.edu.cn; phoebus.sisu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.sisu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sisu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sisu.edu.cn  ?\n\n\n\n\nSichuan International Studies University \n   Chongqing, CQ 400031\n   China\n\n   Domain Name: SISU.EDU.CN\n\n   Network Name:   SISU-CN\n\n   Administrative Contact:\n      Dingjun Wang  (DW34-CER) \n   Network Name:   SISU-CN\n\n   Technical Contact:\n      Zeyi Su  (ZS24-CER) \n\n   Domain Servers in listed order:\n\n   PHOEBUS.SISU.EDU.CN \t202.202.197.2\t2001:da8:c80d:25::9cf\n   FLORA.SISU.EDU.CN   \t202.202.197.223\t2001:da8:c80d:25::9e4\n\n\n\n\n\n\n"
 }

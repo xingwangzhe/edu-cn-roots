@@ -23,7 +23,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sie.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois sie.edu.cn ?\n\nShenyang Institute of Engineering \n   Shenyang, LN 110136\n   China\n\n   Domain Name: SIE.EDU.CN\n\n   Network Name:   SYEPI-CN\n\n   Administrative Contact, Technical Contact:\n      Xuefeng Bai  (XB5-CER) \n\n   Domain Servers in listed order:\n\n   ns.sie.edu.cn       \t202.118.116.1\n   ns2.sie.edu.cn      \t202.118.116.6\n",
+  "raw_text": "\nWhois Results for sie.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sie.edu.cn  ?\n\n\n\n\nShenyang Institute of Engineering \n   Shenyang, LN 110136\n   China\n\n   Domain Name: SIE.EDU.CN\n\n   Network Name:   SYEPI-CN\n\n   Administrative Contact, Technical Contact:\n      Xuefeng Bai  (XB5-CER) \n\n   Domain Servers in listed order:\n\n   ns.sie.edu.cn       \t202.118.116.1\n   ns2.sie.edu.cn      \t202.118.116.6\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Shenyang Institute of Engineering",
@@ -33,10 +33,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "sie.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

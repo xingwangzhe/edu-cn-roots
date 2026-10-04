@@ -22,21 +22,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=caa.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中国美术学院",
+    "organization_or_record_name": "China Acaemy Of Art",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-09-23T05:02:47; 2015-09-23T05:34:28",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "210.33.124.9; 210.33.124.7",
     "AAAA_records": "2001:da8:e045::1:2",
     "NS_records": "dns1.caa.edu.cn; dns2.caa.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 210.33.124.9; A overlaps CERNIC IPv4 list: 210.33.124.7; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:e045::1:2",
     "evidence_hostnames": "vpn.caa.edu.cn; www.caa.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for caa.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois caa.edu.cn  ?\n\n\n\n\nChina Acaemy Of Art \n   Hangzhou, ZJ 310002\n   China\n\n   Domain Name: CAA.EDU.CN\n\n   Network Name:   CAA-CN\n\n   Administrative Contact, Technical Contact:\n      Xing Zhao  (XZ43-CER) \n\n   Domain Servers in listed order:\n\n   dns1.caa.edu.cn     \t210.33.124.7\n   dns2.caa.edu.cn     \t210.33.124.9\n\n\n\n\n\n\n"
 }

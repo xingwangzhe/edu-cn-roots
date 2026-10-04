@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.hbue.edu.cn",
-      "ip": "218.197.80.8"
+      "ip": "218.197.80.8",
+      "ipv6": "2001:DA8:3005:8888::8"
     },
     {
       "host": "dns1.hbue.edu.cn",
-      "ip": "218.197.80.18"
+      "ip": "218.197.80.18",
+      "ipv6": "2001:DA8:3005:8888::18"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hbue.edu.cn",
   "metadata": {
-    "organization_or_record_name": "湖北经济学院",
+    "organization_or_record_name": "Hubei University of Economics",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.hbue.edu.cn; dns2.hbue.edu.cn; dns1.hbue.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hbue.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hbue.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hbue.edu.cn  ?\n\n\n\n\nHubei University of Economics \n   Wuhan, HB 430205\n   China\n\n   Domain Name: HBUE.EDU.CN\n\n   Network Name:   HBUE-CN\n\n   Administrative Contact, Technical Contact:\n      Shengjun Yao  (SY53-CER) \n\n   Domain Servers in listed order:\n\n   dns.hbue.edu.cn     \t218.197.80.8\t2001:DA8:3005:8888::8\n   dns1.hbue.edu.cn    \t218.197.80.18\t2001:DA8:3005:8888::18\n\n\n\n\n\n\n"
 }

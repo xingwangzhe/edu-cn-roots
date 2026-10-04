@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dns1.dzvtc.edu.cn",
-      "ip": "221.182.61.100"
+      "ip": "221.182.61.100",
+      "ipv6": "2409:8762:6905::1"
     },
     {
       "host": "dns2.dzvtc.edu.cn",
@@ -17,7 +18,8 @@
     },
     {
       "host": "dns3.dzvtc.edu.cn",
-      "ip": "202.115.255.106"
+      "ip": "202.115.255.106",
+      "ipv6": "2001:da8:b0:23::2"
     }
   ],
   "address": [
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=dzvtc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "达州职业技术学院",
+    "organization_or_record_name": "DaZhou Vocational and Technical College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=DNS status 2; AAAA=DNS status 2; NS=DNS status 2",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.dzvtc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for dzvtc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois dzvtc.edu.cn  ?\n\n\n\n\nDaZhou Vocational and Technical College \n   DaZhou, SC 635001\n   China\n\n   Domain Name: DZVTC.EDU.CN\n\n   Network Name:   DZVTC-CN\n\n   Administrative Contact, Technical Contact:\n      Rong Ren  (RR1-CER) \n\n   Domain Servers in listed order:\n\n   dns1.dzvtc.edu.cn   \t221.182.61.100\t2409:8762:6905::1\n   dns2.dzvtc.edu.cn   \t218.89.142.220\n   dns3.dzvtc.edu.cn   \t202.115.255.106\t2001:da8:b0:23::2\n\n\n\n\n\n\n"
 }

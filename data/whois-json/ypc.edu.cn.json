@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "ns1.ypc.edu.cn",
-      "ip": "42.247.10.162"
+      "ip": "42.247.10.162",
+      "ipv6": "2001:da8:e02d:1:100::254"
     },
     {
       "host": "ns2.ypc.edu.cn",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ypc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "绍兴文理学院元培学院",
+    "organization_or_record_name": "Shaoxing Institute of Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2016-09-27T05:46:09",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.101.185.196; 42.247.10.162",
     "AAAA_records": "2001:da8:e02d:1:100::2",
     "NS_records": "ns1.ypc.edu.cn; ns2.ypc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 42.247.10.162; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:e02d:1:100::2",
     "evidence_hostnames": "vpn.ypc.edu.cn; www.ypc.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ypc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ypc.edu.cn  ?\n\n\n\n\nShaoxing Institute of Technology \n   Shaoxing, ZJ 312000\n   China\n\n   Domain Name: YPC.EDU.CN\n\n   Network Name:   YPC-CN\n\n   Administrative Contact, Technical Contact:\n      Zhimou Zhu  (ZZ110-CER) \n\n   Domain Servers in listed order:\n\n   ns1.ypc.edu.cn      \t42.247.10.162\t2001:da8:e02d:1:100::254\n   ns2.ypc.edu.cn      \t202.101.185.194\n\n\n\n\n\n\n"
 }

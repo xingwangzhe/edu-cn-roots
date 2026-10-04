@@ -6,9 +6,9 @@
   "network_name": null,
   "admin_contact": null,
   "nameservers": [],
-  "raw_note": "在 CERNIC 数据库中没有找到关键字dns2.edu.cn 的域名/地址记录",
+  "raw_note": "Whois Results for dns2.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois dns2.edu.cn  ?\n\n\n\n在 CERNIC 数据库中没有找到关键字dns2.edu.cn 的域名/地址记录\n\n\n\n\nBack",
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=dns2.edu.cn",
   "metadata": {
     "organization_or_record_name": "CERNIC / CERNET DNS service",
@@ -18,13 +18,13 @@
     "A_records": "202.112.0.13",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "No matching record in CERNIC database (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: not_found (queried 2026-10-04)",
     "CERNET_address_list_association": "Not checked for this added service-domain row",
     "evidence_hostnames": "dns2.edu.cn",
-    "review_notes": "Direct child of edu.cn retained regardless of institution type; DNS A query checked 2026-09-26. Name denotes or is associated with CERNIC/CERNET service infrastructure; WHOIS registration not individually confirmed.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct child of edu.cn retained regardless of institution type; DNS A query checked 2026-09-26. Name denotes or is associated with CERNIC/CERNET service infrastructure; WHOIS registration not individually confirmed.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "domain_name": null,
   "reg_date": null,
-  "raw_text": null,
+  "raw_text": "\nWhois Results for dns2.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois dns2.edu.cn  ?\n\n\n\n在 CERNIC 数据库中没有找到关键字dns2.edu.cn 的域名/地址记录\n\n\n\n\nBack\n\n",
   "address": []
 }

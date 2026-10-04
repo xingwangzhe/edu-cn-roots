@@ -26,7 +26,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bjtu.edu.cn",
   "metadata": {
     "organization_or_record_name": "Beijing Jiaotong University",
@@ -36,11 +36,11 @@
     "A_records": "59.64.6.17",
     "AAAA_records": "",
     "NS_records": "mars.bjtu.edu.cn; jupiter.bjtu.edu.cn; venus.bjtu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 59.64.6.17",
     "evidence_hostnames": "app.bjtu.edu.cn; bjtu.edu.cn; mail.bjtu.edu.cn; rwng.bjtu.edu.cn; weixin.bjtu.edu.cn; wximg.bjtu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bjtu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bjtu.edu.cn  ?\n\n\n\n\nBeijing Jiaotong University \n   BeiJing, BJ 100044\n   China\n\n   Domain Name: BJTU.EDU.CN\n\n   Network Name:   NJTU-CN\n\n   Administrative Contact, Technical Contact:\n      Wei Bu  (WB4-CER) \n\n   Domain Servers in listed order:\n\n   MARS.NJTU.EDU.CN    \t202.112.144.30\n   JUPITER.NJTU.EDU.CN \t202.112.144.65\n   VENUS.BJTU.EDU.CN   \t218.249.29.200\n\n\n\n\n\n\n"
 }

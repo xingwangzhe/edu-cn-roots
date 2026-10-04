@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.yzpc.edu.cn",
-      "ip": "211.65.8.1"
+      "ip": "211.65.8.1",
+      "ipv6": "2001:250:502C:FFFF::8"
     },
     {
       "host": "dns2.yzpc.edu.cn",
-      "ip": "211.65.8.2"
+      "ip": "211.65.8.2",
+      "ipv6": "2001:250:502C:FFFF::9"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=yzpc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "扬州市职业大学",
+    "organization_or_record_name": "Yangzhou Polytechnic College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "222.189.215.7",
     "AAAA_records": "2001:250:502c:ffff::4",
     "NS_records": "dns1.yzpc.edu.cn; dns2.yzpc.edu.cn; yzpc.yzpc.edu.cn; ypc.yzpc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:502c:ffff::4",
     "evidence_hostnames": "www.yzpc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for yzpc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois yzpc.edu.cn  ?\n\n\n\n\nYangzhou Polytechnic College \n   Yangzhou, JS 225009\n   China\n\n   Domain Name: YZPC.EDU.CN\n\n   Network Name:   YZPC-CN\n\n   Administrative Contact:\n      Jing Sang  (JS49-CER) \n   Network Name:   YZPC-CN\n\n   Technical Contact:\n      HongHua Yin  (HY64-CER) \n\n   Domain Servers in listed order:\n\n   dns1.yzpc.edu.cn    \t211.65.8.1\t2001:250:502C:FFFF::8\n   dns2.yzpc.edu.cn    \t211.65.8.2\t2001:250:502C:FFFF::9\n\n\n\n\n\n\n"
 }

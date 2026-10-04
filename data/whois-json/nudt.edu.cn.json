@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "pdns.nudt.edu.cn",
-      "ip": "202.197.0.180"
+      "ip": "202.197.0.180",
+      "ipv6": "2001:250:4401:115::180"
     },
     {
       "host": "sdns.nudt.edu.cn",
-      "ip": "202.197.0.181"
+      "ip": "202.197.0.181",
+      "ipv6": "2001:250:4401:115::181"
     },
     {
       "host": "DNS.HN.EDU.CN",
-      "ip": "210.43.44.4"
+      "ip": "210.43.44.4",
+      "ipv6": "2001:250:4404::4"
     }
   ],
   "address": [
@@ -26,7 +29,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nudt.edu.cn",
   "metadata": {
     "organization_or_record_name": "National University of Defense Technology",
@@ -36,11 +39,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.hn.edu.cn; sdns.nudt.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "id.nudt.edu.cn; mail.nudt.edu.cn; mapi.nudt.edu.cn; mapp.nudt.edu.cn; nudt.edu.cn; redim.nudt.edu.cn; user.nudt.edu.cn; vpn.nudt.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nudt.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nudt.edu.cn  ?\n\n\n\n\nNational University of Defense Technology \n   :, HN 410003\n   China\n\n   Domain Name: NUDT.EDU.CN\n\n   Network Name:   NUDT-CN\n\n   Administrative Contact, Technical Contact:\n      Yong Zhou  (YZ204-CER) \n\n   Domain Servers in listed order:\n\n   pdns.nudt.edu.cn    \t202.197.0.180\t2001:250:4401:115::180\n   sdns.nudt.edu.cn    \t202.197.0.181\t2001:250:4401:115::181\n   DNS.HN.EDU.CN       \t210.43.44.4\t2001:250:4404::4\n\n\n\n\n\n\n"
 }

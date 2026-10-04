@@ -24,7 +24,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nwafu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois nwafu.edu.cn ?\n\nNorthwest Agriculture & Forestry University \n   Xi'an, SN 712100\n   China\n\n   Domain Name: NWAFU.EDU.CN\n\n   Network Name:   NSTUAF-CN\n\n   Administrative Contact, Technical Contact:\n      Li Li  (LL48-CER) \n\n   Domain Servers in listed order:\n\n   NCS1.NWAFU.EDU.CN   \t210.27.80.2\t2001:250:1002::3\n   NCS2.NWAFU.EDU.CN   \t61.150.47.1\n",
+  "raw_text": "\nWhois Results for nwafu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nwafu.edu.cn  ?\n\n\n\n\nNorthwest Agriculture & Forestry University \n   Xi'an, SN 712100\n   China\n\n   Domain Name: NWAFU.EDU.CN\n\n   Network Name:   NSTUAF-CN\n\n   Administrative Contact, Technical Contact:\n      Li Li  (LL48-CER) \n\n   Domain Servers in listed order:\n\n   NCS1.NWAFU.EDU.CN   \t210.27.80.2\t2001:250:1002::3\n   NCS2.NWAFU.EDU.CN   \t61.150.47.1\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Northwest Agriculture & Forestry University",
@@ -34,10 +34,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "nwafu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

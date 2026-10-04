@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.WHUT.EDU.CN",
-      "ip": "202.114.88.10"
+      "ip": "202.114.88.10",
+      "ipv6": "2001:250:4004:1a:202:114:88:10"
     },
     {
       "host": "DNS1.WHUT.EDU.CN",
-      "ip": "202.114.88.14"
+      "ip": "202.114.88.14",
+      "ipv6": "2001:250:4004:1b:202:114:88:14"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=whut.edu.cn",
   "metadata": {
-    "organization_or_record_name": "武汉理工大学",
+    "organization_or_record_name": "Wuhan University Of Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-06-12T04:13:00; 2017-08-03T07:04:00; 2017-08-03T07:27:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.114.50.2",
     "AAAA_records": "",
     "NS_records": "dns.whut.edu.cn; dns1.whut.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.114.50.2",
     "evidence_hostnames": "lgdy.whut.edu.cn; m.news.whut.edu.cn; news.whut.edu.cn; www.whut.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for whut.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois whut.edu.cn  ?\n\n\n\n\nWuhan University Of Technology \n   Wuhan, HB 430070\n   China\n\n   Domain Name: WHUT.EDU.CN\n\n   Network Name:   WHUT-CN\n\n   Administrative Contact, Technical Contact:\n      Peng Xiao  (PX1-CER) \n\n   Domain Servers in listed order:\n\n   DNS.WHUT.EDU.CN     \t202.114.88.10\t2001:250:4004:1a:202:114:88:10\n   DNS1.WHUT.EDU.CN    \t202.114.88.14\t2001:250:4004:1b:202:114:88:14\n\n\n\n\n\n\n"
 }

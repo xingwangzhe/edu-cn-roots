@@ -5,7 +5,7 @@
   "org_cn": null,
   "domain_name": "SHTU.EDU.CN",
   "network_name": "SHTU-CN",
-  "admin_contact": null,
+  "admin_contact": "Shiqi Zhou (SZ3-AP)",
   "nameservers": [
     {
       "host": "DNS.SHTU.EDU.CN",
@@ -23,7 +23,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shtu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois shtu.edu.cn ?\n\nShanghai Teachers University \n   Shanghai, SH 200234\n   China\n\n   Domain Name: SHTU.EDU.CN\n\n   Network Name:   SHTU-CN\n\n   Administrative Contact:\n      Shiqi Zhou  (SZ3-AP) \n   Network Name:   SHTU-CN\n\n   Technical Contact:\n      Yinrong Qian  (YQ1-AP) \n\n   Domain Servers in listed order:\n\n   DNS.SHTU.EDU.CN     \t202.121.48.100\n   NET.SHTU.EDU.CN     \t202.121.48.200\n",
+  "raw_text": "\nWhois Results for shtu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois shtu.edu.cn  ?\n\n\n\n\nShanghai Teachers University \n   Shanghai, SH 200234\n   China\n\n   Domain Name: SHTU.EDU.CN\n\n   Network Name:   SHTU-CN\n\n   Administrative Contact:\n      Shiqi Zhou  (SZ3-AP) \n   Network Name:   SHTU-CN\n\n   Technical Contact:\n      Yinrong Qian  (YQ1-AP) \n\n   Domain Servers in listed order:\n\n   DNS.SHTU.EDU.CN     \t202.121.48.100\n   NET.SHTU.EDU.CN     \t202.121.48.200\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Shanghai Teachers University",
@@ -33,10 +33,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "shtu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

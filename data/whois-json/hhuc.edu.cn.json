@@ -5,7 +5,7 @@
   "org_cn": null,
   "domain_name": "HHUC.EDU.CN",
   "network_name": "HHUC-CN",
-  "admin_contact": null,
+  "admin_contact": "Weijian Zhang (WZ102-CER)",
   "nameservers": [
     {
       "host": "dns.hhuc.edu.cn",
@@ -28,7 +28,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hhuc.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois hhuc.edu.cn ?\n\nHohai University, Changzhou \n   Changzhou, JS 210024\n   China\n\n   Domain Name: HHUC.EDU.CN\n\n   Network Name:   HHUC-CN\n\n   Administrative Contact:\n      Weijian Zhang  (WZ102-CER) \n   Network Name:   HHUC-CN\n\n   Technical Contact:\n      Jun Guan  (JG37-CER) \n\n   Domain Servers in listed order:\n\n   dns.hhuc.edu.cn     \t202.119.112.34\t2001:da8:1004:1000::34\n   dns2.hhuc.edu.cn    \t221.226.114.99\n   dns3.hhu.edu.cn     \t122.96.73.192\n",
+  "raw_text": "\nWhois Results for hhuc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hhuc.edu.cn  ?\n\n\n\n\nHohai University, Changzhou \n   Changzhou, JS 210024\n   China\n\n   Domain Name: HHUC.EDU.CN\n\n   Network Name:   HHUC-CN\n\n   Administrative Contact:\n      Weijian Zhang  (WZ102-CER) \n   Network Name:   HHUC-CN\n\n   Technical Contact:\n      Jun Guan  (JG37-CER) \n\n   Domain Servers in listed order:\n\n   dns.hhuc.edu.cn     \t202.119.112.34\t2001:da8:1004:1000::34\n   dns2.hhuc.edu.cn    \t221.226.114.99\n   dns3.hhu.edu.cn     \t122.96.73.192\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Hohai University, Changzhou",
@@ -38,10 +38,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "hhuc.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

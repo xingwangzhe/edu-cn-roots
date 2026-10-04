@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.IMAU.EDU.CN",
-      "ip": "202.207.48.3"
+      "ip": "202.207.48.3",
+      "ipv6": "2001:250:E05::3"
     },
     {
       "host": "NS.IMAU.EDU.CN",
-      "ip": "202.207.48.4"
+      "ip": "202.207.48.4",
+      "ipv6": "2001:250:E05::4"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=imau.edu.cn",
   "metadata": {
-    "organization_or_record_name": "内蒙古农业大学",
+    "organization_or_record_name": "Inner Mongolia Agricultural University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=DNS status 2; AAAA=DNS status 2; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.imau.edu.cn; ns.imau.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.imau.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for imau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois imau.edu.cn  ?\n\n\n\n\nInner Mongolia Agricultural University \n   Huhhot, NM 010018\n   China\n\n   Domain Name: IMAU.EDU.CN\n\n   Network Name:   IMAU-CN\n\n   Administrative Contact, Technical Contact:\n      Ma Hailei  (MH2-CER) \n\n   Domain Servers in listed order:\n\n   DNS.IMAU.EDU.CN     \t202.207.48.3\t2001:250:E05::3\n   NS.IMAU.EDU.CN      \t202.207.48.4\t2001:250:E05::4\n\n\n\n\n\n\n"
 }

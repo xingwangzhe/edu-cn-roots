@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS1.WFMC.EDU.CN",
-      "ip": "210.44.80.1"
+      "ip": "210.44.80.1",
+      "ipv6": "240C:CA0D::1"
     },
     {
       "host": "DNS2.WFMC.EDU.CN",
-      "ip": "210.44.80.2"
+      "ip": "210.44.80.2",
+      "ipv6": "240C:CA0D::2"
     }
   ],
   "address": [
@@ -22,7 +24,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=wfmc.edu.cn",
   "metadata": {
     "organization_or_record_name": "Shandong Second Medical University",
@@ -32,11 +34,11 @@
     "A_records": "210.44.80.1; 210.44.80.2",
     "AAAA_records": "",
     "NS_records": "dns1.wfmc.edu.cn; dns2.wfmc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 210.44.80.1; A overlaps CERNIC IPv4 list: 210.44.80.2",
     "evidence_hostnames": "cas.wfmc.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for wfmc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois wfmc.edu.cn  ?\n\n\n\n\nShandong Second Medical University \n   Weifang, SD 261042\n   China\n\n   Domain Name: WFMC.EDU.CN\n\n   Network Name:   WFMC-CN\n\n   Administrative Contact:\n      Jinmin Wang  (JW24-CER) \n   Network Name:   WFMC-CN\n\n   Technical Contact:\n      Shouguo Liu  (SL16-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.WFMC.EDU.CN    \t210.44.80.1\t240C:CA0D::1\n   DNS2.WFMC.EDU.CN    \t210.44.80.2\t240C:CA0D::2\n\n\n\n\n\n\n"
 }

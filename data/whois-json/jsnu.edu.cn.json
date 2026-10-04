@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.jsnu.edu.cn",
-      "ip": "202.195.64.10"
+      "ip": "202.195.64.10",
+      "ipv6": "2001:da8:1016:1000::10"
     },
     {
       "host": "dns1.jsnu.edu.cn",
-      "ip": "202.195.64.11"
+      "ip": "202.195.64.11",
+      "ipv6": "2001:da8:1016:1000::11"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jsnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "江苏师范大学",
+    "organization_or_record_name": "Jiangsu Normal University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2016-10-13T07:07:27; 2016-10-31T00:00:00; 2016-11-16T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.195.79.210",
     "AAAA_records": "",
     "NS_records": "dns.jsnu.edu.cn; dns1.jsnu.edu.cn; xz.jsnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.195.79.210",
     "evidence_hostnames": "collab-edge.jsnu.edu.cn; core.jsnu.edu.cn; edge.jsnu.edu.cn; edge2.jsnu.edu.cn; webmeeting.jsnu.edu.cn; www.core.jsnu.edu.cn; www.jsnu.edu.cn; www.webmeeting.jsnu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for jsnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois jsnu.edu.cn  ?\n\n\n\n\nJiangsu Normal University \n   Xu, JS 221116\n   China\n\n   Domain Name: JSNU.EDU.CN\n\n   Network Name:   XZTU-CN\n\n   Administrative Contact, Technical Contact:\n      Jun Xie  (JX34-CER) \n\n   Domain Servers in listed order:\n\n   dns.jsnu.edu.cn     \t202.195.64.10\t2001:da8:1016:1000::10\n   dns1.jsnu.edu.cn    \t202.195.64.11\t2001:da8:1016:1000::11\n\n\n\n\n\n\n"
 }

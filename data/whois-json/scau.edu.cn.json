@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "scausv1.scau.edu.cn",
-      "ip": "202.116.160.33"
+      "ip": "202.116.160.33",
+      "ipv6": "2001:da8:2004:1000:202:116:160:33"
     }
   ],
   "address": [
@@ -18,21 +19,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=scau.edu.cn",
   "metadata": {
-    "organization_or_record_name": "华南农业大学",
+    "organization_or_record_name": "South China Agriculture University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-07-03T01:17:00; 2017-07-03T01:18:00; 2017-07-11T06:49:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "222.201.226.108; 222.201.226.109",
     "AAAA_records": "2001:da8:2004:1000:192:168:240:151",
     "NS_records": "scausv1.scau.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 222.201.226.108; A overlaps CERNIC IPv4 list: 222.201.226.109; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:2004:1000:192:168:240:151",
     "evidence_hostnames": "cloudoffice.scau.edu.cn; hauth.scau.edu.cn; hbus.scau.edu.cn; hchat.scau.edu.cn; hcloud.scau.edu.cn; hgit.scau.edu.cn; hkanban.scau.edu.cn; hmeet.scau.edu.cn; hpan.scau.edu.cn; nextcloud.scau.edu.cn; scau.edu.cn; www.scau.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for scau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois scau.edu.cn  ?\n\n\n\n\nSouth China Agriculture University \n   Guangzhou, GD 510642\n   China\n\n   Domain Name: SCAU.EDU.CN\n\n   Network Name:   SCAU-CN\n\n   Administrative Contact:\n      Feng Liu  (FL35-CER) \n   Network Name:   SCAU-CN\n\n   Technical Contact:\n      Zhihong Huang  (ZH57-CER) \n\n   Domain Servers in listed order:\n\n   scausv1.scau.edu.cn \t202.116.160.33\t2001:da8:2004:1000:202:116:160:33\n\n\n\n\n\n\n"
 }

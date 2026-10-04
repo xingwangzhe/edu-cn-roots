@@ -13,7 +13,8 @@
     },
     {
       "host": "dns1.eszy.edu.cn",
-      "ip": "221.234.72.3"
+      "ip": "221.234.72.3",
+      "ipv6": "2001:DA8:3048:122:50:56B8:4061:54"
     }
   ],
   "address": [
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=eszy.edu.cn",
   "metadata": {
-    "organization_or_record_name": "恩施职业技术学院",
+    "organization_or_record_name": "Enshi Institute of Technology",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=DNS status 2; AAAA=DNS status 2; NS=DNS status 2",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.eszy.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for eszy.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois eszy.edu.cn  ?\n\n\n\n\nEnshi Institute of Technology \n   ENSHI, HB 445000\n   China\n\n   Domain Name: ESZY.EDU.CN\n\n   Network Name:   ESZY-CN\n\n   Administrative Contact, Technical Contact:\n      Shangchun Shu  (SS17-CER) \n\n   Domain Servers in listed order:\n\n   dns.eszy.edu.cn     \t218.199.8.8\n   dns1.eszy.edu.cn    \t221.234.72.3\t2001:DA8:3048:122:50:56B8:4061:54\n\n\n\n\n\n\n"
 }

@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "DNS.NWUPL.EDU.CN",
-      "ip": "202.200.168.100"
+      "ip": "202.200.168.100",
+      "ipv6": "2001:250:100B::FFFF:CAC8:A864"
     },
     {
       "host": "DNS1.NWUPL.EDU.CN",
-      "ip": "202.200.171.100"
+      "ip": "202.200.171.100",
+      "ipv6": "2001:250:100B::FFFF:CAC8:AB64"
     },
     {
       "host": "DNS2.NWUPL.EDU.CN",
-      "ip": "202.200.172.100"
+      "ip": "202.200.172.100",
+      "ipv6": "2001:250:100B::FFFF:CAC8:AC64"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nwupl.edu.cn",
   "metadata": {
-    "organization_or_record_name": "西北政法大学",
+    "organization_or_record_name": "Northwest University of Political Science and Law",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-06-27T11:47:00; 2017-08-08T03:09:00",
     "current_dns_status": "A=NOERROR (Cloudflare fallback); AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.200.171.64",
     "AAAA_records": "2001:250:100d:75:79:c2:e:45",
     "NS_records": "dns.nwupl.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.200.171.64; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:100d:75:79:c2:e:45",
     "evidence_hostnames": "d.nwupl.edu.cn; www.nwupl.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nwupl.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nwupl.edu.cn  ?\n\n\n\n\nNorthwest University of Political Science and Law \n   Xi'an, SN 710122\n   China\n\n   Domain Name: NWUPL.EDU.CN\n\n   Network Name:   NWIPL-CN\n\n   Administrative Contact, Technical Contact:\n      Xuan Jia  (XJ17-CER) \n\n   Domain Servers in listed order:\n\n   DNS.NWUPL.EDU.CN    \t202.200.168.100\t2001:250:100B::FFFF:CAC8:A864\n   DNS1.NWUPL.EDU.CN   \t202.200.171.100\t2001:250:100B::FFFF:CAC8:AB64\n   DNS2.NWUPL.EDU.CN   \t202.200.172.100\t2001:250:100B::FFFF:CAC8:AC64\n\n\n\n\n\n\n"
 }

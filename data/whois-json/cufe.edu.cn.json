@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "DNS2.CUFE.EDU.CN",
-      "ip": "123.124.19.180"
+      "ip": "123.124.19.180",
+      "ipv6": "2001:da8:255:900::20"
     },
     {
       "host": "DNS1.CUFE.EDU.CN",
-      "ip": "202.205.208.6"
+      "ip": "202.205.208.6",
+      "ipv6": "2001:da8:255:11:202:205:208:6"
     },
     {
       "host": "DNS.CUFE.EDU.CN",
-      "ip": "202.205.208.5"
+      "ip": "202.205.208.5",
+      "ipv6": "2001:da8:255:11:202:205:208:5"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cufe.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中央财经大学",
+    "organization_or_record_name": "Central University Of Finance & Economics",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2016-05-18T00:00:00; 2016-09-27T00:00:00; 2016-12-27T08:01:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.cufe.edu.cn; dns.cufe.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "app.cufe.edu.cn; bb.cufe.edu.cn; webvpn.cufe.edu.cn; weixin.cufe.edu.cn; www.cufe.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cufe.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cufe.edu.cn  ?\n\n\n\n\nCentral University Of Finance & Economics \n   Beijing, BJ 100081\n   China\n\n   Domain Name: CUFE.EDU.CN\n\n   Network Name:   CUFE-CN\n\n   Administrative Contact:\n      Zheng Lin  (ZL27-CER) \n   Network Name:   CUFE-CN\n\n   Technical Contact:\n      Guangyao Cao  (GC5-CER) \n\n   Domain Servers in listed order:\n\n   DNS2.CUFE.EDU.CN    \t123.124.19.180\t2001:da8:255:900::20\n   DNS1.CUFE.EDU.CN    \t202.205.208.6\t2001:da8:255:11:202:205:208:6\n   DNS.CUFE.EDU.CN     \t202.205.208.5\t2001:da8:255:11:202:205:208:5\n\n\n\n\n\n\n"
 }

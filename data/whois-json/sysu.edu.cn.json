@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "ns1.sysu.edu.cn",
-      "ip": "202.116.64.1"
+      "ip": "202.116.64.1",
+      "ipv6": "2001:250:3002:10::1"
     },
     {
       "host": "ns2.sysu.edu.cn",
-      "ip": "202.116.64.2"
+      "ip": "202.116.64.2",
+      "ipv6": "2001:250:3002:10::2"
     },
     {
       "host": "ns3.sysu.edu.cn",
-      "ip": "202.116.64.6"
+      "ip": "202.116.64.6",
+      "ipv6": "2001:250:3002:10::6"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sysu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中山大学",
+    "organization_or_record_name": "Sun Yat-sen (Zhongshan) University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-06-30T15:32:00; 2017-08-31T15:22:00; 2017-08-31T15:31:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.116.64.8",
     "AAAA_records": "",
     "NS_records": "ns1.sysu.edu.cn; ns3.sysu.edu.cn; ns2.sysu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.116.64.8",
     "evidence_hostnames": "cas.sysu.edu.cn; cloud.cmer.sysu.edu.cn; eden.sysu.edu.cn; file.eblab.sysu.edu.cn; mail.sysu.edu.cn; mail2.sysu.edu.cn; mailx.sysu.edu.cn; my.sysu.edu.cn; mypwm.sysu.edu.cn; oa.sysu.edu.cn; radius.sysu.edu.cn; scsl.sysu.edu.cn; www.sysu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sysu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sysu.edu.cn  ?\n\n\n\n\nSun Yat-sen (Zhongshan) University \n   Guangzhou, GD 510275\n   China\n\n   Domain Name: SYSU.EDU.CN\n\n   Network Name:   ZHONGSHAN-CN\n\n   Administrative Contact:\n      Haitao He  (HH3-CER) \n   Network Name:   ZHONGSHAN-CN\n\n   Technical Contact:\n      Ercong Shang  (ES3-CER) \n\n   Domain Servers in listed order:\n\n   ns1.sysu.edu.cn     \t202.116.64.1\t2001:250:3002:10::1\n   ns2.sysu.edu.cn     \t202.116.64.2\t2001:250:3002:10::2\n   ns3.sysu.edu.cn     \t202.116.64.6\t2001:250:3002:10::6\n\n\n\n\n\n\n"
 }

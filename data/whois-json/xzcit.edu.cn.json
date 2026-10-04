@@ -13,7 +13,8 @@
     },
     {
       "host": "dns2.xzcit.edu.cn",
-      "ip": "2001:250:5022::7"
+      "ip": "2001:250:5022::7",
+      "ipv6": "2001:250:5022::7"
     },
     {
       "host": "dns3.xzcit.edu.cn",
@@ -26,21 +27,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xzcit.edu.cn",
   "metadata": {
-    "organization_or_record_name": "徐州工业职业技术学院",
+    "organization_or_record_name": "XuZhou College Industrial Technology",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.xzcit.edu.cn; dns2.xzcit.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.xzcit.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for xzcit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois xzcit.edu.cn  ?\n\n\n\n\nXuZhou College Industrial Technology \n   XuZhou, JS 221006\n   China\n\n   Domain Name: XZCIT.EDU.CN\n\n   Network Name:   XZCIT-CN\n\n   Administrative Contact:\n      Wanxiang Jin  (WJ5-CER) \n   Network Name:   XZCIT-CN\n\n   Technical Contact:\n      Genglong Liu  (GL4-CER) \n\n   Domain Servers in listed order:\n\n   dns1.xzcit.edu.cn   \t58.192.240.5\n   dns2.xzcit.edu.cn   \t2001:250:5022::7\n   dns3.xzcit.edu.cn   \t218.3.172.114\n\n\n\n\n\n\n"
 }

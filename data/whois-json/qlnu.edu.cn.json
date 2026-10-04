@@ -4,12 +4,13 @@
   "org_en": "Qi Lu Normal University",
   "org_cn": null,
   "domain_name": "QLNU.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Feichao Wang (FW11-CER)",
   "nameservers": [
     {
       "host": "DNS.QLNU.EDU.CN",
-      "ip": "202.194.224.3"
+      "ip": "202.194.224.3",
+      "ipv6": "2001:da8:7022:16::3"
     },
     {
       "host": "DNS1.QLNU.EDU.CN",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=qlnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "齐鲁师范学院",
+    "organization_or_record_name": "Qi Lu Normal University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.194.230.110",
     "AAAA_records": "",
     "NS_records": "dns.qlnu.edu.cn; dns1.qlnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.194.230.110",
     "evidence_hostnames": "www.qlnu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for qlnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois qlnu.edu.cn  ?\n\n\n\n\nQi Lu Normal University \n   Jinan, SD 250013\n   China\n\n   Domain Name: QLNU.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact:\n      Feichao Wang  (FW11-CER) \n   Network Name:   \n\n   Technical Contact:\n      Zhen Li  (ZL26-CER) \n\n   Domain Servers in listed order:\n\n   DNS.QLNU.EDU.CN     \t202.194.224.3\t2001:da8:7022:16::3\n   DNS1.QLNU.EDU.CN    \t202.194.224.2\n\n\n\n\n\n\n"
 }

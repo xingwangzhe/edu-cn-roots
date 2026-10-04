@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "DNS.HZAU.EDU.CN",
-      "ip": "211.69.143.1"
+      "ip": "211.69.143.1",
+      "ipv6": "2001:DA8:3002:28::2"
     },
     {
       "host": "DNS1.HZAU.EDU.CN",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hzau.edu.cn",
   "metadata": {
-    "organization_or_record_name": "华中农业大学",
+    "organization_or_record_name": "Huazhong Agriculture University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.hzau.edu.cn; dns.hzau.edu.cn; ntp.hzau.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hzau.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hzau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hzau.edu.cn  ?\n\n\n\n\nHuazhong Agriculture University \n   Wuhan, HB 430070\n   China\n\n   Domain Name: HZAU.EDU.CN\n\n   Network Name:   HZAU-CN\n\n   Administrative Contact:\n      Youliang Yuan  (YY86-CER) \n   Network Name:   HZAU-CN\n\n   Technical Contact:\n      Li Ma  (LM23-CER) \n\n   Domain Servers in listed order:\n\n   DNS.HZAU.EDU.CN     \t211.69.143.1\t2001:DA8:3002:28::2\n   DNS1.HZAU.EDU.CN    \t211.69.143.2\n\n\n\n\n\n\n"
 }

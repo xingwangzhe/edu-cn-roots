@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "pridns.ynu.edu.cn",
-      "ip": "202.203.208.33"
+      "ip": "202.203.208.33",
+      "ipv6": "2001:250:2800:0:25:0:208:33"
     },
     {
       "host": "secdns.ynu.edu.cn",
-      "ip": "202.203.208.34"
+      "ip": "202.203.208.34",
+      "ipv6": "2001:250:2800:0:25:0:208:34"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ynu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "云南大学",
+    "organization_or_record_name": "Yunnan University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2011-11-29T15:35:14; 2016-03-06T11:12:00; 2016-09-15T07:24:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "pridns.ynu.edu.cn; secdns.ynu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "bbs.ynu.edu.cn; webmail.ynu.edu.cn; www.ynu.edu.cn; ynu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ynu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ynu.edu.cn  ?\n\n\n\n\nYunnan University \n   Kunming, YN 650091\n   China\n\n   Domain Name: YNU.EDU.CN\n\n   Network Name:   YNU-CN\n\n   Administrative Contact, Technical Contact:\n      Donghua Liu  (DL1-CER) \n\n   Domain Servers in listed order:\n\n   pridns.ynu.edu.cn   \t202.203.208.33\t2001:250:2800:0:25:0:208:33\n   secdns.ynu.edu.cn   \t202.203.208.34\t2001:250:2800:0:25:0:208:34\n\n\n\n\n\n\n"
 }

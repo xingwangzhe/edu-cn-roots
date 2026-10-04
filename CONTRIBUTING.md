@@ -31,7 +31,7 @@
 | `domain_name` | 完整 WHOIS 的域名，忽略大小写后须等于根域 |
 | `network_name` / `admin_contact` | 返回的网络名 / 联系人；缺失为 `null` |
 | `reg_date` | 中文状态中的真实注册日期 `YYYYMMDD`；不适用为 `null` |
-| `nameservers` | 对象数组，含 `host`、`ip`，可有 `ipv6`；保留登记服务器顺序 |
+| `nameservers` | 对象数组，含 `host`、`ip`，可有 `ipv6` 和 `addresses` 完整地址列表；保留登记服务器顺序 |
 | `address` | WHOIS 地址行的字符串数组 |
 | `raw_note` | 中文状态 / 无匹配原文摘要；完整记录可为 `null` |
 | `whois_queried` | 实际查询日期 `YYYY-MM-DD` |
@@ -60,3 +60,9 @@ GitHub Actions 在相关数据、schema、脚本、测试或工作流发生 push
 ## 当前累计发布入口
 
 当前使用 data/edu-cn-roots-whois-latest.csv / .json 和 data/statistics.json。生成后同步这些文件，保留旧日期或批次快照；同一天已有快照不可覆盖。README 来源表按 collected_from 标签统计唯一域名，重叠来源不相加；新增来源保留精确 URL、版本和证据，历史缺失引用明确标为待补证。
+
+## 后台 HTTP 全量复查
+
+维护者明确要求直接 HTTP 时，可运行 `python3 scripts/refresh_cernic.py --benchmark` 测试 1、2、4、8 并发，每级 24 条；全局请求启动上限为 8 次/秒，不进行无界压力测试。`python3 scripts/refresh_cernic.py --workers 2` 全量复查当前逐域集合。连接超时 10 秒、单请求总超时 30 秒，失败最多尝试 3 次并退避。这里是客户端设置，不是已证明的 CERNIC 服务端超时上限。
+
+脚本先保存当前所有逐域 JSON 到 `data/history/`，再将响应 HTML 和解析结果写入 `outputs/http-refresh/<批次>/`。只有全部请求和字段校验成功，才更新正式 JSON 并生成 latest、统计及带批次时间的历史 CSV / 汇总 JSON；有失败时保留检查点，正式数据不变。响应按 GBK 解码，保留原文，实测 timing 和响应 SHA256 写入批次报告。原始来源、观察日期、DNS 记录不因 WHOIS 复查刷新。

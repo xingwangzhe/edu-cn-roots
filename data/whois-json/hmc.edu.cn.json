@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.hmc.edu.cn",
-      "ip": "59.79.136.6"
+      "ip": "59.79.136.6",
+      "ipv6": "2001:DA8:E046::1"
     },
     {
       "host": "dns2.hmc.edu.cn",
-      "ip": "101.68.80.6"
+      "ip": "101.68.80.6",
+      "ipv6": "2001:DA8:E046::2"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hmc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "杭州医学院",
+    "organization_or_record_name": "Hangzhou Medical College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hmc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hmc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hmc.edu.cn  ?\n\n\n\n\nHangzhou Medical College \n   Hangzhou, ZJ 310053\n   China\n\n   Domain Name: HMC.EDU.CN\n\n   Network Name:   ZHJMC-CN\n\n   Administrative Contact, Technical Contact:\n      Yang Yang  (YY66-CER) \n\n   Domain Servers in listed order:\n\n   dns1.hmc.edu.cn     \t59.79.136.6\t2001:DA8:E046::1\n   dns2.hmc.edu.cn     \t101.68.80.6\t2001:DA8:E046::2\n\n\n\n\n\n\n"
 }

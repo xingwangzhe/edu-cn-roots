@@ -25,7 +25,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=chu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois chu.edu.cn ?\n\nChaohu University \n   Chaohu, AH 238000\n   China\n\n   Domain Name: CHU.EDU.CN\n\n   Network Name:   CHTC-CN\n\n   Administrative Contact, Technical Contact:\n      Hongwei Wang  (HW23-CER) \n\n   Domain Servers in listed order:\n\n   dns1.chu.edu.cn     \t210.45.92.11\t2001:DA8:D816:8888::11\n   dns2.chu.edu.cn     \t210.45.92.12\t2001:DA8:D816:8888::12\n",
+  "raw_text": "\nWhois Results for chu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois chu.edu.cn  ?\n\n\n\n\nChaohu University \n   Chaohu, AH 238000\n   China\n\n   Domain Name: CHU.EDU.CN\n\n   Network Name:   CHTC-CN\n\n   Administrative Contact, Technical Contact:\n      Hongwei Wang  (HW23-CER) \n\n   Domain Servers in listed order:\n\n   dns1.chu.edu.cn     \t210.45.92.11\t2001:DA8:D816:8888::11\n   dns2.chu.edu.cn     \t210.45.92.12\t2001:DA8:D816:8888::12\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Chaohu University",
@@ -35,10 +35,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "chu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

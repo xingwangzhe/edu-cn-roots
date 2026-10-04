@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.HYIT.EDU.CN",
-      "ip": "210.29.152.4"
+      "ip": "210.29.152.4",
+      "ipv6": "2001:250:500c:4::4"
     },
     {
       "host": "DNS2.HYIT.EDU.CN",
-      "ip": "210.29.152.5"
+      "ip": "210.29.152.5",
+      "ipv6": "2001:250:500c:4::5"
     },
     {
       "host": "DNS3.HYIT.EDU.CN",
@@ -30,21 +32,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hyit.edu.cn",
   "metadata": {
-    "organization_or_record_name": "淮阴工学院",
+    "organization_or_record_name": "Huaian University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-03-20T06:20:09; 2016-03-18T09:18:52",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns4.hyit.edu.cn; dns2.hyit.edu.cn; dns3.hyit.edu.cn; dns.hyit.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "portal.hyit.edu.cn; www.hyit.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hyit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hyit.edu.cn  ?\n\n\n\n\nHuaian University \n   Huaiyin, JS 223001\n   China\n\n   Domain Name: HYIT.EDU.CN\n\n   Network Name:   HYIC-CN\n\n   Administrative Contact:\n      Chengfu Sun  (CS7-CER) \n   Network Name:   HYIC-CN\n\n   Technical Contact:\n      Quan Liu  (QL69-CER) \n\n   Domain Servers in listed order:\n\n   DNS.HYIT.EDU.CN     \t210.29.152.4\t2001:250:500c:4::4\n   DNS2.HYIT.EDU.CN    \t210.29.152.5\t2001:250:500c:4::5\n   DNS3.HYIT.EDU.CN    \t222.184.15.254\n   DNS4.HYIT.EDU.CN    \t222.184.15.253\n\n\n\n\n\n\n"
 }

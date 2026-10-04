@@ -24,7 +24,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xtit.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois xtit.edu.cn ?\n\nXiangtan Institute of Technology \n   Xiangtan, HN 411201\n   China\n\n   Domain Name: XTIT.EDU.CN\n\n   Network Name:   XTIT-CN\n\n   Administrative Contact, Technical Contact:\n      Yufeng Tang  (YT27-CER) \n\n   Domain Servers in listed order:\n\n   DNS.HN.EDU.CN       \t210.43.44.4\t2001:250:4404::4\n   DNS.XTIT.EDU.CN     \t42.247.70.241\n",
+  "raw_text": "\nWhois Results for xtit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois xtit.edu.cn  ?\n\n\n\n\nXiangtan Institute of Technology \n   Xiangtan, HN 411201\n   China\n\n   Domain Name: XTIT.EDU.CN\n\n   Network Name:   XTIT-CN\n\n   Administrative Contact, Technical Contact:\n      Yufeng Tang  (YT27-CER) \n\n   Domain Servers in listed order:\n\n   DNS.HN.EDU.CN       \t210.43.44.4\t2001:250:4404::4\n   DNS.XTIT.EDU.CN     \t42.247.70.241\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Xiangtan Institute of Technology",
@@ -34,10 +34,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "xtit.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

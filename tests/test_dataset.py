@@ -44,6 +44,49 @@ class DatasetTests(unittest.TestCase):
         self.invalid(lambda r:r.update(raw_text='cupk.edu.cn: 403 Forbidden'))
         self.invalid(lambda r:r.update(type='cn_status',org_cn=None,reg_date=None))
 
+    def test_multiple_nameserver_addresses(self):
+        import sys
+        sys.path.insert(0, str(ROOT/'scripts'))
+        import refresh_cernic
+        domain = self.record['root_domain']
+        body = f"""<pre>Test University
+China
+Domain Name: {domain}
+Network Name:
+Administrative Contact, Technical Contact:
+  Example (EX-CER)
+Domain Servers in listed order:
+ dns.example.edu.cn 192.0.2.1 192.0.2.2 2001:db8::1
+</pre>"""
+        record = refresh_cernic.parse(domain, body.encode('gbk'), self.record, '2026-10-04')
+        builder.validate_record(record, domain+'.json', self.validator)
+        ns = record['nameservers'][0]
+        self.assertEqual(ns['ip'], '192.0.2.1')
+        self.assertEqual(ns['ipv6'], '2001:db8::1')
+        self.assertEqual(ns['addresses'], ['192.0.2.1', '192.0.2.2', '2001:db8::1'])
+        self.assertIn('192.0.2.2', builder.export_row(record)['whois_ns'])
+        self.assertIsNone(record['network_name'])
+
+    def test_separate_admin_contact_heading(self):
+        import sys
+        sys.path.insert(0, str(ROOT/'scripts'))
+        import refresh_cernic
+        domain = self.record['root_domain']
+        body = f"""<pre>Test University
+China
+Domain Name: {domain}
+Network Name: TEST-CN
+Administrative Contact:
+ Admin Name (AN-CER)
+Technical Contact:
+ Other Name (ON-CER)
+Domain Servers in listed order:
+ dns.example.edu.cn 192.0.2.1
+</pre>"""
+        record=refresh_cernic.parse(domain,body.encode('gbk'),self.record,'2026-10-04')
+        self.assertEqual(record['admin_contact'],'Admin Name (AN-CER)')
+        builder.validate_record(record,domain+'.json',self.validator)
+
     def test_duplicate_json_keys(self):
         with tempfile.TemporaryDirectory() as d:
             p=Path(d)/'bad.json';p.write_text('{"type":"full_record","type":"not_found"}')
@@ -65,13 +108,11 @@ class DatasetTests(unittest.TestCase):
             before={p.name:p.read_bytes() for p in output.iterdir()}
             builder.build(ROOT/'data/whois-json',ROOT/'data/dataset.json',ROOT/'schemas/whois-record.schema.json',output)
             self.assertEqual(before,{p.name:p.read_bytes() for p in output.iterdir()})
-            # Migration must preserve all published fields except explicit legacy notes
-            # and the standardized display separator between nameserver addresses.
-            old=builder.read_json(ROOT/'data/edu-cn-roots-whois-2026-10-04.json')['records']
+            # The current published snapshot must match canonical generated rows.
+            old=builder.read_json(ROOT/'data/edu-cn-roots-whois-latest.json')['records']
             by={r['root_domain']:r for r in rows}
             for row in old:
                 for key,value in row.items():
-                    if key not in {'review_notes','whois_ns'}:
-                        self.assertEqual(by[row['root_domain']][key],value)
+                    self.assertEqual(by[row['root_domain']][key],value)
 
 if __name__=='__main__':unittest.main()

@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "NS1.SDJU.EDU.CN",
-      "ip": "210.35.68.5"
+      "ip": "210.35.68.5",
+      "ipv6": "2001:da8:801c:210:35:68:1:5"
     },
     {
       "host": "NS3.SDJU.EDU.CN",
-      "ip": "210.35.68.7"
+      "ip": "210.35.68.7",
+      "ipv6": "2001:da8:801c:210:35:68:1:7"
     },
     {
       "host": "NS2.SDJU.EDU.CN",
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sdju.edu.cn",
   "metadata": {
-    "organization_or_record_name": "上海电机学院",
+    "organization_or_record_name": "Shanghai DianJi University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-12-25T07:14:27",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns1.sdju.edu.cn; ns2.sdju.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "idp.sdju.edu.cn; www.sdju.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sdju.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sdju.edu.cn  ?\n\n\n\n\nShanghai DianJi University \n   Shanghai, SH 200204\n   China\n\n   Domain Name: SDJU.EDU.CN\n\n   Network Name:   SHCEMT-CN\n\n   Administrative Contact, Technical Contact:\n      Zhifeng Ding  (ZD7-CER) \n\n   Domain Servers in listed order:\n\n   NS1.SDJU.EDU.CN     \t210.35.68.5\t2001:da8:801c:210:35:68:1:5\n   NS3.SDJU.EDU.CN     \t210.35.68.7\t2001:da8:801c:210:35:68:1:7\n   NS2.SDJU.EDU.CN     \t120.253.231.135\n\n\n\n\n\n\n"
 }

@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "dns1.zcmu.edu.cn",
-      "ip": "210.32.16.253"
+      "ip": "210.32.16.253",
+      "ipv6": "2001:da8:e004:99::16"
     },
     {
       "host": "dns2.zcmu.edu.cn",
-      "ip": "218.75.108.206"
+      "ip": "218.75.108.206",
+      "ipv6": "2001:da8:e004:99::206"
     },
     {
       "host": "dns3.zcmu.edu.cn",
-      "ip": "61.175.195.126"
+      "ip": "61.175.195.126",
+      "ipv6": "2001:da8:e004:2009::44"
     },
     {
       "host": "dns4.zcmu.edu.cn",
-      "ip": "61.175.198.190"
+      "ip": "61.175.198.190",
+      "ipv6": "2001:da8:e004:99::190"
     }
   ],
   "address": [
@@ -30,7 +34,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zcmu.edu.cn",
   "metadata": {
     "organization_or_record_name": "Zhejiang Chinese Medical University",
@@ -40,11 +44,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns4.zcmu.edu.cn; dns1.zcmu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "zcmu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for zcmu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois zcmu.edu.cn  ?\n\n\n\n\nZhejiang Chinese Medical University \n   Hangzhou, ZJ 310053\n   China\n\n   Domain Name: ZCMU.EDU.CN\n\n   Network Name:   ZJCTCM-CN\n\n   Administrative Contact, Technical Contact:\n      Wensheng Li  (WL38-CER) \n\n   Domain Servers in listed order:\n\n   dns1.zcmu.edu.cn    \t210.32.16.253\t2001:da8:e004:99::16\n   dns2.zcmu.edu.cn    \t218.75.108.206\t2001:da8:e004:99::206\n   dns3.zcmu.edu.cn    \t61.175.195.126\t2001:da8:e004:2009::44\n   dns4.zcmu.edu.cn    \t61.175.198.190\t2001:da8:e004:99::190\n\n\n\n\n\n\n"
 }

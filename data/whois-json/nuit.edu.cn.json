@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "ns1.nuit.edu.cn",
-      "ip": "110.64.206.3"
+      "ip": "110.64.206.3",
+      "ipv6": "2001:250:3046::10"
     },
     {
       "host": "ns2.nuit.edu.cn",
-      "ip": "110.64.206.4"
+      "ip": "110.64.206.4",
+      "ipv6": "2001:250:3046::11"
     },
     {
       "host": "ns3.nuit.edu.cn",
@@ -30,21 +32,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nuit.edu.cn",
   "metadata": {
-    "organization_or_record_name": "广东东软学院",
+    "organization_or_record_name": "Neusoft Institute Guangdong",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns2.nuit.edu.cn; ns3.nuit.edu.cn; ns4.nuit.edu.cn; ns1.nuit.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.nuit.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nuit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nuit.edu.cn  ?\n\n\n\n\nNeusoft Institute Guangdong \n   Foshan, GD 528225\n   China\n\n   Domain Name: NUIT.EDU.CN\n\n   Network Name:   NITG-CN\n\n   Administrative Contact, Technical Contact:\n      Jianwen Liu  (JL196-CER) \n\n   Domain Servers in listed order:\n\n   ns1.nuit.edu.cn     \t110.64.206.3\t2001:250:3046::10\n   ns2.nuit.edu.cn     \t110.64.206.4\t2001:250:3046::11\n   ns3.nuit.edu.cn     \t202.104.17.195\n   ns4.nuit.edu.cn     \t202.104.17.196\n\n\n\n\n\n\n"
 }

@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dns1.hrbfu.edu.cn",
-      "ip": "111.117.0.23"
+      "ip": "111.117.0.23",
+      "ipv6": "2001:da8:b81c:17:177::23"
     },
     {
       "host": "dns2.hrbfu.edu.cn",
@@ -30,21 +31,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hrbfu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "哈尔滨金融学院",
+    "organization_or_record_name": "Harbin Finance University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "172.16.17.3",
     "AAAA_records": "",
     "NS_records": "dns1.hrbfu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hrbfu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hrbfu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hrbfu.edu.cn  ?\n\n\n\n\nHarbin Finance University \n   haerbin, HL 150004\n   China\n\n   Domain Name: HRBFU.EDU.CN\n\n   Network Name:   HRBJZ-CN\n\n   Administrative Contact, Technical Contact:\n      Haitao Lu  (HL88-CER) \n\n   Domain Servers in listed order:\n\n   dns1.hrbfu.edu.cn   \t111.117.0.23\t2001:da8:b81c:17:177::23\n   dns2.hrbfu.edu.cn   \t221.208.0.123\n   dns3.hrbfu.edu.cn   \t218.203.3.223\n   dns4.hrbfu.edu.cn   \t112.102.195.123\n\n\n\n\n\n\n"
 }

@@ -4,7 +4,7 @@
   "org_en": "China Education and Research Network Center",
   "org_cn": null,
   "domain_name": "SERV.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Shuang Zhu (SZ1-CER)",
   "nameservers": [
     {
@@ -18,7 +18,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=serv.edu.cn",
   "metadata": {
     "organization_or_record_name": "China Education and Research Network Center",
@@ -28,11 +28,11 @@
     "A_records": "211.68.127.1",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 211.68.127.1",
     "evidence_hostnames": "nms.cdn.serv.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for serv.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois serv.edu.cn  ?\n\n\n\n\nChina Education and Research Network Center \n   Beijing, BJ 100084\n   China\n\n   Domain Name: SERV.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      Shuang Zhu  (SZ1-CER) \n\n   Domain Servers in listed order:\n\n   dns.serv.edu.cn     \t211.68.127.1\n\n\n\n\n\n\n"
 }

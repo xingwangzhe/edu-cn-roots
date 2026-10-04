@@ -8,10 +8,10 @@
   "admin_contact": null,
   "nameservers": [],
   "address": [],
-  "raw_note": "域名 fjau.edu.cn 已于19970114 在CERNIC注册 [福建农林大学]",
+  "raw_note": "域名 fjau.edu.cn  已于19970114 在CERNIC注册 [福建农林大学]",
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=fjau.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois fjau.edu.cn ?\n\n域名 fjau.edu.cn 已于19970114 在CERNIC注册 [福建农林大学]\n\n\nBack",
+  "raw_text": "\nWhois Results for fjau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois fjau.edu.cn  ?\n\n\n\n域名 fjau.edu.cn  已于19970114 在CERNIC注册 [福建农林大学]\n\n\n\n\nBack\n\n",
   "reg_date": "19970114",
   "schema_version": "2.0",
   "metadata": {
@@ -22,9 +22,9 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed CERNIC Chinese registration status (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: cn_status (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "fjau.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   }
 }

@@ -4,16 +4,18 @@
   "org_en": "Sichuan Southwest Vocational College of Civil Aviation",
   "org_cn": null,
   "domain_name": "XNHKXY.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Guoqiang Liu (GL50-CER)",
   "nameservers": [
     {
       "host": "dns1.xnhkxy.edu.cn",
-      "ip": "202.115.254.250"
+      "ip": "202.115.254.250",
+      "ipv6": "2001:da8:6030:14:202:115:254:250"
     },
     {
       "host": "dns2.xnhkxy.edu.cn",
-      "ip": "202.115.254.251"
+      "ip": "202.115.254.251",
+      "ipv6": "2001:da8:6030:14:202:115:254:251"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xnhkxy.edu.cn",
   "metadata": {
-    "organization_or_record_name": "四川西南航空职业学院",
+    "organization_or_record_name": "Sichuan Southwest Vocational College of Civil Aviation",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "110.185.100.36",
     "AAAA_records": "240e:980:8820:22f1:20c7:d4de:f92b:c9a2",
     "NS_records": "dns1.xnhkxy.edu.cn; dns2.xnhkxy.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.xnhkxy.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for xnhkxy.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois xnhkxy.edu.cn  ?\n\n\n\n\nSichuan Southwest Vocational College of Civil Aviation \n   Chengdu, SC 610400\n   China\n\n   Domain Name: XNHKXY.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      Guoqiang Liu  (GL50-CER) \n\n   Domain Servers in listed order:\n\n   dns1.xnhkxy.edu.cn  \t202.115.254.250\t2001:da8:6030:14:202:115:254:250\n   dns2.xnhkxy.edu.cn  \t202.115.254.251\t2001:da8:6030:14:202:115:254:251\n\n\n\n\n\n\n"
 }

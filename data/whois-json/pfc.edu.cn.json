@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "dns.online.edu.cn",
-      "ip": "202.205.0.1"
+      "ip": "202.205.0.1",
+      "ipv6": "2001:DA8:20D:40d2::101"
     },
     {
       "host": "dns2.online.edu.cn",
-      "ip": "202.205.0.2"
+      "ip": "202.205.0.2",
+      "ipv6": "2001:DA8:20D:40d2::102"
     },
     {
       "host": "dns3.online.edu.cn",
-      "ip": "59.64.113.17"
+      "ip": "59.64.113.17",
+      "ipv6": "240c:c0a9:100c:0:1::a017"
     },
     {
       "host": "dns4.online.edu.cn",
-      "ip": "58.205.215.4"
+      "ip": "58.205.215.4",
+      "ipv6": "240c:c0a9:12fe::aa01:a004"
     }
   ],
   "address": [
@@ -30,21 +34,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=pfc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京北大方正软件职业技术学院",
+    "organization_or_record_name": "Peking university Founder Technology College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "118.190.20.36",
     "AAAA_records": "",
     "NS_records": "dns2.online.edu.cn; dns.online.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.pfc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for pfc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois pfc.edu.cn  ?\n\n\n\n\nPeking university Founder Technology College \n   Beijing, BJ 065001\n   China\n\n   Domain Name: PFC.EDU.CN\n\n   Network Name:   PUFTC-CN\n\n   Administrative Contact, Technical Contact:\n      Chaoyu Zhang  (CZ69-CER) \n\n   Domain Servers in listed order:\n\n   dns.online.edu.cn   \t202.205.0.1\t2001:DA8:20D:40d2::101\n   dns2.online.edu.cn  \t202.205.0.2\t2001:DA8:20D:40d2::102\n   dns3.online.edu.cn  \t59.64.113.17\t240c:c0a9:100c:0:1::a017\n   dns4.online.edu.cn  \t58.205.215.4\t240c:c0a9:12fe::aa01:a004\n\n\n\n\n\n\n"
 }

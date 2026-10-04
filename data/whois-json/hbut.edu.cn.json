@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "dns.hbut.edu.cn",
-      "ip": "125.220.197.10"
+      "ip": "125.220.197.10",
+      "ipv6": "2001:DA8:300B:FFFF::10"
     },
     {
       "host": "dns1.hbut.edu.cn",
-      "ip": "125.220.197.11"
+      "ip": "125.220.197.11",
+      "ipv6": "2001:DA8:300B:FFFF::11"
     },
     {
       "host": "dns10.hbut.edu.cn",
-      "ip": "202.114.176.10"
+      "ip": "202.114.176.10",
+      "ipv6": "2001:DA8:300B:FFFF:FFFF:FFFF:FFFF:0010"
     },
     {
       "host": "ltdns.hbut.edu.cn",
-      "ip": "202.114.176.11"
+      "ip": "202.114.176.11",
+      "ipv6": "2001:DA8:300B:FFFF:FFFF:FFFF:FFFF:0011"
     }
   ],
   "address": [
@@ -30,21 +34,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hbut.edu.cn",
   "metadata": {
-    "organization_or_record_name": "湖北工业大学",
+    "organization_or_record_name": "Hubei University of Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2014-02-12T02:58:16",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.hbut.edu.cn; ns.hbut.edu.cn; dns.hbut.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "gcxy.hbut.edu.cn; sso.hbut.edu.cn; www.hbut.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hbut.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hbut.edu.cn  ?\n\n\n\n\nHubei University of Technology \n   Wuhan, HB 430068\n   China\n\n   Domain Name: HBUT.EDU.CN\n\n   Network Name:   HUBPU-CN\n\n   Administrative Contact:\n      Zheng Huang  (ZH2-CER) \n   Network Name:   HUBPU-CN\n\n   Technical Contact:\n      QianQian Li  (QL8-CER) \n\n   Domain Servers in listed order:\n\n   dns.hbut.edu.cn     \t125.220.197.10\t2001:DA8:300B:FFFF::10\n   dns1.hbut.edu.cn    \t125.220.197.11\t2001:DA8:300B:FFFF::11\n   dns10.hbut.edu.cn   \t202.114.176.10\t2001:DA8:300B:FFFF:FFFF:FFFF:FFFF:0010\n   ltdns.hbut.edu.cn   \t202.114.176.11\t2001:DA8:300B:FFFF:FFFF:FFFF:FFFF:0011\n\n\n\n\n\n\n"
 }

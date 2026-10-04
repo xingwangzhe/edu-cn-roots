@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "NETRA150.SDUTCM.EDU.CN",
-      "ip": "210.44.160.31"
+      "ip": "210.44.160.31",
+      "ipv6": "2001:250:582c:101::31"
     },
     {
       "host": "DATEBASE.SDUTCM.EDU.CN",
-      "ip": "210.44.160.32"
+      "ip": "210.44.160.32",
+      "ipv6": "2001:250:582c:101::32"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sdutcm.edu.cn",
   "metadata": {
-    "organization_or_record_name": "山东中医药大学",
+    "organization_or_record_name": "Shandong University Of Traditional Chinese Medicine",
     "collected_from": "CERNET导报 1998 Q3, CERNIC新增域名表; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "datebase.sdutcm.edu.cn; netra150.sdutcm.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "sdutcm.edu.cn; www.sdutcm.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sdutcm.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sdutcm.edu.cn  ?\n\n\n\n\nShandong University Of Traditional Chinese Medicine \n   Jinan, SD 250014\n   China\n\n   Domain Name: SDUTCM.EDU.CN\n\n   Network Name:   SDUTCM-CN\n\n   Administrative Contact:\n      Changli Zhang  (CZ72-CER) \n   Network Name:   SDUTCM-CN\n\n   Technical Contact:\n      Ning Kang  (NK1-CER) \n\n   Domain Servers in listed order:\n\n   NETRA150.SDUTCM.EDU.CN\t210.44.160.31\t2001:250:582c:101::31\n   DATEBASE.SDUTCM.EDU.CN\t210.44.160.32\t2001:250:582c:101::32\n\n\n\n\n\n\n"
 }

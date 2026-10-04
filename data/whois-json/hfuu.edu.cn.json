@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "ns1.HFUU.EDU.CN",
-      "ip": "210.45.88.1"
+      "ip": "210.45.88.1",
+      "ipv6": "2001:250:5407:1000::1"
     },
     {
       "host": "ns2.HFUU.EDU.CN",
-      "ip": "210.45.88.2"
+      "ip": "210.45.88.2",
+      "ipv6": "2001:250:5407:1000::2"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hfuu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "合肥学院",
+    "organization_or_record_name": "Hefei University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-11-03T06:22:50; 2015-11-03T06:56:46",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns1.hfuu.edu.cn; ns2.hfuu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "m.hfuu.edu.cn; mids.hfuu.edu.cn; www.hfuu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hfuu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hfuu.edu.cn  ?\n\n\n\n\nHefei University \n   Hefei, AH 230601\n   China\n\n   Domain Name: HFUU.EDU.CN\n\n   Network Name:   HFUU-CN\n\n   Administrative Contact:\n      Guangfeng Xia  (GX6-CER) \n   Network Name:   HFUU-CN\n\n   Technical Contact:\n      Huang Ge  (HG10-CER) \n\n   Domain Servers in listed order:\n\n   ns1.HFUU.EDU.CN     \t210.45.88.1\t2001:250:5407:1000::1\n   ns2.HFUU.EDU.CN     \t210.45.88.2\t2001:250:5407:1000::2\n\n\n\n\n\n\n"
 }

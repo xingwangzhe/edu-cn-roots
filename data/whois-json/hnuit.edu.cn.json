@@ -25,7 +25,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hnuit.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois hnuit.edu.cn ?\n\nHunan University Of Information Technology \n   Zhuzhou, HN 412000\n   China\n\n   Domain Name: HNUIT.EDU.CN\n\n   Network Name:   HIIT-CN\n\n   Administrative Contact, Technical Contact:\n      Li Chen  (LC35-CER) \n\n   Domain Servers in listed order:\n\n   dns1.hnuit.edu.cn   \t42.247.25.161\t2001:da8:d019::161\n   dns2.hnuit.edu.cn   \t42.247.25.162\t2001:da8:d019::162\n",
+  "raw_text": "\nWhois Results for hnuit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hnuit.edu.cn  ?\n\n\n\n\nHunan University Of Information Technology \n   Zhuzhou, HN 412000\n   China\n\n   Domain Name: HNUIT.EDU.CN\n\n   Network Name:   HIIT-CN\n\n   Administrative Contact, Technical Contact:\n      Li Chen  (LC35-CER) \n\n   Domain Servers in listed order:\n\n   dns1.hnuit.edu.cn   \t42.247.25.161\t2001:da8:d019::161\n   dns2.hnuit.edu.cn   \t42.247.25.162\t2001:da8:d019::162\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Hunan University Of Information Technology",
@@ -35,10 +35,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "hnuit.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

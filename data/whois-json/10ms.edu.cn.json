@@ -4,16 +4,18 @@
   "org_en": "CERNET CORPORATION",
   "org_cn": null,
   "domain_name": "10MS.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Xinman Li (XL76-CER)",
   "nameservers": [
     {
       "host": "ns1.hosting.edu.cn",
-      "ip": "121.194.2.51"
+      "ip": "121.194.2.51",
+      "ipv6": "2001:DA8:20D:40d2::151"
     },
     {
       "host": "ns2.hosting.edu.cn",
-      "ip": "121.194.2.55"
+      "ip": "121.194.2.55",
+      "ipv6": "2001:DA8:20D:40d2::155"
     }
   ],
   "address": [
@@ -22,7 +24,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=10ms.edu.cn",
   "metadata": {
     "organization_or_record_name": "CERNET CORPORATION",
@@ -32,11 +34,11 @@
     "A_records": "202.205.11.11",
     "AAAA_records": "2001:da8:243:61:202:205:11:11",
     "NS_records": "ns2.hosting.edu.cn; ns1.hosting.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.205.11.11; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:243:61:202:205:11:11",
     "evidence_hostnames": "10ms.edu.cn; sitemeter-sh.10ms.edu.cn; sitemeter-wh.10ms.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for 10ms.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois 10ms.edu.cn  ?\n\n\n\n\nCERNET CORPORATION \n   Beijing, BJ 100738\n   China\n\n   Domain Name: 10MS.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      Xinman Li  (XL76-CER) \n\n   Domain Servers in listed order:\n\n   ns1.hosting.edu.cn  \t121.194.2.51\t2001:DA8:20D:40d2::151\n   ns2.hosting.edu.cn  \t121.194.2.55\t2001:DA8:20D:40d2::155\n\n\n\n\n\n\n"
 }

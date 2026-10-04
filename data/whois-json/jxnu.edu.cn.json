@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS1.JXNU.EDU.CN",
-      "ip": "219.229.242.62"
+      "ip": "219.229.242.62",
+      "ipv6": "2001:250:6c04:1::62"
     },
     {
       "host": "DNS2.JXNU.EDU.CN",
-      "ip": "219.229.242.63"
+      "ip": "219.229.242.63",
+      "ipv6": "2001:250:6c04:1::63"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jxnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "江西师范大学科学技术学院",
+    "organization_or_record_name": "Jiangxi Normal University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub); CERNET导报 1999 Q1, CERNIC新增域名表",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.jxnu.edu.cn; dns1.jxnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "jxnu.edu.cn; kjxy.jxnu.edu.cn; www.jxnu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for jxnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois jxnu.edu.cn  ?\n\n\n\n\nJiangxi Normal University \n   Nanchang, JX 330027\n   China\n\n   Domain Name: JXNU.EDU.CN\n\n   Network Name:   JXNU-CN\n\n   Administrative Contact:\n      Hongming Zhang  (HZ54-CER) \n   Network Name:   JXNU-CN\n\n   Technical Contact:\n      Xiaodan Li  (XL67-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.JXNU.EDU.CN    \t219.229.242.62\t2001:250:6c04:1::62\n   DNS2.JXNU.EDU.CN    \t219.229.242.63\t2001:250:6c04:1::63\n\n\n\n\n\n\n"
 }

@@ -30,7 +30,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xupt.edu.cn",
   "metadata": {
     "organization_or_record_name": "Xi`an University of Posts & Telecommunications",
@@ -40,11 +40,11 @@
     "A_records": "222.24.62.158",
     "AAAA_records": "2001:da8:4004:62::e1",
     "NS_records": "xyu01.xupt.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 222.24.62.158; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:4004:62::e1",
     "evidence_hostnames": "mobile.xupt.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for xupt.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois xupt.edu.cn  ?\n\n\n\n\nXi`an University of Posts & Telecommunications \n   Xi'an, SN 710061\n   China\n\n   Domain Name: XUPT.EDU.CN\n\n   Network Name:   XAIPT-CN\n\n   Administrative Contact, Technical Contact:\n      Guoying Liu  (GL17-CER) \n\n   Domain Servers in listed order:\n\n   xyu01.xupt.edu.cn   \t202.117.128.2\n   xyu02.xupt.edu.cn   \t202.117.128.3\n   xyu03.xupt.edu.cn   \t222.24.19.2\n   xyu04.xupt.edu.cn   \t221.11.22.35\n\n\n\n\n\n\n"
 }

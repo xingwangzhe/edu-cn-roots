@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "apple.shec.edu.cn",
-      "ip": "218.78.240.11"
+      "ip": "218.78.240.11",
+      "ipv6": "2405:d900:e000:0101::101"
     },
     {
       "host": "orange.shec.edu.cn",
-      "ip": "202.120.192.34"
+      "ip": "202.120.192.34",
+      "ipv6": "2405:d900:0000:0001::101"
     },
     {
       "host": "apple3.shec.edu.cn",
-      "ip": "219.228.13.34"
+      "ip": "219.228.13.34",
+      "ipv6": "2405:d900:0000:0001::102"
     },
     {
       "host": "apple2.shec.edu.cn",
-      "ip": "219.228.15.35"
+      "ip": "219.228.15.35",
+      "ipv6": "2405:d900:0000:0001::103"
     }
   ],
   "address": [
@@ -30,7 +34,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shec.edu.cn",
   "metadata": {
     "organization_or_record_name": "Shanghai Teacher Institute",
@@ -40,11 +44,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "apple.shec.edu.cn; apple2.shec.edu.cn; apple3.shec.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "autodiscover.shec.edu.cn; kxxfx.shec.edu.cn; mail.shec.edu.cn; owa.shec.edu.cn; shec.edu.cn; w.shec.edu.cn; wayf.shec.edu.cn; www.kxxfx.shec.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for shec.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois shec.edu.cn  ?\n\n\n\n\nShanghai Teacher Institute \n   Shanghai, SH 200072\n   China\n\n   Domain Name: SHEC.EDU.CN\n\n   Network Name:   SHEC-CN\n\n   Administrative Contact, Technical Contact:\n      Wanting Chu  (WC1-CER) \n\n   Domain Servers in listed order:\n\n   apple.shec.edu.cn   \t218.78.240.11\t2405:d900:e000:0101::101\n   orange.shec.edu.cn  \t202.120.192.34\t2405:d900:0000:0001::101\n   apple3.shec.edu.cn  \t219.228.13.34\t2405:d900:0000:0001::102\n   apple2.shec.edu.cn  \t219.228.15.35\t2405:d900:0000:0001::103\n\n\n\n\n\n\n"
 }

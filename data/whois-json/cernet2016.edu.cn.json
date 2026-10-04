@@ -4,12 +4,13 @@
   "org_en": "CERNET Corporation Chongqing Branch",
   "org_cn": null,
   "domain_name": "CERNET2016.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "WenQi Yang (WY46-CER)",
   "nameservers": [
     {
       "host": "dns.cngi.edu.cn",
-      "ip": "202.205.7.160"
+      "ip": "202.205.7.160",
+      "ipv6": "2001:DA8:20D:21::160"
     },
     {
       "host": "dns1.cngi.edu.cn",
@@ -22,7 +23,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cernet2016.edu.cn",
   "metadata": {
     "organization_or_record_name": "CERNET Corporation Chongqing Branch",
@@ -32,11 +33,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.cngi.edu.cn; dns.cngi.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.cernet2016.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cernet2016.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cernet2016.edu.cn  ?\n\n\n\n\nCERNET Corporation Chongqing Branch \n   ChongQing, CQ 400030\n   China\n\n   Domain Name: CERNET2016.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      WenQi Yang  (WY46-CER) \n\n   Domain Servers in listed order:\n\n   dns.cngi.edu.cn     \t202.205.7.160\t2001:DA8:20D:21::160\n   dns1.cngi.edu.cn    \t202.205.7.161\n\n\n\n\n\n\n"
 }

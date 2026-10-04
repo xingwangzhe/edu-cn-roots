@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "WATER.UIBE.EDU.CN",
-      "ip": "202.204.160.2"
+      "ip": "202.204.160.2",
+      "ipv6": "2001:da8:230:1:4262:31ff:fe0c:1546"
     },
     {
       "host": "SUN.UIBE.EDU.CN",
@@ -30,21 +31,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=uibe.edu.cn",
   "metadata": {
-    "organization_or_record_name": "对外经济贸易大学",
+    "organization_or_record_name": "University Of International Business And Economics",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-10-15T00:00:00; 2016-09-27T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "111.203.17.67",
     "AAAA_records": "",
     "NS_records": "water.uibe.edu.cn; earth.uibe.edu.cn; ipv6dns.uibe.edu.cn; sun.uibe.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "mail.uibe.edu.cn; www.uibe.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for uibe.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois uibe.edu.cn  ?\n\n\n\n\nUniversity Of International Business And Economics \n   Beijing, BJ 100029\n   China\n\n   Domain Name: UIBE.EDU.CN\n\n   Network Name:   UIBE-CN\n\n   Administrative Contact, Technical Contact:\n      Yufeng Lan  (YL35-CER) \n\n   Domain Servers in listed order:\n\n   WATER.UIBE.EDU.CN   \t202.204.160.2\t2001:da8:230:1:4262:31ff:fe0c:1546\n   SUN.UIBE.EDU.CN     \t202.204.175.50\n   MOON.UIBE.EDU.CN    \t111.203.17.200\n   EARTH.UIBE.EDU.CN   \t1.203.69.200\n\n\n\n\n\n\n"
 }

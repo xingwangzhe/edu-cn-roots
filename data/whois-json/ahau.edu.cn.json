@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "ABC.AHAU.EDU.CN",
-      "ip": "210.45.176.5"
+      "ip": "210.45.176.5",
+      "ipv6": "2001:250:5405:2::5"
     },
     {
       "host": "EFG.AHAU.EDU.CN",
-      "ip": "210.45.176.15"
+      "ip": "210.45.176.15",
+      "ipv6": "2001:250:5405:2::15"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ahau.edu.cn",
   "metadata": {
-    "organization_or_record_name": "安徽农业大学经济技术学院",
+    "organization_or_record_name": "Anhui Agricultural University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "efg.ahau.edu.cn; abc.ahau.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "jjjs.ahau.edu.cn; www.ahau.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ahau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ahau.edu.cn  ?\n\n\n\n\nAnhui Agricultural University \n   Hefei, AH 230036\n   China\n\n   Domain Name: AHAU.EDU.CN\n\n   Network Name:   AHAU-CN\n\n   Administrative Contact, Technical Contact:\n      Kai Liu  (KL20-CER) \n\n   Domain Servers in listed order:\n\n   ABC.AHAU.EDU.CN     \t210.45.176.5\t2001:250:5405:2::5\n   EFG.AHAU.EDU.CN     \t210.45.176.15\t2001:250:5405:2::15\n\n\n\n\n\n\n"
 }

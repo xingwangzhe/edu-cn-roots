@@ -9,15 +9,24 @@
   "nameservers": [
     {
       "host": "dns.nacta.edu.cn",
-      "ip": "59.65.196.10"
+      "ip": "59.65.196.10",
+      "ipv6": "2001:da8:25b:10:2e2:69ff:fe05:1d8c",
+      "addresses": [
+        "59.65.196.10",
+        "106.11.41.153",
+        "106.11.30.115",
+        "2001:da8:25b:10:2e2:69ff:fe05:1d8c"
+      ]
     },
     {
       "host": "dns2.nacta.edu.cn",
-      "ip": "59.65.196.11"
+      "ip": "59.65.196.11",
+      "ipv6": "2001:da8:25b:10:21a:64ff:fe67:b6d2"
     },
     {
       "host": "dns3.nacta.edu.cn",
-      "ip": "202.106.151.10"
+      "ip": "202.106.151.10",
+      "ipv6": "2408:4009:500::3"
     }
   ],
   "address": [
@@ -26,21 +35,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nacta.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中国戏曲学院",
+    "organization_or_record_name": "National Academy of Chinese Theatre Arts",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-12-22T02:50:13; 2016-03-09T06:09:17; 2016-04-05T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "59.65.196.31",
     "AAAA_records": "2001:da8:25b:10:b64b:d6ff:fe5a:ea6a",
     "NS_records": "dns2.nacta.edu.cn; dns.nacta.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 59.65.196.31; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:25b:10:b64b:d6ff:fe5a:ea6a",
     "evidence_hostnames": "api.nacta.edu.cn; app.nacta.edu.cn; bee.nacta.edu.cn; cas.nacta.edu.cn; nacta.edu.cn; pswms.nacta.edu.cn; vpn.nacta.edu.cn; www.nacta.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nacta.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nacta.edu.cn  ?\n\n\n\n\nNational Academy of Chinese Theatre Arts \n   Beijing, BJ 100072\n   China\n\n   Domain Name: NACTA.EDU.CN\n\n   Network Name:   ACTO-CN\n\n   Administrative Contact, Technical Contact:\n      Lu Feng  (LF12-CER) \n\n   Domain Servers in listed order:\n\n   dns.nacta.edu.cn    \t59.65.196.10\t106.11.41.153\t106.11.30.115\t2001:da8:25b:10:2e2:69ff:fe05:1d8c\n   dns2.nacta.edu.cn   \t59.65.196.11\t2001:da8:25b:10:21a:64ff:fe67:b6d2\n   dns3.nacta.edu.cn   \t202.106.151.10\t2408:4009:500::3\n\n\n\n\n\n\n"
 }

@@ -10,10 +10,10 @@
   "reg_date": "19961016",
   "nameservers": [],
   "address": [],
-  "raw_note": "域名 bjpeu.edu.cn 已于19961016 在CERNIC注册 [中国石油大学(北京)]",
+  "raw_note": "域名 bjpeu.edu.cn  已于19961016 在CERNIC注册 [中国石油大学(北京)]",
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bjpeu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois bjpeu.edu.cn ?\n\n域名 bjpeu.edu.cn 已于19961016 在CERNIC注册 [中国石油大学(北京)]\n\n\nBack",
+  "raw_text": "\nWhois Results for bjpeu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bjpeu.edu.cn  ?\n\n\n\n域名 bjpeu.edu.cn  已于19961016 在CERNIC注册 [中国石油大学(北京)]\n\n\n\n\nBack\n\n",
   "metadata": {
     "organization_or_record_name": "中国石油大学(北京)",
     "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
@@ -22,9 +22,9 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed CERNIC Chinese registration status (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: cn_status (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "bjpeu.edu.cn; www.bjpeu.edu.cn",
-    "review_notes": "Hipo source labels: Beijing Petroleum University. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+    "review_notes": "Hipo source labels: Beijing Petroleum University. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   }
 }

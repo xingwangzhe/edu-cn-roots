@@ -5,7 +5,7 @@
 ## 当前事实与维护入口
 
 - 仅收录 `edu.cn` 下恰好一层的根域，深层子域回卷；不做机构类型过滤，历史条目不因 DNS 消失而删除。
-- 截至 2026-10-04，累计 1,439 个根域：1,195 个 `full_record`、221 个 `cn_status`、23 个 `not_found`。1,317 条查询于 2026-09-26，122 条查询于 2026-10-04（SWOT 63、Hipo 59）。后续数量须从数据重新计算，不能将这里的数字视为固定约束。
+- 截至 2026-10-04，累计 1,439 个根域：1,195 个 `full_record`、221 个 `cn_status`、23 个 `not_found`。最新 1,439 条全部于 2026-10-04 通过 HTTP 复查；历史来源阶段为原有 1,317、SWOT 63、Hipo 59。后续数量须从数据重新计算，不能将这里的数字视为固定约束。
 - 当前唯一数据编辑入口是 `data/whois-json/<root_domain>.json`，结构为 schema 2.0。先读 `CONTRIBUTING.md`、`schemas/whois-record.schema.json`、`scripts/build_dataset.py` 和 `data/dataset.json`。
 - `metadata` 保存原 CSV 第 2–12 列；WHOIS 字段和查询日期由顶层结构化值生成。所有必需键均保留，可空字段用 null、列表用 []、metadata 空字段用空字符串。
 - 根目录 `edu-cn-roots.csv` 和 `whois-json/` 是忽略的本地副本，克隆后可能不存在。发布用的数据在 `data/`，生成输出在忽略目录 `build/`。
@@ -48,3 +48,7 @@ git diff --check
 ## 累计发布与来源引用
 
 当前 1,439 条累计发布入口为 data/edu-cn-roots-whois-latest.csv 和 .json，统计为 data/statistics.json。2026-10-04 日期文件保留同日早期 SWOT 阶段的 1,380 条快照，不覆盖。生成后同步 latest 和 statistics；历史阶段另存。README 来源表根据 metadata.collected_from 标签按域名去重统计，来源重叠不可相加。历史泛化 GitHub 标签及 CERNET 导报条目缺少精确 URL 时明确说明待补证，不推测引用。
+
+## HTTP 全量复查（用户明确要求时）
+
+使用 scripts/refresh_cernic.py；先 --benchmark，再根据实测吞吐量和延迟选择 --workers（1–8）。连接超时10秒、总超时30秒是客户端设置，不等于服务端上限。先备份 data/history/，全部解析校验成功才替换正式逐域文件。原始 HTML / 检查点在 outputs/http-refresh/，测量报告在 data/。刷新 WHOIS 字段和 raw_text，保留来源及 DNS 证据日期；不得把未重查的 DNS 改成当前已验证。

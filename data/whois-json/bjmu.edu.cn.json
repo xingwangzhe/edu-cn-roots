@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "DNS.BJMU.EDU.CN",
-      "ip": "202.112.176.2"
+      "ip": "202.112.176.2",
+      "ipv6": "2001:250:208:AAAA::1111"
     },
     {
       "host": "INDY.BJMU.EDU.CN",
@@ -22,7 +23,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bjmu.edu.cn",
   "metadata": {
     "organization_or_record_name": "Peking University Health Science Center",
@@ -32,11 +33,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.bjmu.edu.cn; indy.bjmu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "bjmu.edu.cn; pm.bjmu.edu.cn; www.pm.bjmu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bjmu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bjmu.edu.cn  ?\n\n\n\n\nPeking University Health Science Center \n   Beijing, BJ 100083\n   China\n\n   Domain Name: BJMU.EDU.CN\n\n   Network Name:   BJMU-CN\n\n   Administrative Contact:\n      Shibin Song  (SS16-CER) \n   Network Name:   BJMU-CN\n\n   Technical Contact:\n      Qilong Yuan  (QY33-CER) \n\n   Domain Servers in listed order:\n\n   DNS.BJMU.EDU.CN     \t202.112.176.2\t2001:250:208:AAAA::1111\n   INDY.BJMU.EDU.CN    \t202.112.176.3\n\n\n\n\n\n\n"
 }

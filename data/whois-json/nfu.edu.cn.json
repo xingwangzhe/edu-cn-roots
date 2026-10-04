@@ -25,7 +25,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nfu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois nfu.edu.cn ?\n\nNanFang College Guangzhou \n   Guangzhou, GD 510970\n   China\n\n   Domain Name: NFU.EDU.CN\n\n   Network Name:   NFU-CN\n\n   Administrative Contact, Technical Contact:\n      Shengfeng Zhong  (SZ52-CER) \n\n   Domain Servers in listed order:\n\n   ns1.service.edu.cn  \t202.112.5.49\t2001:da8:257:1111::8888\n   ns2.service.edu.cn  \t202.112.4.49\t2001:da8:257:2222::8888\n",
+  "raw_text": "\nWhois Results for nfu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nfu.edu.cn  ?\n\n\n\n\nNanFang College Guangzhou \n   Guangzhou, GD 510970\n   China\n\n   Domain Name: NFU.EDU.CN\n\n   Network Name:   NFU-CN\n\n   Administrative Contact, Technical Contact:\n      Shengfeng Zhong  (SZ52-CER) \n\n   Domain Servers in listed order:\n\n   ns1.service.edu.cn  \t202.112.5.49\t2001:da8:257:1111::8888\n   ns2.service.edu.cn  \t202.112.4.49\t2001:da8:257:2222::8888\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "NanFang College Guangzhou",
@@ -35,10 +35,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "stu.nfu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

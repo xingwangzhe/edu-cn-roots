@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.hamc.edu.cn",
-      "ip": "218.196.176.8"
+      "ip": "218.196.176.8",
+      "ipv6": "2001:DA8:5055:FFFB::8"
     },
     {
       "host": "dns2.hamc.edu.cn",
-      "ip": "218.196.176.18"
+      "ip": "218.196.176.18",
+      "ipv6": "2001:DA8:5055:FFFB::9"
     },
     {
       "host": "dns3.hamc.edu.cn",
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hamc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "河南医学高等专科学校",
+    "organization_or_record_name": "HeNan Medical College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.hamc.edu.cn; dns3.hamc.edu.cn; dns2.hamc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hamc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hamc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hamc.edu.cn  ?\n\n\n\n\nHeNan Medical College \n   Zhengzhou, HA 450003\n   China\n\n   Domain Name: HAMC.EDU.CN\n\n   Network Name:   HAMC-CN\n\n   Administrative Contact:\n      Shuai Wen  (SW58-CER) \n   Network Name:   HAMC-CN\n\n   Technical Contact:\n      Min Luo  (ML45-CER) \n\n   Domain Servers in listed order:\n\n   dns.hamc.edu.cn     \t218.196.176.8\t2001:DA8:5055:FFFB::8\n   dns2.hamc.edu.cn    \t218.196.176.18\t2001:DA8:5055:FFFB::9\n   dns3.hamc.edu.cn    \t222.85.110.38\n\n\n\n\n\n\n"
 }

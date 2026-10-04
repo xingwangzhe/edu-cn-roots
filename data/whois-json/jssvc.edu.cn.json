@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.jssvc.edu.cn",
-      "ip": "219.219.168.18"
+      "ip": "219.219.168.18",
+      "ipv6": "2001:DA8:100C:2000:219:219:168:18"
     },
     {
       "host": "dns2.jssvc.edu.cn",
-      "ip": "219.219.168.28"
+      "ip": "219.219.168.28",
+      "ipv6": "2001:DA8:100C:2000:219:219:168:28"
     },
     {
       "host": "dns3.jssvc.edu.cn",
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jssvc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "苏州职业大学",
+    "organization_or_record_name": "Suzhou Polytechnic University (Suzhou Open University)",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "121.236.219.41",
     "AAAA_records": "2001:da8:100c::10:83",
     "NS_records": "dns1.jssvc.edu.cn; ns.jssvc.edu.cn; dns2.jssvc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:100c::10:83",
     "evidence_hostnames": "www.jssvc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for jssvc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois jssvc.edu.cn  ?\n\n\n\n\nSuzhou Polytechnic University (Suzhou Open University) \n   Suzhou, JS 215104\n   China\n\n   Domain Name: JSSVC.EDU.CN\n\n   Network Name:   SZVU-CN\n\n   Administrative Contact, Technical Contact:\n      JingBo Yang  (JY77-CER) \n\n   Domain Servers in listed order:\n\n   dns1.jssvc.edu.cn   \t219.219.168.18\t2001:DA8:100C:2000:219:219:168:18\n   dns2.jssvc.edu.cn   \t219.219.168.28\t2001:DA8:100C:2000:219:219:168:28\n   dns3.jssvc.edu.cn   \t61.132.123.79\n\n\n\n\n\n\n"
 }

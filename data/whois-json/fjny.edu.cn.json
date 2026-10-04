@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.fjny.edu.cn",
-      "ip": "42.247.11.66"
+      "ip": "42.247.11.66",
+      "ipv6": "2001:DA8:E80F:2001::216:16"
     },
     {
       "host": "dns2.fjny.edu.cn",
-      "ip": "42.247.11.67"
+      "ip": "42.247.11.67",
+      "ipv6": "2001:DA8:E80F:2001::216:17"
     },
     {
       "host": "dns3.fjny.edu.cn",
@@ -30,7 +32,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=fjny.edu.cn",
   "metadata": {
     "organization_or_record_name": "Fujian Vocational College Of Agriculture",
@@ -40,11 +42,11 @@
     "A_records": "112.111.61.135",
     "AAAA_records": "",
     "NS_records": "dns1.fjny.edu.cn; dns2.fjny.edu.cn; dns3.fjny.edu.cn; dns4.fjny.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "gzcx.fjny.edu.cn; tx.fjny.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for fjny.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois fjny.edu.cn  ?\n\n\n\n\nFujian Vocational College Of Agriculture \n   Fuzhou, FJ 350000\n   China\n\n   Domain Name: FJNY.EDU.CN\n\n   Network Name:   FVCA-CN\n\n   Administrative Contact, Technical Contact:\n      Wanhong Chen  (WC52-CER) \n\n   Domain Servers in listed order:\n\n   dns1.fjny.edu.cn    \t42.247.11.66\t2001:DA8:E80F:2001::216:16\n   dns2.fjny.edu.cn    \t42.247.11.67\t2001:DA8:E80F:2001::216:17\n   dns3.fjny.edu.cn    \t27.151.113.131\n   dns4.fjny.edu.cn    \t112.111.61.211\n\n\n\n\n\n\n"
 }

@@ -9,7 +9,7 @@
   "nameservers": [],
   "raw_note": "域名 zjmc.edu.cn  已于19980730 在CERNIC注册 [浙江医学高等专科学校]",
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zjmc.edu.cn",
   "metadata": {
     "organization_or_record_name": "浙江医学高等专科学校",
@@ -19,12 +19,12 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed registered in CERNIC; registration date 19980730 (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: cn_status (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "ca.zjmc.edu.cn; zjmc.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; DNS may be inactive or query state unavailable; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; DNS may be inactive or query state unavailable; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "domain_name": null,
-  "raw_text": null,
+  "raw_text": "\nWhois Results for zjmc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois zjmc.edu.cn  ?\n\n\n\n域名 zjmc.edu.cn  已于19980730 在CERNIC注册 [浙江医学高等专科学校]\n\n\n\n\nBack\n\n",
   "address": []
 }

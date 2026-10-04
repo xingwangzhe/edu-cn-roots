@@ -24,7 +24,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sztu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois sztu.edu.cn ?\n\nShenzhen Technology University \n   Shenzhen, GD 518000\n   China\n\n   Domain Name: SZTU.EDU.CN\n\n   Network Name:   SZTU-CN\n\n   Administrative Contact, Technical Contact:\n      Cheng Wang  (CW40-CER) \n\n   Domain Servers in listed order:\n\n   sunshine.sztu.edu.cn\t42.247.29.127\t2001:250:3c0a:0:0:0:0:10\n   moonlight.sztu.edu.cn\t210.22.9.199\n",
+  "raw_text": "\nWhois Results for sztu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sztu.edu.cn  ?\n\n\n\n\nShenzhen Technology University \n   Shenzhen, GD 518000\n   China\n\n   Domain Name: SZTU.EDU.CN\n\n   Network Name:   SZTU-CN\n\n   Administrative Contact, Technical Contact:\n      Cheng Wang  (CW40-CER) \n\n   Domain Servers in listed order:\n\n   sunshine.sztu.edu.cn\t42.247.29.127\t2001:250:3c0a:0:0:0:0:10\n   moonlight.sztu.edu.cn\t210.22.9.199\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Shenzhen Technology University",
@@ -34,10 +34,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "sztu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "DNS.TJFSU.EDU.CN",
-      "ip": "211.68.208.10"
+      "ip": "211.68.208.10",
+      "ipv6": "2001:DA8:A013::2"
     },
     {
       "host": "SUN.TJFSU.EDU.CN",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tjfsu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "天津外国语大学滨海外事学院",
+    "organization_or_record_name": "Tianjin Foreign Studies University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "211.68.208.15",
     "AAAA_records": "2001:da8:a013:1::2:12",
     "NS_records": "dns.tjfsu.edu.cn; sun.tjfsu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 211.68.208.15; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:a013:1::2:12",
     "evidence_hostnames": "bhws.tjfsu.edu.cn; www.tjfsu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for tjfsu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois tjfsu.edu.cn  ?\n\n\n\n\nTianjin Foreign Studies University \n   Tianjin, TJ 300204\n   China\n\n   Domain Name: TJFSU.EDU.CN\n\n   Network Name:   TJFSU-CN\n\n   Administrative Contact, Technical Contact:\n      Jiabin Han  (JH28-CER) \n\n   Domain Servers in listed order:\n\n   DNS.TJFSU.EDU.CN    \t211.68.208.10\t2001:DA8:A013::2\n   SUN.TJFSU.EDU.CN    \t211.68.208.11\n\n\n\n\n\n\n"
 }

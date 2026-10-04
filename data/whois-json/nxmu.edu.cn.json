@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS1.NXMU.EDU.CN",
-      "ip": "202.201.152.3"
+      "ip": "202.201.152.3",
+      "ipv6": "2001:250:1C01:100::3"
     },
     {
       "host": "DNS2.NXMU.EDU.CN",
-      "ip": "119.60.6.210"
+      "ip": "119.60.6.210",
+      "ipv6": "2001:250:1C01:100::2"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nxmu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "宁夏医科大学",
+    "organization_or_record_name": "Ningxia Medical University",
     "collected_from": "CERNET导报 1999 Q4, CERNIC域名注册清单; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.nxmu.edu.cn; dns1.nxmu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "nxmu.edu.cn; www.nxmu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nxmu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nxmu.edu.cn  ?\n\n\n\n\nNingxia Medical University \n   Yingchuan, NX 750004\n   China\n\n   Domain Name: NXMU.EDU.CN\n\n   Network Name:   NXMC-CN\n\n   Administrative Contact, Technical Contact:\n      Bian Liang  (BL6-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.NXMU.EDU.CN    \t202.201.152.3\t2001:250:1C01:100::3\n   DNS2.NXMU.EDU.CN    \t119.60.6.210\t2001:250:1C01:100::2\n\n\n\n\n\n\n"
 }

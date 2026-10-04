@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "pridns.cqu.edu.cn",
-      "ip": "202.202.0.33"
+      "ip": "202.202.0.33",
+      "ipv6": "2001:da8:c800::33"
     },
     {
       "host": "secdns.cqu.edu.cn",
-      "ip": "202.202.0.34"
+      "ip": "202.202.0.34",
+      "ipv6": "2001:da8:c800::34"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cqu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "重庆大学",
+    "organization_or_record_name": "Chongqing University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-08-21T05:44:44; 2015-09-12T07:18:35; 2017-09-28T13:53:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.202.2.6",
     "AAAA_records": "",
     "NS_records": "pridns.cqu.edu.cn; secdns.cqu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.202.2.6",
     "evidence_hostnames": "lanunion.cqu.edu.cn; mail.cqu.edu.cn; mirrors.cqu.edu.cn; sso.lib.cqu.edu.cn; www.cqu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cqu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cqu.edu.cn  ?\n\n\n\n\nChongqing University \n   Chongqing, CQ 630044\n   China\n\n   Domain Name: CQU.EDU.CN\n\n   Network Name:   CQU-CN\n\n   Administrative Contact, Technical Contact:\n      Rongjun Tang  (RT1-CER) \n\n   Domain Servers in listed order:\n\n   pridns.cqu.edu.cn   \t202.202.0.33\t2001:da8:c800::33\n   secdns.cqu.edu.cn   \t202.202.0.34\t2001:da8:c800::34\n\n\n\n\n\n\n"
 }

@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "liwa.ecnu.edu.cn",
-      "ip": "202.120.80.1"
+      "ip": "202.120.80.1",
+      "ipv6": "2001:da8:8005:80::81"
     },
     {
       "host": "xiayu.ecnu.edu.cn",
-      "ip": "202.120.80.67"
+      "ip": "202.120.80.67",
+      "ipv6": "2001:da8:8005:80::67"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ecnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "华东师范大学",
+    "organization_or_record_name": "East China Normal University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-11-16T07:00:49; 2015-12-09T04:58:11; 2015-12-10T01:57:05",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.120.81.251",
     "AAAA_records": "",
     "NS_records": "xiayu.ecnu.edu.cn; liwa.ecnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.120.81.251",
     "evidence_hostnames": "ecnu.edu.cn; encore.lib.ecnu.edu.cn; idp.ecnu.edu.cn; idp6.ecnu.edu.cn; libecnu.lib.ecnu.edu.cn; portal1.ecnu.edu.cn; portal2.ecnu.edu.cn; smail.ecnu.edu.cn; sp6.ecnu.edu.cn; wayf6.ecnu.edu.cn; webmail.ecnu.edu.cn; www.ecnu.edu.cn; www.encore.lib.ecnu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ecnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ecnu.edu.cn  ?\n\n\n\n\nEast China Normal University \n   Shanghai, SH 200062\n   China\n\n   Domain Name: ECNU.EDU.CN\n\n   Network Name:   ECNU-CN\n\n   Administrative Contact, Technical Contact:\n      Zhipeng Liu  (ZL145-CER) \n\n   Domain Servers in listed order:\n\n   liwa.ecnu.edu.cn    \t202.120.80.1\t2001:da8:8005:80::81\n   xiayu.ecnu.edu.cn   \t202.120.80.67\t2001:da8:8005:80::67\n\n\n\n\n\n\n"
 }

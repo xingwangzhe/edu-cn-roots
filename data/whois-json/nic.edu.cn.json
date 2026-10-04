@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.edu.cn",
-      "ip": "202.38.109.35"
+      "ip": "202.38.109.35",
+      "ipv6": "2001:250:c006::35"
     },
     {
       "host": "dns2.edu.cn",
-      "ip": "202.112.0.13"
+      "ip": "202.112.0.13",
+      "ipv6": "2001:da8:1:100::13"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nic.edu.cn",
   "metadata": {
-    "organization_or_record_name": "CERNIC / CERNET Information Center",
+    "organization_or_record_name": "China Education and Research Network Information Center",
     "collected_from": "CERNIC/CERNET service-domain reference; current DNS (Google Public DNS DoH)",
     "source_last_observed": "2026-09-26",
     "current_dns_status": "A=NOERROR; AAAA and NS not separately queried for this added row",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "Not checked for this added service-domain row",
     "evidence_hostnames": "nic.edu.cn",
-    "review_notes": "Direct child of edu.cn retained regardless of institution type; DNS A query checked 2026-09-26. Name denotes or is associated with CERNIC/CERNET service infrastructure; WHOIS registration not individually confirmed.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct child of edu.cn retained regardless of institution type; DNS A query checked 2026-09-26. Name denotes or is associated with CERNIC/CERNET service infrastructure; WHOIS registration not individually confirmed.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nic.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nic.edu.cn  ?\n\n\n\n\nChina Education and Research Network Information Center \n   Beijing, BJ 100084\n   China\n\n   Domain Name: NIC.EDU.CN\n\n   Network Name:   CERNIC-CN\n\n   Administrative Contact, Technical Contact:\n      Shuang Zhu  (SZ1-CER) \n\n   Domain Servers in listed order:\n\n   dns.edu.cn          \t202.38.109.35\t2001:250:c006::35\n   dns2.edu.cn         \t202.112.0.13\t2001:da8:1:100::13\n\n\n\n\n\n\n"
 }

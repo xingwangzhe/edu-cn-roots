@@ -17,11 +17,13 @@
     },
     {
       "host": "dnsv6.zzu.edu.cn",
-      "ip": "2001:da8:5000:6c00::7"
+      "ip": "2001:da8:5000:6c00::7",
+      "ipv6": "2001:da8:5000:6c00::7"
     },
     {
       "host": "dnsv62.zzu.edu.cn",
-      "ip": "2001:da8:5000:6c00::8"
+      "ip": "2001:da8:5000:6c00::8",
+      "ipv6": "2001:da8:5000:6c00::8"
     }
   ],
   "address": [
@@ -30,21 +32,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zzu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "郑州大学",
+    "organization_or_record_name": "Zhengzhou University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-07-29T05:38:00; 2017-09-26T15:06:00; 2017-09-29T07:34:19",
     "current_dns_status": "A=NOERROR; AAAA=NXDOMAIN; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dnsv62.zzu.edu.cn; dnsv6.zzu.edu.cn; dns.zzu.edu.cn; dns2.zzu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "mirrors.zzu.edu.cn; v.zzu.edu.cn; www.zzu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for zzu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois zzu.edu.cn  ?\n\n\n\n\nZhengzhou University \n   Zhengzhou, HA 450001\n   China\n\n   Domain Name: ZZU.EDU.CN\n\n   Network Name:   ZZU-CN\n\n   Administrative Contact:\n      Zijiao Zhang  (ZZ60-CER) \n   Network Name:   ZZU-CN\n\n   Technical Contact:\n      Limin Hua  (LH33-CER) \n\n   Domain Servers in listed order:\n\n   dns.zzu.edu.cn      \t202.196.64.27\n   dns2.zzu.edu.cn     \t202.196.64.36\n   dnsv6.zzu.edu.cn    \t2001:da8:5000:6c00::7\n   dnsv62.zzu.edu.cn   \t2001:da8:5000:6c00::8\n\n\n\n\n\n\n"
 }

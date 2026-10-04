@@ -22,21 +22,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=glnet.edu.cn",
   "metadata": {
-    "organization_or_record_name": "桂林网络中心",
+    "organization_or_record_name": "North Guangxi Education And Research Network Centre",
     "collected_from": "CERNET导报 1999 Q4, CERNIC域名注册清单",
     "source_last_observed": "1998-1999 registry publication",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.193.158.33",
     "AAAA_records": "",
     "NS_records": "orchid.glnet.edu.cn; jasmine.glnet.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.193.158.33",
     "evidence_hostnames": "glnet.edu.cn",
-    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for glnet.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois glnet.edu.cn  ?\n\n\n\n\nNorth Guangxi Education And Research Network Centre \n   Guilin, GX 541004\n   China\n\n   Domain Name: GLNET.EDU.CN\n\n   Network Name:   GXNNC-CN\n\n   Administrative Contact:\n      Xiaojian Li  (XL2-CN) \n   Network Name:   GXNNC-CN\n\n   Technical Contact:\n      Yao Lu  (YL5-CN) \n\n   Domain Servers in listed order:\n\n   ORCHID.GLNET.EDU.CN \t202.193.158.33\n   JASMINE.GLNET.EDU.CN\t202.193.158.34\n\n\n\n\n\n\n"
 }

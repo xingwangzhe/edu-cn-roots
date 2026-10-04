@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.TJUFE.EDU.CN",
-      "ip": "202.113.128.10"
+      "ip": "202.113.128.10",
+      "ipv6": "2001:da8:a00a:1::10"
     },
     {
       "host": "DNS1.TJUFE.EDU.CN",
-      "ip": "202.113.128.11"
+      "ip": "202.113.128.11",
+      "ipv6": "2001:da8:a00a:1::11"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tjufe.edu.cn",
   "metadata": {
-    "organization_or_record_name": "天津财经大学珠江学院",
+    "organization_or_record_name": "Tianjin University Of Finance And Economics",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "121.193.149.171; 60.30.120.181",
     "AAAA_records": "2001:da8:a00a:8::123",
     "NS_records": "dns.tjufe.edu.cn; dns1.tjufe.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 121.193.149.171; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:a00a:8::123",
     "evidence_hostnames": "www.tjufe.edu.cn; zhujiang.tjufe.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for tjufe.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois tjufe.edu.cn  ?\n\n\n\n\nTianjin University Of Finance And Economics \n   Tianjin, TJ 300222\n   China\n\n   Domain Name: TJUFE.EDU.CN\n\n   Network Name:   TJUFE-CN\n\n   Administrative Contact:\n      Xiangyuan Meng  (XM24-CER) \n   Network Name:   TJUFE-CN\n\n   Technical Contact:\n      Sun Wei  (SW60-CER) \n\n   Domain Servers in listed order:\n\n   DNS.TJUFE.EDU.CN    \t202.113.128.10\t2001:da8:a00a:1::10\n   DNS1.TJUFE.EDU.CN   \t202.113.128.11\t2001:da8:a00a:1::11\n\n\n\n\n\n\n"
 }

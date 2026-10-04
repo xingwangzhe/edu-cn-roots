@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dns1.hust.edu.cn",
-      "ip": "202.114.0.120"
+      "ip": "202.114.0.120",
+      "ipv6": "2001:250:4000:2002::888"
     },
     {
       "host": "dns2.hust.edu.cn",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hust.edu.cn",
   "metadata": {
-    "organization_or_record_name": "华中科技大学",
+    "organization_or_record_name": "Huazhong University of Science and Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-03-19T17:10:00; 2017-05-24T17:10:00; 2017-09-01T08:39:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.114.0.245",
     "AAAA_records": "2001:250:4000:2000::245",
     "NS_records": "dns2.hust.edu.cn; dns1.hust.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.114.0.245; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:4000:2000::245",
     "evidence_hostnames": "dssl.hust.edu.cn; ftp.lib.hust.edu.cn; hust.edu.cn; mail.hust.edu.cn; sau.hust.edu.cn; www.hust.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hust.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hust.edu.cn  ?\n\n\n\n\nHuazhong University of Science and Technology \n   Wuhan, HB 430074\n   China\n\n   Domain Name: HUST.EDU.CN\n\n   Network Name:   HUST-CN\n\n   Administrative Contact:\n      Zhitang Li  (ZL13-CER) \n   Network Name:   HUST-CN\n\n   Technical Contact:\n      Yong Yang  (YY16-CER) \n\n   Domain Servers in listed order:\n\n   dns1.hust.edu.cn    \t202.114.0.120\t2001:250:4000:2002::888\n   dns2.hust.edu.cn    \t59.172.234.181\n\n\n\n\n\n\n"
 }

@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.hubu.edu.cn",
-      "ip": "202.114.144.33"
+      "ip": "202.114.144.33",
+      "ipv6": "2001:da8:3012:2::33"
     },
     {
       "host": "dns2.hubu.edu.cn",
-      "ip": "202.114.144.53"
+      "ip": "202.114.144.53",
+      "ipv6": "2001:da8:3012:2::53"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hubu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "湖北大学",
+    "organization_or_record_name": "Hubei University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2016-06-17T00:00:00; 2016-11-22T23:59:31; 2016-12-22T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.114.144.124",
     "AAAA_records": "",
     "NS_records": "dns.hubu.edu.cn; dns2.hubu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.114.144.124",
     "evidence_hostnames": "cas.hubu.edu.cn; www.hubu.edu.cn; wx.hubu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hubu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hubu.edu.cn  ?\n\n\n\n\nHubei University \n   Wuhan, HB 430062\n   China\n\n   Domain Name: HUBU.EDU.CN\n\n   Network Name:   HUBU-CN\n\n   Administrative Contact:\n      GuiLin Gao  (GG8-CER) \n   Network Name:   HUBU-CN\n\n   Technical Contact:\n      Shan Gao  (SG14-CER) \n\n   Domain Servers in listed order:\n\n   dns.hubu.edu.cn     \t202.114.144.33\t2001:da8:3012:2::33\n   dns2.hubu.edu.cn    \t202.114.144.53\t2001:da8:3012:2::53\n\n\n\n\n\n\n"
 }

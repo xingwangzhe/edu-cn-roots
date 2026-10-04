@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dns1.ujs.edu.cn",
-      "ip": "202.195.160.7"
+      "ip": "202.195.160.7",
+      "ipv6": "2001:da8:1018:3::7"
     },
     {
       "host": "dns2.ujs.edu.cn",
@@ -26,21 +27,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ujs.edu.cn",
   "metadata": {
-    "organization_or_record_name": "江苏大学",
+    "organization_or_record_name": "Jiangsu University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2016-12-22T00:00:00; 2017-08-27T13:21:00; 2017-08-31T13:59:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.195.160.7",
     "AAAA_records": "",
     "NS_records": "dns2.ujs.edu.cn; dns1.ujs.edu.cn; dns3.ujs.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.195.160.7",
     "evidence_hostnames": "ehall.ujs.edu.cn; ehalladmin.ujs.edu.cn; ehalltest.ujs.edu.cn; jjxy.ujs.edu.cn; ujs.edu.cn; vpn.ujs.edu.cn; www.ujs.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ujs.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ujs.edu.cn  ?\n\n\n\n\nJiangsu University \n   Zhenjiang, JS 212013\n   China\n\n   Domain Name: UJS.EDU.CN\n\n   Network Name:   JSUST-CN\n\n   Administrative Contact:\n      Shirui Zhu  (SZ65-CER) \n   Network Name:   JSUST-CN\n\n   Technical Contact:\n      Hong Ma  (HM11-CER) \n\n   Domain Servers in listed order:\n\n   dns1.ujs.edu.cn     \t202.195.160.7\t2001:da8:1018:3::7\n   dns2.ujs.edu.cn     \t218.3.94.76\n   dns3.ujs.edu.cn     \t36.156.27.232\n\n\n\n\n\n\n"
 }

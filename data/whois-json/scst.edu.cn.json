@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns1.scst.edu.cn",
-      "ip": "58.198.38.8"
+      "ip": "58.198.38.8",
+      "ipv6": "2001:250:601E:3000:58:198:38:8"
     },
     {
       "host": "dns2.scst.edu.cn",
-      "ip": "117.144.93.34"
+      "ip": "117.144.93.34",
+      "ipv6": "2001:250:601E:3000:117:144:93:34"
     },
     {
       "host": "dns3.scst.edu.cn",
-      "ip": "140.207.167.54"
+      "ip": "140.207.167.54",
+      "ipv6": "2001:250:601E:3000:140:207:167:54"
     }
   ],
   "address": [
@@ -26,7 +29,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=scst.edu.cn",
   "metadata": {
     "organization_or_record_name": "上海科学技术职业学院",
@@ -36,11 +39,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.scst.edu.cn; dns3.scst.edu.cn; dns1.scst.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.scst.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for scst.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois scst.edu.cn  ?\n\n\n\n\n上海科学技术职业学院 \n   Shanghai, SH 201800\n   China\n\n   Domain Name: SCST.EDU.CN\n\n   Network Name:   SVCST-CN\n\n   Administrative Contact, Technical Contact:\n      Jian Xie  (JX62-CER) \n\n   Domain Servers in listed order:\n\n   dns1.scst.edu.cn    \t58.198.38.8\t2001:250:601E:3000:58:198:38:8\n   dns2.scst.edu.cn    \t117.144.93.34\t2001:250:601E:3000:117:144:93:34\n   dns3.scst.edu.cn    \t140.207.167.54\t2001:250:601E:3000:140:207:167:54\n\n\n\n\n\n\n"
 }

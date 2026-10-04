@@ -9,23 +9,28 @@
   "nameservers": [
     {
       "host": "dns1.cqut.edu.cn",
-      "ip": "202.202.145.5"
+      "ip": "202.202.145.5",
+      "ipv6": "2001:da8:c808:145::5"
     },
     {
       "host": "dns2.cqut.edu.cn",
-      "ip": "202.202.145.6"
+      "ip": "202.202.145.6",
+      "ipv6": "2001:da8:c808:145::6"
     },
     {
       "host": "dns3.cqut.edu.cn",
-      "ip": "222.178.158.5"
+      "ip": "222.178.158.5",
+      "ipv6": "2001:da8:c808:145::5"
     },
     {
       "host": "dns4.cqut.edu.cn",
-      "ip": "222.178.158.6"
+      "ip": "222.178.158.6",
+      "ipv6": "2001:da8:c808:145::6"
     },
     {
       "host": "dns5.cqut.edu.cn",
-      "ip": "183.230.242.5"
+      "ip": "183.230.242.5",
+      "ipv6": "2001:da8:c808:145::5"
     }
   ],
   "address": [
@@ -34,21 +39,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cqut.edu.cn",
   "metadata": {
-    "organization_or_record_name": "重庆理工大学",
+    "organization_or_record_name": "Chongqing University of Technology",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.202.157.110",
     "AAAA_records": "2001:da8:c808:157::110",
     "NS_records": "dns1.cqut.edu.cn; dns3.cqut.edu.cn; dns5.cqut.edu.cn; dns2.cqut.edu.cn; dns4.cqut.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.202.157.110; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:c808:157::110",
     "evidence_hostnames": "www.cqut.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cqut.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cqut.edu.cn  ?\n\n\n\n\nChongqing University of Technology \n   Chongqing, CQ 400054\n   China\n\n   Domain Name: CQUT.EDU.CN\n\n   Network Name:   CQIIM-CN\n\n   Administrative Contact, Technical Contact:\n      Yahui He  (YH89-CER) \n\n   Domain Servers in listed order:\n\n   dns1.cqut.edu.cn    \t202.202.145.5\t2001:da8:c808:145::5\n   dns2.cqut.edu.cn    \t202.202.145.6\t2001:da8:c808:145::6\n   dns3.cqut.edu.cn    \t222.178.158.5\t2001:da8:c808:145::5\n   dns4.cqut.edu.cn    \t222.178.158.6\t2001:da8:c808:145::6\n   dns5.cqut.edu.cn    \t183.230.242.5\t2001:da8:c808:145::5\n\n\n\n\n\n\n"
 }

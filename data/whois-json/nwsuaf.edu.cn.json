@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "NCS1.NWSUAF.EDU.CN",
-      "ip": "210.27.80.2"
+      "ip": "210.27.80.2",
+      "ipv6": "2001:250:1002::3"
     },
     {
       "host": "NCS2.NWSUAF.EDU.CN",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nwsuaf.edu.cn",
   "metadata": {
-    "organization_or_record_name": "西北农林科技大学",
+    "organization_or_record_name": "Northwest Science&technology University Of Agriculture",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2012-04-27T04:23:54; 2016-06-27T00:00:00; 2016-12-14T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "2001:250:1002:2951::120",
     "NS_records": "ncs2.nwsuaf.edu.cn; ncs1.nwsuaf.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:1002:2951::120",
     "evidence_hostnames": "nwsuaf.edu.cn; vs.nwsuaf.edu.cn; www.nwsuaf.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nwsuaf.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nwsuaf.edu.cn  ?\n\n\n\n\nNorthwest Science&technology University Of Agriculture \n   Xi'an, SN 712100\n   China\n\n   Domain Name: NWSUAF.EDU.CN\n\n   Network Name:   NSTUAF-CN\n\n   Administrative Contact, Technical Contact:\n      Li Li  (LL48-CER) \n\n   Domain Servers in listed order:\n\n   NCS1.NWSUAF.EDU.CN  \t210.27.80.2\t2001:250:1002::3\n   NCS2.NWSUAF.EDU.CN  \t61.150.47.1\n\n\n\n\n\n\n"
 }

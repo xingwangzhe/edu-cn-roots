@@ -25,7 +25,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=smbu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois smbu.edu.cn ?\n\nShenzhen MSU-BIT University \n   Shenzhen, GD 518172\n   China\n\n   Domain Name: SMBU.EDU.CN\n\n   Network Name:   SZMSU-CN\n\n   Administrative Contact, Technical Contact:\n      Yingshuang Xie  (YX47-CER) \n\n   Domain Servers in listed order:\n\n   sunshine.sz.edu.cn  \t218.192.240.2\t2001:250:3c01::2\n   moonlight.sz.edu.cn \t218.192.240.3\t2001:250:3c01:100::3\n",
+  "raw_text": "\nWhois Results for smbu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois smbu.edu.cn  ?\n\n\n\n\nShenzhen MSU-BIT University \n   Shenzhen, GD 518172\n   China\n\n   Domain Name: SMBU.EDU.CN\n\n   Network Name:   SZMSU-CN\n\n   Administrative Contact, Technical Contact:\n      Yingshuang Xie  (YX47-CER) \n\n   Domain Servers in listed order:\n\n   sunshine.sz.edu.cn  \t218.192.240.2\t2001:250:3c01::2\n   moonlight.sz.edu.cn \t218.192.240.3\t2001:250:3c01:100::3\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Shenzhen MSU-BIT University",
@@ -35,10 +35,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "smbu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

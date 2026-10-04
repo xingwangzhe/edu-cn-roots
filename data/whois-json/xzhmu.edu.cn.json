@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "ns.xzhmu.edu.cn",
-      "ip": "223.2.183.66"
+      "ip": "223.2.183.66",
+      "ipv6": "2001:da8:1017:2000:a:a:a:a"
     },
     {
       "host": "ct.xzhmu.edu.cn",
-      "ip": "49.81.52.66"
+      "ip": "49.81.52.66",
+      "ipv6": "240E:6A0:206:300:A:A:A:A"
     },
     {
       "host": "cm.xzhmu.edu.cn",
-      "ip": "223.108.106.66"
+      "ip": "223.108.106.66",
+      "ipv6": "2409:8720:280f:30:a:a:a:a"
     },
     {
       "host": "cu.xzhmu.edu.cn",
-      "ip": "112.85.255.66"
+      "ip": "112.85.255.66",
+      "ipv6": "2408:863c:2813:30:a:a:a:a"
     }
   ],
   "address": [
@@ -30,7 +34,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=xzhmu.edu.cn",
   "metadata": {
     "organization_or_record_name": "Xuzhou Medical University",
@@ -40,11 +44,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "cu.xzhmu.edu.cn; ns.xzhmu.edu.cn; cm.xzhmu.edu.cn; ct.xzhmu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "nic.xzhmu.edu.cn; ocserv.xzhmu.edu.cn; zscx.xzhmu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for xzhmu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois xzhmu.edu.cn  ?\n\n\n\n\nXuzhou Medical University \n   XuZhou, JS 221004\n   China\n\n   Domain Name: XZHMU.EDU.CN\n\n   Network Name:   XZMCB-CN\n\n   Administrative Contact, Technical Contact:\n      Jian Li  (JL179-CER) \n\n   Domain Servers in listed order:\n\n   ns.xzhmu.edu.cn     \t223.2.183.66\t2001:da8:1017:2000:a:a:a:a\n   ct.xzhmu.edu.cn     \t49.81.52.66\t240E:6A0:206:300:A:A:A:A\n   cm.xzhmu.edu.cn     \t223.108.106.66\t2409:8720:280f:30:a:a:a:a\n   cu.xzhmu.edu.cn     \t112.85.255.66\t2408:863c:2813:30:a:a:a:a\n\n\n\n\n\n\n"
 }

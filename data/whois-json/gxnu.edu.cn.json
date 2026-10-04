@@ -26,21 +26,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gxnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "广西师范大学",
+    "organization_or_record_name": "Guangxi Normal University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.193.160.49",
     "AAAA_records": "2001:250:3400:8f00::49",
     "NS_records": "dns1.gxnu.edu.cn; dns2.gxnu.edu.cn; dns3.gxnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.193.160.49; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:3400:8f00::49",
     "evidence_hostnames": "www.gxnu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for gxnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois gxnu.edu.cn  ?\n\n\n\n\nGuangxi Normal University \n   Guilin, GX 541004\n   China\n\n   Domain Name: GXNU.EDU.CN\n\n   Network Name:   GXNU-CN\n\n   Administrative Contact:\n      Xiaojian Li  (XL2-CN) \n   Network Name:   GXNU-CN\n\n   Technical Contact:\n      Hongyan Peng  (HP4-CER) \n\n   Domain Servers in listed order:\n\n   dns1.gxnu.edu.cn    \t202.193.160.33\n   dns2.gxnu.edu.cn    \t202.193.160.34\n   dns3.gxnu.edu.cn    \t202.193.158.33\n\n\n\n\n\n\n"
 }

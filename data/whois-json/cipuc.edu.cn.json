@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "NS1.CIPUC.EDU.CN",
-      "ip": "210.47.128.4"
+      "ip": "210.47.128.4",
+      "ipv6": "2001:DA8:9009::4"
     },
     {
       "host": "NS2.CIPUC.EDU.CN",
-      "ip": "210.47.128.5"
+      "ip": "210.47.128.5",
+      "ipv6": "2001:DA8:9009::5"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cipuc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中国刑事警察学院",
+    "organization_or_record_name": "Criminal Investigation Police University of China",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns1.cipuc.edu.cn; ns2.cipuc.edu.cn; dns-cipuc.cipuc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.cipuc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cipuc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cipuc.edu.cn  ?\n\n\n\n\nCriminal Investigation Police University of China \n   Shenyang, LN 110854\n   China\n\n   Domain Name: CIPUC.EDU.CN\n\n   Network Name:   CCPC-CN\n\n   Administrative Contact, Technical Contact:\n      Qiang Fan  (QF10-CER) \n\n   Domain Servers in listed order:\n\n   NS1.CIPUC.EDU.CN    \t210.47.128.4\t2001:DA8:9009::4\n   NS2.CIPUC.EDU.CN    \t210.47.128.5\t2001:DA8:9009::5\n\n\n\n\n\n\n"
 }

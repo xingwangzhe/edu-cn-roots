@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.GUFE.EDU.CN",
-      "ip": "210.40.80.33"
+      "ip": "210.40.80.33",
+      "ipv6": "2001:250:2c06:dddd::e"
     },
     {
       "host": "SEC-DNS.GUFE.EDU.CN",
-      "ip": "210.40.80.39"
+      "ip": "210.40.80.39",
+      "ipv6": "2001:250:2c06:dddd::a"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=gufe.edu.cn",
   "metadata": {
-    "organization_or_record_name": "贵州财经大学",
+    "organization_or_record_name": "Guizhou University Of Finannce & Economics",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "210.40.80.33",
     "AAAA_records": "",
     "NS_records": "dns.gufe.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 210.40.80.33",
     "evidence_hostnames": "www.gufe.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for gufe.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois gufe.edu.cn  ?\n\n\n\n\nGuizhou University Of Finannce & Economics \n   Guiyang, GZ 550002\n   China\n\n   Domain Name: GUFE.EDU.CN\n\n   Network Name:   GZIFE-CN\n\n   Administrative Contact, Technical Contact:\n      Fan Wang  (FW23-CER) \n\n   Domain Servers in listed order:\n\n   DNS.GUFE.EDU.CN     \t210.40.80.33\t2001:250:2c06:dddd::e\n   SEC-DNS.GUFE.EDU.CN \t210.40.80.39\t2001:250:2c06:dddd::a\n\n\n\n\n\n\n"
 }

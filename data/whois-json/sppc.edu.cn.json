@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns1.sppc.edu.cn",
-      "ip": "59.79.116.2"
+      "ip": "59.79.116.2",
+      "ipv6": "2001:da8:8026:0:59:79:116:2"
     },
     {
       "host": "dnsfx.sppc.edu.cn",
-      "ip": "59.79.118.2"
+      "ip": "59.79.118.2",
+      "ipv6": "2001:da8:8026:3121:59:79:118:2"
     },
     {
       "host": "dnsfxdx.sppc.edu.cn",
-      "ip": "114.94.101.66"
+      "ip": "114.94.101.66",
+      "ipv6": "2001:da8:8026:3121:59:79:118:3"
     }
   ],
   "address": [
@@ -26,7 +29,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sppc.edu.cn",
   "metadata": {
     "organization_or_record_name": "上海出版印刷高等专科学校",
@@ -36,11 +39,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.sppc.edu.cn; dnsfxdx.sppc.edu.cn; dnsfx.sppc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.sppc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sppc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sppc.edu.cn  ?\n\n\n\n\n上海出版印刷高等专科学校 \n   Shanghai, SH 200093\n   China\n\n   Domain Name: SPPC.EDU.CN\n\n   Network Name:   SHPPC-CN\n\n   Administrative Contact, Technical Contact:\n      Xiaolong Liu  (XL88-CER) \n\n   Domain Servers in listed order:\n\n   dns1.sppc.edu.cn    \t59.79.116.2\t2001:da8:8026:0:59:79:116:2\n   dnsfx.sppc.edu.cn   \t59.79.118.2\t2001:da8:8026:3121:59:79:118:2\n   dnsfxdx.sppc.edu.cn \t114.94.101.66\t2001:da8:8026:3121:59:79:118:3\n\n\n\n\n\n\n"
 }

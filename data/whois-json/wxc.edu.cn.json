@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "DNS1.WXC.EDU.CN",
-      "ip": "211.70.160.1"
+      "ip": "211.70.160.1",
+      "ipv6": "2001:250:540E:1:1::1"
     },
     {
       "host": "DNS2.WXC.EDU.CN",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=wxc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "皖西学院",
+    "organization_or_record_name": "Wanxi College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "2409:8c6a:b021:1400:0:3:0:47; 2001:250:540e:1:1::8",
     "NS_records": "dns2.wxc.edu.cn; dns1.wxc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:540e:1:1::8",
     "evidence_hostnames": "www.wxc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for wxc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois wxc.edu.cn  ?\n\n\n\n\nWanxi College \n   Lu'an, AH 237012\n   China\n\n   Domain Name: WXC.EDU.CN\n\n   Network Name:   WXC-CN\n\n   Administrative Contact, Technical Contact:\n      Xu Tian  (XT12-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.WXC.EDU.CN     \t211.70.160.1\t2001:250:540E:1:1::1\n   DNS2.WXC.EDU.CN     \t211.70.160.2\n\n\n\n\n\n\n"
 }

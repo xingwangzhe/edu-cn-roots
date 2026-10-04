@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "ns.cjlu.edu.cn",
-      "ip": "210.33.40.1"
+      "ip": "210.33.40.1",
+      "ipv6": "2001:da8:e044:2::6"
     },
     {
       "host": "nst.cjlu.edu.cn",
-      "ip": "202.107.226.173"
+      "ip": "202.107.226.173",
+      "ipv6": "240E:695:4E1:4::101"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cjlu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中国计量大学",
+    "organization_or_record_name": "CHINA JILIANG UNIVERSITY",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2014-09-23T00:00:00; 2015-11-26T00:00:00; 2016-05-20T08:24:45",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns.cjlu.edu.cn; nst.cjlu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "m.cjlu.edu.cn; nginx.cjlu.edu.cn; portal1.cjlu.edu.cn; portal2.cjlu.edu.cn; sslvpn.cjlu.edu.cn; www.cjlu.edu.cn; www.m.cjlu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cjlu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cjlu.edu.cn  ?\n\n\n\n\nCHINA JILIANG UNIVERSITY \n   Hangzhou, ZJ 310018\n   China\n\n   Domain Name: CJLU.EDU.CN\n\n   Network Name:   CIM-CN\n\n   Administrative Contact, Technical Contact:\n      Haiming Li  (HL141-CER) \n\n   Domain Servers in listed order:\n\n   ns.cjlu.edu.cn      \t210.33.40.1\t2001:da8:e044:2::6\n   nst.cjlu.edu.cn     \t202.107.226.173\t240E:695:4E1:4::101\n\n\n\n\n\n\n"
 }

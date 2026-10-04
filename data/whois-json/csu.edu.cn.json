@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "csu-6.csu.edu.cn",
-      "ip": "202.197.61.222"
+      "ip": "202.197.61.222",
+      "ipv6": "2001:250:4400::6"
     },
     {
       "host": "csu-7.csu.edu.cn",
-      "ip": "202.197.61.220"
+      "ip": "202.197.61.220",
+      "ipv6": "2001:250:4400::7"
     },
     {
       "host": "csu-8.csu.edu.cn",
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=csu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中南大学",
+    "organization_or_record_name": "Central South University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.197.61.57",
     "AAAA_records": "2001:250:4400:64::57",
     "NS_records": "csu-6.csu.edu.cn; csu-8.csu.edu.cn; csu-7.csu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.197.61.57; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:4400:64::57",
     "evidence_hostnames": "www.csu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for csu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois csu.edu.cn  ?\n\n\n\n\nCentral South University \n   Changsha, HN 410083\n   China\n\n   Domain Name: CSU.EDU.CN\n\n   Network Name:   CSUT-CN\n\n   Administrative Contact, Technical Contact:\n      Huang Yanbo  (HY8-CER) \n\n   Domain Servers in listed order:\n\n   csu-6.csu.edu.cn    \t202.197.61.222\t2001:250:4400::6\n   csu-7.csu.edu.cn    \t202.197.61.220\t2001:250:4400::7\n   csu-8.csu.edu.cn    \t222.247.53.82\n\n\n\n\n\n\n"
 }

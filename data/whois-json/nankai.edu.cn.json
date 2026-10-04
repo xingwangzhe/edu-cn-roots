@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns.nankai.edu.cn",
-      "ip": "202.113.16.10"
+      "ip": "202.113.16.10",
+      "ipv6": "2001:250:401:16::10"
     },
     {
       "host": "dns1.nankai.edu.cn",
-      "ip": "202.113.16.20"
+      "ip": "202.113.16.20",
+      "ipv6": "2001:250:401:16::20"
     },
     {
       "host": "dns6.nankai.edu.cn",
-      "ip": "222.30.45.11"
+      "ip": "222.30.45.11",
+      "ipv6": "2001:250:401:d450::11"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nankai.edu.cn",
   "metadata": {
-    "organization_or_record_name": "南开大学滨海学院",
+    "organization_or_record_name": "Nankai University",
     "collected_from": "PTR sample in CERNIC-published address ranges; crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2013-10-21T00:00:00; 2015-11-03T11:36:05",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "222.30.45.190",
     "AAAA_records": "",
     "NS_records": "dns1.nankai.edu.cn; dns.nankai.edu.cn; dns6.nankai.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 222.30.45.190",
     "evidence_hostnames": "binhai.nankai.edu.cn; dns.nankai.edu.cn; ibs.nankai.edu.cn; idp.nankai.edu.cn; www.idp.nankai.edu.cn; www.nankai.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nankai.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nankai.edu.cn  ?\n\n\n\n\nNankai University \n   Tianjin, TJ 300071\n   China\n\n   Domain Name: NANKAI.EDU.CN\n\n   Network Name:   NANKAI-CN\n\n   Administrative Contact, Technical Contact:\n      Weihuan Han  (WH1-CN) \n\n   Domain Servers in listed order:\n\n   dns.nankai.edu.cn   \t202.113.16.10\t2001:250:401:16::10\n   dns1.nankai.edu.cn  \t202.113.16.20\t2001:250:401:16::20\n   dns6.nankai.edu.cn  \t222.30.45.11\t2001:250:401:d450::11\n\n\n\n\n\n\n"
 }

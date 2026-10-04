@@ -22,21 +22,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=lnzs.edu.cn",
   "metadata": {
-    "organization_or_record_name": "辽宁省高中等教育招生考试委员会办公室",
+    "organization_or_record_name": "The Office Of Recruitment Committee Of Liaoning Province",
     "collected_from": "CERNET导报 1998 Q3, CERNIC新增域名表",
     "source_last_observed": "1998-1999 registry publication",
     "current_dns_status": "A=DNS status 2; AAAA=DNS status 2; NS=DNS status 2",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "lnzs.edu.cn",
-    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for lnzs.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois lnzs.edu.cn  ?\n\n\n\n\nThe Office Of Recruitment Committee Of Liaoning Province \n   Shenyang, LN 110000\n   China\n\n   Domain Name: LNZS.EDU.CN\n\n   Network Name:   LNZS-CN\n\n   Administrative Contact:\n      Weiguang Dong  (WD8-AP) \n   Network Name:   LNZS-CN\n\n   Technical Contact:\n      Zhang Ge  (ZG9-AP) \n\n   Domain Servers in listed order:\n\n   NS.LNZS.EDU.CN      \t202.199.16.1\n   NS2.LNZS.EDU.CN     \t202.199.16.2\n\n\n\n\n\n\n"
 }

@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "ns.buct.edu.cn",
-      "ip": "202.4.130.100"
+      "ip": "202.4.130.100",
+      "ipv6": "2001:250:207:1:202:4:130:100"
     },
     {
       "host": "ns2.buct.edu.cn",
-      "ip": "202.4.130.101"
+      "ip": "202.4.130.101",
+      "ipv6": "2001:250:207:1:202:4:130:101"
     },
     {
       "host": "ns3.buct.edu.cn",
-      "ip": "222.199.255.100"
+      "ip": "222.199.255.100",
+      "ipv6": "2001:250:207:df:222:199:255:100"
     },
     {
       "host": "ns4.buct.edu.cn",
-      "ip": "222.199.255.101"
+      "ip": "222.199.255.101",
+      "ipv6": "2001:250:207:df:222:199:255:101"
     },
     {
       "host": "ns5.buct.edu.cn",
@@ -34,21 +38,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=buct.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京化工大学",
+    "organization_or_record_name": "Beijing University of Chemical Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-09-12T03:17:00; 2017-09-28T00:08:00; 2017-10-01T12:58:49",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "222.199.255.27",
     "AAAA_records": "",
     "NS_records": "ns5.buct.edu.cn; ns3.buct.edu.cn; ns4.buct.edu.cn; ns.buct.edu.cn; ns2.buct.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 222.199.255.27",
     "evidence_hostnames": "app.buct.edu.cn; bt.buct.edu.cn; buct.edu.cn; dssa.buct.edu.cn; i.buct.edu.cn; img.app.buct.edu.cn; pay.buct.edu.cn; track.buct.edu.cn; ubuntu.buct.edu.cn; wechat.snc.buct.edu.cn; weixin.buct.edu.cn; www.buct.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for buct.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois buct.edu.cn  ?\n\n\n\n\nBeijing University of Chemical Technology \n   Beijing, BJ 100029\n   China\n\n   Domain Name: BUCT.EDU.CN\n\n   Network Name:   BUCT-CN\n\n   Administrative Contact, Technical Contact:\n      Zheng Li  (ZL144-CER) \n\n   Domain Servers in listed order:\n\n   ns.buct.edu.cn      \t202.4.130.100\t2001:250:207:1:202:4:130:100\n   ns2.buct.edu.cn     \t202.4.130.101\t2001:250:207:1:202:4:130:101\n   ns3.buct.edu.cn     \t222.199.255.100\t2001:250:207:df:222:199:255:100\n   ns4.buct.edu.cn     \t222.199.255.101\t2001:250:207:df:222:199:255:101\n   ns5.buct.edu.cn     \t106.39.154.254\n\n\n\n\n\n\n"
 }

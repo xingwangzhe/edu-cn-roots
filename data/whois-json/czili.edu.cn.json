@@ -9,7 +9,7 @@
   "nameservers": [],
   "raw_note": "域名 czili.edu.cn  已于20030227 在CERNIC注册 [常州轻工职业技术学院]",
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=czili.edu.cn",
   "metadata": {
     "organization_or_record_name": "常州轻工职业技术学院",
@@ -19,12 +19,12 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed registered in CERNIC; registration date 20030227 (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: cn_status (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.czili.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "domain_name": null,
-  "raw_text": null,
+  "raw_text": "\nWhois Results for czili.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois czili.edu.cn  ?\n\n\n\n域名 czili.edu.cn  已于20030227 在CERNIC注册 [常州轻工职业技术学院]\n\n\n\n\nBack\n\n",
   "address": []
 }

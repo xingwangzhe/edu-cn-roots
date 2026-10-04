@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.aufe.edu.cn",
-      "ip": "211.86.241.5"
+      "ip": "211.86.241.5",
+      "ipv6": "2001:da8:d809:2000:211:86:241:5"
     },
     {
       "host": "dns1.aufe.edu.cn",
-      "ip": "211.86.241.6"
+      "ip": "211.86.241.6",
+      "ipv6": "2001:da8:d809:2000:211:86:241:6"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=aufe.edu.cn",
   "metadata": {
-    "organization_or_record_name": "安徽财经大学商学院",
+    "organization_or_record_name": "AnHui University of Finance and Economics",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2012-06-19T05:11:35; 2015-06-23T01:35:32; 2015-06-23T01:38:25",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.aufe.edu.cn; dns1.aufe.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "acsxy.aufe.edu.cn; aufe.edu.cn; www.aufe.edu.cn; ykt.aufe.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for aufe.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois aufe.edu.cn  ?\n\n\n\n\nAnHui University of Finance and Economics \n   Bengbu, AH 233041\n   China\n\n   Domain Name: AUFE.EDU.CN\n\n   Network Name:   AHIFT-CN\n\n   Administrative Contact, Technical Contact:\n      Gangzhen Wang  (GW45-CER) \n\n   Domain Servers in listed order:\n\n   dns.aufe.edu.cn     \t211.86.241.5\t2001:da8:d809:2000:211:86:241:5\n   dns1.aufe.edu.cn    \t211.86.241.6\t2001:da8:d809:2000:211:86:241:6\n\n\n\n\n\n\n"
 }

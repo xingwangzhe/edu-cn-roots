@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns1.tlu.edu.cn",
-      "ip": "211.86.208.1"
+      "ip": "211.86.208.1",
+      "ipv6": "2001:250:5406:999::2"
     },
     {
       "host": "dns2.tlu.edu.cn",
-      "ip": "211.86.208.2"
+      "ip": "211.86.208.2",
+      "ipv6": "2001:250:5406:999::4"
     },
     {
       "host": "ns.tlu.edu.cn",
-      "ip": "211.86.208.7"
+      "ip": "211.86.208.7",
+      "ipv6": "2001:250:5406:999::7"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tlu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "铜陵学院",
+    "organization_or_record_name": "TongLing University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=DNS status 2",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.tlu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for tlu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois tlu.edu.cn  ?\n\n\n\n\nTongLing University \n   TongLing, AH 244000\n   China\n\n   Domain Name: TLU.EDU.CN\n\n   Network Name:   TLC-CN\n\n   Administrative Contact, Technical Contact:\n      Zhengrong Song  (ZS13-CER) \n\n   Domain Servers in listed order:\n\n   dns1.tlu.edu.cn     \t211.86.208.1\t2001:250:5406:999::2\n   dns2.tlu.edu.cn     \t211.86.208.2\t2001:250:5406:999::4\n   ns.tlu.edu.cn       \t211.86.208.7\t2001:250:5406:999::7\n\n\n\n\n\n\n"
 }

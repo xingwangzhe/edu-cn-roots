@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.abtu.edu.cn",
-      "ip": "202.115.254.250"
+      "ip": "202.115.254.250",
+      "ipv6": "2001:da8:6030:14:202:115:254:250"
     },
     {
       "host": "dns2.abtu.edu.cn",
-      "ip": "202.115.254.251"
+      "ip": "202.115.254.251",
+      "ipv6": "2001:da8:6030:14:202:115:254:251"
     }
   ],
   "address": [
@@ -22,7 +24,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=abtu.edu.cn",
   "metadata": {
     "organization_or_record_name": "Aba Teachers University",
@@ -32,11 +34,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.abtu.edu.cn; dns2.abtu.edu.cn; dns1.abtu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "2fidp-lib.abtu.edu.cn; a.abtu.edu.cn; ai.abtu.edu.cn; askj.abtu.edu.cn; aszc.abtu.edu.cn; bkjy.abtu.edu.cn; bsdt.abtu.edu.cn; bwc.abtu.edu.cn; cgzb.abtu.edu.cn; ctsc.abtu.edu.cn; da.abtu.edu.cn; dns1.abtu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for abtu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois abtu.edu.cn  ?\n\n\n\n\nAba Teachers University \n   Wenchuan, SC 623002\n   China\n\n   Domain Name: ABTU.EDU.CN\n\n   Network Name:   ABTC-CN\n\n   Administrative Contact, Technical Contact:\n      Rui Li  (RL16-CER) \n\n   Domain Servers in listed order:\n\n   dns1.abtu.edu.cn    \t202.115.254.250\t2001:da8:6030:14:202:115:254:250\n   dns2.abtu.edu.cn    \t202.115.254.251\t2001:da8:6030:14:202:115:254:251\n\n\n\n\n\n\n"
 }

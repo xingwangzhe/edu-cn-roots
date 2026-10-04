@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.nit.edu.cn",
-      "ip": "210.35.2.3"
+      "ip": "210.35.2.3",
+      "ipv6": "2001:250:6c02:80::2"
     },
     {
       "host": "dns2.nit.edu.cn",
-      "ip": "210.35.2.9"
+      "ip": "210.35.2.9",
+      "ipv6": "2001:250:6c02:80::3"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=nit.edu.cn",
   "metadata": {
-    "organization_or_record_name": "南昌工程学院",
+    "organization_or_record_name": "Jiangxi University of Water Resources and Electric Power",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=DNS status 2; AAAA=DNS status 2; NS=DNS status 2",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.nit.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for nit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois nit.edu.cn  ?\n\n\n\n\nJiangxi University of Water Resources and Electric Power \n   NanChang, JX 330099\n   China\n\n   Domain Name: NIT.EDU.CN\n\n   Network Name:   NCWRC-CN\n\n   Administrative Contact, Technical Contact:\n      Ying Xiong  (YX20-CER) \n\n   Domain Servers in listed order:\n\n   dns1.nit.edu.cn     \t210.35.2.3\t2001:250:6c02:80::2\n   dns2.nit.edu.cn     \t210.35.2.9\t2001:250:6c02:80::3\n\n\n\n\n\n\n"
 }

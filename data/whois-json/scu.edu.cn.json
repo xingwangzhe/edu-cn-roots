@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "DART.SCU.EDU.CN",
-      "ip": "202.115.32.39"
+      "ip": "202.115.32.39",
+      "ipv6": "2001:250:2003::39"
     },
     {
       "host": "SECDNS.SCU.EDU.CN",
-      "ip": "202.115.32.36"
+      "ip": "202.115.32.36",
+      "ipv6": "2001:250:2003::36"
     },
     {
       "host": "DNS1.SCU.EDU.CN",
-      "ip": "42.236.73.177"
+      "ip": "42.236.73.177",
+      "ipv6": "2408:8720:806:204::a"
     },
     {
       "host": "DNS2.SCU.EDU.CN",
-      "ip": "42.236.73.178"
+      "ip": "42.236.73.178",
+      "ipv6": "2408:8720:806:204::b"
     },
     {
       "host": "DNS3.SCU.EDU.CN",
@@ -34,21 +38,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=scu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "四川大学",
+    "organization_or_record_name": "Sichuan University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); CERNET导报 1999 Q1, CERNIC新增域名表",
     "source_last_observed": "2015-08-19T01:50:49; 2015-10-07T05:26:19; 2017-09-21T07:52:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.115.32.43",
     "AAAA_records": "2001:250:2003::43",
     "NS_records": "secdns.scu.edu.cn; dart.scu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.115.32.43; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:2003::43",
     "evidence_hostnames": "arclab.scu.edu.cn; scu.edu.cn; scupi.scu.edu.cn; soe.scu.edu.cn; www.scu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Historical CERNIC registration entry; kept irrespective of organization category or present DNS state.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for scu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois scu.edu.cn  ?\n\n\n\n\nSichuan University \n   Chengdu, SC 610064\n   China\n\n   Domain Name: SCU.EDU.CN\n\n   Network Name:   SCUU-CN\n\n   Administrative Contact, Technical Contact:\n      Xingguo Li  (XL156-CER) \n\n   Domain Servers in listed order:\n\n   DART.SCU.EDU.CN     \t202.115.32.39\t2001:250:2003::39\n   SECDNS.SCU.EDU.CN   \t202.115.32.36\t2001:250:2003::36\n   DNS1.SCU.EDU.CN     \t42.236.73.177\t2408:8720:806:204::a\n   DNS2.SCU.EDU.CN     \t42.236.73.178\t2408:8720:806:204::b\n   DNS3.SCU.EDU.CN     \t211.83.155.2\n\n\n\n\n\n\n"
 }

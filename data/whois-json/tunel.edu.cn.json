@@ -18,7 +18,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tunel.edu.cn",
   "metadata": {
     "organization_or_record_name": "Tsinghua University",
@@ -28,11 +28,11 @@
     "A_records": "219.243.211.253",
     "AAAA_records": "",
     "NS_records": "ns1.tunel.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 219.243.211.253",
     "evidence_hostnames": "chat.tunel.edu.cn; dev.fit.tunel.edu.cn; europa.tunel.edu.cn; git.tunel.edu.cn; nms.tunel.edu.cn; spring.tunel.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for tunel.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois tunel.edu.cn  ?\n\n\n\n\nTsinghua University \n   Beijing, BJ 100084\n   China\n\n   Domain Name: TUNEL.EDU.CN\n\n   Network Name:   TSINGHUA-CN\n\n   Administrative Contact, Technical Contact:\n      Hui Zhang  (HZ5-CER) \n\n   Domain Servers in listed order:\n\n   dns.tunel.edu.cn    \t219.243.211.253\n\n\n\n\n\n\n"
 }

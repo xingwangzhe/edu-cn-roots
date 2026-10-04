@@ -17,11 +17,13 @@
     },
     {
       "host": "dns3.sicnu.edu.cn",
-      "ip": "2001:250:2008:1000:202:115:192:33"
+      "ip": "2001:250:2008:1000:202:115:192:33",
+      "ipv6": "2001:250:2008:1000:202:115:192:33"
     },
     {
       "host": "dns4.sicnu.edu.cn",
-      "ip": "2001:250:2008:1000:202:115:192:32"
+      "ip": "2001:250:2008:1000:202:115:192:32",
+      "ipv6": "2001:250:2008:1000:202:115:192:32"
     }
   ],
   "address": [
@@ -30,21 +32,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sicnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "四川师范大学",
+    "organization_or_record_name": "Sichuan Normal University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns4.sicnu.edu.cn; dns2.sicnu.edu.cn; dns1.sicnu.edu.cn; dns3.sicnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.sicnu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sicnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sicnu.edu.cn  ?\n\n\n\n\nSichuan Normal University \n   Chengdu, SC 610066\n   China\n\n   Domain Name: SICNU.EDU.CN\n\n   Network Name:   SICNU-CN\n\n   Administrative Contact:\n      Fuyuan Lin  (FL2-AP) \n   Network Name:   SICNU-CN\n\n   Technical Contact:\n      Yi He  (YH6-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.SICNU.EDU.CN   \t202.115.192.33\n   DNS2.SICNU.EDU.CN   \t202.115.192.32\n   dns3.sicnu.edu.cn   \t2001:250:2008:1000:202:115:192:33\n   dns4.sicnu.edu.cn   \t2001:250:2008:1000:202:115:192:32\n\n\n\n\n\n\n"
 }

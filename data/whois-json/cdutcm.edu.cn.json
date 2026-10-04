@@ -6,7 +6,7 @@
   "org_cn": null,
   "domain_name": "CDUTCM.EDU.CN",
   "network_name": "CDUTCM-CN",
-  "admin_contact": null,
+  "admin_contact": "Shuguang Yu (SY45-CER)",
   "reg_date": null,
   "nameservers": [
     {
@@ -30,7 +30,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cdutcm.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois cdutcm.edu.cn ?\n\nChengdu University Of Traditional Chinese Medicine \n   Chengdu, SC 610075\n   China\n\n   Domain Name: CDUTCM.EDU.CN\n\n   Network Name:   CDUTCM-CN\n\n   Administrative Contact:\n      Shuguang Yu  (SY45-CER) \n   Network Name:   CDUTCM-CN\n\n   Technical Contact:\n      Chuanbiao Wen  (CW35-CER) \n\n   Domain Servers in listed order:\n\n   PRIDNS.CDUTCM.EDU.CN\t210.41.222.32\t2001:250:200a:4::3\n   SECDNS.CDUTCM.EDU.CN\t210.41.208.33\n   THIDNS.CDUTCM.EDU.CN\t222.210.27.187\n",
+  "raw_text": "\nWhois Results for cdutcm.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cdutcm.edu.cn  ?\n\n\n\n\nChengdu University Of Traditional Chinese Medicine \n   Chengdu, SC 610075\n   China\n\n   Domain Name: CDUTCM.EDU.CN\n\n   Network Name:   CDUTCM-CN\n\n   Administrative Contact:\n      Shuguang Yu  (SY45-CER) \n   Network Name:   CDUTCM-CN\n\n   Technical Contact:\n      Chuanbiao Wen  (CW35-CER) \n\n   Domain Servers in listed order:\n\n   PRIDNS.CDUTCM.EDU.CN\t210.41.222.32\t2001:250:200a:4::3\n   SECDNS.CDUTCM.EDU.CN\t210.41.208.33\n   THIDNS.CDUTCM.EDU.CN\t222.210.27.187\n\n\n\n\n\n\n",
   "metadata": {
     "organization_or_record_name": "Chengdu University Of Traditional Chinese Medicine",
     "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
@@ -39,9 +39,9 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "cdutcm.edu.cn; www.cdutcm.edu.cn",
-    "review_notes": "Hipo source labels: Chengdu University of Traditional Chinese Medicine. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+    "review_notes": "Hipo source labels: Chengdu University of Traditional Chinese Medicine. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   }
 }

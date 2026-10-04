@@ -17,7 +17,8 @@
     },
     {
       "host": "ipv6dns.cslg.edu.cn",
-      "ip": "2001:250:5003:1::30"
+      "ip": "2001:250:5003:1::30",
+      "ipv6": "2001:250:5003:1::30"
     }
   ],
   "address": [
@@ -27,7 +28,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cslg.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois cslg.edu.cn ?\n\nSuzhou University of Technology \n   changshu, JS 215500\n   China\n\n   Domain Name: CSLG.EDU.CN\n\n   Network Name:   CERBKB-CN\n\n   Administrative Contact, Technical Contact:\n      Jinhua Yu  (JY27-CER) \n\n   Domain Servers in listed order:\n\n   dns1.cslg.edu.cn    \t210.28.160.1\n   dns2.cslg.edu.cn    \t61.155.18.30\n   ipv6dns.cslg.edu.cn \t2001:250:5003:1::30\n",
+  "raw_text": "\nWhois Results for cslg.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cslg.edu.cn  ?\n\n\n\n\nSuzhou University of Technology \n   changshu, JS 215500\n   China\n\n   Domain Name: CSLG.EDU.CN\n\n   Network Name:   CERBKB-CN\n\n   Administrative Contact, Technical Contact:\n      Jinhua Yu  (JY27-CER) \n\n   Domain Servers in listed order:\n\n   dns1.cslg.edu.cn    \t210.28.160.1\n   dns2.cslg.edu.cn    \t61.155.18.30\n   ipv6dns.cslg.edu.cn \t2001:250:5003:1::30\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Suzhou University of Technology",
@@ -37,10 +38,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "cslg.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

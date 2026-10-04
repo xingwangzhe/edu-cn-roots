@@ -25,7 +25,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=dnui.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois dnui.edu.cn ?\n\nDalian Neusoft University of Information \n   Dalian, LN 116023\n   China\n\n   Domain Name: DNUI.EDU.CN\n\n   Network Name:   NEUSOFT-CN\n\n   Administrative Contact, Technical Contact:\n      Zou Xiang  (ZX13-CER) \n\n   Domain Servers in listed order:\n\n   dns1.dnui.edu.cn    \t219.216.128.5\n   dns2.dnui.edu.cn    \t219.216.128.6\n",
+  "raw_text": "\nWhois Results for dnui.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois dnui.edu.cn  ?\n\n\n\n\nDalian Neusoft University of Information \n   Dalian, LN 116023\n   China\n\n   Domain Name: DNUI.EDU.CN\n\n   Network Name:   NEUSOFT-CN\n\n   Administrative Contact, Technical Contact:\n      Zou Xiang  (ZX13-CER) \n\n   Domain Servers in listed order:\n\n   dns1.dnui.edu.cn    \t219.216.128.5\n   dns2.dnui.edu.cn    \t219.216.128.6\n\n\n\n\n\n\n",
   "metadata": {
     "organization_or_record_name": "Dalian Neusoft University of Information",
     "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
@@ -34,9 +34,9 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "dnui.edu.cn",
-    "review_notes": "Hipo source labels: Dalian Neusoft University of Information. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+    "review_notes": "Hipo source labels: Dalian Neusoft University of Information. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   }
 }

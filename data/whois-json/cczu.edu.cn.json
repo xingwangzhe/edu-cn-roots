@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS1.CCZU.EDU.CN",
-      "ip": "211.65.64.65"
+      "ip": "211.65.64.65",
+      "ipv6": "2001:da8:1008:1005::6465"
     },
     {
       "host": "LIB1.CCZU.EDU.CN",
-      "ip": "211.65.66.65"
+      "ip": "211.65.66.65",
+      "ipv6": "2001:da8:1008:1066::6665"
     },
     {
       "host": "LIB2.CCZU.EDU.CN",
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cczu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "常州大学",
+    "organization_or_record_name": "Changzhou University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-01-25T09:41:00; 2017-05-17T12:13:00; 2017-08-31T15:01:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "211.65.66.109",
     "AAAA_records": "2001:da8:1008:1066::109",
     "NS_records": "lib2.cczu.edu.cn; dns1.cczu.edu.cn; lib1.cczu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 211.65.66.109; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:1008:1066::109",
     "evidence_hostnames": "dev.cczu.edu.cn; hdc.cczu.edu.cn; new.cczu.edu.cn; www.cczu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cczu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cczu.edu.cn  ?\n\n\n\n\nChangzhou University \n   Changzhou, JS 213016\n   China\n\n   Domain Name: CCZU.EDU.CN\n\n   Network Name:   JSPUB-CN\n\n   Administrative Contact, Technical Contact:\n      Yanwei Fu  (YF9-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.CCZU.EDU.CN    \t211.65.64.65\t2001:da8:1008:1005::6465\n   LIB1.CCZU.EDU.CN    \t211.65.66.65\t2001:da8:1008:1066::6665\n   LIB2.CCZU.EDU.CN    \t222.185.140.131\n\n\n\n\n\n\n"
 }

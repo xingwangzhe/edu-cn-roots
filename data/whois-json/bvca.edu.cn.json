@@ -4,16 +4,18 @@
   "org_en": "Beijing Vocational College of Agriculture（ Party School of the Rural Work Committee of the Beijing Committee of the Communist Party of China ）",
   "org_cn": null,
   "domain_name": "BVCA.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Peng Ren (PR2-CER)",
   "nameservers": [
     {
       "host": "dns.online.edu.cn",
-      "ip": "202.205.0.1"
+      "ip": "202.205.0.1",
+      "ipv6": "2001:DA8:20D:40d2::101"
     },
     {
       "host": "dns2.online.edu.cn",
-      "ip": "202.205.0.2"
+      "ip": "202.205.0.2",
+      "ipv6": "2001:DA8:20D:40d2::102"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bvca.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京农业职业学院",
+    "organization_or_record_name": "Beijing Vocational College of Agriculture（ Party School of the Rural Work Committee of the Beijing Committee of the Communist Party of China ）",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.online.edu.cn; dns.online.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.bvca.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bvca.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bvca.edu.cn  ?\n\n\n\n\nBeijing Vocational College of Agriculture（ Party School of the Rural Work Committee of the Beijing Committee of the Communist Party of China ） \n   Beijing, BJ 102442\n   China\n\n   Domain Name: BVCA.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      Peng Ren  (PR2-CER) \n\n   Domain Servers in listed order:\n\n   dns.online.edu.cn   \t202.205.0.1\t2001:DA8:20D:40d2::101\n   dns2.online.edu.cn  \t202.205.0.2\t2001:DA8:20D:40d2::102\n\n\n\n\n\n\n"
 }

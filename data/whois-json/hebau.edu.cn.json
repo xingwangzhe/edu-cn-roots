@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "NDDNS1.HEBAU.EDU.CN",
-      "ip": "211.68.176.8"
+      "ip": "211.68.176.8",
+      "ipv6": "2001:250:807:FFFF::FFFF:8"
     },
     {
       "host": "NDDNS2.HEBAU.EDU.CN",
-      "ip": "221.192.241.98"
+      "ip": "221.192.241.98",
+      "ipv6": "2408:861A:CC00:4::8"
     },
     {
       "host": "NDDNS3.HEBAU.EDU.CN",
-      "ip": "222.222.178.98"
+      "ip": "222.222.178.98",
+      "ipv6": "240e:640:611::8"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hebau.edu.cn",
   "metadata": {
-    "organization_or_record_name": "河北农业大学现代科技学院",
+    "organization_or_record_name": "Hebei Agricultrual University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "240e:640:611:0:f400::219",
     "NS_records": "nddns1.hebau.edu.cn; nddns3.hebau.edu.cn; nddns2.hebau.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hebau.edu.cn; xianke.hebau.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hebau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hebau.edu.cn  ?\n\n\n\n\nHebei Agricultrual University \n   Baoding, HE 071001\n   China\n\n   Domain Name: HEBAU.EDU.CN\n\n   Network Name:   HEBAU-CN\n\n   Administrative Contact:\n      Yin Cheng  (YC1-CER) \n   Network Name:   HEBAU-CN\n\n   Technical Contact:\n      Zhang Tiejun  (ZT1-CER) \n\n   Domain Servers in listed order:\n\n   NDDNS1.HEBAU.EDU.CN \t211.68.176.8\t2001:250:807:FFFF::FFFF:8\n   NDDNS2.HEBAU.EDU.CN \t221.192.241.98\t2408:861A:CC00:4::8\n   NDDNS3.HEBAU.EDU.CN \t222.222.178.98\t240e:640:611::8\n\n\n\n\n\n\n"
 }

@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "NS.USTC.EDU.CN",
-      "ip": "202.38.64.1"
+      "ip": "202.38.64.1",
+      "ipv6": "2001:DA8:D800::1"
     },
     {
       "host": "MX.USTC.EDU.CN",
-      "ip": "202.38.64.56"
+      "ip": "202.38.64.56",
+      "ipv6": "2001:DA8:D800::56"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ustc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中国科学技术大学",
+    "organization_or_record_name": "University Of Science And Technology Of China",
     "collected_from": "PTR sample in CERNIC-published address ranges; crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-09-30T18:01:55; 2017-09-30T21:52:41; 2017-10-02T18:02:07",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.38.64.246",
     "AAAA_records": "2001:da8:d800:642::248",
     "NS_records": "mx.ustc.edu.cn; ns.ustc.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.38.64.246; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:d800:642::248",
     "evidence_hostnames": "abnerwang.blog.ustc.edu.cn; aemol.ustc.edu.cn; auth.lib.ustc.edu.cn; bbs.ustc.edu.cn; bbs2.ustc.edu.cn; bbs3.ustc.edu.cn; bbs6.ustc.edu.cn; bjwl.ustc.edu.cn; blackip.ustc.edu.cn; blog.lug.ustc.edu.cn; blog.ustc.edu.cn; cnote.ustc.edu.cn; www.ustc.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ustc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ustc.edu.cn  ?\n\n\n\n\nUniversity Of Science And Technology Of China \n   Hefei, AH 230026\n   China\n\n   Domain Name: USTC.EDU.CN\n\n   Network Name:   USTC-CN\n\n   Administrative Contact:\n      Shoubao Yang  (SY1-CN) \n   Network Name:   USTC-CN\n\n   Technical Contact:\n      Yumin Gu  (YG1-CER) \n\n   Domain Servers in listed order:\n\n   NS.USTC.EDU.CN      \t202.38.64.1\t2001:DA8:D800::1\n   MX.USTC.EDU.CN      \t202.38.64.56\t2001:DA8:D800::56\n\n\n\n\n\n\n"
 }

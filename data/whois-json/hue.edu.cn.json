@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dns.hue.edu.cn",
-      "ip": "202.197.144.242"
+      "ip": "202.197.144.242",
+      "ipv6": "2001:da8:3014:73:202:197:144:242"
     },
     {
       "host": "dns2.hue.edu.cn",
@@ -22,21 +23,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hue.edu.cn",
   "metadata": {
-    "organization_or_record_name": "湖北第二师范学院",
+    "organization_or_record_name": "Hubei University of Educational",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.hue.edu.cn; ns.hue.edu.cn; dnsa.hue.edu.cn; dns2.hue.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.hue.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hue.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hue.edu.cn  ?\n\n\n\n\nHubei University of Educational \n   Wuhan, HB 430205\n   China\n\n   Domain Name: HUE.EDU.CN\n\n   Network Name:   HUBCE-CN\n\n   Administrative Contact, Technical Contact:\n      Shangren Li  (SL84-CER) \n\n   Domain Servers in listed order:\n\n   dns.hue.edu.cn      \t202.197.144.242\t2001:da8:3014:73:202:197:144:242\n   dns2.hue.edu.cn     \t223.75.68.242\n\n\n\n\n\n\n"
 }

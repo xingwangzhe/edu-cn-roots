@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns1.ctbu.edu.cn",
-      "ip": "211.83.192.28"
+      "ip": "211.83.192.28",
+      "ipv6": "2001:DA8:C804::28"
     },
     {
       "host": "dns2.ctbu.edu.cn",
-      "ip": "183.64.61.230"
+      "ip": "183.64.61.230",
+      "ipv6": "2001:DA8:C804::29"
     },
     {
       "host": "dns3.ctbu.edu.cn",
-      "ip": "211.83.192.29"
+      "ip": "211.83.192.29",
+      "ipv6": "2001:DA8:C804::29"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ctbu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "重庆工商大学",
+    "organization_or_record_name": "Chongqing Technology and Business University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-03-27T01:05:46",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.ctbu.edu.cn; dns3.ctbu.edu.cn; dns1.ctbu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "cas.ctbu.edu.cn; www.ctbu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ctbu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ctbu.edu.cn  ?\n\n\n\n\nChongqing Technology and Business University \n   Chongqing, CQ 400067\n   China\n\n   Domain Name: CTBU.EDU.CN\n\n   Network Name:   CQTBU-CN\n\n   Administrative Contact, Technical Contact:\n      Changpeng Tian  (CT4-CER) \n\n   Domain Servers in listed order:\n\n   dns1.ctbu.edu.cn    \t211.83.192.28\t2001:DA8:C804::28\n   dns2.ctbu.edu.cn    \t183.64.61.230\t2001:DA8:C804::29\n   dns3.ctbu.edu.cn    \t211.83.192.29\t2001:DA8:C804::29\n\n\n\n\n\n\n"
 }

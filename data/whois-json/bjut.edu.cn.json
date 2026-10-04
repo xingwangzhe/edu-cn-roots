@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dragon.bjut.edu.cn",
-      "ip": "202.112.78.1"
+      "ip": "202.112.78.1",
+      "ipv6": "2001:da8:216:ca78:ac0c:155c:5c15:cac"
     },
     {
       "host": "dragon2.bjut.edu.cn",
@@ -17,7 +18,8 @@
     },
     {
       "host": "dragon3.bjut.edu.cn",
-      "ip": "2001:da8:216:2100:ac0c:155c:5c15:cac"
+      "ip": "2001:da8:216:2100:ac0c:155c:5c15:cac",
+      "ipv6": "2001:da8:216:2100:ac0c:155c:5c15:cac"
     }
   ],
   "address": [
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bjut.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京工业大学",
+    "organization_or_record_name": "Bingjing University of Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2012-06-14T01:15:02; 2015-02-05T07:32:02; 2015-04-30T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.112.78.101",
     "AAAA_records": "",
     "NS_records": "phoenix.bjut.edu.cn; dragon2.bjut.edu.cn; dragon.bjut.edu.cn; dragon3.bjut.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.112.78.101",
     "evidence_hostnames": "autodiscover.bjut.edu.cn; bjut.edu.cn; kjcxx.bjut.edu.cn; mail.bjut.edu.cn; owa.bjut.edu.cn; www.bjut.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bjut.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bjut.edu.cn  ?\n\n\n\n\nBingjing University of Technology \n   Beijing, BJ 100022\n   China\n\n   Domain Name: BJUT.EDU.CN\n\n   Network Name:   BJPU-CN\n\n   Administrative Contact, Technical Contact:\n      Jie Zhang  (JZ135-CER) \n\n   Domain Servers in listed order:\n\n   dragon.bjut.edu.cn  \t202.112.78.1\t2001:da8:216:ca78:ac0c:155c:5c15:cac\n   dragon2.bjut.edu.cn \t114.251.253.216\n   dragon3.bjut.edu.cn \t2001:da8:216:2100:ac0c:155c:5c15:cac\n\n\n\n\n\n\n"
 }

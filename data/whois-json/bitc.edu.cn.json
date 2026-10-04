@@ -4,16 +4,18 @@
   "org_en": "Beijing Information Technology College",
   "org_cn": null,
   "domain_name": "BITC.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Yimin Wang (YW44-CER)",
   "nameservers": [
     {
       "host": "dns.online.edu.cn",
-      "ip": "202.205.0.1"
+      "ip": "202.205.0.1",
+      "ipv6": "2001:DA8:20D:40d2::101"
     },
     {
       "host": "dns2.online.edu.cn",
-      "ip": "202.205.0.2"
+      "ip": "202.205.0.2",
+      "ipv6": "2001:DA8:20D:40d2::102"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bitc.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京信息职业技术学院",
+    "organization_or_record_name": "Beijing Information Technology College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "211.151.89.107; 202.205.10.82",
     "AAAA_records": "",
     "NS_records": "dns2.online.edu.cn; dns.online.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.205.10.82",
     "evidence_hostnames": "www.bitc.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bitc.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bitc.edu.cn  ?\n\n\n\n\nBeijing Information Technology College \n   Beijing, BJ 100016\n   China\n\n   Domain Name: BITC.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      Yimin Wang  (YW44-CER) \n\n   Domain Servers in listed order:\n\n   dns.online.edu.cn   \t202.205.0.1\t2001:DA8:20D:40d2::101\n   dns2.online.edu.cn  \t202.205.0.2\t2001:DA8:20D:40d2::102\n\n\n\n\n\n\n"
 }

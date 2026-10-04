@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.BIT.EDU.CN",
-      "ip": "202.204.80.16"
+      "ip": "202.204.80.16",
+      "ipv6": "2001:da8:204:1205::e"
     },
     {
       "host": "DNS1.BIT.EDU.CN",
-      "ip": "183.243.192.199"
+      "ip": "183.243.192.199",
+      "ipv6": "2001:da8:204:1205::d"
     },
     {
       "host": "DNS2.BIT.EDU.CN",
@@ -30,21 +32,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bit.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京理工大学",
+    "organization_or_record_name": "Beijing Institute Of Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-05-22T04:26:00; 2017-08-09T05:24:00; 2017-09-21T06:12:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "183.243.192.31",
     "AAAA_records": "",
     "NS_records": "dns2.bit.edu.cn; dns.bit.edu.cn; dns3.bit.edu.cn; dns1.bit.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "bit.edu.cn; campus.info.bit.edu.cn; cap.bit.edu.cn; cet.info.bit.edu.cn; check-in.info.bit.edu.cn; dorm.info.bit.edu.cn; hdsp.info.bit.edu.cn; howto.info.bit.edu.cn; info.bit.edu.cn; iptv.bit.edu.cn; iwall.info.bit.edu.cn; jwcexstu.info.bit.edu.cn; www.bit.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bit.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bit.edu.cn  ?\n\n\n\n\nBeijing Institute Of Technology \n   Beijing, BJ 100081\n   China\n\n   Domain Name: BIT.EDU.CN\n\n   Network Name:   BJIT-CN\n\n   Administrative Contact, Technical Contact:\n      Furen Xue  (FX1-CER) \n\n   Domain Servers in listed order:\n\n   DNS.BIT.EDU.CN      \t202.204.80.16\t2001:da8:204:1205::e\n   DNS1.BIT.EDU.CN     \t183.243.192.199\t2001:da8:204:1205::d\n   DNS2.BIT.EDU.CN     \t71.132.51.82\n   DNS3.BIT.EDU.CN     \t43.192.188.114\n\n\n\n\n\n\n"
 }

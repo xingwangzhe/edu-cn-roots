@@ -4,7 +4,7 @@
   "org_en": "Shanxi Education And Research Network",
   "org_cn": null,
   "domain_name": "TAIYUAN-SX.EDU.CN",
-  "network_name": "Administrative",
+  "network_name": null,
   "admin_contact": "Jiang Wu (JW8-CER)",
   "nameservers": [
     {
@@ -22,21 +22,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=taiyuan-sx.edu.cn",
   "metadata": {
-    "organization_or_record_name": "山西省教育与科研计算机网",
+    "organization_or_record_name": "Shanxi Education And Research Network",
     "collected_from": "CERNET导报 1999 Q1, CERNIC新增域名表",
     "source_last_observed": "1998-1999 registry publication",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.taiyuan-sx.edu.cn; dns1.taiyuan-sx.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "taiyuan-sx.edu.cn",
-    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for taiyuan-sx.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois taiyuan-sx.edu.cn  ?\n\n\n\n\nShanxi Education And Research Network \n   Taiyuan, SX 030024\n   China\n\n   Domain Name: TAIYUAN-SX.EDU.CN\n\n   Network Name:   \n\n   Administrative Contact, Technical Contact:\n      Jiang Wu  (JW8-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.TAIYUAN-SX.EDU.CN\t202.207.240.225\n   DNS2.TAIYUAN-SX.EDU.CN\t202.207.240.238\n\n\n\n\n\n\n"
 }

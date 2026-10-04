@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS1.CQVIE.EDU.CN",
-      "ip": "121.49.0.252"
+      "ip": "121.49.0.252",
+      "ipv6": "2001:250:240b:1:121:49::252"
     },
     {
       "host": "DNS2.CQVIE.EDU.CN",
-      "ip": "121.49.0.253"
+      "ip": "121.49.0.253",
+      "ipv6": "2001:250:240b:1:121:49::253"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=cqvie.edu.cn",
   "metadata": {
-    "organization_or_record_name": "重庆工程职业技术学院",
+    "organization_or_record_name": "Chongqing Polytechnic University Of Engineering",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "183.230.42.103",
     "AAAA_records": "2001:250:240b:1:3:0:ac10:8fd",
     "NS_records": "dns2.cqvie.edu.cn; dns1.cqvie.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:240b:1:3:0:ac10:8fd",
     "evidence_hostnames": "www.cqvie.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for cqvie.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois cqvie.edu.cn  ?\n\n\n\n\nChongqing Polytechnic University Of Engineering \n   Jiangjin, CQ 402260\n   China\n\n   Domain Name: CQVIE.EDU.CN\n\n   Network Name:   CQVIE-CN\n\n   Administrative Contact, Technical Contact:\n      Huang Hua  (HH39-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.CQVIE.EDU.CN   \t121.49.0.252\t2001:250:240b:1:121:49::252\n   DNS2.CQVIE.EDU.CN   \t121.49.0.253\t2001:250:240b:1:121:49::253\n\n\n\n\n\n\n"
 }

@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.lzre.edu.cn",
-      "ip": "59.76.143.6"
+      "ip": "59.76.143.6",
+      "ipv6": "2001:250:1414:E::6"
     },
     {
       "host": "dns2.lzre.edu.cn",
-      "ip": "202.201.89.131"
+      "ip": "202.201.89.131",
+      "ipv6": "2001:250:1414:E::7"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=lzre.edu.cn",
   "metadata": {
-    "organization_or_record_name": "兰州资源环境职业技术学院",
+    "organization_or_record_name": "Lanzhou Resources&Envirsonment Voc-Tech College",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.lzre.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.lzre.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for lzre.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois lzre.edu.cn  ?\n\n\n\n\nLanzhou Resources&Envirsonment Voc-Tech College \n   Lanzhou, GS 730021\n   China\n\n   Domain Name: LZRE.EDU.CN\n\n   Network Name:   LZREC-CN\n\n   Administrative Contact, Technical Contact:\n      Runlong Gu  (RG6-CER) \n\n   Domain Servers in listed order:\n\n   dns1.lzre.edu.cn    \t59.76.143.6\t2001:250:1414:E::6\n   dns2.lzre.edu.cn    \t202.201.89.131\t2001:250:1414:E::7\n\n\n\n\n\n\n"
 }

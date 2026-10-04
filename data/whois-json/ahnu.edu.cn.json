@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "PNSAHNU.AHNU.EDU.CN",
-      "ip": "210.45.192.25"
+      "ip": "210.45.192.25",
+      "ipv6": "2001:da8:d813:65::19"
     },
     {
       "host": "SNSAHNU.AHNU.EDU.CN",
-      "ip": "210.45.192.26"
+      "ip": "210.45.192.26",
+      "ipv6": "2001:da8:d813:65::1a"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ahnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "安徽师范大学皖江学院",
+    "organization_or_record_name": "Anhui Normal University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "210.45.195.70; 210.45.195.71; 210.45.195.72",
     "AAAA_records": "2001:da8:d813:195::70; 2001:da8:d813:195::72; 2001:da8:d813:195::71",
     "NS_records": "snsahnu.ahnu.edu.cn; pnsahnu.ahnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 210.45.195.70; A overlaps CERNIC IPv4 list: 210.45.195.71; A overlaps CERNIC IPv4 list: 210.45.195.72; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:d813:195::70; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:d813:195::72; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:d813:195::71",
     "evidence_hostnames": "wjcollege.ahnu.edu.cn; www.ahnu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ahnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ahnu.edu.cn  ?\n\n\n\n\nAnhui Normal University \n   Wuhu, AH 241000\n   China\n\n   Domain Name: AHNU.EDU.CN\n\n   Network Name:   AHNU-CN\n\n   Administrative Contact:\n      Shisong Li  (SL64-CER) \n   Network Name:   AHNU-CN\n\n   Technical Contact:\n      Dawang Yin  (DY12-CER) \n\n   Domain Servers in listed order:\n\n   PNSAHNU.AHNU.EDU.CN \t210.45.192.25\t2001:da8:d813:65::19\n   SNSAHNU.AHNU.EDU.CN \t210.45.192.26\t2001:da8:d813:65::1a\n\n\n\n\n\n\n"
 }

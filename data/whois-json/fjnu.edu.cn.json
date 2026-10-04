@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns.fjtu.edu.cn",
-      "ip": "59.77.192.66"
+      "ip": "59.77.192.66",
+      "ipv6": "2001:da8:e802:1100:250:56ff:feb0:6b18"
     },
     {
       "host": "cnet.fjtu.edu.cn",
-      "ip": "210.34.32.220"
+      "ip": "210.34.32.220",
+      "ipv6": "2001:da8:e802:1100:250:56ff:fe9d:868b"
     },
     {
       "host": "dns3.fjtu.edu.cn",
-      "ip": "27.150.16.53"
+      "ip": "27.150.16.53",
+      "ipv6": "240e:980:8520:8f:8c47:692a:2d9b:8cbc"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=fjnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "福建师范大学",
+    "organization_or_record_name": "Fujian Normal University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-05-27T06:36:00; 2017-08-24T08:47:00; 2017-08-24T08:50:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "121.204.145.238",
     "AAAA_records": "",
     "NS_records": "dns3.fjtu.edu.cn; cnet.fjtu.edu.cn; dns.fjtu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "auth.fjnu.edu.cn; cuc.fjnu.edu.cn; cwcwsjf.fjnu.edu.cn; mail.fjnu.edu.cn; oa.fjnu.edu.cn; vpn.fjnu.edu.cn; www.cwcwsjf.fjnu.edu.cn; www.fjnu.edu.cn; www3.fjnu.edu.cn; www4.fjnu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for fjnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois fjnu.edu.cn  ?\n\n\n\n\nFujian Normal University \n   Fuzhou, FJ 350007\n   China\n\n   Domain Name: FJNU.EDU.CN\n\n   Network Name:   FJTU-CN\n\n   Administrative Contact:\n      Cheng Siyue  (CS5-CER) \n   Network Name:   FJTU-CN\n\n   Technical Contact:\n      Chen Song  (CS6-CER) \n\n   Domain Servers in listed order:\n\n   dns.fjtu.edu.cn     \t59.77.192.66\t2001:da8:e802:1100:250:56ff:feb0:6b18\n   cnet.fjtu.edu.cn    \t210.34.32.220\t2001:da8:e802:1100:250:56ff:fe9d:868b\n   dns3.fjtu.edu.cn    \t27.150.16.53\t240e:980:8520:8f:8c47:692a:2d9b:8cbc\n\n\n\n\n\n\n"
 }

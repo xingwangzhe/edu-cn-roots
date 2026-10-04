@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns1.neusoft.edu.cn",
-      "ip": "219.216.128.5"
+      "ip": "219.216.128.5",
+      "ipv6": "2001:da8:a807::5"
     },
     {
       "host": "dns2.neusoft.edu.cn",
-      "ip": "219.216.128.6"
+      "ip": "219.216.128.6",
+      "ipv6": "2001:da8:a807::6"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=neusoft.edu.cn",
   "metadata": {
-    "organization_or_record_name": "大连东软信息学院",
+    "organization_or_record_name": "Dalian Neusoft University of information",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-09-29T13:34:05; 2017-09-29T23:38:48; 2017-09-30T05:56:30",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "219.216.131.53",
     "AAAA_records": "",
     "NS_records": "dns1.neusoft.edu.cn; dns2.neusoft.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 219.216.131.53",
     "evidence_hostnames": "default.neusoft.edu.cn; dev.pay.neusoft.edu.cn; dev.welcome.neusoft.edu.cn; e.neusoft.edu.cn; ecard.neusoft.edu.cn; error.neusoft.edu.cn; lib.hub.neusoft.edu.cn; mirror.we.neusoft.edu.cn; mirrors.neusoft.edu.cn; neusoft.edu.cn; oa.neusoft.edu.cn; qrcode.hub.neusoft.edu.cn; www.neusoft.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for neusoft.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois neusoft.edu.cn  ?\n\n\n\n\nDalian Neusoft University of information \n   Dalian, LN 116023\n   China\n\n   Domain Name: NEUSOFT.EDU.CN\n\n   Network Name:   NEUSOFT-CN\n\n   Administrative Contact, Technical Contact:\n      Zou Xiang  (ZX13-CER) \n\n   Domain Servers in listed order:\n\n   dns1.neusoft.edu.cn \t219.216.128.5\t2001:da8:a807::5\n   dns2.neusoft.edu.cn \t219.216.128.6\t2001:da8:a807::6\n\n\n\n\n\n\n"
 }

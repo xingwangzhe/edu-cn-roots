@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "dns.edu.cn",
-      "ip": "202.38.109.35"
+      "ip": "202.38.109.35",
+      "ipv6": "2001:250:c006::35"
     },
     {
       "host": "dns2.edu.cn",
-      "ip": "202.112.0.13"
+      "ip": "202.112.0.13",
+      "ipv6": "2001:da8:1:100::13"
     },
     {
       "host": "dns.tsinghua.edu.cn",
-      "ip": "166.111.8.30"
+      "ip": "166.111.8.30",
+      "ipv6": "2402:f000:1:801::8:30"
     },
     {
       "host": "dns2.tsinghua.edu.cn",
-      "ip": "166.111.8.31"
+      "ip": "166.111.8.31",
+      "ipv6": "2402:f000:1:801::8:31"
     }
   ],
   "address": [
@@ -30,21 +34,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tsinghua.edu.cn",
   "metadata": {
-    "organization_or_record_name": "清华大学",
+    "organization_or_record_name": "Tsinghua University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-09-17T15:01:00; 2017-09-21T00:03:00; 2017-09-30T20:41:12",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.edu.cn; dns.tsinghua.edu.cn; dns.edu.cn; dns2.tsinghua.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "aosp.tuna.tsinghua.edu.cn; aur.tuna.tsinghua.edu.cn; autodiscover.sz.tsinghua.edu.cn; bigeye.au.tsinghua.edu.cn; bio.sz.tsinghua.edu.cn; cic.tsinghua.edu.cn; ciia.cs.tsinghua.edu.cn; cloud.icenter.tsinghua.edu.cn; cvlab.ee.tsinghua.edu.cn; dns2.tuna.tsinghua.edu.cn; dsa.cs.tsinghua.edu.cn; freshman.student.tsinghua.edu.cn; www.tsinghua.edu.cn",
-    "review_notes": "CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for tsinghua.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois tsinghua.edu.cn  ?\n\n\n\n\nTsinghua University \n   Beijing, BJ 100084\n   China\n\n   Domain Name: TSINGHUA.EDU.CN\n\n   Network Name:   TSINGHUA-CN\n\n   Administrative Contact, Technical Contact:\n      Shuang Zhu  (SZ1-CER) \n\n   Domain Servers in listed order:\n\n   dns.edu.cn          \t202.38.109.35\t2001:250:c006::35\n   dns2.edu.cn         \t202.112.0.13\t2001:da8:1:100::13\n   dns.tsinghua.edu.cn \t166.111.8.30\t2402:f000:1:801::8:30\n   dns2.tsinghua.edu.cn\t166.111.8.31\t2402:f000:1:801::8:31\n\n\n\n\n\n\n"
 }

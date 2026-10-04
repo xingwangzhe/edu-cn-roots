@@ -6,7 +6,7 @@
   "org_cn": null,
   "domain_name": "QZU.EDU.CN",
   "network_name": "QZU-CN",
-  "admin_contact": null,
+  "admin_contact": "Tian Lin (TL5-CER)",
   "reg_date": null,
   "nameservers": [
     {
@@ -25,7 +25,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=qzu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois qzu.edu.cn ?\n\nQiongzhou University \n   Tongshi, HI 572200\n   China\n\n   Domain Name: QZU.EDU.CN\n\n   Network Name:   QZU-CN\n\n   Administrative Contact:\n      Tian Lin  (TL5-CER) \n   Network Name:   QZU-CN\n\n   Technical Contact:\n      Bing Wei  (BW3-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.QZU.EDU.CN     \t210.37.144.1\n   DNS2.QZU.EDU.CN     \t210.37.144.2\n",
+  "raw_text": "\nWhois Results for qzu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois qzu.edu.cn  ?\n\n\n\n\nQiongzhou University \n   Tongshi, HI 572200\n   China\n\n   Domain Name: QZU.EDU.CN\n\n   Network Name:   QZU-CN\n\n   Administrative Contact:\n      Tian Lin  (TL5-CER) \n   Network Name:   QZU-CN\n\n   Technical Contact:\n      Bing Wei  (BW3-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.QZU.EDU.CN     \t210.37.144.1\n   DNS2.QZU.EDU.CN     \t210.37.144.2\n\n\n\n\n\n\n",
   "metadata": {
     "organization_or_record_name": "Qiongzhou University",
     "collected_from": "Hipo/university-domains-list: https://github.com/Hipo/university-domains-list/blob/603e10f51b67c6553b9bca9aecc0db4c2417ed10/world_universities_and_domains.json",
@@ -34,9 +34,9 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "qzu.edu.cn; www.qzu.edu.cn",
-    "review_notes": "Hipo source labels: Qiongzhou University. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up."
+    "review_notes": "Hipo source labels: Qiongzhou University. Source commit 603e10f51b67c6553b9bca9aecc0db4c2417ed10. CERNIC queried in system Chrome on 2026-10-04. Source organization labels are not substituted for CERNIC names. Current DNS and CERNET address association not checked. No organization-type filtering; subdomains rolled up.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   }
 }

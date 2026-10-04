@@ -9,7 +9,8 @@
   "nameservers": [
     {
       "host": "dns1.ccu.edu.cn",
-      "ip": "59.72.224.68"
+      "ip": "59.72.224.68",
+      "ipv6": "2001:da8:b00b:499::68"
     },
     {
       "host": "dns2.ccu.edu.cn",
@@ -26,21 +27,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=ccu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "长春大学",
+    "organization_or_record_name": "Changchun University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-11-29T08:32:44",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "36.135.111.237; 59.72.224.68",
     "AAAA_records": "2002:3b48:e044::3b48:e044",
     "NS_records": "dns1.ccu.edu.cn; dns3.ccu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 59.72.224.68",
     "evidence_hostnames": "app.ccu.edu.cn; www.ccu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for ccu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois ccu.edu.cn  ?\n\n\n\n\nChangchun University \n   Changchun, JL 130022\n   China\n\n   Domain Name: CCU.EDU.CN\n\n   Network Name:   CCUI-CN\n\n   Administrative Contact:\n      Shuhuai Tian  (ST18-CER) \n   Network Name:   CCUI-CN\n\n   Technical Contact:\n      Ruiming Zhang  (RZ34-CER) \n\n   Domain Servers in listed order:\n\n   dns1.ccu.edu.cn     \t59.72.224.68\t2001:da8:b00b:499::68\n   dns2.ccu.edu.cn     \t222.168.56.234\n   dns3.ccu.edu.cn     \t36.135.111.168\n\n\n\n\n\n\n"
 }

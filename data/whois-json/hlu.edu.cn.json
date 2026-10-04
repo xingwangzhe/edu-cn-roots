@@ -17,7 +17,8 @@
     },
     {
       "host": "DNS6.HLU.EDU.CN",
-      "ip": "2001:250:302c::3"
+      "ip": "2001:250:302c::3",
+      "ipv6": "2001:250:302c::3"
     }
   ],
   "address": [
@@ -26,21 +27,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hlu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "私立华联学院",
+    "organization_or_record_name": "Private Hualian University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "211.66.152.8",
     "AAAA_records": "",
     "NS_records": "dns6.hlu.edu.cn; dns.hlu.edu.cn; dns1.hlu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 211.66.152.8",
     "evidence_hostnames": "www.hlu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hlu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hlu.edu.cn  ?\n\n\n\n\nPrivate Hualian University \n   Guang, GD 510665\n   China\n\n   Domain Name: HLU.EDU.CN\n\n   Network Name:   PHLC-CN\n\n   Administrative Contact, Technical Contact:\n      Defu Hou  (DH4-CER) \n\n   Domain Servers in listed order:\n\n   DNS.HLU.EDU.CN      \t211.66.152.2\n   DNS1.HLU.EDU.CN     \t211.66.152.3\n   DNS6.HLU.EDU.CN     \t2001:250:302c::3\n\n\n\n\n\n\n"
 }

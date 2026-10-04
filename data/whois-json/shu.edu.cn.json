@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.shu.edu.cn",
-      "ip": "202.120.127.220"
+      "ip": "202.120.127.220",
+      "ipv6": "2001:da8:8006:1:202:120:127:220"
     },
     {
       "host": "dns2.shu.edu.cn",
-      "ip": "202.120.127.219"
+      "ip": "202.120.127.219",
+      "ipv6": "2001:da8:8006:1:202:120:127:219"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "上海大学",
+    "organization_or_record_name": "Shanghai University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-08-31T15:01:00; 2017-09-29T12:41:28; 2017-09-29T12:42:39",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.120.127.220",
     "AAAA_records": "",
     "NS_records": "dns.shu.edu.cn; dns2.shu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 202.120.127.220",
     "evidence_hostnames": "365.shu.edu.cn; adfsservice.shu.edu.cn; aixinwu.shu.edu.cn; booking.shu.edu.cn; dmis.shu.edu.cn; ea.cc.shu.edu.cn; finance.shu.edu.cn; hwsmtp.shu.edu.cn; idp.shu.edu.cn; nita.shu.edu.cn; oauth.shu.edu.cn; ocs.vip.shu.edu.cn; www.shu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for shu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois shu.edu.cn  ?\n\n\n\n\nShanghai University \n   Shanghai, SH 200072\n   China\n\n   Domain Name: SHU.EDU.CN\n\n   Network Name:   SHU-CN\n\n   Administrative Contact, Technical Contact:\n      WeiMin Ni  (WN11-CER) \n\n   Domain Servers in listed order:\n\n   dns.shu.edu.cn      \t202.120.127.220\t2001:da8:8006:1:202:120:127:220\n   dns2.shu.edu.cn     \t202.120.127.219\t2001:da8:8006:1:202:120:127:219\n\n\n\n\n\n\n"
 }

@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns1.jci.edu.cn",
-      "ip": "218.65.61.75"
+      "ip": "218.65.61.75",
+      "ipv6": "240e:cf:af12:3::3"
     },
     {
       "host": "dns2.jci.edu.cn",
-      "ip": "219.220.1.9"
+      "ip": "219.220.1.9",
+      "ipv6": "2001:250:6c20::ac1e:6703"
     },
     {
       "host": "dns3.jci.edu.cn",
-      "ip": "223.84.45.165"
+      "ip": "223.84.45.165",
+      "ipv6": "2409:8738:1811:840:0:0:0:3"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jci.edu.cn",
   "metadata": {
-    "organization_or_record_name": "景德镇陶瓷大学",
+    "organization_or_record_name": "Jingdezhen Ceramic Institute",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns1.jci.edu.cn; dns3.jci.edu.cn; dns2.jci.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.jci.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for jci.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois jci.edu.cn  ?\n\n\n\n\nJingdezhen Ceramic Institute \n   Jingdezhen, JX 333403\n   China\n\n   Domain Name: JCI.EDU.CN\n\n   Network Name:   JDZCI-CN\n\n   Administrative Contact, Technical Contact:\n      Le Ha  (LH23-CER) \n\n   Domain Servers in listed order:\n\n   dns1.jci.edu.cn     \t218.65.61.75\t240e:cf:af12:3::3\n   dns2.jci.edu.cn     \t219.220.1.9\t2001:250:6c20::ac1e:6703\n   dns3.jci.edu.cn     \t223.84.45.165\t2409:8738:1811:840:0:0:0:3\n\n\n\n\n\n\n"
 }

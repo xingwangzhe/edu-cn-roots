@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "nsad.suda.edu.cn",
-      "ip": "202.195.128.10"
+      "ip": "202.195.128.10",
+      "ipv6": "2001:DA8:100A:112::10"
     },
     {
       "host": "liuyuan.suda.edu.cn",
-      "ip": "202.195.128.16"
+      "ip": "202.195.128.16",
+      "ipv6": "2001:DA8:100A:112::16"
     },
     {
       "host": "dongyuan.suda.edu.cn",
@@ -26,21 +28,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=suda.edu.cn",
   "metadata": {
-    "organization_or_record_name": "苏州大学",
+    "organization_or_record_name": "Suzhou University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2015-06-05T00:00:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "nsad.suda.edu.cn; liuyuan.suda.edu.cn; dongyuan.suda.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "tec.suda.edu.cn; vpn.suda.edu.cn; www.suda.edu.cn; www.vpn.suda.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for suda.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois suda.edu.cn  ?\n\n\n\n\nSuzhou University \n   Suzhou, JS 215006\n   China\n\n   Domain Name: SUDA.EDU.CN\n\n   Network Name:   SUDA-CN\n\n   Administrative Contact:\n      Bin Xu  (BX1-CN) \n   Network Name:   SUDA-CN\n\n   Technical Contact:\n      Zhensan Lu  (ZL1-CN) \n\n   Domain Servers in listed order:\n\n   nsad.suda.edu.cn    \t202.195.128.10\t2001:DA8:100A:112::10\n   liuyuan.suda.edu.cn \t202.195.128.16\t2001:DA8:100A:112::16\n   dongyuan.suda.edu.cn\t58.211.251.189\n\n\n\n\n\n\n"
 }

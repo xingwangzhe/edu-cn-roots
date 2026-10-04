@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "ns1.zuel.edu.cn",
-      "ip": "202.114.224.1"
+      "ip": "202.114.224.1",
+      "ipv6": "2001:250:4003:224::1000"
     },
     {
       "host": "ns2.zuel.edu.cn",
-      "ip": "202.114.224.2"
+      "ip": "202.114.224.2",
+      "ipv6": "2001:250:4003:224::2000"
     },
     {
       "host": "ns3.zuel.edu.cn",
-      "ip": "202.114.234.1"
+      "ip": "202.114.234.1",
+      "ipv6": "2001:250:4003:234::1000"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zuel.edu.cn",
   "metadata": {
-    "organization_or_record_name": "中南财经政法大学",
+    "organization_or_record_name": "Zhongnan University of Economics and Law",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns3.zuel.edu.cn; ns1.zuel.edu.cn; ns2.zuel.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.zuel.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for zuel.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois zuel.edu.cn  ?\n\n\n\n\nZhongnan University of Economics and Law \n   Wuhan, HB 430073\n   China\n\n   Domain Name: ZUEL.EDU.CN\n\n   Network Name:   ZNUFE-CN\n\n   Administrative Contact, Technical Contact:\n      Ke Li  (KL6-CER) \n\n   Domain Servers in listed order:\n\n   ns1.zuel.edu.cn     \t202.114.224.1\t2001:250:4003:224::1000\n   ns2.zuel.edu.cn     \t202.114.224.2\t2001:250:4003:224::2000\n   ns3.zuel.edu.cn     \t202.114.234.1\t2001:250:4003:234::1000\n\n\n\n\n\n\n"
 }

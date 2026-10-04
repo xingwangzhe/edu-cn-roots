@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "DNS1.JSSNU.EDU.CN",
-      "ip": "202.195.32.10"
+      "ip": "202.195.32.10",
+      "ipv6": "2001:DA8:102B::10"
     },
     {
       "host": "DNS2.JSSNU.EDU.CN",
-      "ip": "202.195.36.11"
+      "ip": "202.195.36.11",
+      "ipv6": "2001:DA8:102B:8000::11"
     },
     {
       "host": "DNS3.JSSNU.EDU.CN",
-      "ip": "120.195.117.170"
+      "ip": "120.195.117.170",
+      "ipv6": "2001:DA8:102B::170"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=jssnu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "江苏第二师范学院",
+    "organization_or_record_name": "Jiangsu Second Normal University",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "120.195.117.142",
     "AAAA_records": "",
     "NS_records": "dns2.jssnu.edu.cn; dns1.jssnu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.jssnu.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for jssnu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois jssnu.edu.cn  ?\n\n\n\n\nJiangsu Second Normal University \n   Nanjing, JS 210013\n   China\n\n   Domain Name: JSSNU.EDU.CN\n\n   Network Name:   JSIE-CN\n\n   Administrative Contact, Technical Contact:\n      Hanqun Sun  (HS20-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.JSSNU.EDU.CN   \t202.195.32.10\t2001:DA8:102B::10\n   DNS2.JSSNU.EDU.CN   \t202.195.36.11\t2001:DA8:102B:8000::11\n   DNS3.JSSNU.EDU.CN   \t120.195.117.170\t2001:DA8:102B::170\n\n\n\n\n\n\n"
 }

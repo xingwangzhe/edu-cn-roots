@@ -23,7 +23,7 @@
   "raw_note": null,
   "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shfu.edu.cn",
-  "raw_text": "Whois Query\n对象关键字查询\non accurate entity keys\t\n\nWhois shfu.edu.cn ?\n\nShanghai Fisheries University \n   Shanghai, SH 201306\n   China\n\n   Domain Name: SHFU.EDU.CN\n\n   Network Name:   SHFU-CN\n\n   Administrative Contact, Technical Contact:\n      Guangming Hu  (GH9-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.SHFU.EDU.CN    \t202.121.64.5\n   SDNS.SHFU.EDU.CN    \t58.246.161.68\n",
+  "raw_text": "\nWhois Results for shfu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois shfu.edu.cn  ?\n\n\n\n\nShanghai Fisheries University \n   Shanghai, SH 201306\n   China\n\n   Domain Name: SHFU.EDU.CN\n\n   Network Name:   SHFU-CN\n\n   Administrative Contact, Technical Contact:\n      Guangming Hu  (GH9-CER) \n\n   Domain Servers in listed order:\n\n   DNS1.SHFU.EDU.CN    \t202.121.64.5\n   SDNS.SHFU.EDU.CN    \t58.246.161.68\n\n\n\n\n\n\n",
   "schema_version": "2.0",
   "metadata": {
     "organization_or_record_name": "Shanghai Fisheries University",
@@ -33,10 +33,10 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-10-04)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "",
     "evidence_hostnames": "shfu.edu.cn",
-    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering."
+    "review_notes": "SWOT candidate confirmed via CERNIC in system Chrome on 2026-10-04. Current DNS and CERNET address-list association were not checked; WHOIS nameserver addresses are registration data. Subdomains rolled up; no organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null
 }

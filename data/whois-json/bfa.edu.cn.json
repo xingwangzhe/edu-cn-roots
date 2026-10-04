@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "ns.bfa.edu.cn",
-      "ip": "202.205.112.100"
+      "ip": "202.205.112.100",
+      "ipv6": "2001:da8:238::70:64"
     },
     {
       "host": "ns1.bfa.edu.cn",
-      "ip": "202.205.112.99"
+      "ip": "202.205.112.99",
+      "ipv6": "2001:da8:238::70:63"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=bfa.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京电影学院",
+    "organization_or_record_name": "Beijing Film Academy",
     "collected_from": "CERNET导报 1999 Q2, CERNIC新增域名表",
     "source_last_observed": "1998-1999 registry publication",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "ns1.bfa.edu.cn; ns.bfa.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "bfa.edu.cn",
-    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for bfa.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois bfa.edu.cn  ?\n\n\n\n\nBeijing Film Academy \n   Beijing, BJ 100088\n   China\n\n   Domain Name: BFA.EDU.CN\n\n   Network Name:   BFA-CN\n\n   Administrative Contact, Technical Contact:\n      Xiaohui Zhang  (XZ78-CER) \n\n   Domain Servers in listed order:\n\n   ns.bfa.edu.cn       \t202.205.112.100\t2001:da8:238::70:64\n   ns1.bfa.edu.cn      \t202.205.112.99\t2001:da8:238::70:63\n\n\n\n\n\n\n"
 }

@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "ns.hebut.edu.cn",
-      "ip": "202.113.112.55"
+      "ip": "202.113.112.55",
+      "ipv6": "2001:250:405:2::55"
     },
     {
       "host": "ns2.hebut.edu.cn",
-      "ip": "202.113.112.45"
+      "ip": "202.113.112.45",
+      "ipv6": "2001:250:405:2::45"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=hebut.edu.cn",
   "metadata": {
-    "organization_or_record_name": "河北工业大学城市学院",
+    "organization_or_record_name": "Hebei University of Technology",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub); Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2016-03-17T07:31:40",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "115.24.175.50",
     "AAAA_records": "2001:250:405:12::50",
     "NS_records": "ns.hebut.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 115.24.175.50; AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:250:405:12::50",
     "evidence_hostnames": "cc.hebut.edu.cn; lf.hebut.edu.cn; www.hebut.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for hebut.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois hebut.edu.cn  ?\n\n\n\n\nHebei University of Technology \n   Tianjin, TJ 300130\n   China\n\n   Domain Name: HEBUT.EDU.CN\n\n   Network Name:   HEBUT-CN\n\n   Administrative Contact, Technical Contact:\n      Cunliang Nin  (CN1-CER) \n\n   Domain Servers in listed order:\n\n   ns.hebut.edu.cn     \t202.113.112.55\t2001:250:405:2::55\n   ns2.hebut.edu.cn    \t202.113.112.45\t2001:250:405:2::45\n\n\n\n\n\n\n"
 }

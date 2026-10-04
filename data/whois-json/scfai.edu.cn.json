@@ -9,19 +9,23 @@
   "nameservers": [
     {
       "host": "scfai-dns1.SCFAI.EDU.CN",
-      "ip": "210.41.63.33"
+      "ip": "210.41.63.33",
+      "ipv6": "2001:DA8:C80E:801::33"
     },
     {
       "host": "scfai-dns2.SCFAI.EDU.CN",
-      "ip": "210.41.63.34"
+      "ip": "210.41.63.34",
+      "ipv6": "2001:DA8:C80E:801::34"
     },
     {
       "host": "scfai-dns3.SCFAI.EDU.CN",
-      "ip": "183.69.156.213"
+      "ip": "183.69.156.213",
+      "ipv6": "240E:9F:8580:7::213"
     },
     {
       "host": "scfai-dns4.SCFAI.EDU.CN",
-      "ip": "183.69.156.214"
+      "ip": "183.69.156.214",
+      "ipv6": "240E:9F:8580:7::214"
     }
   ],
   "address": [
@@ -30,21 +34,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=scfai.edu.cn",
   "metadata": {
-    "organization_or_record_name": "四川美术学院",
+    "organization_or_record_name": "Sichuan Fine Arts Institute",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "scfai-dns2.scfai.edu.cn; scfai-dns1.scfai.edu.cn; scfai-dns3.scfai.edu.cn; scfai-dns4.scfai.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.scfai.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for scfai.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois scfai.edu.cn  ?\n\n\n\n\nSichuan Fine Arts Institute \n   Chongqing, CQ 400053\n   China\n\n   Domain Name: SCFAI.EDU.CN\n\n   Network Name:   SCFAI-CN\n\n   Administrative Contact:\n      Xiong Wei  (XW95-CER) \n   Network Name:   SCFAI-CN\n\n   Technical Contact:\n      Chengkai Xie  (CX9-CER) \n\n   Domain Servers in listed order:\n\n   scfai-dns1.SCFAI.EDU.CN\t210.41.63.33\t2001:DA8:C80E:801::33\n   scfai-dns2.SCFAI.EDU.CN\t210.41.63.34\t2001:DA8:C80E:801::34\n   scfai-dns3.SCFAI.EDU.CN\t183.69.156.213\t240E:9F:8580:7::213\n   scfai-dns4.SCFAI.EDU.CN\t183.69.156.214\t240E:9F:8580:7::214\n\n\n\n\n\n\n"
 }

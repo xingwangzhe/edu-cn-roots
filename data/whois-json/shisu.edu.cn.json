@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "dns.shisu.edu.cn",
-      "ip": "218.193.160.11"
+      "ip": "218.193.160.11",
+      "ipv6": "2001:250:600f:ffff:218:193:160:11"
     },
     {
       "host": "dns2.shisu.edu.cn",
-      "ip": "202.121.96.11"
+      "ip": "202.121.96.11",
+      "ipv6": "2001:da8:800e:ffff:202:121:96:11"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=shisu.edu.cn",
   "metadata": {
-    "organization_or_record_name": "上海外国语大学",
+    "organization_or_record_name": "Shanghai International Studies University",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-08-29T20:43:00; 2017-08-31T06:00:00; 2017-08-31T15:28:00",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "218.193.161.47",
     "AAAA_records": "",
     "NS_records": "dns.shisu.edu.cn; dns2.shisu.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "A overlaps CERNIC IPv4 list: 218.193.161.47",
     "evidence_hostnames": "bbb.shisu.edu.cn; collabora.shisu.edu.cn; elearning.shisu.edu.cn; fortress.shisu.edu.cn; idp.shisu.edu.cn; onlyoffice.shisu.edu.cn; pan.shisu.edu.cn; quiz.shisu.edu.cn; shisu.edu.cn; www.shisu.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for shisu.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois shisu.edu.cn  ?\n\n\n\n\nShanghai International Studies University \n   Shanghai, SH 200083\n   China\n\n   Domain Name: SHISU.EDU.CN\n\n   Network Name:   SHISU-CN\n\n   Administrative Contact, Technical Contact:\n      Xia Qing  (QX2-CN) \n\n   Domain Servers in listed order:\n\n   dns.shisu.edu.cn    \t218.193.160.11\t2001:250:600f:ffff:218:193:160:11\n   dns2.shisu.edu.cn   \t202.121.96.11\t2001:da8:800e:ffff:202:121:96:11\n\n\n\n\n\n\n"
 }

@@ -9,7 +9,7 @@
   "nameservers": [],
   "raw_note": "域名 zzili.edu.cn  已于19990112 在CERNIC注册 [郑州轻工业学院]",
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=zzili.edu.cn",
   "metadata": {
     "organization_or_record_name": "郑州轻工业学院",
@@ -19,12 +19,12 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "",
-    "CERNIC_WHOIS_status": "Confirmed registered in CERNIC; registration date 19990112 (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: cn_status (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "zzili.edu.cn",
-    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Historical official CERNET/CERNIC domain-registration table entry. Retained even if current DNS is absent; organization type is not filtered.; DNS checked 2026-09-26 via Google Public DNS DoH.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "domain_name": null,
-  "raw_text": null,
+  "raw_text": "\nWhois Results for zzili.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois zzili.edu.cn  ?\n\n\n\n域名 zzili.edu.cn  已于19990112 在CERNIC注册 [郑州轻工业学院]\n\n\n\n\nBack\n\n",
   "address": []
 }

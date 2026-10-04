@@ -26,21 +26,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=buaa.edu.cn",
   "metadata": {
-    "organization_or_record_name": "北京航空航天大学",
+    "organization_or_record_name": "Beijing University of Aeronautics & Astronautics",
     "collected_from": "PTR sample in CERNIC-published address ranges; crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2017-09-27T11:45:00; 2017-09-27T12:54:00; 2017-09-30T03:40:39",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "106.39.41.16",
     "AAAA_records": "2001:da8:203:15::2",
     "NS_records": "ns1.buaa.edu.cn; ns3.buaa.edu.cn; ns2.buaa.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "AAAA overlaps CERNIC-published IPv6 address/peering list: 2001:da8:203:15::2",
     "evidence_hostnames": "acm.buaa.edu.cn; admire.nlsde.buaa.edu.cn; autodiscover.nlsde.buaa.edu.cn; bhna.buaa.edu.cn; buaa.edu.cn; cas.mooc.buaa.edu.cn; dmmooc.nlsde.buaa.edu.cn; fad.nlsde.buaa.edu.cn; files.mooc.buaa.edu.cn; gw.buaa.edu.cn; gwtest.buaa.edu.cn; icw.buaa.edu.cn; www.buaa.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for buaa.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois buaa.edu.cn  ?\n\n\n\n\nBeijing University of Aeronautics & Astronautics \n   Beijing, BJ 100083\n   China\n\n   Domain Name: BUAA.EDU.CN\n\n   Network Name:   BUAA-CN\n\n   Administrative Contact, Technical Contact:\n      Tao Huang  (TH15-CER) \n\n   Domain Servers in listed order:\n\n   ns1.buaa.edu.cn     \t202.112.128.51\n   ns2.buaa.edu.cn     \t202.112.128.50\n   ns3.buaa.edu.cn     \t106.39.41.15\n\n\n\n\n\n\n"
 }

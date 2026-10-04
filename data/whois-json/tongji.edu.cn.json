@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "dns.tongji.edu.cn",
-      "ip": "202.120.191.30"
+      "ip": "202.120.191.30",
+      "ipv6": "2001:da8:b8:277:202:120:191:30"
     },
     {
       "host": "dns1.tongji.edu.cn",
-      "ip": "202.120.191.208"
+      "ip": "202.120.191.208",
+      "ipv6": "2001:da8:b8:277:202:120:191:208"
     },
     {
       "host": "dns2.tongji.edu.cn",
-      "ip": "222.66.109.33"
+      "ip": "222.66.109.33",
+      "ipv6": "2001:da8:b8:277:222:66:109:33"
     }
   ],
   "address": [
@@ -26,7 +29,7 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=tongji.edu.cn",
   "metadata": {
     "organization_or_record_name": "Tongji University",
@@ -36,11 +39,11 @@
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns.tongji.edu.cn; dns1.tongji.edu.cn; dns2.tongji.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "ca.tongji.edu.cn; caup-lab.tongji.edu.cn; idp.tongji.edu.cn; imap.tongji.edu.cn; mail.tongji.edu.cn; mirrors.tongji.edu.cn; pop.tongji.edu.cn; smtp.tongji.edu.cn; sseclass.tongji.edu.cn; tjis.tongji.edu.cn; tongji.edu.cn; wireless.tongji.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for tongji.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois tongji.edu.cn  ?\n\n\n\n\nTongji University \n   Shanghai, SH 200092\n   China\n\n   Domain Name: TONGJI.EDU.CN\n\n   Network Name:   TONGJI-CN\n\n   Administrative Contact:\n      Yang Lu  (YL228-CER) \n   Network Name:   TONGJI-CN\n\n   Technical Contact:\n      Zhengping Wang  (ZW2-CN) \n\n   Domain Servers in listed order:\n\n   dns.tongji.edu.cn   \t202.120.191.30\t2001:da8:b8:277:202:120:191:30\n   dns1.tongji.edu.cn  \t202.120.191.208\t2001:da8:b8:277:202:120:191:208\n   dns2.tongji.edu.cn  \t222.66.109.33\t2001:da8:b8:277:222:66:109:33\n\n\n\n\n\n\n"
 }

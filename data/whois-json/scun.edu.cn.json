@@ -9,11 +9,13 @@
   "nameservers": [
     {
       "host": "DNS.SCUN.EDU.CN",
-      "ip": "210.41.112.1"
+      "ip": "210.41.112.1",
+      "ipv6": "2001:250:202e:110::1"
     },
     {
       "host": "OAR.SCUN.EDU.CN",
-      "ip": "210.41.112.2"
+      "ip": "210.41.112.2",
+      "ipv6": "2001:250:202e:110::2"
     }
   ],
   "address": [
@@ -22,21 +24,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=scun.edu.cn",
   "metadata": {
-    "organization_or_record_name": "四川民族学院",
+    "organization_or_record_name": "Sichuan University for Nationalities",
     "collected_from": "Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2026-09-26 (source snapshot; no per-domain date)",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR; NS=NOERROR",
     "A_records": "202.98.109.181",
     "AAAA_records": "",
     "NS_records": "dns.scun.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "www.scun.edu.cn",
-    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Direct *.edu.cn root candidate discovered via community-maintained China university domain index; not registry-verified. Included regardless of organization type.; DNS checked 2026-09-26 via Google Public DNS DoH.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Only one-label-under-edu.cn roots are listed; deeper hostnames roll up to this root. No organization-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for scun.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois scun.edu.cn  ?\n\n\n\n\nSichuan University for Nationalities \n   Kangding, SC 626001\n   China\n\n   Domain Name: SCUN.EDU.CN\n\n   Network Name:   KDNTC-CN\n\n   Administrative Contact, Technical Contact:\n      Ling Xia  (LX40-CER) \n\n   Domain Servers in listed order:\n\n   DNS.SCUN.EDU.CN     \t210.41.112.1\t2001:250:202e:110::1\n   OAR.SCUN.EDU.CN     \t210.41.112.2\t2001:250:202e:110::2\n\n\n\n\n\n\n"
 }

@@ -9,15 +9,18 @@
   "nameservers": [
     {
       "host": "DNS.SANDAU.EDU.CN",
-      "ip": "202.121.168.1"
+      "ip": "202.121.168.1",
+      "ipv6": "2001:250:6025:202:121:168:0:1"
     },
     {
       "host": "DNS1.SANDAU.EDU.CN",
-      "ip": "202.121.174.104"
+      "ip": "202.121.174.104",
+      "ipv6": "2001:250:6025:202:121:174:0:104"
     },
     {
       "host": "DNS2.SANDAU.EDU.CN",
-      "ip": "180.168.212.158"
+      "ip": "180.168.212.158",
+      "ipv6": "2001:250:6025:180:168:212:0:158"
     }
   ],
   "address": [
@@ -26,21 +29,21 @@
   ],
   "raw_note": null,
   "schema_version": "2.0",
-  "whois_queried": "2026-09-26",
+  "whois_queried": "2026-10-04",
   "source_url": "https://www.nic.edu.cn/cgi-bin/reg/otherobj?query=sandau.edu.cn",
   "metadata": {
-    "organization_or_record_name": "上海杉达学院",
+    "organization_or_record_name": "Shanda Univercity",
     "collected_from": "crt.sh CT; Community-maintained Chinese university-domain index (GitHub)",
     "source_last_observed": "2014-08-13T04:12:01; 2015-11-06T05:23:59; 2015-11-06T05:41:29",
     "current_dns_status": "A=NOERROR; AAAA=NOERROR (Cloudflare fallback); NS=NOERROR",
     "A_records": "",
     "AAAA_records": "",
     "NS_records": "dns2.sandau.edu.cn; dns.sandau.edu.cn",
-    "CERNIC_WHOIS_status": "Confirmed full CERNIC WHOIS record (queried 2026-09-26)",
+    "CERNIC_WHOIS_status": "CERNIC HTTP query: full_record (queried 2026-10-04)",
     "CERNET_address_list_association": "No current A/AAAA overlap found in the public lists; not proof of non-CERNET use",
     "evidence_hostnames": "idp.sandau.edu.cn; m.sandau.edu.cn; mids.sandau.edu.cn; www.sandau.edu.cn",
-    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; Legacy schema migration: original WHOIS query date recovered from 2026-10-04 cumulative CSV; original page raw_text unavailable in this per-domain file."
+    "review_notes": "Organization type and CERNIC registration not yet individually confirmed; root kept because all edu.cn entities are in scope; CERNIC IPv6 list combines CERNET and direct-connected/academic ranges; overlap is only a network clue; DNS checked 2026-09-26 via Google Public DNS; transient SERVFAIL retried with Cloudflare DNS where available.; Also listed in community-maintained China university domain index; this source is not official and may be stale.; Scope is exactly one label directly under edu.cn; deeper observed hostnames are rolled up to that root. No organization-type filtering.; Also present in community-maintained Chinese university domain index; source is non-official and may be stale. Included without institution-type filtering.; CERNIC rechecked by background HTTP on 2026-10-04; original discovery and DNS evidence dates retained."
   },
   "reg_date": null,
-  "raw_text": null
+  "raw_text": "\nWhois Results for sandau.edu.cn  \n\n\n \n\n\n\nWhois Query\n\n对象关键字查询\n\non accurate entity keys\n\n\n\n\n\n\n\n\n                     \n\n\n\nWhois sandau.edu.cn  ?\n\n\n\n\nShanda Univercity \n   Shanghai, SH 201206\n   China\n\n   Domain Name: SANDAU.EDU.CN\n\n   Network Name:   SHANDU-CN\n\n   Administrative Contact, Technical Contact:\n      Lin Ma  (LM18-CER) \n\n   Domain Servers in listed order:\n\n   DNS.SANDAU.EDU.CN   \t202.121.168.1\t2001:250:6025:202:121:168:0:1\n   DNS1.SANDAU.EDU.CN  \t202.121.174.104\t2001:250:6025:202:121:174:0:104\n   DNS2.SANDAU.EDU.CN  \t180.168.212.158\t2001:250:6025:180:168:212:0:158\n\n\n\n\n\n\n"
 }
